@@ -1,0 +1,25 @@
+#EXTM3U  
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/HK01_logo.png" group-title="直播",HK01直播 
+https://live.cdn.hk01.com/origin/smil:01news.smil/playlist.m3u8
+#EXTINF:0 tvg-logo="https://tv.on.cc/img/ontv_logo.png" group-title="直播",東網電視直播 
+https://stream-sd2.on.cc/src/smil:remote1_hd.smil/chunklist_b3628000.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Radio_Television_Hong_Kong_Logo.svg/1200px-Radio_Television_Hong_Kong_Logo.svg.png" group-title="直播",RTHK直播 
+https://rthkcnews-lh.akamaihd.net/i/rthknews_1@312607/master.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cd/Hong_Kong_Open_TV.png" group-title="香港",香港開電視 
+http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
+#EXTINF:0 tvg-logo="https://media.licdn.com/dms/image/C510BAQGyveOHMig7aQ/company-logo_200_200/0?e=2159024400&v=beta&t=zAkIVFECz5masjvVsgjz_McrNhuLyUovcC20P0pmv6c" group-title="香港",viuTV 
+http://viutv99-i.akamaihd.net/hls/live/265284/live1/master.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/RTHK_TV_31.svg/1200px-RTHK_TV_31.svg.png" group-title="香港",rthk31 
+https://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_2052_av-b.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/QkV6eqz.jpg" group-title="香港",rthk32
+https://www.rthk.hk/feeds/dtt/rthktv32_https.m3u8
+#EXTINF:0 tvg-logo="http://www.logo11.cn/uploads/allimg/140925/1_140925100833_1.png" group-title="香港",TVB
+http://116.199.5.51:8114/index.m3u8?FvSeid=1&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=188&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=.m3u8&Fsv_CMSID=&Fsv_otype=1
+#EXTINF:0 tvg-logo="http://img1.allchina.cn/exchange/zhuanmai/userupfile/images/200972787533653195.jpg" group-title="香港",明珠台
+http://116.199.5.51:8114/index.m3u8?FvSeid=1&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=12&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=.m3u8&Fsv_CMSID=&Fsv_otype=1
+#EXTINF:0 tvg-logo="http://img1.allchina.cn/exchange/zhuanmai/userupfile/images/2009727515383986221.jpg" group-title="香港",J2
+http://198.16.106.58:8278/j2_twn/playlist.m3u8?tid=m02000000000014784480&ct=17993&tsum=d2195b95e329bcd0d63bcabb67d3ca2f
+#EXTINF:0 tvg-logo="http://t00img.yangkeduo.com/chat/images/2019-03-11/d6fe58f50b2c57beb0fae5ab6a79f675.jpeg" group-title="香港",J5
+http://198.16.106.58:8278/j5_twn/playlist.m3u8?tid=m02000000000010509679&ct=17993&tsum=2d634e7c4520de49da5465f534ec7739
+#EXTINF:0 tvg-logo="http://www.nettv.live/uploads/18/1-1P602154AA34.jpg" group-title="香港",耀才財經台
+http://202.69.67.66:443/webcast/bshdlive-mobile/playlist.m3u8
