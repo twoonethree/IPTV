@@ -1,26 +1,29 @@
 
 #EXTM3U
-
-#EXTINF:0 tvg-logo="https://i.imgur.com/6jbjVNy.png" group-title="台灣",壹新聞
-http://210.61.56.23/hls/ftvtv/index.m3u8
+#EXTINF:0 tvg-logo="http://tv.itver.cc/wp-content/uploads/2014/03/NextTV-Logo.jpg" group-title="台灣",壹新聞
+http://107.148.215.110:13164/play.m3u8?token=P7IDrTBYi3YzQKnUu1c7sOw4&tid=gt&id=49
+#EXTINF:0 tvg-logo="https://i.imgur.com/6jbjVNy.png" group-title="台灣",TVBS新聞
+http://60.199.188.65/HLS/WG_TVBS-N/index.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/6jbjVNy.png" group-title="台灣",民視新聞HD
 http://210.61.56.23/hls/ftvtv/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/NUflwTN.png" group-title="",BabyFirst臺灣
-http://ms003.happytv.com.tw/live/F9YMztT5DcwWEr1f/index.m3u8
-
-
-
-
-
-
-#EXTINF:0 tvg-logo="https://i.imgur.com/6jbjVNy.png" group-title="台灣",民視新聞HD
-http://210.61.56.23/hls/ftvtv/index.m3u8
-
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/4KtjyeR.jpg" group-title="",NTD TV
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/e/e1/SETN_logo.png" group-title="台灣",三立新聞HD
+http://60.199.188.65/HLS/WG_ETTV-N/index.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/4KtjyeR.jpg" group-title="台灣",NTD TV
 https://live.ntdimg.com/aplive200/playlist.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/NUflwTN.png" group-title="台灣",BabyFirst臺灣
+http://ms003.happytv.com.tw/live/F9YMztT5DcwWEr1f/index.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/e/e2/SET_incorporated_logo.svg/1200px-SET_incorporated_logo.svg.png" group-title="台灣",三立戲劇台
+http://r05.wscdn.hls.xiaoka.tv/live/c3c7ee74c203fdbd259f707e5087622f/playlist.m3u8
+#EXTINF:0 tvg-logo="http://www.nettv.live/uploads/18/1-1P61115255U94.jpg" group-title="台灣",三立台灣台
+http://r05.wscdn.hls.xiaoka.tv/live/562cabc98b58507ba0163bb82a431b874be/playlist.m3u8
+#EXTINF:0 tvg-logo="http://www.nettv.live/uploads/18/1-1P61115255U94.jpg" group-title="台灣",ELTA綜合HD
+http://198.16.106.58:8278/eltazhonghe_twn/playlist.m3u8?tid=m02000000000014004815&ct=18032&tsum=a4d65e8000a7d0bbc343700b1efccb62
+
+
+
+
+
+
 
 
 
