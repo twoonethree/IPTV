@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 logo="http://t00img.yangkeduo.com/chat/images/2019-03-11/2b6ac35e96d21fc11867b1da1f683137.jpeg " group-title="한국",KBS1
+#EXTINF:-1 logo="http://www.nettv.live/uploads/allimg/18/1-1P503141J50-L.jpg" group-title="한국",KBS1
 http://122.129.115.21:1935/edgedol/_definst_/tao107/playlist.m3u8
 #EXTINF:-1 logo="https://photo.sofun.tw/2015/12/KBS-TV-Live-Logo.jpg" group-title="한국",KBS2
 http://122.129.115.21:1935/edgedol/_definst_/tao108/playlist.m3u8
