@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 logo="http://www.nettv.live/uploads/allimg/18/1-1P503141J50-L.jpg" group-title="한국",KBS1
+#EXTINF:-1 logo="https://live-tv-channels.org/pt-data/uploads/logo/kr-kbs-1-tv-6626.jpg " group-title="한국",KBS1
 http://122.129.115.21:1935/edgedol/_definst_/tao107/playlist.m3u8
 #EXTINF:-1 logo="https://photo.sofun.tw/2015/12/KBS-TV-Live-Logo.jpg" group-title="한국",KBS2
 http://122.129.115.21:1935/edgedol/_definst_/tao108/playlist.m3u8
