@@ -19,21 +19,21 @@ http://r05.wscdn.hls.xiaoka.tv/live/562cabc98b58507ba0163bb82a431b874be/playlist
 #EXTINF:0 tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/103.png" group-title="台灣",ELTA綜合HD
 http://198.16.106.58:8278/eltazhonghe_twn/playlist.m3u8?tid=m02000000000014004815&ct=18032&tsum=a4d65e8000a7d0bbc343700b1efccb62
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Qo2WhLn.jpg" group-title="",靖天卡通
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Qo2WhLn.jpg" group-title="台灣",靖天卡通
 http://61.58.60.230:9319/live/207.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/xc7QiyI.png" group-title="",靖天國際
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/xc7QiyI.png" group-title="台灣",靖天國際
 http://61.58.60.230:9319/live/205.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/1PmloYC.jpg" group-title="",靖天戲劇
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/1PmloYC.jpg" group-title="台灣",靖天戲劇
 http://61.58.60.230:9319/live/203.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/E3hNfeG.jpg" group-title="",靖天日本
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/E3hNfeG.jpg" group-title="台灣",靖天日本
 http://61.58.60.230:9319/live/243.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/dvt0GTy.png" group-title="",靖天歡樂
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/dvt0GTy.png" group-title="台灣",靖天歡樂
 http://61.58.60.230:9319/live/201.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/XNrGXtL.jpg" group-title="",靖天育樂
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/XNrGXtL.jpg" group-title="台灣",靖天育樂
 http://61.58.60.230:9319/live/204.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/shKvuIm.jpg" group-title="",靖天資訊
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/shKvuIm.jpg" group-title="台灣",靖天資訊
 http://61.58.60.230:9319/live/202.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/z5io5E8.jpg" group-title="",靖天電影
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/z5io5E8.jpg" group-title="台灣",靖天電影
 http://61.58.60.230:9319/live/244.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/KoZMAWS.jpg" group-title="",靖洋卡通
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/KoZMAWS.jpg" group-title="台灣",靖洋卡通
 http://61.58.60.230:9319/live/206.m3u8
