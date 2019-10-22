@@ -30,7 +30,7 @@ https://809.cdn.nextologies.com/ngrp:Player.stream_all/playlist.m3u8
 http://45.126.83.51/uq2663/h/h08/index.m3u8
 #EXTINF:-1 tvg-logo="http://img.imbc.com/commons/2018/image/main/mbc-logo.png" group-title="韓國", MBC
 http://211.54.140.36/hdmi
-#EXTINF:-1 tvg-logo= "https://upload.wikimedia.org/wikipedia/commons/6/6a/Music_Makes_One_Mnet_Logo.png" group-title="韓國", M Net
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/Music_Makes_One_Mnet_Logo.png" group-title="韓國", M Net
 http://122.129.115.21:1935/edgedol/_definst_/tao101/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://img.isuper.tv/live-tv/kor-tv/mbn-tv-live.jpg" group-title="韓國",MBN
 http://122.129.115.21:1935/edgedol/_definst_/tao135/playlist.m3u8
