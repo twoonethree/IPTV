@@ -1,5 +1,3 @@
-#EXTM3U
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/KBS_1_logo.svg/440px-KBS_1_logo.svg.png" group-title="韓國",KBS1
 http://122.129.115.21:1935/edgedol/_definst_/tao107/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://photo.sofun.tw/2015/12/KBS-TV-Live-Logo.jpg" group-title="韓國",KBS2
