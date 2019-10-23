@@ -1,5 +1,3 @@
-
-#EXTM3U
 #EXTINF:0 tvg-logo="http://tv.itver.cc/wp-content/uploads/2014/03/NextTV-Logo.jpg" group-title="台灣",壹新聞
 http://107.148.215.110:13164/play.m3u8?token=P7IDrTBYi3YzQKnUu1c7sOw4&tid=gt&id=49
 #EXTINF:0 tvg-logo="https://i.imgur.com/6jbjVNy.png" group-title="台灣",TVBS新聞
