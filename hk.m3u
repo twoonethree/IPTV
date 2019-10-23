@@ -8,13 +8,13 @@ https://5b3fd3486b91a.streamlock.net/ChamberF/spf_480p/playlist.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Radio_Television_Hong_Kong_Logo.svg/1200px-Radio_Television_Hong_Kong_Logo.svg.png" group-title="直播",RTHK直播 
 https://rthkcnews-lh.akamaihd.net/i/rthknews_1@312607/master.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/6/63/Transport_Department.svg/1200px-Transport_Department.svg.png" group-title="直播",路靣情況(香港)
-http://tdvideo.hgctr.com:1935/live/mp4:hk/playlist.m3u8?token=pTgo+G32KXbdQMyTXWdM8g==
+http://tdvideo.hgctr.com:1935/live/mp4:hk/playlist.m3u8?token=pTgo+G32KXbdQMyTXWdM8g==hk
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/6/63/Transport_Department.svg/1200px-Transport_Department.svg.png" group-title="直播",路靣情況(九龍)
-http://tdvideo.hgctr.com:1935/live/mp4:kl/playlist.m3u8?token=NUcutZdHCa9+fb9yRFQlvw==
+http://tdvideo.hgctr.com:1935/live/mp4:kl/playlist.m3u8?token=NUcutZdHCa9+fb9yRFQlvw==kl
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/6/63/Transport_Department.svg/1200px-Transport_Department.svg.png" group-title="直播",路靣情況(荃灣)
-http://tdvideo.hgctr.com:1935/live/mp4:tw/playlist.m3u8?token=8ZbdiHKdy1M7pvy2SNV3AQ==
+http://tdvideo.hgctr.com:1935/live/mp4:tw/playlist.m3u8?token=8ZbdiHKdy1M7pvy2SNV3AQ==tw
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/6/63/Transport_Department.svg/1200px-Transport_Department.svg.png" group-title="直播",路靣情況(屯門公路)
-http://tdvideo.hgctr.com:1935/live/mp4:tm/playlist.m3u8?token=eXZN3Ok7A0jcmG8dDemFpw==
+http://tdvideo.hgctr.com:1935/live/mp4:tm/playlist.m3u8?token=eXZN3Ok7A0jcmG8dDemFpw==tm
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cd/Hong_Kong_Open_TV.png" group-title="香港",香港開電視 
 http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
 #EXTINF:0 tvg-logo="https://media.licdn.com/dms/image/C510BAQGyveOHMig7aQ/company-logo_200_200/0?e=2159024400&v=beta&t=zAkIVFECz5masjvVsgjz_McrNhuLyUovcC20P0pmv6c" group-title="香港",viuTV 
