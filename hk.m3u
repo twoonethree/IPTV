@@ -12,8 +12,6 @@ http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
 #EXTINF:0 tvg-logo="https://media.licdn.com/dms/image/C510BAQGyveOHMig7aQ/company-logo_200_200/0?e=2159024400&v=beta&t=zAkIVFECz5masjvVsgjz_McrNhuLyUovcC20P0pmv6c" tvg-name="viutv" group-title="香港",viuTV 
 http://viutv99-i.akamaihd.net/hls/live/265284/live1/master.m3u8
 
-#EXTINF:0 tvg-logo="https://sports.now.com/revamp/images/common/site_thumbnail.jpg" group-title="體育",Now 630台
-https://hwebcast.now.com/nowstreamer/getMediaLivePlaylist.m3u8?&clientid=null&loginid=null&productid=webch630_4&viewtype=F&orderid=null&machineid=null&service_type=channel&lang_code=&np_id=null&token=B61F4C2E420CE03C827E47FBEF781DEB4EDB338DD18AC7FE6B90A8D64C1B3087D24FC656C83822FE30BFC65A0037DD14C84D3BE574F2BC6C5BF5959F46465B43E319040C0CBF6736DDC195A529ECBE43A11F28E2BA31818A313485374CCAA1C07D180CF39C90BB74894EE7B2994D7E57D0C75D2C500E116B3478F7EE2093B5A98C2CAB7EB50A5EE6D2D91EA765AC1A5208B267D73AF124E35B099A40BF9460398177B9FE6C1CC0C804526941DDE818310F8E991E729F584A7B62E73A5A35B2B27509BC134F1CA30ED2F8EBB1CA61301E7155B64F427F584C008A22BEA8B69A3AB527DE7CA29C0AC46790D9423AB582CC&streamname=webch630_4
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/RTHK_TV_31.svg/1200px-RTHK_TV_31.svg.png" tvg-name="rtvk31" group-title="香港",rthk31 
 https://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_2052_av-b.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/QkV6eqz.jpg" tvg-name="rthk32" group-title="香港",rthk32
