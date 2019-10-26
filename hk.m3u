@@ -13,7 +13,7 @@ http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
 http://viutv99-i.akamaihd.net/hls/live/265284/live1/master.m3u8
 #EXTINF:0 tvg-logo="https://news.now.com/revamp2014/images/news_logo_400.png" group-title="香港",Now新聞台
 https://ewcdnsite06.nowe.com/session/09-f261ae824163661469389f5b5e5ed/Content/HLS/LIVE/Channel(HLS_CH332)/index.m3u8?token=5C7E5349
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Now_Live_News_logo.svg/1200px-Now_Live_News_logo.svg.png" group-title="直播,香港",Now直播台
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Now_Live_News_logo.svg/1200px-Now_Live_News_logo.svg.png" group-title="直播, 香港",Now直播台
 https://ewcdnsite02.nowe.com/session/09-194b93fed25631788eb1ffc8055ec/Content/HLS/LIVE/Channel(HLS_CH331)/index.m3u8?token=5C7E5349
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/RTHK_TV_31.svg/1200px-RTHK_TV_31.svg.png" tvg-name="rtvk31" group-title="香港",rthk31 
 https://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_2052_av-b.m3u8
