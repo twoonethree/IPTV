@@ -1,13 +1,20 @@
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/CNA_new_logo.svg/1200px-CNA_new_logo.svg.png" group-title="星加坡",CNA
+http://210.210.155.35/uq2663/h/h29/01.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/CNA_new_logo.svg/1200px-CNA_new_logo.svg.png" group-title="新聞",CNA
+http://210.210.155.35/uq2663/h/h29/01.m3u8?fluxustv.m3u8
+
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/64/20171222_084212.jpg" group-title="星加坡",Channel 5
 https://dlau142f16b92.cloudfront.net/hls/ch5ctv/master02.m3u8
 #EXTINF:-1 tvg-logo="https://images.mypadtv.com/hd8.jpg" group-title="星加坡",Channel 8
 https://d34e90s3s13i7n.cloudfront.net/hls/ch8ctv/master02.m3u8
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/ff/CH_U_2015.png" group-title="星加坡",Channel U
 https://d3inlz9elsutjl.cloudfront.net/hls/chuctv/master02.m3u8
+
 #EXTINF:-1 tvg-logo="http://cinemaworld.asia/wp-content/themes/CinemaWorld/bootstrap/img/logo.png" group-title="星加坡",CinemaWorld
 http://45.126.83.51:443/uq2663/h/h04/01.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/CNA_new_logo.svg/1200px-CNA_new_logo.svg.png" group-title="星加坡",CNA
-http://210.210.155.35/uq2663/h/h29/01.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-logo="http://cinemaworld.asia/wp-content/themes/CinemaWorld/bootstrap/img/logo.png" group-title="電影",CinemaWorld
+http://45.126.83.51:443/uq2663/h/h04/01.m3u8
+
 #EXTINF:-1 tvg-logo="http://miaomi-tv.com/Public/images/miao-mi-logo-color.png" group-title="星加坡",Miao Mi
 https://d3kw4vhbdpgtqk.cloudfront.net/hls/miaomipcweb/prog_index.m3u8
 #EXTINF:-1 tvg-logo="https://video.toggle.sg/image/5307980/16x9/947/533/dbbd7193329f507087f2602c392e5fa6/BD/okto.png" group-title="",OKTO
