@@ -50,6 +50,8 @@ http://202.69.67.66:443/webcast/bshdlive-mobile/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://cdn.browsercam.com/com.gwtv.hkmovie-logo.png" group-title="電影",粵語電影
 https://aldirect.hls.huya.com/huyalive/94525224-2579683592-11079656661667807232-2847687574-10057-A-0-1_1200.m3u8
+#EXTINF:-1 tvg-logo="https://logos.flamingtext.com/Name-Logos/Movies-design-amped-name.png" group-title="電影",外語電影中文字幕
+http://aldirect.hls.huya.com/huyalive/29106097-2689453724-11551115788685410304-2847687506-10057-A-1525422901-1_1200.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.nettv.live/uploads/18/1-1P5121Q245326.jpg" group-title="澳門",澳視體育
 http://live3.tdm.com.mo:1935/ch4/sport_ch4.live/playlist.m3u8
