@@ -8,7 +8,7 @@ https://rthkcnews-lh.akamaihd.net/i/rthknews_1@312607/master.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Legco.svg/1200px-Legco.svg.png" group-title="直播",立法會直播
 https://5b3fd3486b91a.streamlock.net/ChamberF/spf_480p/playlist.m3u8
 
-#EXTINF:0 tvg-logo="https://media.licdn.com/dms/image/C510BAQGyveOHMig7aQ/company-logo_200_200/0?e=2159024400&v=beta&t=zAkIVFECz5masjvVsgjz_McrNhuLyUovcC20P0pmv6c" tvg-name="viutv" group-title="香港",viuTV 
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/ViuTV_logo.svg/1280px-ViuTV_logo.svg.png" tvg-name="viutv" group-title="香港",viuTV 
 http://viutv99-i.akamaihd.net/hls/live/265284/live1/master.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cd/Hong_Kong_Open_TV.png" tvg-name="香港開電視" group-title="香港",香港開電視 
 http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
@@ -42,6 +42,9 @@ http://117.169.120.217:8080/live/fhchinese/.m3u8
 http://117.169.120.138:8080/live/fhzixun/.m3u8
 #EXTINF:-1 tvg-logo="http://www.luanlishi.com/uploads/allimg/180328/0FI55212_0.jpg" tvg-name="凤凰香港" group-title="香港",鳳凰香港高清
 http://223.82.250.72/live/fhhongkong/1.m3u8
+
+#EXTINF:0 tvg-logo="https://cdn.browsercam.com/com.gwtv.hkmovie-logo.png" group-title="電影",粵語電影
+https://aldirect.hls.huya.com/huyalive/94525224-2579683592-11079656661667807232-2847687574-10057-A-0-1_1200.m3u8
 
 #EXTINF:0 tvg-logo="http://www.nettv.live/uploads/18/1-1P602154AA34.jpg" group-title="香港",耀才財經台
 http://202.69.67.66:443/webcast/bshdlive-mobile/playlist.m3u8
