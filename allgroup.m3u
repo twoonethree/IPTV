@@ -48,6 +48,9 @@ http://202.69.67.66:443/webcast/bshdlive-mobile/playlist.m3u8
 #EXTINF:0 tvg-logo="http://www.nettv.live/uploads/18/1-1P602154AA34.jpg" group-title="財經",耀才財經台
 http://202.69.67.66:443/webcast/bshdlive-mobile/playlist.m3u8
 
+#EXTINF:0 tvg-logo="https://cdn.browsercam.com/com.gwtv.hkmovie-logo.png" group-title="電影",粵語電影
+https://aldirect.hls.huya.com/huyalive/94525224-2579683592-11079656661667807232-2847687574-10057-A-0-1_1200.m3u8
+
 #EXTINF:-1 tvg-logo="http://www.nettv.live/uploads/18/1-1P5121Q245326.jpg" group-title="澳門",澳視體育
 http://live3.tdm.com.mo:1935/ch4/sport_ch4.live/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.nettv.live/uploads/18/1-1P5121Q245326.jpg" group-title="體育",澳視體育
