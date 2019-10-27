@@ -24,9 +24,15 @@ http://116.199.5.51:8114/index.m3u8?FvSeid=1&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_
 http://116.199.5.51:8114/index.m3u8?FvSeid=1&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=12&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=.m3u8&Fsv_CMSID=&Fsv_otype=1
 #EXTINF:0 tvg-logo="http://img1.allchina.cn/exchange/zhuanmai/userupfile/images/2009727515383986221.jpg" tvg-name="香港J2台" group-title="香港",J2
 http://198.16.106.58:8278/j2_twn/playlist.m3u8?tid=m02000000000014784480&ct=17993&tsum=d2195b95e329bcd0d63bcabb67d3ca2f
+
 #EXTINF:0 tvg-logo="http://tw.fltaradio.com/upload/2018/12/TVB-News-Channel.jpg" tvg-name="無線新聞台" group-title="香港",無線新聞台
 http://202.40.202.173:8000/main
+#EXTINF:0 tvg-logo="http://tw.fltaradio.com/upload/2018/12/TVB-News-Channel.jpg" tvg-name="無線新聞台" group-title="新聞",無線新聞台
+http://202.40.202.173:8000/main
+
 #EXTINF:0 tvg-logo="http://t00img.yangkeduo.com/chat/images/2019-03-11/d6fe58f50b2c57beb0fae5ab6a79f675.jpeg" tvg-name="無線財經資訊台" group-title="香港",無線財經資訊台
+http://198.16.106.58:8278/j5_twn/playlist.m3u8?tid=m02000000000010509679&ct=17993&tsum=2d634e7c4520de49da5465f534ec7739
+#EXTINF:0 tvg-logo="http://t00img.yangkeduo.com/chat/images/2019-03-11/d6fe58f50b2c57beb0fae5ab6a79f675.jpeg" tvg-name="無線財經資訊台" group-title="財經",無線財經資訊台
 http://198.16.106.58:8278/j5_twn/playlist.m3u8?tid=m02000000000010509679&ct=17993&tsum=2d634e7c4520de49da5465f534ec7739
 
 #EXTINF:-1 tvg-logo="https://image.photocnc.com/img.isuper.tv/live-tv/hk-tv/phtv-live.jpg.w720.jpg" tvg-name="	
@@ -38,4 +44,6 @@ http://117.169.120.138:8080/live/fhzixun/.m3u8
 http://223.82.250.72/live/fhhongkong/1.m3u8
 
 #EXTINF:0 tvg-logo="http://www.nettv.live/uploads/18/1-1P602154AA34.jpg" group-title="香港",耀才財經台
+http://202.69.67.66:443/webcast/bshdlive-mobile/playlist.m3u8
+#EXTINF:0 tvg-logo="http://www.nettv.live/uploads/18/1-1P602154AA34.jpg" group-title="財經",耀才財經台
 http://202.69.67.66:443/webcast/bshdlive-mobile/playlist.m3u8
