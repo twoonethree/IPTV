@@ -20,10 +20,13 @@ https://ip177746452.ahcdn.com/key=Q-sDDdzavS5k73jzKmq0yQ,s=,end=1572182610,limit
 #EXTINF:0 tvg-logo="https://www.mymypic.net/data/attachment/forum/201904/26/1425171ce5ng4xetg64ii4.jpg" group-title="MOW",DMOW-189
 https://ip177750500.ahcdn.com/key=qhh6e3olmhsRpPFqAPKBMA,s=,end=1572180314,limit=3/state=MYKB/referer=none,.vjav.com,.gstatic.com,.vjav.com/reftag=057661800/media=hls/20/121/9/182286089.m3u8
 
-#EXTINF:0 tvg-logo="https://m-antenna.com/wp-content/uploads/2019/03/dskd-005.jpg" group-title="Sukeboukyou",DSKD-002
+#EXTINF:0 tvg-logo="https://m-antenna.com/wp-content/uploads/2019/03/dskd-001.jpg" group-title="Sukeboukyou",DSKD-001
 http://54.39.129.75:7356/AABaf0QCQAFaYgA=.mp4?st=rG7zVOOMbl_AbVjuzsNAVA&e=1572496822
 
-#EXTINF:0 tvg-logo="https://m-antenna.com/wp-content/uploads/2019/03/dskd-004.jpg" group-title="Sukeboukyou",DSKD-003
+#EXTINF:0 tvg-logo="https://m-antenna.com/wp-content/uploads/2019/03/dskd-003.jpg" group-title="Sukeboukyou",DSKD-003
+http://54.39.129.75:7356/AABaf0QCQAFaYgA=.mp4?st=rG7zVOOMbl_AbVjuzsNAVA&e=1572496822
+
+#EXTINF:0 tvg-logo="https://m-antenna.com/wp-content/uploads/2019/03/dskd-004.jpg" group-title="Sukeboukyou",DSKD-004
 http://54.39.103.140:7356/HkNlfXp8bVlSe0M=.mp4?st=3xHI69agsNurVy92w1Cylg&e=1572496606
 
 #EXTINF:0 tvg-logo="https://m-antenna.com/wp-content/uploads/2019/03/dskd-005.jpg" group-title="Sukeboukyou",DSKD-005
