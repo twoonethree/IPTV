@@ -1,1 +1,143 @@
+#EXTM3U 
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/HK01_logo.png" group-title="直播",HK01直播 
+https://live.cdn.hk01.com/origin/smil:01news.smil/playlist.m3u8
+#EXTINF:0 tvg-logo="https://tv.on.cc/img/ontv_logo.png" group-title="直播",東網電視直播 
+https://stream-sd2.on.cc/src/smil:remote1_hd.smil/chunklist_b3628000.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Radio_Television_Hong_Kong_Logo.svg/1200px-Radio_Television_Hong_Kong_Logo.svg.png" group-title="直播",RTHK直播 
+https://rthkcnews-lh.akamaihd.net/i/rthknews_1@312607/master.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Legco.svg/1200px-Legco.svg.png" group-title="直播",立法會直播
+https://5b3fd3486b91a.streamlock.net/ChamberF/spf_480p/playlist.m3u8
+
+#EXTINF:0 tvg-logo="https://media.licdn.com/dms/image/C510BAQGyveOHMig7aQ/company-logo_200_200/0?e=2159024400&v=beta&t=zAkIVFECz5masjvVsgjz_McrNhuLyUovcC20P0pmv6c" tvg-name="viutv" group-title="香港",viuTV 
+http://viutv99-i.akamaihd.net/hls/live/265284/live1/master.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cd/Hong_Kong_Open_TV.png" tvg-name="香港開電視" group-title="香港",香港開電視 
+http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/RTHK_TV_31.svg/1200px-RTHK_TV_31.svg.png" tvg-name="rtvk31" group-title="香港",rthk31 
+https://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_2052_av-b.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/QkV6eqz.jpg" tvg-name="rthk32" group-title="香港",rthk32
+https://www.rthk.hk/feeds/dtt/rthktv32_https.m3u8
+
+#EXTINF:0 tvg-logo="http://www.logo11.cn/uploads/allimg/140925/1_140925100833_1.png" tvg-name="翡翠台" group-title="香港",TVB
+http://116.199.5.51:8114/index.m3u8?FvSeid=1&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=188&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=.m3u8&Fsv_CMSID=&Fsv_otype=1
+#EXTINF:0 tvg-logo="http://img1.allchina.cn/exchange/zhuanmai/userupfile/images/200972787533653195.jpg" tvg-name="明珠台" group-title="香港",明珠台
+http://116.199.5.51:8114/index.m3u8?FvSeid=1&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=12&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=.m3u8&Fsv_CMSID=&Fsv_otype=1
+#EXTINF:0 tvg-logo="http://img1.allchina.cn/exchange/zhuanmai/userupfile/images/2009727515383986221.jpg" tvg-name="香港J2台" group-title="香港",J2
+http://198.16.106.58:8278/j2_twn/playlist.m3u8?tid=m02000000000014784480&ct=17993&tsum=d2195b95e329bcd0d63bcabb67d3ca2f
+
+#EXTINF:0 tvg-logo="http://tw.fltaradio.com/upload/2018/12/TVB-News-Channel.jpg" tvg-name="無線新聞台" group-title="香港",無線新聞台
+http://202.40.202.173:8000/main
+#EXTINF:0 tvg-logo="http://tw.fltaradio.com/upload/2018/12/TVB-News-Channel.jpg" tvg-name="無線新聞台" group-title="新聞",無線新聞台
+http://202.40.202.173:8000/main
+
+#EXTINF:0 tvg-logo="http://t00img.yangkeduo.com/chat/images/2019-03-11/d6fe58f50b2c57beb0fae5ab6a79f675.jpeg" tvg-name="無線財經資訊台" group-title="香港",無線財經資訊台
+http://198.16.106.58:8278/j5_twn/playlist.m3u8?tid=m02000000000010509679&ct=17993&tsum=2d634e7c4520de49da5465f534ec7739
+#EXTINF:0 tvg-logo="http://t00img.yangkeduo.com/chat/images/2019-03-11/d6fe58f50b2c57beb0fae5ab6a79f675.jpeg" tvg-name="無線財經資訊台" group-title="財經",無線財經資訊台
+http://198.16.106.58:8278/j5_twn/playlist.m3u8?tid=m02000000000010509679&ct=17993&tsum=2d634e7c4520de49da5465f534ec7739
+
+#EXTINF:-1 tvg-logo="https://image.photocnc.com/img.isuper.tv/live-tv/hk-tv/phtv-live.jpg.w720.jpg" tvg-name="	
+凤凰中文" group-title="香港",鳳凰中文
+http://117.169.120.217:8080/live/fhchinese/.m3u8
+#EXTINF:-1 tvg-logo="https://www.pcne.tv/files/images/2017/our%20company/Phoenix_InfoNews.svg.png" tvg-name="凤凰资讯" group-title="香港",鳳凰資訊HD
+http://117.169.120.138:8080/live/fhzixun/.m3u8
+#EXTINF:-1 tvg-logo="http://www.luanlishi.com/uploads/allimg/180328/0FI55212_0.jpg" tvg-name="凤凰香港" group-title="香港",鳳凰香港高清
+http://223.82.250.72/live/fhhongkong/1.m3u8
+
+#EXTINF:0 tvg-logo="http://www.nettv.live/uploads/18/1-1P602154AA34.jpg" group-title="香港",耀才財經台
+http://202.69.67.66:443/webcast/bshdlive-mobile/playlist.m3u8
+#EXTINF:0 tvg-logo="http://www.nettv.live/uploads/18/1-1P602154AA34.jpg" group-title="財經",耀才財經台
+http://202.69.67.66:443/webcast/bshdlive-mobile/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.nettv.live/uploads/18/1-1P5121Q245326.jpg" group-title="澳門",澳視體育
+http://live3.tdm.com.mo:1935/ch4/sport_ch4.live/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.nettv.live/uploads/18/1-1P5121Q245326.jpg" group-title="體育",澳視體育
+http://live3.tdm.com.mo:1935/ch4/sport_ch4.live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/9b/TDM_Ou_Mun.png" group-title="澳門",澳視澳門
+http://live4.tdm.com.mo:80/ch1/_definst_/ch1.live/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/9d/TDM_Informa%C3%A7%C3%A3o.jpg" group-title="澳門",澳視資訊
+http://live4.tdm.com.mo/ch5/_definst_/info_ch5.live/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/4/4e/Canal_Macau.png" group-title="澳門",澳視蒲文
+http://live4.tdm.com.mo:80/ch2/_definst_/ch2.live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TDM_Entertainment.png/440px-TDM_Entertainment.png" group-title="澳門",澳視綜藝
+http://live3.tdm.com.mo:1935/ch6/hd_ch6.live/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TDM_Entertainment.png/440px-TDM_Entertainment.png" group-title="綜藝",澳視綜藝
+http://live3.tdm.com.mo:1935/ch6/hd_ch6.live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/0/09/TDM-Macau_Sat%C3%A9llite.png" group-title="澳門",澳視衛視
+http://live4.tdm.com.mo:80/ch3/_definst_/ch3.live/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://v.mastvnet.com/t/1/2/img/12qwewqeerwq2.png" group-title="澳門",澳亞衛視
+http://stream.mastvnet.com/MSTV/playlist.m3u8
+
+#EXTINF:0 tvg-logo="http://tv.itver.cc/wp-content/uploads/2014/03/NextTV-Logo.jpg" group-title="台灣",壹新聞
+http://ad.mysisli.com/live/NEXTTVHD/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-logo="http://tv.itver.cc/wp-content/uploads/2014/03/NextTV-Logo.jpg" group-title="新聞",壹新聞
+http://ad.mysisli.com/live/NEXTTVHD/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/1/1c/Tvbsnews.png" group-title="台灣",TVBS新聞
+http://60.199.188.65/HLS/WG_TVBS-N/index.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/1/1c/Tvbsnews.png" group-title="新聞",TVBS新聞
+http://60.199.188.65/HLS/WG_TVBS-N/index.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/6jbjVNy.png" group-title="台灣",民視新聞HD
+http://210.61.56.23/hls/ftvtv/index.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/6jbjVNy.png" group-title="新聞",民視新聞HD
+http://210.61.56.23/hls/ftvtv/index.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/e/e1/SETN_logo.png" group-title="台灣",三立新聞HD
+http://60.199.188.65/HLS/WG_ETTV-N/02.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/e/e1/SETN_logo.png" group-title="新聞",三立新聞HD
+http://60.199.188.65/HLS/WG_ETTV-N/02.m3u8
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/4KtjyeR.jpg" group-title="台灣",NTD TV
+https://live.ntdimg.com/aplive200/playlist.m3u8
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/e/e2/SET_incorporated_logo.svg/1200px-SET_incorporated_logo.svg.png" group-title="台灣",三立戲劇台
+http://198.16.106.58:8278/sanlixiju/playlist.m3u8?tid=m02000000000017970098&ct=18032&tsum=98b559735fdb238b44fc484b5ff5795f
+#EXTINF:0 tvg-logo="https://www.nettv.live/uploads/19/1-1ZZQQU0a0.jpg" group-title="台灣",三立綜合台
+http://198.16.106.58:8278/sanlizhonghe/playlist.m3u8?tid=m02000000000017328101&ct=18032&tsum=a95904ef0276902aac85429552c61914
+#EXTINF:0 tvg-logo="http://www.nettv.live/uploads/18/1-1P61115255U94.jpg" group-title="台灣",三立台灣台
+http://r05.wscdn.hls.xiaoka.tv/live/562cabc98b58507ba0163bb82a431b874be/playlist.m3u8
+#EXTINF:0 tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/103.png" group-title="台灣",ELTA綜合HD
+http://198.16.106.58:8278/eltazhonghe_twn/playlist.m3u8?tid=m02000000000014004815&ct=18032&tsum=a4d65e8000a7d0bbc343700b1efccb62
+
+#EXTINF:0 tvg-logo="https://img.isuper.tv/live-tv/ebc-emovie-live.jpg" group-title="台灣",東森洋片
+http://198.16.106.58:8278/ettvwestern/playlist.m3u8?tid=m02000000000013926527&ct=18032&tsum=7fa0f9b36f3c2f6f2913a720ad795285
+#EXTINF:0 tvg-logo="https://img.isuper.tv/live-tv/ebc-emovie-live.jpg" group-title="電影",東森洋片
+http://198.16.106.58:8278/ettvwestern/playlist.m3u8?tid=m02000000000013926527&ct=18032&tsum=7fa0f9b36f3c2f6f2913a720ad795285
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/NUflwTN.png" group-title="台灣",BabyFirst臺灣
+http://ms003.happytv.com.tw/live/F9YMztT5DcwWEr1f/index.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/NUflwTN.png" group-title="幼兒/動漫",BabyFirst臺灣
+http://ms003.happytv.com.tw/live/F9YMztT5DcwWEr1f/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Qo2WhLn.jpg" group-title="台灣",靖天卡通
+http://61.58.60.230:9319/live/207.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/xc7QiyI.png" group-title="台灣",靖天國際
+http://61.58.60.230:9319/live/205.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/1PmloYC.jpg" group-title="台灣",靖天戲劇
+http://61.58.60.230:9319/live/203.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/E3hNfeG.jpg" group-title="台灣",靖天日本
+http://61.58.60.230:9319/live/243.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/dvt0GTy.png" group-title="台灣",靖天歡樂
+http://61.58.60.230:9319/live/201.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/XNrGXtL.jpg" group-title="台灣",靖天育樂
+http://61.58.60.230:9319/live/204.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/shKvuIm.jpg" group-title="台灣",靖天資訊
+http://61.58.60.230:9319/live/202.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/z5io5E8.jpg" group-title="台灣",靖天電影
+http://61.58.60.230:9319/live/244.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/KoZMAWS.jpg" group-title="台灣",靖洋卡通
+http://61.58.60.230:9319/live/206.m3u8
+
+EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/w6apld6.png" group-title="台灣",Da Ai
+https://wowzaprodhd44-lh.akamaihd.net/i/953b6364_1@580145/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/PmD2WwD.jpg" group-title="台灣",Da Ai 2
+https://wowzaprodhd17-lh.akamaihd.net/i/46021e1e_1@576535/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/w6apld6.png" group-title="台灣",Da Ai Taiwan
+https://wowzaprodhd28-lh.akamaihd.net/i/a74135ef_1@577349/master.m3u8
+
+
+
+
+
+
 
