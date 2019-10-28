@@ -20,10 +20,7 @@ https://live.ntdimg.com/aplive200/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/e/e2/SET_incorporated_logo.svg/1200px-SET_incorporated_logo.svg.png" group-title="台灣",三立戲劇台
 http://198.16.106.58:8278/sanlixiju/playlist.m3u8?tid=m02000000000017970098&ct=18032&tsum=98b559735fdb238b44fc484b5ff5795f
-#EXTINF:0 tvg-logo="https://www.nettv.live/uploads/19/1-1ZZQQU0a0.jpg" group-title="台灣",三立綜合台
-http://198.16.106.58:8278/sanlizhonghe/playlist.m3u8?tid=m02000000000017328101&ct=18032&tsum=a95904ef0276902aac85429552c61914
-#EXTINF:0 tvg-logo="http://www.nettv.live/uploads/18/1-1P61115255U94.jpg" group-title="台灣",三立台灣台
-http://r05.wscdn.hls.xiaoka.tv/live/562cabc98b58507ba0163bb82a431b874be/playlist.m3u8
+
 #EXTINF:0 tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/103.png" group-title="台灣",ELTA綜合HD
 http://198.16.106.58:8278/eltazhonghe_twn/playlist.m3u8?tid=m02000000000014004815&ct=18032&tsum=a4d65e8000a7d0bbc343700b1efccb62
 
@@ -56,7 +53,7 @@ http://61.58.60.230:9319/live/244.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/KoZMAWS.jpg" group-title="台灣",靖洋卡通
 http://61.58.60.230:9319/live/206.m3u8
 
-EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/w6apld6.png" group-title="台灣",Da Ai
+#EXTINF:-1 tvg-logo="https://i.imgur.com/w6apld6.png" group-title="台灣",Da Ai
 https://wowzaprodhd44-lh.akamaihd.net/i/953b6364_1@580145/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/PmD2WwD.jpg" group-title="台灣",Da Ai 2
 https://wowzaprodhd17-lh.akamaihd.net/i/46021e1e_1@576535/master.m3u8
