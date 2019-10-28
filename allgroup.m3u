@@ -53,9 +53,10 @@ https://aldirect.hls.huya.com/huyalive/94525224-2579683592-11079656661667807232-
 #EXTINF:-1 tvg-logo="https://logos.flamingtext.com/Name-Logos/Movies-design-amped-name.png" group-title="電影",外語電影中文字幕
 http://aldirect.hls.huya.com/huyalive/29106097-2689453724-11551115788685410304-2847687506-10057-A-1525422901-1_1200.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.nettv.live/uploads/18/1-1P5121Q245326.jpg" group-title="澳門",澳視體育
-http://live3.tdm.com.mo:1935/ch4/sport_ch4.live/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.nettv.live/uploads/18/1-1P5121Q245326.jpg" group-title="體育",澳視體育
+http://live3.tdm.com.mo:1935/ch4/sport_ch4.live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.nettv.live/uploads/18/1-1P5121Q245326.jpg" group-title="澳門",澳視體育
 http://live3.tdm.com.mo:1935/ch4/sport_ch4.live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/9b/TDM_Ou_Mun.png" group-title="澳門",澳視澳門
@@ -90,11 +91,11 @@ http://60.199.188.65/HLS/WG_ETTV-N/02.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/e/e1/SETN_logo.png" group-title="新聞",三立新聞HD
 http://60.199.188.65/HLS/WG_ETTV-N/02.m3u8
 
-#EXTINF:0 tvg-logo="https://i.imgur.com/4KtjyeR.jpg" group-title="台灣",NTD TV
-https://live.ntdimg.com/aplive200/playlist.m3u8
-
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/e/e2/SET_incorporated_logo.svg/1200px-SET_incorporated_logo.svg.png" group-title="台灣",三立戲劇台
 http://198.16.106.58:8278/sanlixiju/playlist.m3u8?tid=m02000000000017970098&ct=18032&tsum=98b559735fdb238b44fc484b5ff5795f
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/4KtjyeR.jpg" group-title="台灣",NTD TV
+https://live.ntdimg.com/aplive200/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/103.png" group-title="台灣",ELTA綜合HD
 http://198.16.106.58:8278/eltazhonghe_twn/playlist.m3u8?tid=m02000000000014004815&ct=18032&tsum=a4d65e8000a7d0bbc343700b1efccb62
@@ -111,6 +112,9 @@ http://ms003.happytv.com.tw/live/F9YMztT5DcwWEr1f/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Qo2WhLn.jpg" group-title="台灣",靖天卡通
 http://61.58.60.230:9319/live/207.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Qo2WhLn.jpg" group-title="幼兒/動漫",靖天卡通
+http://61.58.60.230:9319/live/207.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/xc7QiyI.png" group-title="台灣",靖天國際
 http://61.58.60.230:9319/live/205.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/1PmloYC.jpg" group-title="台灣",靖天戲劇
@@ -125,10 +129,14 @@ http://61.58.60.230:9319/live/204.m3u8
 http://61.58.60.230:9319/live/202.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/z5io5E8.jpg" group-title="台灣",靖天電影
 http://61.58.60.230:9319/live/244.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/z5io5E8.jpg" group-title="電影",靖天電影
+http://61.58.60.230:9319/live/244.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/KoZMAWS.jpg" group-title="台灣",靖洋卡通
 http://61.58.60.230:9319/live/206.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/KoZMAWS.jpg" group-title="幼兒/動漫",靖洋卡通
+http://61.58.60.230:9319/live/206.m3u8
 
-EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/w6apld6.png" group-title="台灣",Da Ai
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/w6apld6.png" group-title="台灣",Da Ai
 https://wowzaprodhd44-lh.akamaihd.net/i/953b6364_1@580145/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/PmD2WwD.jpg" group-title="台灣",Da Ai 2
 https://wowzaprodhd17-lh.akamaihd.net/i/46021e1e_1@576535/master.m3u8
