@@ -140,6 +140,61 @@ https://wowzaprodhd17-lh.akamaihd.net/i/46021e1e_1@576535/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/w6apld6.png" group-title="台灣",Da Ai Taiwan
 https://wowzaprodhd28-lh.akamaihd.net/i/a74135ef_1@577349/master.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.pngkey.com/png/detail/115-1156560_marvel-cinematic-universe-marvel-comics-logo-2018.png" group-title="電影",Marvel電影台
+https://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8
+#EXTINF:-1 tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/380faefd-9a73-42b1-8a21-03dd97ae856e/dhd49m-f62c535d-53bc-4e31-8bea-9e464114401e.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzM4MGZhZWZkLTlhNzMtNDJiMS04YTIxLTAzZGQ5N2FlODU2ZVwvZGhkNDltLWY2MmM1MzVkLTUzYmMtNGUzMS04YmVhLTllNDY0MTE0NDAxZS5qcGcifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6ZmlsZS5kb3dubG9hZCJdfQ.8da3CEGZpqL9PsgmqKM0Q5BZpfEO3YrrFL8MGwkfS4o" group-title="電影",歐美動畫電影台
+https://aldirect.hls.huya.com/huyalive/29106097-2689406818-11550914328949424128-2789274560-10057-A-1525417691-1_1200.m3u8
+#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/cmclassic.jpg" group-title="電影",天映頻道-經典
+http://45.126.83.51/qwr9ew/s/s33/index2.m3u8
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/322_300.png" group-title="電影",天映頻道
+http://45.126.83.51/qwr9ew/s/s33/index.m3u8
+#EXTINF:-1 tvg-logo="https://p2.bahamut.com.tw/HOME/creationCover/31/0004156131.JPG" group-title="電影",港產片（國語）
+https://aldirect.hls.huya.com/huyalive/29106097-2689453724-11551115788685410304-2847687506-10057-A-1525422901-1_1200.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/2/28/Star_chinese_movies_legend.png" group-title="電影",衛視卡式台
+http://iliketot.dyndns.tv/c8233976dbba4a06a101780907447375.m3u8?&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjIvMjAxNyAxOjM2OjExIEFNJmhhc2hfdmFsdWU9T1lvZDZ5TjFaWk53M3J4OWZOTWtFUT09JnZhbGlkbWludXRlcz0yJmlkPW1jZ2x5bWFyfDc2MXxpcHR2aGVyb3wxNTA4NjM2MTcxfDIyMy4yMDUuMTIyLjE2Nw
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/%E4%B8%AD%E5%9B%BD%E7%94%B5%E5%BD%B1%E9%A2%91%E9%81%93.png/240px-%E4%B8%AD%E5%9B%BD%E7%94%B5%E5%BD%B1%E9%A2%91%E9%81%93.png" group-title="電影",中國電影頻道
+http://61.58.60.230:9319/live/225.m3u8
+
+#EXTINF:-1 tvg-logo="http://pic.iask.cn/fimg/42185178674.jpg" group-title="電影",Newtv動作電影
+http://111.40.205.76/PLTV/88888888/224/3221225661/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcThW3rqnuY3ggUwrKdFP3G3Vfe2GE6yUePunLXYMQW4ZWgxeHGl" group-title="電影",Newtv超級電影
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225926/1.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://www.nettv.live/uploads/allimg/19/1-1Z5092006450-L.jpg" group-title="電影",黑莓電影
+http://111.40.205.76/PLTV/88888888/224/3221225667/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/XingXong.svg/1920px-XingXong.svg.png" group-title="電影",星空衛視
+http://220.158.149.28:8180/live/TV00000000000000000064@HHZT
+
+#EXTINF:-1 tvg-logo="https://www.zne-iptv.com/wp-content/uploads/2017/10/25-WOWOW-PRIME.jpg" group-title="電影",日本WOWOW MOVIES
+http://192.240.127.34:1935/live/cs27.stream/playlist.m3u8?wowzasessionid=1300220279
+
+#EXTINF:-1 tvg-logo="http://img.jf258.com/uploads/2013-07-08/232806460.jpg" group-title="電影",周星馳電影（國語）
+http://aldirect.hls.huya.com/huyalive/94525224-2460685313-10568562945082523648-2789274524-10057-A-0-1_1200.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.adgully.com/img/400x300/201803/prive.jpg" group-title="電影",&Prive
+http://pockettv.xyz/api/zee.m3u8?c=andprivehd
+#EXTINF:-1 tvg-logo="https://s3.amazonaws.com/medianetmv/resources/channel/182_Cinemaworld_HD-01.png" group-title="電影",Cinema World
+http://45.126.83.51/uq2663/h/h04/index2.m3u8
+
+#EXTINF:-1 tvg-logo="https://mafashortfilm.uk/public/images/mafal.png" group-title="電影",Mafa Short Flim
+https://1043115116.rsc.cdn77.org/LS-PRG-54819-1/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/54/STAR_Movies_logo.svg/1200px-STAR_Movies_logo.svg.png" group-title="電影", Star Movies
+http://livecdnh1.tvanywhere.ae:80/hls/star_movies/05.m3u8
+#EXTINF:-1 tvg-logo="https://www.freeview.co.uk/app/uploads/2019/09/SonyMoviesChristmas_Channel_JPEG_1.jpg" group-title="電影",Sony Movies Christmas
+https://streamingserver001.viewtvgroup.com/kapanglivetv-uksat-truemovies/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="hhttps://static.iptv-epg.com/nz/SkyMoviesAction.nz.png" group-title="電影",Sky Movies Action
+http://95.170.215.118/hls/m3u8/Sky-MoviesAction.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/nz/SkyMoviesPremiere.nz.png" group-title="電影",Sky Movies Premiere
+http://95.170.215.118/hls/m3u8/Sky-MoviesPremie.m3u8
+#EXTINF:-1 tvg-logo="https://www.skymedia.co.uk/wp-content/uploads/2017/11/Sky-Cinema-Select.png" group-title="電影",Sky Movies Select
+http://95.170.215.118/hls/m3u8/Sky-MoviesSelect.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/89/The_Works.jpg/375px-The_Works.jpg" group-title="電影",The Works
+https://mgm-ssai.akamaized.net/amagi_hls_data_mgmAAAAAA-theworks/CDN/720x404_1425600/index.m3u8
+
+
 
 
 
