@@ -18,9 +18,6 @@ https://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_2052_av-b.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/QkV6eqz.jpg" tvg-name="rthk32" group-title="香港",rthk32
 https://www.rthk.hk/feeds/dtt/rthktv32_https.m3u8
 
-#EXTINF:0 tvg-logo="https://news.now.com/revamp2014/images/logo.png" group-title="香港",now新聞台
-https://news.now.com/mobile/live
-
 #EXTINF:0 tvg-logo="http://www.logo11.cn/uploads/allimg/140925/1_140925100833_1.png" tvg-name="翡翠台" group-title="香港",TVB
 http://116.199.5.51:8114/index.m3u8?FvSeid=1&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=188&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=.m3u8&Fsv_CMSID=&Fsv_otype=1
 #EXTINF:0 tvg-logo="http://img1.allchina.cn/exchange/zhuanmai/userupfile/images/200972787533653195.jpg" tvg-name="明珠台" group-title="香港",明珠台
