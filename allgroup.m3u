@@ -30,17 +30,16 @@ http://202.40.202.173:8000/main
 #EXTINF:0 tvg-logo="http://tw.fltaradio.com/upload/2018/12/TVB-News-Channel.jpg" tvg-name="無線新聞台" group-title="新聞",無線新聞台
 http://202.40.202.173:8000/main
 
-#EXTINF:0 tvg-logo="http://t00img.yangkeduo.com/chat/images/2019-03-11/d6fe58f50b2c57beb0fae5ab6a79f675.jpeg" tvg-name="無線財經資訊台" group-title="香港",無線財經資訊台
+#EXTINF:0 tvg-logo="http://t00img.yangkeduo.com/chat/images/2019-03-11/d6fe58f50b2c57beb0fae5ab6a79f675.jpeg" group-title="香港",無線財經資訊台
 http://198.16.106.58:8278/j5_twn/playlist.m3u8?tid=m02000000000010509679&ct=17993&tsum=2d634e7c4520de49da5465f534ec7739
-#EXTINF:0 tvg-logo="http://t00img.yangkeduo.com/chat/images/2019-03-11/d6fe58f50b2c57beb0fae5ab6a79f675.jpeg" tvg-name="無線財經資訊台" group-title="財經",無線財經資訊台
+#EXTINF:0 tvg-logo="http://t00img.yangkeduo.com/chat/images/2019-03-11/d6fe58f50b2c57beb0fae5ab6a79f675.jpeg" group-title="財經",無線財經資訊台
 http://198.16.106.58:8278/j5_twn/playlist.m3u8?tid=m02000000000010509679&ct=17993&tsum=2d634e7c4520de49da5465f534ec7739
 
-#EXTINF:-1 tvg-logo="https://image.photocnc.com/img.isuper.tv/live-tv/hk-tv/phtv-live.jpg.w720.jpg" tvg-name="	
-凤凰中文" group-title="香港",鳳凰中文
+#EXTINF:-1 tvg-logo="https://image.photocnc.com/img.isuper.tv/live-tv/hk-tv/phtv-live.jpg.w720.jpg" group-title="香港",鳳凰中文
 http://117.169.120.217:8080/live/fhchinese/.m3u8
-#EXTINF:-1 tvg-logo="https://www.pcne.tv/files/images/2017/our%20company/Phoenix_InfoNews.svg.png" tvg-name="凤凰资讯" group-title="香港",鳳凰資訊HD
+#EXTINF:-1 tvg-logo="https://www.pcne.tv/files/images/2017/our%20company/Phoenix_InfoNews.svg.png" group-title="香港",鳳凰資訊HD
 http://117.169.120.138:8080/live/fhzixun/.m3u8
-#EXTINF:-1 tvg-logo="http://www.luanlishi.com/uploads/allimg/180328/0FI55212_0.jpg" tvg-name="凤凰香港" group-title="香港",鳳凰香港高清
+#EXTINF:-1 tvg-logo="http://www.luanlishi.com/uploads/allimg/180328/0FI55212_0.jpg" group-title="香港",鳳凰香港高清
 http://223.82.250.72/live/fhhongkong/1.m3u8
 
 #EXTINF:0 tvg-logo="http://www.nettv.live/uploads/18/1-1P602154AA34.jpg" group-title="香港",耀才財經台
@@ -108,18 +107,17 @@ https://www.youtube.com/watch?v=YFCNyUfbJyU
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/b/b0/Chinatvnews.jpg/250px-Chinatvnews.jpg" group-title="新聞",中視新聞
 https://www.youtube.com/watch?v=YFCNyUfbJyU
 
-
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/e/e2/SET_incorporated_logo.svg/1200px-SET_incorporated_logo.svg.png" group-title="台灣",三立戲劇台
-http://198.16.106.58:8278/sanlixiju/playlist.m3u8?tid=m02000000000017970098&ct=18032&tsum=98b559735fdb238b44fc484b5ff5795f
+#EXTINF:0 tvg-logo="https://i.imgur.com/4KtjyeR.jpg" group-title="台灣",NTD TV
+https://live.ntdimg.com/aplive200/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/e/e2/SET_incorporated_logo.svg/1200px-SET_incorporated_logo.svg.png" group-title="台灣",三立綜合台
 http://198.16.106.58:8278/sanlizhonghe/playlist.m3u8?tid=m02000000000017328101&ct=18032&tsum=a95904ef0276902aac85429552c61914
 
-#EXTINF:0 tvg-logo="https://i.imgur.com/4KtjyeR.jpg" group-title="台灣",NTD TV
-https://live.ntdimg.com/aplive200/playlist.m3u8
-
 #EXTINF:0 tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/103.png" group-title="台灣",ELTA綜合HD
 http://198.16.106.58:8278/eltazhonghe_twn/playlist.m3u8?tid=m02000000000014004815&ct=18032&tsum=a4d65e8000a7d0bbc343700b1efccb62
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/e/e2/SET_incorporated_logo.svg/1200px-SET_incorporated_logo.svg.png" group-title="台灣",三立戲劇台
+http://198.16.106.58:8278/sanlixiju/playlist.m3u8?tid=m02000000000017970098&ct=18032&tsum=98b559735fdb238b44fc484b5ff5795f
 
 #EXTINF:0 tvg-logo="https://img.isuper.tv/live-tv/ebc-emovie-live.jpg" group-title="台灣",東森洋片
 http://198.16.106.58:8278/ettvwestern/playlist.m3u8?tid=m02000000000013926527&ct=18032&tsum=7fa0f9b36f3c2f6f2913a720ad795285
