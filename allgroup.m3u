@@ -91,6 +91,11 @@ http://60.199.188.65/HLS/WG_ETTV-N/02.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/e/e1/SETN_logo.png" group-title="新聞",三立新聞HD
 http://60.199.188.65/HLS/WG_ETTV-N/02.m3u8
 
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/7/70/51chEBCNewslogo.jpg" group-title="新聞",東森新聞HD
+https://www.youtube.com/watch?v=RaIJ767Bj
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/7/70/51chEBCNewslogo.jpg" group-title="台灣",東森新聞HD
+https://www.youtube.com/watch?v=RaIJ767Bj
+
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/e/e2/SET_incorporated_logo.svg/1200px-SET_incorporated_logo.svg.png" group-title="台灣",三立戲劇台
 http://198.16.106.58:8278/sanlixiju/playlist.m3u8?tid=m02000000000017970098&ct=18032&tsum=98b559735fdb238b44fc484b5ff5795f
 
