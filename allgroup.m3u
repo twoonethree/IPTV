@@ -90,11 +90,24 @@ http://210.61.56.23/hls/ftvtv/index.m3u8
 http://60.199.188.65/HLS/WG_ETTV-N/02.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/e/e1/SETN_logo.png" group-title="新聞",三立新聞HD
 http://60.199.188.65/HLS/WG_ETTV-N/02.m3u8
+#EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/950218872002506753/STEnBHZ6.jpg" group-title="新聞",三立iNews最正新聞台
+https://www.youtube.com/watch?v=fNc3b_f3BFw
+#EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/950218872002506753/STEnBHZ6.jpg" group-title="台灣",三立iNews最正新聞台
+https://www.youtube.com/watch?v=fNc3b_f3BFw
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/7/70/51chEBCNewslogo.jpg" group-title="新聞",東森新聞HD
 https://www.youtube.com/watch?v=RaIJ767Bj_M
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/7/70/51chEBCNewslogo.jpg" group-title="台灣",東森新聞HD
 https://www.youtube.com/watch?v=RaIJ767Bj_M
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/5/53/%E6%9D%B1%E6%A3%AE%E8%B2%A1%E7%B6%93%E6%96%B0%E8%81%9E%E5%8F%B0.png" group-title="台灣",東森財經新聞
+https://www.youtube.com/watch?v=ool57_-TiB4
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/5/53/%E6%9D%B1%E6%A3%AE%E8%B2%A1%E7%B6%93%E6%96%B0%E8%81%9E%E5%8F%B0.png" group-title="財經",東森財經新聞
+https://www.youtube.com/watch?v=ool57_-TiB4
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/b/b0/Chinatvnews.jpg/250px-Chinatvnews.jpg" group-title="台灣",中視新聞
+https://www.youtube.com/watch?v=YFCNyUfbJyU
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/b/b0/Chinatvnews.jpg/250px-Chinatvnews.jpg" group-title="新聞",中視新聞
+https://www.youtube.com/watch?v=YFCNyUfbJyU
+
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/e/e2/SET_incorporated_logo.svg/1200px-SET_incorporated_logo.svg.png" group-title="台灣",三立戲劇台
 http://198.16.106.58:8278/sanlixiju/playlist.m3u8?tid=m02000000000017970098&ct=18032&tsum=98b559735fdb238b44fc484b5ff5795f
