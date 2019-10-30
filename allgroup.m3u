@@ -437,6 +437,8 @@ https://playoutengine.sinclairstoryline.com/playout/f2f8b269-dd85-4434-bdd3-b3a6
 
 
 
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/1/1-music-channel-logo-FB300DCF9A-seeklogo.com.png" group-title="音樂",1Music
+http://92.249.129.152/stream/1music.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b7/9XOEnglishMusicTelevisionChannelLogo.jpg" group-title="音樂",9XO
 http://pockettv.xyz/api/zee.m3u8?c=9xo
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Box_hits.svg/330px-Box_hits.svg.png" group-title="音樂",Box Hits
@@ -446,10 +448,16 @@ https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/chunklist.
 
 #EXTINF:-1 tvg-logo="https://tcncountry.net/index_htm_files/30643@2x.png" group-title="音樂",Country Network
 https://dcunilive2-lh.akamaihd.net/i/dclive_1@390829/master.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/DeluxeMusic2013.svg/220px-DeluxeMusic2013.svg.png" group-title="音樂",Deluxe Music
+http://46.245.180.160/live/smil:test.smil/chunklist_w1073861416_b879931_slDE.m3u8
+#EXTINF:-1 tvg-logo="http://www.hirsat.hu/szolgaltatasok/kabeltv/csatornak/hitmc.png" group-title="音樂",Hit Music
+http://1mstream.digicable.hu/hitmusic/hitmusic.m3u8?
 #EXTINF:-1 tvg-logo="http://undergroundbass.co.uk/image/koollondon.png" group-title="音樂", Kool London Radio
 http://w10.streamgb.com:1935/kool/kool/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.marcroberts.ie/News/img_news/keep-it-country.png" group-title="音樂", Keep It Country
 http://cdn.fs-chf01-03-4ed412cd-27f7-09d8-bb30-72e28dab4eb1.arqiva-ott-live.com/live-audio_track=96000-video=1100000.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/MTV_Logo.svg/426px-MTV_Logo.svg.png" group-title="音樂",MTV
+http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="http://corporate.musicchoice.com/files/1913/8178/7936/MCPlayLogo.png" group-title="音樂",Music Choice
 http://edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://dealood.com/content/uploads/images/June2019/sunburn[1]" group-title="音樂",Sunburn TV
