@@ -31,6 +31,9 @@ http://192.240.127.34:1935/live/cs27.stream/playlist.m3u8?wowzasessionid=1300220
 #EXTINF:-1 tvg-logo="http://img.jf258.com/uploads/2013-07-08/232806460.jpg" group-title="電影",周星馳電影（國語）
 http://aldirect.hls.huya.com/huyalive/94525224-2460685313-10568562945082523648-2789274524-10057-A-0-1_1200.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1280px-HBO_logo.svg.png" group-title="電影",HBO
+http://218.202.220.2:5000/nn_live.m3u8?id=HBO
+
 #EXTINF:-1 tvg-logo="https://images.adgully.com/img/400x300/201803/prive.jpg" group-title="電影",&Prive
 http://pockettv.xyz/api/zee.m3u8?c=andprivehd
 #EXTINF:-1 tvg-logo="https://s3.amazonaws.com/medianetmv/resources/channel/182_Cinemaworld_HD-01.png" group-title="電影",Cinema World
