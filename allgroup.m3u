@@ -328,6 +328,15 @@ http://etnowweblive-lh.akamaihd.net/i/ETN_1@348070/index_576_av-b.m3u8
 ////  #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/th/beINSports1.th.png" group-title="體育",beIN Sports 1
 ////  https://live.we-play.tv/app/bein1/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="http://www.zyz98.com/uploads/dianshi/gdty.jpg" group-title="體育",廣東體育
+http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=020&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f1/CCTV-5%E4%BD%93%E8%82%B2.png" group-title="體育",CCTV5
+http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=031&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2d/CCTV-5%2B%E4%BD%93%E8%82%B2%E8%B5%9B%E4%BA%8B.png" group-title="體育",CCTV5+
+http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=036&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
+
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/ESPN.us.png" group-title="體育",ESPN
 https://cvtv.cvalley.net/hls/ESPNHD/ESPNHD.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/ESPN2.us.png" group-title="體育",ESPN 2
