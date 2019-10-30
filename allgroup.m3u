@@ -55,11 +55,11 @@ http://aldirect.hls.huya.com/huyalive/29106097-2689453724-11551115788685410304-2
 #EXTINF:-1 tvg-logo="http://www.nettv.live/uploads/18/1-1P5121Q245326.jpg" group-title="體育",澳視體育
 http://live3.tdm.com.mo:1935/ch4/sport_ch4.live/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.nettv.live/uploads/18/1-1P5121Q245326.jpg" group-title="澳門",澳視體育
-http://live3.tdm.com.mo:1935/ch4/sport_ch4.live/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Channel_V_Logo.svg/200px-Channel_V_Logo.svg.png" group-title="音樂",Channel V
 http://220.158.149.28:8180/live/TV00000000000000000065@HHZT
+
+#EXTINF:-1 tvg-logo="http://www.nettv.live/uploads/18/1-1P5121Q245326.jpg" group-title="澳門",澳視體育
+http://live3.tdm.com.mo:1935/ch4/sport_ch4.live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/9b/TDM_Ou_Mun.png" group-title="澳門",澳視澳門
 http://live3.tdm.com.mo:1935/ch1/ch1.live/playlist.m3u8
