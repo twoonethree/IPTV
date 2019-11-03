@@ -25,11 +25,13 @@ https://m.youtube.com/watch?v=YGUVEtxjGAw
 https://m.youtube.com/watch?v=wRJWD6WgSck
 
 #EXTINF:0 tvg-logo="https://www.visiontimes.hk/themes/kanzhongguo/img/keu_logo.png" group-title="直播",香江望神洲直播
-https://m.youtube.com/watch?v=uaTGb93b-5My
+https://m.youtube.com/watch?v=uaTGb93b-5M
 
 //// #EXTINF:0 tvg-logo=https://sohfrance.org/wp-content/uploads/2019/03/logo-eu4-retina.png" group-title="直播",希望之聲-時局放大鏡直播
 //// https://m.youtube.com/watch?v=r5Lrw092bRk
 
+#EXTINF:0 tvg-logo="https://www.post852.com/wp-content/themes/post852v2/img/logo.png" group-title="直播",852郵報直播
+https://m.youtube.com/watch?v=FK21V4JQJfE
 
 #EXTINF:0 tvg-logo="https://res06.bignox.com/noxinfluencer/youtube/avatar/dec9a2dad8d0e5a5d41be7528c24a2d7.png" group-title="直播",智利仔-English Live直播
 https://m.youtube.com/watch?v=AYMyI-4Qaes
