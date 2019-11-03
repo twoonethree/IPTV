@@ -49,6 +49,11 @@ https://m.youtube.com/watch?v=RClwObzJ0fs
 #EXTINF:0 tvg-logo="https://img14.androidappsapk.co/300/f/5/8/cc.on.epaper.png" group-title="新聞",東網新聞台
 https://m.youtube.com/watch?v=RClwObzJ0fs
 
+#EXTINF:0 tvg-logo="https://i.ytimg.com/vi/5mQgpLwTAZY/maxresdefault.jpg" group-title="香港",高登新聞台
+https://m.youtube.com/watch?v=5mQgpLwTAZY
+#EXTINF:0 tvg-logo="https://i.ytimg.com/vi/5mQgpLwTAZY/maxresdefault.jpg" group-title="新聞",高登新聞台
+https://m.youtube.com/watch?v=5mQgpLwTAZY
+
 #EXTINF:0 tvg-logo="http://www.logo11.cn/uploads/allimg/140925/1_140925100833_1.png" tvg-name="翡翠台" group-title="香港",TVB
 http://116.199.5.51:8114/index.m3u8?FvSeid=1&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=188&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=.m3u8&Fsv_CMSID=&Fsv_otype=1
 #EXTINF:0 tvg-logo="http://img1.allchina.cn/exchange/zhuanmai/userupfile/images/200972787533653195.jpg" tvg-name="明珠台" group-title="香港",明珠台
