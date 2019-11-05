@@ -6,8 +6,8 @@ https://stream-sd2.on.cc/src/smil:remote1_hd.smil/chunklist_b3628000.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Radio_Television_Hong_Kong_Logo.svg/1200px-Radio_Television_Hong_Kong_Logo.svg.png" group-title="直播",RTHK直播 
 https://rthkcnews-lh.akamaihd.net/i/rthknews_1@312607/master.m3u8
 
-//// #EXTINF:0 tvg-logo="https://news.now.com/revamp2014/images/news_logo_400.png" group-title="直播",now直播
-//// https://m.youtube.com/watch?v=aQdkPPZ-g2E
+#EXTINF:0 tvg-logo="https://news.now.com/revamp2014/images/news_logo_400.png" group-title="直播",now直播
+https://m.youtube.com/watch?v=ry2ixtjaIj8
 
 //// #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/HK_Cable_TV_logo.svg/220px-HK_Cable_TV_logo.svg.png" group-title="直播",有線新聞直播
 //// https://m.youtube.com/watch?v=NuNihYOpUII
