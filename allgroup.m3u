@@ -15,8 +15,8 @@ https://m.youtube.com/watch?v=nYEmIhKOsEQ
 #EXTINF:0 tvg-logo="https://i.pinimg.com/280x280_RS/80/b8/e8/80b8e8362fd4fbb12fa67b76a301eeb8.jpg" group-title="直播",蘋果直播
 https://m.youtube.com/watch?v=7R_5pOtYcDw
 
-//// #EXTINF:0 tvg-logo="https://assets.post852.com/wp-content/uploads/2014/08/new_hkgolden.png" group-title="直播",高登討論區直播
-//// https://m.youtube.com/watch?v=H7mM0UMUsRA
+#EXTINF:0 tvg-logo="https://assets.post852.com/wp-content/uploads/2014/08/new_hkgolden.png" group-title="直播",高登討論區直播
+https://m.youtube.com/watch?v=z2SLkNRrR4Y
 
 #EXTINF:0 tvg-logo="https://i.ytimg.com/vi/zVTuyyt-XcA/mqdefault.jpg" group-title="直播",啤梨頻道直播
 https://m.youtube.com/watch?v=42VPcKujUdU
@@ -55,7 +55,7 @@ https://m.youtube.com/watch?v=RClwObzJ0fs
 #EXTINF:0 tvg-logo="https://img14.androidappsapk.co/300/f/5/8/cc.on.epaper.png" group-title="新聞",東網新聞台
 https://m.youtube.com/watch?v=RClwObzJ0fs
 
-#EXTINF:0 tvg-logo="https://i.ytimg.com/vi/5mQgpLwTAZY/maxresdefault.jpg" group-title="直播",高登新聞台
+#EXTINF:0 tvg-logo="https://i.ytimg.com/vi/5mQgpLwTAZY/maxresdefault.jpg" group-title="香港",高登新聞台
 https://m.youtube.com/watch?v=z2SLkNRrR4Y
 #EXTINF:0 tvg-logo="https://i.ytimg.com/vi/5mQgpLwTAZY/maxresdefault.jpg" group-title="新聞",高登新聞台
 https://m.youtube.com/watch?v=z2SLkNRrR4Y
