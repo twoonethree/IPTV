@@ -12,8 +12,8 @@ https://rthkcnews-lh.akamaihd.net/i/rthknews_1@312607/master.m3u8
 /// #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/HK_Cable_TV_logo.svg/220px-HK_Cable_TV_logo.svg.png" group-title="直播",有線新聞直播
 /// https://m.youtube.com/watch?v=nYEmIhKOsEQ
  
-#EXTINF:0 tvg-logo="https://i.pinimg.com/280x280_RS/80/b8/e8/80b8e8362fd4fbb12fa67b76a301eeb8.jpg" group-title="直播",蘋果直播
-https://m.youtube.com/watch?v=tHG0Uv8evZ4
+/// #EXTINF:0 tvg-logo="https://i.pinimg.com/280x280_RS/80/b8/e8/80b8e8362fd4fbb12fa67b76a301eeb8.jpg" group-title="直播",蘋果直播
+/// https://m.youtube.com/watch?v=tHG0Uv8evZ4
 
 /// #EXTINF:0 tvg-logo="https://assets.post852.com/wp-content/uploads/2014/08/new_hkgolden.png" group-title="直播",高登討論區直播
 /// https://m.youtube.com/watch?v=z2SLkNRrR4Y
@@ -21,8 +21,8 @@ https://m.youtube.com/watch?v=tHG0Uv8evZ4
 /// #EXTINF:0 tvg-logo="https://i.ytimg.com/vi/zVTuyyt-XcA/mqdefault.jpg" group-title="直播",啤梨頻道直播
 /// https://m.youtube.com/watch?v=42VPcKujUdU
 
-#EXTINF:0 tvg-logo="http://bodyedt.com/wordpress/wp-content/uploads/2016/08/logo-s@2x-1.png" group-title="直播",香港大紀元直播
-https://m.youtube.com/watch?v=xBaR-mxL59g
+/// #EXTINF:0 tvg-logo="http://bodyedt.com/wordpress/wp-content/uploads/2016/08/logo-s@2x-1.png" group-title="直播",香港大紀元直播
+/// https://m.youtube.com/watch?v=xBaR-mxL59g
 
 //// #EXTINF:0 tvg-logo="https://www.visiontimes.hk/themes/kanzhongguo/img/keu_logo.png" group-title="直播",香江望神洲直播
 //// https://m.youtube.com/watch?v=zDoH2tAt9_Y
@@ -37,8 +37,8 @@ https://m.youtube.com/watch?v=xBaR-mxL59g
 /// https://m.youtube.com/watch?v=ROGFN0cKgl4
 
 
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Legco.svg/1200px-Legco.svg.png" group-title="直播",立法會直播
-https://5b3fd3486b91a.streamlock.net/ChamberF/spf_480p/playlist.m3u8
+/// #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Legco.svg/1200px-Legco.svg.png" group-title="直播",立法會直播
+/// https://5b3fd3486b91a.streamlock.net/ChamberF/spf_480p/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/ViuTV_logo.svg/1280px-ViuTV_logo.svg.png" tvg-name="viutv" group-title="香港",viuTV 
 http://viutv99-i.akamaihd.net/hls/live/265284/live1/master.m3u8
@@ -59,6 +59,7 @@ https://m.youtube.com/watch?v=RClwObzJ0fs
 https://m.youtube.com/watch?v=JIf4jAmuKFQ
 #EXTINF:0 tvg-logo="https://i.ytimg.com/vi/5mQgpLwTAZY/maxresdefault.jpg" group-title="新聞",高登新聞台
 https://m.youtube.com/watch?v=JIf4jAmuKFQ
+
 
 #EXTINF:0 tvg-logo="http://www.logo11.cn/uploads/allimg/140925/1_140925100833_1.png" tvg-name="翡翠台" group-title="香港",TVB
 http://116.199.5.51:8114/index.m3u8?FvSeid=1&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=188&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=.m3u8&Fsv_CMSID=&Fsv_otype=1
