@@ -22,13 +22,13 @@ https://m.youtube.com/watch?v=CPcXWZ_ypXY
 https://m.youtube.com/watch?v=fJ83m94AnjY
 
 #EXTINF:0 tvg-logo="http://bodyedt.com/wordpress/wp-content/uploads/2016/08/logo-s@2x-1.png" group-title="直播",香港大紀元直播1
-https://m.youtube.com/watch?v=XF8mvyKItVo
+https://m.youtube.com/watch?v=xc5UMGlAa-c
 
-#EXTINF:0 tvg-logo="http://bodyedt.com/wordpress/wp-content/uploads/2016/08/logo-s@2x-1.png" group-title="直播",香港大紀元直播2
-https://m.youtube.com/watch?v=2TEiQnsFOh8
+/// #EXTINF:0 tvg-logo="http://bodyedt.com/wordpress/wp-content/uploads/2016/08/logo-s@2x-1.png" group-title="直播",香港大紀元直播2
+/// https://m.youtube.com/watch?v=2TEiQnsFOh8
 
-#EXTINF:0 tvg-logo="http://bodyedt.com/wordpress/wp-content/uploads/2016/08/logo-s@2x-1.png" group-title="直播",香港大紀元直播3
-https://m.youtube.com/watch?v=PmJ2JskQ4cY
+/// #EXTINF:0 tvg-logo="http://bodyedt.com/wordpress/wp-content/uploads/2016/08/logo-s@2x-1.png" group-title="直播",香港大紀元直播3
+/// https://m.youtube.com/watch?v=PmJ2JskQ4cY
 
 #EXTINF:0 tvg-logo="https://www.visiontimes.hk/themes/kanzhongguo/img/keu_logo.png" group-title="直播",香江望神洲直播
 https://m.youtube.com/watch?v=nnJK4D1Hr2A
