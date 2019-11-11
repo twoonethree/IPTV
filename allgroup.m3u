@@ -21,8 +21,11 @@ https://m.youtube.com/watch?v=CPcXWZ_ypXY
 #EXTINF:0 tvg-logo="https://i.ytimg.com/vi/zVTuyyt-XcA/mqdefault.jpg" group-title="直播",啤梨頻道直播
 https://m.youtube.com/watch?v=fJ83m94AnjY
 
-#EXTINF:0 tvg-logo="http://bodyedt.com/wordpress/wp-content/uploads/2016/08/logo-s@2x-1.png" group-title="直播",香港大紀元直播
-https://m.youtube.com/watch?v=nFpA8AKAE1Q
+#EXTINF:0 tvg-logo="http://bodyedt.com/wordpress/wp-content/uploads/2016/08/logo-s@2x-1.png" group-title="直播",香港大紀元直播1
+https://m.youtube.com/watch?v=XF8mvyKItVo
+
+#EXTINF:0 tvg-logo="http://bodyedt.com/wordpress/wp-content/uploads/2016/08/logo-s@2x-1.png" group-title="直播",香港大紀元直播2
+https://m.youtube.com/watch?v=2TEiQnsFOh8
 
 //// #EXTINF:0 tvg-logo="https://www.visiontimes.hk/themes/kanzhongguo/img/keu_logo.png" group-title="直播",香江望神洲直播
 //// https://m.youtube.com/watch?v=zDoH2tAt9_Y
