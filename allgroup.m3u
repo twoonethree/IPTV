@@ -18,11 +18,11 @@ https://m.youtube.com/watch?v=r7XCDcJngLw
 #EXTINF:0 tvg-logo="https://assets.post852.com/wp-content/uploads/2014/08/new_hkgolden.png" group-title="直播",高登討論區直播
 https://m.youtube.com/watch?v=CPcXWZ_ypXY
 
-#EXTINF:0 tvg-logo="https://i.ytimg.com/vi/zVTuyyt-XcA/mqdefault.jpg" group-title="直播",啤梨頻道直播
-https://m.youtube.com/watch?v=fJ83m94AnjY
+///#EXTINF:0 tvg-logo="https://i.ytimg.com/vi/zVTuyyt-XcA/mqdefault.jpg" group-title="直播",啤梨頻道直播
+///https://m.youtube.com/watch?v=fJ83m94AnjY
 
 #EXTINF:0 tvg-logo="http://bodyedt.com/wordpress/wp-content/uploads/2016/08/logo-s@2x-1.png" group-title="直播",香港大紀元直播1
-https://m.youtube.com/watch?v=xc5UMGlAa-c
+https://m.youtube.com/watch?v=8B7ttaWoRgY
 
 /// #EXTINF:0 tvg-logo="http://bodyedt.com/wordpress/wp-content/uploads/2016/08/logo-s@2x-1.png" group-title="直播",香港大紀元直播2
 /// https://m.youtube.com/watch?v=2TEiQnsFOh8
@@ -33,8 +33,8 @@ https://m.youtube.com/watch?v=xc5UMGlAa-c
 #EXTINF:0 tvg-logo="https://www.visiontimes.hk/themes/kanzhongguo/img/keu_logo.png" group-title="直播",香江望神洲直播
 https://m.youtube.com/watch?v=-ReCcrQf5qQ
 
-#EXTINF:0 tvg-logo=https://sohfrance.org/wp-content/uploads/2019/03/logo-eu4-retina.png" group-title="直播",希望之聲-時局放大鏡直播
-https://m.youtube.com/watch?v=q4LioP6C0r4
+///#EXTINF:0 tvg-logo=https://sohfrance.org/wp-content/uploads/2019/03/logo-eu4-retina.png" group-title="直播",希望之聲-時局放大鏡直播
+///https://m.youtube.com/watch?v=q4LioP6C0r4
 
 //// #EXTINF:0 tvg-logo="https://www.post852.com/wp-content/themes/post852v2/img/logo.png" group-title="直播",852郵報直播
 //// https://m.youtube.com/watch?v=FK21V4JQJfE
