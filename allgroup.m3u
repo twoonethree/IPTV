@@ -48,8 +48,8 @@ https://m.youtube.com/watch?v=kZ9JzmnWx2g
 #EXTINF:0 tvg-logo="https://www.visiontimes.hk/themes/kanzhongguo/img/keu_logo.png" group-title="直播",香江望神洲直播
 https://m.youtube.com/watch?v=39TBuBY2D0k
 
-///#EXTINF:0 tvg-logo=https://sohfrance.org/wp-content/uploads/2019/03/logo-eu4-retina.png" group-title="直播",希望之聲-時局放大鏡直播
-///https://m.youtube.com/watch?v=SGKYH0Yc1K0
+#EXTINF:0 tvg-logo=https://sohfrance.org/wp-content/uploads/2019/03/logo-eu4-retina.png" group-title="直播",希望之聲-時局放大鏡直播
+https://m.youtube.com/watch?v=RfPATDHSaX8
 
 #EXTINF:0 tvg-logo="https://www.post852.com/wp-content/themes/post852v2/img/logo.png" group-title="直播",852郵報直播
 https://m.youtube.com/watch?v=OvFI87FRcKc
