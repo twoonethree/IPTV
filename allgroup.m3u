@@ -9,7 +9,7 @@ https://rthkcnews-lh.akamaihd.net/i/rthknews_1@312607/master.m3u8
 https://m.youtube.com/watch?v=CPcXWZ_ypXY
 
 #EXTINF:0 tvg-logo="https://news.now.com/revamp2014/images/news_logo_400.png" group-title="直播",now直播
-https://m.youtube.com/watch?v=YBAcjIQOwI8
+https://m.youtube.com/watch?v=d9wWbVUiBms
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/HK_Cable_TV_logo.svg/220px-HK_Cable_TV_logo.svg.png" group-title="直播",有線新聞直播
 https://m.youtube.com/watch?v=BzlCGIk21z0
@@ -36,10 +36,10 @@ https://m.youtube.com/watch?v=YRLliTfACh4
 ///https://m.youtube.com/watch?v=LhFECr_eeS0
 
 #EXTINF:0 tvg-logo="http://bodyedt.com/wordpress/wp-content/uploads/2016/08/logo-s@2x-1.png" group-title="直播",香港大紀元直播1
-https://m.youtube.com/watch?v=cAHa32pm0Ok
+https://m.youtube.com/watch?v=jc1-bPtp_0o
 
-/// #EXTINF:0 tvg-logo="http://bodyedt.com/wordpress/wp-content/uploads/2016/08/logo-s@2x-1.png" group-title="直播",香港大紀元直播2
-/// https://m.youtube.com/watch?v=2TEiQnsFOh8
+#EXTINF:0 tvg-logo="http://bodyedt.com/wordpress/wp-content/uploads/2016/08/logo-s@2x-1.png" group-title="直播",香港大紀元直播2
+https://m.youtube.com/watch?v=I17PSDxtLgQ
 
 /// #EXTINF:0 tvg-logo="http://bodyedt.com/wordpress/wp-content/uploads/2016/08/logo-s@2x-1.png" group-title="直播",香港大紀元直播3
 /// https://m.youtube.com/watch?v=PmJ2JskQ4cY
@@ -50,8 +50,8 @@ https://m.youtube.com/watch?v=cAHa32pm0Ok
 ///#EXTINF:0 tvg-logo=https://sohfrance.org/wp-content/uploads/2019/03/logo-eu4-retina.png" group-title="直播",希望之聲-時局放大鏡直播
 ///https://m.youtube.com/watch?v=RfPATDHSaX8
 
-///#EXTINF:0 tvg-logo="https://www.post852.com/wp-content/themes/post852v2/img/logo.png" group-title="直播",852郵報直播
-///https://m.youtube.com/watch?v=OvFI87FRcKc
+#EXTINF:0 tvg-logo="https://www.post852.com/wp-content/themes/post852v2/img/logo.png" group-title="直播",852郵報直播
+https://m.youtube.com/watch?v=xEjLG2cLXUI
 
 ///#EXTINF:0 tvg-logo="https://res06.bignox.com/noxinfluencer/youtube/avatar/dec9a2dad8d0e5a5d41be7528c24a2d7.png" group-title="直播",智利仔-English Live直播
 ///https://m.youtube.com/watch?v=N_gYGjg4rt8
