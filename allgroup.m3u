@@ -44,8 +44,8 @@ https://m.youtube.com/watch?v=cAHa32pm0Ok
 /// #EXTINF:0 tvg-logo="http://bodyedt.com/wordpress/wp-content/uploads/2016/08/logo-s@2x-1.png" group-title="直播",香港大紀元直播3
 /// https://m.youtube.com/watch?v=PmJ2JskQ4cY
 
-///#EXTINF:0 tvg-logo="https://www.visiontimes.hk/themes/kanzhongguo/img/keu_logo.png" group-title="直播",香江望神洲直播
-///https://m.youtube.com/watch?v=LOnhz4UR3_k
+#EXTINF:0 tvg-logo="https://www.visiontimes.hk/themes/kanzhongguo/img/keu_logo.png" group-title="直播",香江望神洲直播
+https://m.youtube.com/watch?v=CVvg978Sxk8
 
 ///#EXTINF:0 tvg-logo=https://sohfrance.org/wp-content/uploads/2019/03/logo-eu4-retina.png" group-title="直播",希望之聲-時局放大鏡直播
 ///https://m.youtube.com/watch?v=RfPATDHSaX8
