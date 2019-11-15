@@ -37,7 +37,7 @@ https://m.youtube.com/watch?v=GxAR_892BuU
 ///https://m.youtube.com/watch?v=5bgHk8HHqm8
 
 #EXTINF:0 tvg-logo="http://bodyedt.com/wordpress/wp-content/uploads/2016/08/logo-s@2x-1.png" group-title="直播",香港大紀元直播1
-https://m.youtube.com/watch?v=QMmI0O_mC_I
+https://m.youtube.com/watch?v=E7oflB-XuA4
 
 ///#EXTINF:0 tvg-logo="http://bodyedt.com/wordpress/wp-content/uploads/2016/08/logo-s@2x-1.png" group-title="直播",香港大紀元直播2
 ///https://m.youtube.com/watch?v=cKp68yQFteM
@@ -52,10 +52,10 @@ https://m.youtube.com/watch?v=QMmI0O_mC_I
 ///https://m.youtube.com/watch?v=RfPATDHSaX8
 
 #EXTINF:0 tvg-logo="https://www.post852.com/wp-content/themes/post852v2/img/logo.png" group-title="直播",852郵報直播1
-https://m.youtube.com/watch?v=wCaAMb1DOH8
+https://m.youtube.com/watch?v=2daRyaodb3A
 
-#EXTINF:0 tvg-logo="https://www.post852.com/wp-content/themes/post852v2/img/logo.png" group-title="直播",852郵報直播2
-https://m.youtube.com/watch?v=bOV2dy3V3ts
+//#EXTINF:0 tvg-logo="https://www.post852.com/wp-content/themes/post852v2/img/logo.png" group-title="直播",852郵報直播2
+//https://m.youtube.com/watch?v=bOV2dy3V3ts
 
 //#EXTINF:0 tvg-logo="https://res06.bignox.com/noxinfluencer/youtube/avatar/dec9a2dad8d0e5a5d41be7528c24a2d7.png" group-title="直播",智利仔-English Live直播
 //https://m.youtube.com/watch?v=oCHYBBobdZs
