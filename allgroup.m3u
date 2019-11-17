@@ -65,9 +65,8 @@ https://m.youtube.com/watch?v=HRDvO9MNY9o
 //#EXTINF:0 tvg-logo="https://res06.bignox.com/noxinfluencer/youtube/avatar/dec9a2dad8d0e5a5d41be7528c24a2d7.png" group-title="直播",智利仔-English Live直播
 //https://m.youtube.com/watch?v=H7FVTNcXsj0
 
-///#EXTINF:0 tvg-logo="" group-title="直播",馬池MACHI直播
-///https://m.youtube.com/watch?v=MXyDSQ490as
-
+#EXTINF:0 tvg-logo="" group-title="直播",HK Live
+https://m.youtube.com/watch?v=9zgnlTNBbQQ
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Legco.svg/1200px-Legco.svg.png" group-title="直播",立法會直播
 https://5b3fd3486b91a.streamlock.net/ChamberF/spf_480p/playlist.m3u8
