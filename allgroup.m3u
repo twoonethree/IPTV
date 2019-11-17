@@ -36,10 +36,10 @@ https://m.youtube.com/watch?v=ooCRBGhYdZI
 ///https://m.youtube.com/watch?v=5bgHk8HHqm8
 
 #EXTINF:0 tvg-logo="http://bodyedt.com/wordpress/wp-content/uploads/2016/08/logo-s@2x-1.png" group-title="直播",香港大紀元直播1
-https://m.youtube.com/watch?v=pQibU7X9TSc
+https://m.youtube.com/watch?v=Q6FFlYBRgE8
 
-///#EXTINF:0 tvg-logo="http://bodyedt.com/wordpress/wp-content/uploads/2016/08/logo-s@2x-1.png" group-title="直播",香港大紀元直播2
-///https://m.youtube.com/watch?v=cKp68yQFteM
+#EXTINF:0 tvg-logo="http://bodyedt.com/wordpress/wp-content/uploads/2016/08/logo-s@2x-1.png" group-title="直播",香港大紀元直播2
+https://m.youtube.com/watch?v=jr0ROJ5f9Eg
 
 /// #EXTINF:0 tvg-logo="http://bodyedt.com/wordpress/wp-content/uploads/2016/08/logo-s@2x-1.png" group-title="直播",香港大紀元直播3
 /// https://m.youtube.com/watch?v=PmJ2JskQ4cY
@@ -63,7 +63,7 @@ https://m.youtube.com/watch?v=pQibU7X9TSc
 //https://m.youtube.com/watch?v=s4FktN4mF_U
 
 #EXTINF:0 tvg-logo="https://res06.bignox.com/noxinfluencer/youtube/avatar/dec9a2dad8d0e5a5d41be7528c24a2d7.png" group-title="直播",智利仔-English Live直播
-https://m.youtube.com/watch?v=PMphNWdrw5g
+https://m.youtube.com/watch?v=gr85FA--O2A
 
 #EXTINF:0 tvg-logo="" group-title="直播",HK Live
 https://m.youtube.com/watch?v=9zgnlTNBbQQ
