@@ -36,7 +36,7 @@ https://m.youtube.com/watch?v=ooCRBGhYdZI
 ///https://m.youtube.com/watch?v=5bgHk8HHqm8
 
 #EXTINF:0 tvg-logo="http://bodyedt.com/wordpress/wp-content/uploads/2016/08/logo-s@2x-1.png" group-title="直播",香港大紀元直播1
-https://m.youtube.com/watch?v=TDuM2wKAxGA
+https://m.youtube.com/watch?v=m4tRITsewZA
 
 ///#EXTINF:0 tvg-logo="http://bodyedt.com/wordpress/wp-content/uploads/2016/08/logo-s@2x-1.png" group-title="直播",香港大紀元直播2
 ///https://m.youtube.com/watch?v=cKp68yQFteM
@@ -53,8 +53,8 @@ https://m.youtube.com/watch?v=TDuM2wKAxGA
 //#EXTINF:0 tvg-logo="https://www.post852.com/wp-content/themes/post852v2/img/logo.png" group-title="直播",852郵報直播1
 //https://m.youtube.com/watch?v=2daRyaodb3A
 
-//#EXTINF:0 tvg-logo="https://www.post852.com/wp-content/themes/post852v2/img/logo.png" group-title="直播",852郵報直播2
-//https://m.youtube.com/watch?v=bOV2dy3V3ts
+#EXTINF:0 tvg-logo="https://www.post852.com/wp-content/themes/post852v2/img/logo.png" group-title="直播",852郵報直播2
+https://m.youtube.com/watch?v=HRDvO9MNY9o
 
 //#EXTINF:0 tvg-logo="" group-title="直播",拉播新聞直播
 //https://m.youtube.com/watch?v=AhbZ8D5YOjc
@@ -62,8 +62,8 @@ https://m.youtube.com/watch?v=TDuM2wKAxGA
 //#EXTINF:0 tvg-logo="https://www.uyghurcongress.org/cn/wp-content/uploads/2016/09/unnamed.png" group-title="直播",RFA自由亞洲直播
 //https://m.youtube.com/watch?v=s4FktN4mF_U
 
-#EXTINF:0 tvg-logo="https://res06.bignox.com/noxinfluencer/youtube/avatar/dec9a2dad8d0e5a5d41be7528c24a2d7.png" group-title="直播",智利仔-English Live直播
-https://m.youtube.com/watch?v=H7FVTNcXsj0
+//#EXTINF:0 tvg-logo="https://res06.bignox.com/noxinfluencer/youtube/avatar/dec9a2dad8d0e5a5d41be7528c24a2d7.png" group-title="直播",智利仔-English Live直播
+//https://m.youtube.com/watch?v=H7FVTNcXsj0
 
 ///#EXTINF:0 tvg-logo="" group-title="直播",馬池MACHI直播
 ///https://m.youtube.com/watch?v=MXyDSQ490as
