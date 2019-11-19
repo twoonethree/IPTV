@@ -44,8 +44,8 @@ https://m.youtube.com/watch?v=8ByeFZTn_2k
 /// #EXTINF:0 tvg-logo="http://bodyedt.com/wordpress/wp-content/uploads/2016/08/logo-s@2x-1.png" group-title="直播",香港大紀元直播3
 /// https://m.youtube.com/watch?v=PmJ2JskQ4cY
 
-#EXTINF:0 tvg-logo="https://www.visiontimes.hk/themes/kanzhongguo/img/keu_logo.png" group-title="直播",香江望神洲直播
-https://m.youtube.com/watch?v=kCpMDKcRPqo
+//#EXTINF:0 tvg-logo="https://www.visiontimes.hk/themes/kanzhongguo/img/keu_logo.png" group-title="直播",香江望神洲直播
+//https://m.youtube.com/watch?v=kCpMDKcRPqo
 
 ///#EXTINF:0 tvg-logo=https://sohfrance.org/wp-content/uploads/2019/03/logo-eu4-retina.png" group-title="直播",希望之聲-時局放大鏡直播
 ///https://m.youtube.com/watch?v=RfPATDHSaX8
@@ -65,8 +65,8 @@ https://m.youtube.com/watch?v=kCpMDKcRPqo
 //#EXTINF:0 tvg-logo="https://res06.bignox.com/noxinfluencer/youtube/avatar/dec9a2dad8d0e5a5d41be7528c24a2d7.png" group-title="直播",智利仔-English Live直播
 //https://m.youtube.com/watch?v=gr85FA--O2A
 
-#EXTINF:0 tvg-logo="" group-title="直播",YTC Live
-https://m.youtube.com/watch?v=n0WrgKoe3eg
+//#EXTINF:0 tvg-logo="" group-title="直播",YTC Live
+//https://m.youtube.com/watch?v=n0WrgKoe3eg
 
 //#EXTINF:0 tvg-logo="" group-title="直播",HK Live
 //https://m.youtube.com/watch?v=YK6GGtmy7uE
