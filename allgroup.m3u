@@ -5,8 +5,8 @@ https://live.cdn.hk01.com/origin/smil:01news.smil/playlist.m3u8
 https://stream-sd2.on.cc/src/smil:remote1_hd.smil/chunklist_b3628000.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Radio_Television_Hong_Kong_Logo.svg/1200px-Radio_Television_Hong_Kong_Logo.svg.png" group-title="直播",RTHK直播 
 https://rthkcnews-lh.akamaihd.net/i/rthknews_1@312607/master.m3u8
-#EXTINF:0 tvg-logo="https://assets.post852.com/wp-content/uploads/2014/08/new_hkgolden.png" group-title="直播",高登討論區直播
-https://m.youtube.com/watch?v=lLrsk9Xh4dc
+//#EXTINF:0 tvg-logo="https://assets.post852.com/wp-content/uploads/2014/08/new_hkgolden.png" group-title="直播",高登討論區直播
+//https://m.youtube.com/watch?v=lLrsk9Xh4dc
 
 //#EXTINF:0 tvg-logo="https://news.now.com/revamp2014/images/news_logo_400.png" group-title="直播",now直播
 //https://m.youtube.com/watch?v=vMwPvewom2E
@@ -14,8 +14,8 @@ https://m.youtube.com/watch?v=lLrsk9Xh4dc
 //#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/HK_Cable_TV_logo.svg/220px-HK_Cable_TV_logo.svg.png" group-title="直播",有線新聞直播
 //https://m.youtube.com/watch?v=Fxy45Ep2IPs
  
-#EXTINF:0 tvg-logo="https://i.pinimg.com/280x280_RS/80/b8/e8/80b8e8362fd4fbb12fa67b76a301eeb8.jpg" group-title="直播",蘋果直播
-https://m.youtube.com/watch?v=D8NRHCtmbTI
+//#EXTINF:0 tvg-logo="https://i.pinimg.com/280x280_RS/80/b8/e8/80b8e8362fd4fbb12fa67b76a301eeb8.jpg" group-title="直播",蘋果直播
+//https://m.youtube.com/watch?v=D8NRHCtmbTI
 
 /// #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/The_Stand_News_Logo.svg/1200px-The_Stand_News_Logo.svg.png" group-title="直播",立場新聞直播1
 /// https://www. 
@@ -65,8 +65,8 @@ https://m.youtube.com/watch?v=34Ip7_E3SpY
 //#EXTINF:0 tvg-logo="https://res06.bignox.com/noxinfluencer/youtube/avatar/dec9a2dad8d0e5a5d41be7528c24a2d7.png" group-title="直播",智利仔-English Live直播
 //https://m.youtube.com/watch?v=gr85FA--O2A
 
-#EXTINF:0 tvg-logo="" group-title="直播",YTC Live
-https://m.youtube.com/watch?v=Ixafdbm-Jf4
+//#EXTINF:0 tvg-logo="" group-title="直播",YTC Live
+//https://m.youtube.com/watch?v=Ixafdbm-Jf4
 
 //#EXTINF:0 tvg-logo="" group-title="直播",HK Live
 //https://m.youtube.com/watch?v=YK6GGtmy7uE
@@ -91,10 +91,10 @@ https://m.youtube.com/watch?v=RClwObzJ0fs
 #EXTINF:0 tvg-logo="https://img14.androidappsapk.co/300/f/5/8/cc.on.epaper.png" group-title="新聞",東網新聞台
 https://m.youtube.com/watch?v=RClwObzJ0fs
 
-#EXTINF:0 tvg-logo="https://i.ytimg.com/vi/5mQgpLwTAZY/maxresdefault.jpg" group-title="香港",高登新聞台
-https://m.youtube.com/watch?v=lLrsk9Xh4dc
-#EXTINF:0 tvg-logo="https://i.ytimg.com/vi/5mQgpLwTAZY/maxresdefault.jpg" group-title="新聞",高登新聞台
-https://m.youtube.com/watch?v=lLrsk9Xh4dc
+//#EXTINF:0 tvg-logo="https://i.ytimg.com/vi/5mQgpLwTAZY/maxresdefault.jpg" group-title="香港",高登新聞台
+//https://m.youtube.com/watch?v=lLrsk9Xh4dc
+//#EXTINF:0 tvg-logo="https://i.ytimg.com/vi/5mQgpLwTAZY/maxresdefault.jpg" group-title="新聞",高登新聞台
+//https://m.youtube.com/watch?v=lLrsk9Xh4dc
 
 #EXTINF:0 tvg-logo="http://www.logo11.cn/uploads/allimg/140925/1_140925100833_1.png" tvg-name="翡翠台" group-title="香港",TVB
 http://116.199.5.51:8114/index.m3u8?FvSeid=1&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=188&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=.m3u8&Fsv_CMSID=&Fsv_otype=1
