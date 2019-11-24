@@ -53,8 +53,8 @@ https://m.youtube.com/watch?v=rEZwfPnMJJ4
 #EXTINF:0 tvg-logo="https://www.post852.com/wp-content/themes/post852v2/img/logo.png" group-title="直播",852郵報直播1
 https://m.youtube.com/watch?v=TV55xIh8-Fk
 
-//#EXTINF:0 tvg-logo="https://www.post852.com/wp-content/themes/post852v2/img/logo.png" group-title="直播",852郵報直播2
-//https://m.youtube.com/watch?v=HRDvO9MNY9o
+#EXTINF:0 tvg-logo="" group-title="直播",MVM
+https://m.youtube.com/watch?v=-cDwHLmVbGs
 
 //#EXTINF:0 tvg-logo="" group-title="直播",拉播新聞直播
 //https://m.youtube.com/watch?v=AhbZ8D5YOjc
