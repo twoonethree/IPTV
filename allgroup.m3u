@@ -90,9 +90,9 @@ https://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_2052_av-b.m3u8
 https://www.rthk.hk/feeds/dtt/rthktv32_https.m3u8
 
 #EXTINF:0 tvg-logo="https://img14.androidappsapk.co/300/f/5/8/cc.on.epaper.png" group-title="香港",東網新聞台
-https://m.youtube.com/watch?v=RClwObzJ0fs
+https://stream-news2.on.cc/src/remote1.smil/playlist.m3u8
 #EXTINF:0 tvg-logo="https://img14.androidappsapk.co/300/f/5/8/cc.on.epaper.png" group-title="新聞",東網新聞台
-https://m.youtube.com/watch?v=RClwObzJ0fs
+https://stream-news2.on.cc/src/remote1.smil/playlist.m3u8
 
 //#EXTINF:0 tvg-logo="https://i.ytimg.com/vi/5mQgpLwTAZY/maxresdefault.jpg" group-title="香港",高登新聞台
 //https://m.youtube.com/watch?v=VYCrRK_EBm8
