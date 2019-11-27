@@ -14,8 +14,8 @@ https://rthkcnews-lh.akamaihd.net/i/rthknews_1@312607/master.m3u8
 //#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/HK_Cable_TV_logo.svg/220px-HK_Cable_TV_logo.svg.png" group-title="直播",有線新聞直播
 //https://m.youtube.com/watch?v=Fxy45Ep2IPs
 
-//#EXTINF:0 tvg-logo="https://i.pinimg.com/280x280_RS/80/b8/e8/80b8e8362fd4fbb12fa67b76a301eeb8.jpg" group-title="直播",蘋果直播
-//https://m.youtube.com/watch?v=Ug6XaQlRj3A
+#EXTINF:0 tvg-logo="https://i.pinimg.com/280x280_RS/80/b8/e8/80b8e8362fd4fbb12fa67b76a301eeb8.jpg" group-title="直播",蘋果直播
+https://m.youtube.com/watch?v=rfqkvWs2PNQ
 
 //#EXTINF:0 tvg-logo="https://i.pinimg.com/280x280_RS/80/b8/e8/80b8e8362fd4fbb12fa67b76a301eeb8.jpg" group-title="直播",蘋果直播2
 //https://m.youtube.com/watch?v=JrgckD9YXTM
@@ -38,8 +38,8 @@ https://rthkcnews-lh.akamaihd.net/i/rthknews_1@312607/master.m3u8
 //#EXTINF:0 tvg-logo="https://i.ytimg.com/vi/zVTuyyt-XcA/mqdefault.jpg" group-title="直播",啤梨頻道直播
 //https://m.youtube.com/watch?v=rEZwfPnMJJ4
 
-//#EXTINF:0 tvg-logo="http://bodyedt.com/wordpress/wp-content/uploads/2016/08/logo-s@2x-1.png" group-title="直播",香港大紀元直播1
-//https://m.youtube.com/watch?v=34Ip7_E3SpY
+#EXTINF:0 tvg-logo="http://bodyedt.com/wordpress/wp-content/uploads/2016/08/logo-s@2x-1.png" group-title="直播",香港大紀元直播
+https://m.youtube.com/watch?v=IE6fymVzz2Q
 
 //#EXTINF:0 tvg-logo="http://bodyedt.com/wordpress/wp-content/uploads/2016/08/logo-s@2x-1.png" group-title="直播",香港大紀元直播2
 //https://m.youtube.com/watch?v=jr0ROJ5f9Eg
@@ -53,10 +53,10 @@ https://rthkcnews-lh.akamaihd.net/i/rthknews_1@312607/master.m3u8
 ///#EXTINF:0 tvg-logo=https://sohfrance.org/wp-content/uploads/2019/03/logo-eu4-retina.png" group-title="直播",希望之聲-時局放大鏡直播
 ///https://m.youtube.com/watch?v=RfPATDHSaX8
 
-//#EXTINF:0 tvg-logo="https://www.post852.com/wp-content/themes/post852v2/img/logo.png" group-title="直播",852郵報直播1
-//https://m.youtube.com/watch?v=TV55xIh8-Fk
+#EXTINF:0 tvg-logo="https://www.post852.com/wp-content/themes/post852v2/img/logo.png" group-title="直播",852郵報直播
+https://m.youtube.com/watch?v=sD-ob6GnTi0
 
-//#EXTINF:0 tvg-logo="" group-title="直播",MVM
+//#EXTINF:0 tvg-logo="" group-title="直播",MVM直播
 //https://m.youtube.com/watch?v=-cDwHLmVbGs
 
 //#EXTINF:0 tvg-logo="" group-title="直播",拉播新聞直播
