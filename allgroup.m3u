@@ -58,6 +58,10 @@ https://m.youtube.com/watch?v=IE6fymVzz2Q
 #EXTINF:0 tvg-logo="https://www.post852.com/wp-content/themes/post852v2/img/logo.png" group-title="直播",852郵報直播
 https://m.youtube.com/watch?v=sD-ob6GnTi0
 
+
+#EXTINF:0 tvg-logo="" group-title="直播",丘品創作直播
+https://www.facebook.com/video/playback/playlist.m3u8?v=480668646133540
+
 //#EXTINF:0 tvg-logo="" group-title="直播",MVM直播
 //https://m.youtube.com/watch?v=-cDwHLmVbGs
 
