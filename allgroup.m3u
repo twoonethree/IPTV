@@ -55,8 +55,8 @@ https://m.youtube.com/watch?v=J3hoZkBK0pM
 ///#EXTINF:0 tvg-logo=https://sohfrance.org/wp-content/uploads/2019/03/logo-eu4-retina.png" group-title="直播",希望之聲-時局放大鏡直播
 ///https://m.youtube.com/watch?v=RfPATDHSaX8
 
-//#EXTINF:0 tvg-logo="https://www.post852.com/wp-content/themes/post852v2/img/logo.png" group-title="直播",852郵報直播
-//https://m.youtube.com/watch?v=sD-ob6GnTi0
+#EXTINF:0 tvg-logo="https://www.post852.com/wp-content/themes/post852v2/img/logo.png" group-title="直播",852郵報直播
+https://m.youtube.com/watch?v=GZmHXpr0C_o
 
 
 //#EXTINF:0 tvg-logo="" group-title="直播",丘品創作直播
