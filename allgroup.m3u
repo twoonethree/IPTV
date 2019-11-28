@@ -7,8 +7,8 @@ https://streama-sd2.on.cc/src/smil:remote1.smil/playlist.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Radio_Television_Hong_Kong_Logo.svg/1200px-Radio_Television_Hong_Kong_Logo.svg.png" group-title="直播",RTHK直播 
 https://www.facebook.com/video/playback/playlist.m3u8?v=1015263038827846
 //https://rthkcnews-lh.akamaihd.net/i/rthknews_1@312607/master.m3u8
-//#EXTINF:0 tvg-logo="https://assets.post852.com/wp-content/uploads/2014/08/new_hkgolden.png" group-title="直播",高登討論區直播
-//https://www.facebook.com/video/playback/playlist.m3u8?v=455858488467423
+#EXTINF:0 tvg-logo="https://assets.post852.com/wp-content/uploads/2014/08/new_hkgolden.png" group-title="直播",高登討論區直播
+https://www.facebook.com/video/playback/playlist.m3u8?v=1145589492314106
 
 //#EXTINF:0 tvg-logo="https://news.now.com/revamp2014/images/news_logo_400.png" group-title="直播",now直播
 //https://m.youtube.com/watch?v=vMwPvewom2E
