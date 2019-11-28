@@ -1,6 +1,6 @@
 #EXTM3U 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/HK01_logo.png" group-title="直播",HK01直播 
-https://live2.cdn.hk01.com/origin/smil:news01.smil/chunklist_b2096000.m3u8
+https://live2.cdn.hk01.com/origin/smil:01news.smil/playlist.m3u8
 //https://live.cdn.hk01.com/origin/smil:01news.smil/playlist.m3u8
 #EXTINF:0 tvg-logo="https://tv.on.cc/img/ontv_logo.png" group-title="直播",東網電視直播 
 https://streama-sd2.on.cc/src/smil:remote1.smil/playlist.m3u8
