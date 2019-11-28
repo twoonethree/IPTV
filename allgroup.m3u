@@ -183,9 +183,9 @@ http://60.199.188.65/HLS/WG_ETTV-N/02.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/e/e1/SETN_logo.png" group-title="新聞",三立新聞HD
 http://60.199.188.65/HLS/WG_ETTV-N/02.m3u8
 #EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/950218872002506753/STEnBHZ6.jpg" group-title="新聞",三立iNews最正新聞台
-https://www.youtube.com/watch?v=fNc3b_f3BFw
+https://m.youtube.com/watch?v=ag9nrgExHyg
 #EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/950218872002506753/STEnBHZ6.jpg" group-title="台灣",三立iNews最正新聞台
-https://www.youtube.com/watch?v=fNc3b_f3BFw
+https://m.youtube.com/watch?v=ag9nrgExHyg
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/7/70/51chEBCNewslogo.jpg" group-title="新聞",東森新聞HD
 https://www.youtube.com/watch?v=RaIJ767Bj_M
@@ -212,9 +212,9 @@ https://www.youtube.com/watch?v=wUPPkSANpyo
 #EXTINF:0 tvg-logo="https://3.bp.blogspot.com/-_9niIIOucnE/Wh6RRwiCnVI/AAAAAAAAAaE/DEUEZnI48G06TlRtumi7DDJBlRkEwrybQCLcBGAs/s1600/CH52.png" group-title="台灣",中天新聞
 https://www.youtube.com/watch?v=wUPPkSANpyo
 #EXTINF:0 tvg-logo="https://i.ytimg.com/vi/M7em79z_o3A/hqdefault.jpg" group-title="新聞",BCC中廣新聞網
-https://www.youtube.com/watch?v=rgp-R3GyZJs
+https://m.youtube.com/watch?v=1tFwONyqk30
 #EXTINF:0 tvg-logo="https://i.ytimg.com/vi/M7em79z_o3A/hqdefault.jpg" group-title="台灣",BCC中廣新聞網
-https://www.youtube.com/watch?v=rgp-R3GyZJs
+https://m.youtube.com/watch?v=1tFwONyqk30
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/4KtjyeR.jpg" group-title="台灣",NTD TV
 https://live.ntdimg.com/aplive200/playlist.m3u8
@@ -327,10 +327,12 @@ http://95.170.215.118/hls/m3u8/Sky-MoviesSelect.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/89/The_Works.jpg/375px-The_Works.jpg" group-title="電影",The Works
 https://mgm-ssai.akamaized.net/amagi_hls_data_mgmAAAAAA-theworks/CDN/720x404_1425600/index.m3u8
 
-#EXTINF:0 tvg-logo="https://www.universfreebox.com/IMG/artoff34756.png" group-title="新聞",Africanews 
-https://stream-01.sg1.dailymotion.com/sec(Rt6MMB82ZLcHsd-t3Q1irb1rUpnQc6lY_BMZv48xSHQ)/dm/3/x6i7vf8/s/live-3.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ru/Euronews.ru.png" group-title="新聞", Euronews 
-https://stream-03.sg1.dailymotion.com/sec(ZHW-kyIDNbzrgtZQEivCaxJtXnvD9z6tYZJaLOiXL_g)/dm/3/x2j4h4m/s/live-3.m3u8
+/////////////////////////////
+
+//#EXTINF:0 tvg-logo="https://www.universfreebox.com/IMG/artoff34756.png" group-title="新聞",Africanews 
+//https://stream-01.sg1.dailymotion.com/sec(Rt6MMB82ZLcHsd-t3Q1irb1rUpnQc6lY_BMZv48xSHQ)/dm/3/x6i7vf8/s/live-3.m3u8
+//#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ru/Euronews.ru.png" group-title="新聞", Euronews 
+//https://stream-03.sg1.dailymotion.com/sec(ZHW-kyIDNbzrgtZQEivCaxJtXnvD9z6tYZJaLOiXL_g)/dm/3/x2j4h4m/s/live-3.m3u8
 #EXTINF:-1 tvg-logo="https://www.ourguide.com.au/images/station_images/ABCN.png" group-title="新聞",ABC Australia
 https://abc-iview-mediapackagestreams-1.akamaized.net/out/v1/50345bf35f664739912f0b255c172ae9/index_1.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/p06PmVt.png" group-title="新聞",ABC News
@@ -367,14 +369,14 @@ https://feeds.intoday.in/hltapps/api/master.m3u8
 https://mbnowweb-lh.akamaihd.net/i/MRN_1@346545/master.m3u8
 #EXTINF:0 tvg-logo="https://static.newsx.com/wp-content/themes/newsxlite/images/logo2.png" group-title="新聞",News X
 https://streamer.multitvsolution.in/NewsX-c/playlist.m3u8
-#EXTINF:0 tvg-logo="https://cloudfront.timesnownews.com/site/static/web_t3/web_new/images/logo.png" group-title="新聞", Times Now
-http://timesnow-lh.akamaihd.net/i/TNHD_1@129288/index_720_av-p.m3u8
+//#EXTINF:0 tvg-logo="https://cloudfront.timesnownews.com/site/static/web_t3/web_new/images/logo.png" group-title="新聞", Times Now
+//http://timesnow-lh.akamaihd.net/i/TNHD_1@129288/index_720_av-p.m3u8
 #EXTINF:0 tvg-logo="https://static.iptv-epg.com/in/NDTV24x7.in.png" group-title="新聞",NDTV 24X7
 https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/250px-NHK_World.svg.png" group-title="新聞",NHK World
 https://b-nhkwlive-xjp.akamaized.net/hls/live/2003458-b/nhkwlive-xjp/index_1180.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ie/RTENewsNow.ie.png" group-title="新聞",RTE News Now
-http://wmsrtsp1.rte.ie/live/android.sdp/playlist.m3u8
+//#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ie/RTENewsNow.ie.png" group-title="新聞",RTE News Now
+//http://wmsrtsp1.rte.ie/live/android.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ru/RTInternational.ru.png" group-title="新聞",RT International
 http://rt-news.secure.footprint.net:80/1103_2500Kb.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ru/RTUS.ru.png" group-title="新聞",RT US
