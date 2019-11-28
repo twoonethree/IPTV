@@ -23,7 +23,7 @@ https://m.youtube.com/watch?v=ca0pfMlMLDU
 //https://m.youtube.com/watch?v=q2EJ_-YDrYw
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/The_Stand_News_Logo.svg/1200px-The_Stand_News_Logo.svg.png" group-title="直播",立場新聞直播
-https://www.facebook.com/video/playback/playlist.m3u8?v=594765537954638
+https://www.facebook.com/video/playback/playlist.m3u8?v=563717780839853
 
 /// #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/The_Stand_News_Logo.svg/1200px-The_Stand_News_Logo.svg.png" group-title="直播",立場新聞直播2
 /// https://www.facebook.com/video/playback/playlist.m3u8?v=545810329543564 
@@ -65,8 +65,8 @@ https://m.youtube.com/watch?v=oA7zhApVuCw
 //#EXTINF:0 tvg-logo="" group-title="直播",MVM直播
 //https://m.youtube.com/watch?v=-cDwHLmVbGs
 
-#EXTINF:0 tvg-logo="" group-title="直播",拉播新聞直播
-https://m.youtube.com/watch?v=NbI5bMJvnn8
+//#EXTINF:0 tvg-logo="" group-title="直播",拉播新聞直播
+//https://m.youtube.com/watch?v=NbI5bMJvnn8
 
 //#EXTINF:0 tvg-logo="https://www.uyghurcongress.org/cn/wp-content/uploads/2016/09/unnamed.png" group-title="直播",RFA自由亞洲直播
 //https://m.youtube.com/watch?v=aoIHQ9P1Ow0
