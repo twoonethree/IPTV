@@ -58,8 +58,8 @@ https://m.youtube.com/watch?v=8CAEe3MJ8YA
 https://m.youtube.com/watch?v=_RW0BzAIZpE
 
 
-//#EXTINF:0 tvg-logo="" group-title="直播",丘品創作直播
-//https://www.facebook.com/video/playback/playlist.m3u8?v=559542291514112
+#EXTINF:0 tvg-logo="" group-title="直播",丘品創作直播
+https://www.facebook.com/video/playback/playlist.m3u8?v=2416039431971628
 
 //#EXTINF:0 tvg-logo="" group-title="直播",MVM直播
 //https://m.youtube.com/watch?v=-cDwHLmVbGs
