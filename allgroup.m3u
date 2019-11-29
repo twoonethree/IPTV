@@ -39,8 +39,8 @@ https://www.facebook.com/video/playback/playlist.m3u8?v=1809796912487810
 //#EXTINF:0 tvg-logo="https://i.ytimg.com/vi/zVTuyyt-XcA/mqdefault.jpg" group-title="直播",啤梨晚報直播
 //https://www.facebook.com/video/playback/playlist.m3u8?v=2498554627025475https://m.youtube.com/watch?v=oA7zhApVuCw
 
-//#EXTINF:0 tvg-logo="http://bodyedt.com/wordpress/wp-content/uploads/2016/08/logo-s@2x-1.png" group-title="直播",香港大紀元直播
-//https://m.youtube.com/watch?v=1RZW9qmNMkc
+#EXTINF:0 tvg-logo="http://bodyedt.com/wordpress/wp-content/uploads/2016/08/logo-s@2x-1.png" group-title="直播",香港大紀元+新唐人電視直播
+https://m.youtube.com/watch?v=-9y4ExCFKRI
 
 //#EXTINF:0 tvg-logo="http://bodyedt.com/wordpress/wp-content/uploads/2016/08/logo-s@2x-1.png" group-title="直播",香港大紀元直播2
 //https://m.youtube.com/watch?v=xWzq-O_Oh68
