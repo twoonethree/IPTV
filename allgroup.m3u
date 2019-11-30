@@ -42,11 +42,11 @@ https://m.youtube.com/watch?v=cB5roDAMUhU
 //#EXTINF:0 tvg-logo="https://i.ytimg.com/vi/zVTuyyt-XcA/mqdefault.jpg" group-title="直播",啤梨晚報直播
 //https://m.youtube.com/watch?v=NzfJ_eG0O7k
 
-#EXTINF:0 tvg-logo="http://bodyedt.com/wordpress/wp-content/uploads/2016/08/logo-s@2x-1.png" group-title="直播",香港大紀元直播
-https://m.youtube.com/watch?v=PUv3oOfV0LE
+//#EXTINF:0 tvg-logo="http://bodyedt.com/wordpress/wp-content/uploads/2016/08/logo-s@2x-1.png" group-title="直播",香港大紀元直播
+//https://m.youtube.com/watch?v=PUv3oOfV0LE
 
-#EXTINF:0 tvg-logo="http://bodyedt.com/wordpress/wp-content/uploads/2016/08/logo-s@2x-1.png" group-title="直播",香港大紀元直播2
-https://m.youtube.com/watch?v=AareszWeaUg
+//#EXTINF:0 tvg-logo="http://bodyedt.com/wordpress/wp-content/uploads/2016/08/logo-s@2x-1.png" group-title="直播",香港大紀元直播2
+//https://m.youtube.com/watch?v=AareszWeaUg
 
 /// #EXTINF:0 tvg-logo="http://bodyedt.com/wordpress/wp-content/uploads/2016/08/logo-s@2x-1.png" group-title="直播",香港大紀元直播3
 /// https://m.youtube.com/watch?v=PmJ2JskQ4cY
@@ -57,15 +57,15 @@ https://m.youtube.com/watch?v=AareszWeaUg
 ///#EXTINF:0 tvg-logo=https://sohfrance.org/wp-content/uploads/2019/03/logo-eu4-retina.png" group-title="直播",希望之聲-時局放大鏡直播
 ///https://m.youtube.com/watch?v=RfPATDHSaX8
 
-#EXTINF:0 tvg-logo="https://www.post852.com/wp-content/themes/post852v2/img/logo.png" group-title="直播",852郵報直播
-https://m.youtube.com/watch?v=nQ5JjXC53cg
+//#EXTINF:0 tvg-logo="https://www.post852.com/wp-content/themes/post852v2/img/logo.png" group-title="直播",852郵報直播
+//https://m.youtube.com/watch?v=nQ5JjXC53cg
 
 
 //#EXTINF:0 tvg-logo="" group-title="直播",丘品創作直播
 //https://www.facebook.com/video/playback/playlist.m3u8?v=2416039431971628
 
-#EXTINF:0 tvg-logo="" group-title="直播",米報直播
-https://www.facebook.com/video/playback/playlist.m3u8?v=2445363905687339
+//#EXTINF:0 tvg-logo="" group-title="直播",米報直播
+//https://www.facebook.com/video/playback/playlist.m3u8?v=2445363905687339
 
 //#EXTINF:0 tvg-logo="" group-title="直播",MVM直播
 //https://m.youtube.com/watch?v=-cDwHLmVbGs
