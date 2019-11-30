@@ -15,8 +15,8 @@ https://m.youtube.com/watch?v=wjwXatJeM7o
 #EXTINF:0 tvg-logo="https://news.now.com/revamp2014/images/news_logo_400.png" group-title="直播",now直播
 https://m.youtube.com/watch?v=qqfzZvfDhjg
 
-//#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/HK_Cable_TV_logo.svg/220px-HK_Cable_TV_logo.svg.png" group-title="直播",有線新聞直播
-//https://m.youtube.com/watch?v=Fxy45Ep2IPs
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/HK_Cable_TV_logo.svg/220px-HK_Cable_TV_logo.svg.png" group-title="直播",有線新聞直播
+https://m.youtube.com/watch?v=HECFMsgq3_4
 
 //#EXTINF:0 tvg-logo="https://i.pinimg.com/280x280_RS/80/b8/e8/80b8e8362fd4fbb12fa67b76a301eeb8.jpg" group-title="直播",蘋果直播
 //https://m.youtube.com/watch?v=cB5roDAMUhU
