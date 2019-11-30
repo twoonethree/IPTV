@@ -61,8 +61,8 @@ https://m.youtube.com/watch?v=nQ5JjXC53cg
 //#EXTINF:0 tvg-logo="" group-title="直播",丘品創作直播
 //https://www.facebook.com/video/playback/playlist.m3u8?v=2416039431971628
 
-//#EXTINF:0 tvg-logo="" group-title="直播",米報直播
-//https://www.facebook.com/video/playback/playlist.m3u8?v=438146267105068
+#EXTINF:0 tvg-logo="" group-title="直播",米報直播
+https://www.facebook.com/video/playback/playlist.m3u8?v=2445363905687339
 
 //#EXTINF:0 tvg-logo="" group-title="直播",MVM直播
 //https://m.youtube.com/watch?v=-cDwHLmVbGs
