@@ -6,8 +6,8 @@ https://streama-sd2.on.cc/src/smil:remote1.smil/playlist.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Radio_Television_Hong_Kong_Logo.svg/1200px-Radio_Television_Hong_Kong_Logo.svg.png" group-title="直播",RTHK直播 
 https://rthkcnews-lh.akamaihd.net/i/rthknews_1@312607/master.m3u8
 
-#EXTINF:0 tvg-logo="https://assets.post852.com/wp-content/uploads/2014/08/new_hkgolden.png" group-title="直播",高登新聞直播
-https://m.youtube.com/watch?v=NwDBHm38CJM
+//#EXTINF:0 tvg-logo="https://assets.post852.com/wp-content/uploads/2014/08/new_hkgolden.png" group-title="直播",高登新聞直播
+//https://m.youtube.com/watch?v=NwDBHm38CJM
 
 //#EXTINF:0 tvg-logo="https://assets.post852.com/wp-content/uploads/2014/08/new_hkgolden.png" group-title="直播",高登新聞直播
 //https://m.youtube.com/watch?v=wjwXatJeM7o
@@ -19,7 +19,7 @@ https://m.youtube.com/watch?v=NwDBHm38CJM
 //https://m.youtube.com/watch?v=htaOMmQmlY0
 
 #EXTINF:0 tvg-logo="https://i.pinimg.com/280x280_RS/80/b8/e8/80b8e8362fd4fbb12fa67b76a301eeb8.jpg" group-title="直播",蘋果直播
-https://m.youtube.com/watch?v=ps7WlskT-aY
+https://m.youtube.com/watch?v=mUP0hyM7m_0
 
 //#EXTINF:0 tvg-logo="https://i.pinimg.com/280x280_RS/80/b8/e8/80b8e8362fd4fbb12fa67b76a301eeb8.jpg" group-title="直播",蘋果直播2
 //https://m.youtube.com/watch?v=q2EJ_-YDrYw
@@ -42,8 +42,8 @@ https://m.youtube.com/watch?v=ps7WlskT-aY
 //#EXTINF:0 tvg-logo="https://i.ytimg.com/vi/zVTuyyt-XcA/mqdefault.jpg" group-title="直播",啤梨晚報直播
 //https://m.youtube.com/watch?v=NzfJ_eG0O7k
 
-#EXTINF:0 tvg-logo="http://bodyedt.com/wordpress/wp-content/uploads/2016/08/logo-s@2x-1.png" group-title="直播",香港大紀元直播
-https://m.youtube.com/watch?v=qc2ABkUiVbg
+//#EXTINF:0 tvg-logo="http://bodyedt.com/wordpress/wp-content/uploads/2016/08/logo-s@2x-1.png" group-title="直播",香港大紀元直播
+//https://m.youtube.com/watch?v=qc2ABkUiVbg
 
 //#EXTINF:0 tvg-logo="http://bodyedt.com/wordpress/wp-content/uploads/2016/08/logo-s@2x-1.png" group-title="直播",香港大紀元直播2
 //https://m.youtube.com/watch?v=-zIFIrj5Rjs
@@ -75,8 +75,8 @@ https://m.youtube.com/watch?v=qc2ABkUiVbg
 //#EXTINF:0 tvg-logo="https://www.uyghurcongress.org/cn/wp-content/uploads/2016/09/unnamed.png" group-title="直播",RFA自由亞洲直播
 //https://m.youtube.com/watch?v=aoIHQ9P1Ow0
 
-#EXTINF:0 tvg-logo="https://res06.bignox.com/noxinfluencer/youtube/avatar/dec9a2dad8d0e5a5d41be7528c24a2d7.png" group-title="直播",智利仔-English Live直播
-https://m.youtube.com/watch?v=psx7seBplXk
+//#EXTINF:0 tvg-logo="https://res06.bignox.com/noxinfluencer/youtube/avatar/dec9a2dad8d0e5a5d41be7528c24a2d7.png" group-title="直播",智利仔-English Live直播
+//https://m.youtube.com/watch?v=psx7seBplXk
 
 //#EXTINF:0 tvg-logo="" group-title="直播",YTC Live
 //https://m.youtube.com/watch?v=rZUhqjsh6bg
