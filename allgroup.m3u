@@ -81,8 +81,8 @@ https://m.youtube.com/watch?v=3jPGoARbC80
 //#EXTINF:0 tvg-logo="" group-title="直播",YTC Live
 //https://m.youtube.com/watch?v=rZUhqjsh6bg
 
-//#EXTINF:0 tvg-logo="" group-title="直播",HK Live
-//https://m.youtube.com/watch?v=YK6GGtmy7uE
+#EXTINF:0 tvg-logo="" group-title="直播",HK Live
+https://m.youtube.com/watch?v=2igsEFnz1zw
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Legco.svg/1200px-Legco.svg.png" group-title="直播",立法會直播
 https://5b3fd3486b91a.streamlock.net/ChamberF/spf_480p/playlist.m3u8
