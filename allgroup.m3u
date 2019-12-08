@@ -78,8 +78,8 @@ https://m.youtube.com/watch?v=uWNxOK55iI0
 #EXTINF:0 tvg-logo="https://res06.bignox.com/noxinfluencer/youtube/avatar/dec9a2dad8d0e5a5d41be7528c24a2d7.png" group-title="直播",智利仔-English Live直播
 https://m.youtube.com/watch?v=JjcDrAT3DOs
 
-//#EXTINF:0 tvg-logo="" group-title="直播",YTC Live
-//https://m.youtube.com/watch?v=rZUhqjsh6bg
+#EXTINF:0 tvg-logo="" group-title="直播",YTC Live
+https://m.youtube.com/watch?v=V1-U0hvyas0
 
 //#EXTINF:0 tvg-logo="" group-title="直播",HK Live
 //https://m.youtube.com/watch?v=2igsEFnz1zw
