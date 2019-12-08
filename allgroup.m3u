@@ -43,7 +43,7 @@ https://m.youtube.com/watch?v=3dSzdndvoxM
 https://m.youtube.com/watch?v=em1HeD_uVlY
 
 #EXTINF:0 tvg-logo="http://bodyedt.com/wordpress/wp-content/uploads/2016/08/logo-s@2x-1.png" group-title="直播",香港大紀元直播
-https://m.youtube.com/watch?v=uWNxOK55iI0
+https://m.youtube.com/watch?v=pxOAzBr-amM
 
 //#EXTINF:0 tvg-logo="http://bodyedt.com/wordpress/wp-content/uploads/2016/08/logo-s@2x-1.png" group-title="直播",香港大紀元直播2
 //https://m.youtube.com/watch?v=-zIFIrj5Rjs
@@ -57,8 +57,8 @@ https://m.youtube.com/watch?v=uWNxOK55iI0
 ///#EXTINF:0 tvg-logo=https://sohfrance.org/wp-content/uploads/2019/03/logo-eu4-retina.png" group-title="直播",希望之聲-時局放大鏡直播
 ///https://m.youtube.com/watch?v=RfPATDHSaX8
 
-//#EXTINF:0 tvg-logo="https://www.post852.com/wp-content/themes/post852v2/img/logo.png" group-title="直播",852郵報直播
-//https://m.youtube.com/watch?v=oZ7xG1pZ-H4
+#EXTINF:0 tvg-logo="https://www.post852.com/wp-content/themes/post852v2/img/logo.png" group-title="直播",852郵報直播
+https://m.youtube.com/watch?v=6nPKmSdv9Ow
 
 //#EXTINF:0 tvg-logo="" group-title="直播",TLHK直播
 //https://m.youtube.com/watch?v=xjJmvXuKNy0
