@@ -15,8 +15,8 @@ https://rthkcnews-lh.akamaihd.net/i/rthknews_1@312607/master.m3u8
 //#EXTINF:0 tvg-logo="https://news.now.com/revamp2014/images/news_logo_400.png" group-title="直播",now直播
 //https://m.youtube.com/watch?v=_tjSYQqEvG0
 
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/HK_Cable_TV_logo.svg/220px-HK_Cable_TV_logo.svg.png" group-title="直播",有線新聞直播
-https://m.youtube.com/watch?v=itR3pLwvs_Q
+//#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/HK_Cable_TV_logo.svg/220px-HK_Cable_TV_logo.svg.png" group-title="直播",有線新聞直播
+//https://m.youtube.com/watch?v=itR3pLwvs_Q
 
 #EXTINF:0 tvg-logo="https://i.pinimg.com/280x280_RS/80/b8/e8/80b8e8362fd4fbb12fa67b76a301eeb8.jpg" group-title="直播",蘋果直播
 https://m.youtube.com/watch?v=5LTMCelvXFA
@@ -42,8 +42,8 @@ https://m.youtube.com/watch?v=5LTMCelvXFA
 //#EXTINF:0 tvg-logo="https://i.ytimg.com/vi/zVTuyyt-XcA/mqdefault.jpg" group-title="直播",啤梨頻道直播
 //https://m.youtube.com/watch?v=em1HeD_uVlY
 
-//#EXTINF:0 tvg-logo="http://bodyedt.com/wordpress/wp-content/uploads/2016/08/logo-s@2x-1.png" group-title="直播",香港大紀元直播
-//https://m.youtube.com/watch?v=pxOAzBr-amM
+#EXTINF:0 tvg-logo="http://bodyedt.com/wordpress/wp-content/uploads/2016/08/logo-s@2x-1.png" group-title="直播",香港大紀元直播
+https://m.youtube.com/watch?v=ivGPsG9bivI
 
 //#EXTINF:0 tvg-logo="http://bodyedt.com/wordpress/wp-content/uploads/2016/08/logo-s@2x-1.png" group-title="直播",香港大紀元直播2
 //https://m.youtube.com/watch?v=-zIFIrj5Rjs
@@ -69,14 +69,14 @@ https://m.youtube.com/watch?v=5LTMCelvXFA
 //#EXTINF:0 tvg-logo="" group-title="直播",MVM直播
 //https://m.youtube.com/watch?v=-cDwHLmVbGs
 
-//#EXTINF:0 tvg-logo="" group-title="直播",拉播新聞直播
-//https://m.youtube.com/watch?v=NbI5bMJvnn8
+#EXTINF:0 tvg-logo="" group-title="直播",拉播新聞直播
+https://m.youtube.com/watch?v=Ymi4PMJbC14
 
 //#EXTINF:0 tvg-logo="https://www.uyghurcongress.org/cn/wp-content/uploads/2016/09/unnamed.png" group-title="直播",RFA自由亞洲直播
 //https://m.youtube.com/watch?v=aoIHQ9P1Ow0
 
-#EXTINF:0 tvg-logo="https://res06.bignox.com/noxinfluencer/youtube/avatar/dec9a2dad8d0e5a5d41be7528c24a2d7.png" group-title="直播",智利仔-English Live直播
-https://m.youtube.com/watch?v=JjcDrAT3DOs
+//#EXTINF:0 tvg-logo="https://res06.bignox.com/noxinfluencer/youtube/avatar/dec9a2dad8d0e5a5d41be7528c24a2d7.png" group-title="直播",智利仔-English Live直播
+//https://m.youtube.com/watch?v=JjcDrAT3DOs
 
 //#EXTINF:0 tvg-logo="" group-title="直播",YTC Live
 //https://m.youtube.com/watch?v=V1-U0hvyas0
