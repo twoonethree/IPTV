@@ -19,7 +19,7 @@ https://rthkcnews-lh.akamaihd.net/i/rthknews_1@312607/master.m3u8
 //https://m.youtube.com/watch?v=itR3pLwvs_Q
 
 #EXTINF:0 tvg-logo="https://i.pinimg.com/280x280_RS/80/b8/e8/80b8e8362fd4fbb12fa67b76a301eeb8.jpg" group-title="直播",蘋果直播
-https://m.youtube.com/watch?v=dLClT5yWSgA
+https://m.youtube.com/watch?v=0AB59fSmbRQ
 
 //#EXTINF:0 tvg-logo="https://i.pinimg.com/280x280_RS/80/b8/e8/80b8e8362fd4fbb12fa67b76a301eeb8.jpg" group-title="直播",蘋果直播2
 //https://m.youtube.com/watch?v=q2EJ_-YDrYw
@@ -42,8 +42,8 @@ https://m.youtube.com/watch?v=dLClT5yWSgA
 //#EXTINF:0 tvg-logo="https://i.ytimg.com/vi/zVTuyyt-XcA/mqdefault.jpg" group-title="直播",啤梨頻道直播
 //https://m.youtube.com/watch?v=em1HeD_uVlY
 
-//#EXTINF:0 tvg-logo="http://bodyedt.com/wordpress/wp-content/uploads/2016/08/logo-s@2x-1.png" group-title="直播",香港大紀元直播
-//https://m.youtube.com/watch?v=rm15nXph4-0
+#EXTINF:0 tvg-logo="http://bodyedt.com/wordpress/wp-content/uploads/2016/08/logo-s@2x-1.png" group-title="直播",香港大紀元直播
+https://m.youtube.com/watch?v=aoHmXhl8DZQ
 
 //#EXTINF:0 tvg-logo="http://bodyedt.com/wordpress/wp-content/uploads/2016/08/logo-s@2x-1.png" group-title="直播",香港大紀元直播2
 //https://m.youtube.com/watch?v=-zIFIrj5Rjs
