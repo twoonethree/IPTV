@@ -18,8 +18,8 @@ https://rthkcnews-lh.akamaihd.net/i/rthknews_1@312607/master.m3u8
 //#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/HK_Cable_TV_logo.svg/220px-HK_Cable_TV_logo.svg.png" group-title="直播",有線新聞直播
 //https://m.youtube.com/watch?v=9lvp9CGaiio
 
-#EXTINF:0 tvg-logo="https://i.pinimg.com/280x280_RS/80/b8/e8/80b8e8362fd4fbb12fa67b76a301eeb8.jpg" group-title="直播",蘋果直播
-https://m.youtube.com/watch?v=RK3nxAgnO3I
+//#EXTINF:0 tvg-logo="https://i.pinimg.com/280x280_RS/80/b8/e8/80b8e8362fd4fbb12fa67b76a301eeb8.jpg" group-title="直播",蘋果直播
+//https://m.youtube.com/watch?v=RK3nxAgnO3I
 
 //#EXTINF:0 tvg-logo="https://i.pinimg.com/280x280_RS/80/b8/e8/80b8e8362fd4fbb12fa67b76a301eeb8.jpg" group-title="直播",蘋果直播2
 //https://m.youtube.com/watch?v=NvxBArLJbIk
@@ -75,14 +75,14 @@ https://m.youtube.com/watch?v=RK3nxAgnO3I
 //#EXTINF:0 tvg-logo="https://www.uyghurcongress.org/cn/wp-content/uploads/2016/09/unnamed.png" group-title="直播",RFA自由亞洲直播
 //https://m.youtube.com/watch?v=aoIHQ9P1Ow0
 
-#EXTINF:0 tvg-logo="https://res06.bignox.com/noxinfluencer/youtube/avatar/dec9a2dad8d0e5a5d41be7528c24a2d7.png" group-title="直播",智利仔-English Live直播
-https://m.youtube.com/watch?v=WEZoMT7I8Qg
+//#EXTINF:0 tvg-logo="https://res06.bignox.com/noxinfluencer/youtube/avatar/dec9a2dad8d0e5a5d41be7528c24a2d7.png" group-title="直播",智利仔-English Live直播
+//https://m.youtube.com/watch?v=WEZoMT7I8Qg
 
 //#EXTINF:0 tvg-logo="" group-title="直播",YTC Live
 //https://m.youtube.com/watch?v=V1-U0hvyas0
 
-#EXTINF:0 tvg-logo="" group-title="直播",HK Live
-https://m.youtube.com/watch?v=bqiBJR0tmSc
+//#EXTINF:0 tvg-logo="" group-title="直播",HK Live
+//https://m.youtube.com/watch?v=bqiBJR0tmSc
 
 //#EXTINF:0 tvg-logo="" group-title="直播",台灣手足發起請陳小春自首集會實況
 //https://video.fhkg2-1.fna.fbcdn.net/v/t42.26565-2/10000000_500640184130431_5197052464019495881_n.mp4?_nc_cat=107&efg=eyJ2ZW5jb2RlX3RhZyI6Im9lcF9zZCJ9&_nc_ohc=BphyUfwZIycAQlPyquyDLSvUi3kxmol13PAqfkrEeaJOab4Pbi4DhNeRA&_nc_ht=video.fhkg2-1.fna&oh=be6cd0ba474ecb062fde79a5a1356245&oe=5DEBD948
