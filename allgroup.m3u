@@ -2,7 +2,7 @@
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/HK01_logo.png" group-title="直播",HK01直播 
 https://live.cdn.hk01.com/origin/smil:01news.smil/playlist.m3u8
 #EXTINF:0 tvg-logo="https://tv.on.cc/img/ontv_logo.png" group-title="直播",東網電視直播 
-https://streama-sd2.on.cc/src/smil:remote1.smil/playlist.m3u8
+https://streama-news2.on.cc/src/remote1.smil/playlist.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Radio_Television_Hong_Kong_Logo.svg/1200px-Radio_Television_Hong_Kong_Logo.svg.png" group-title="直播",RTHK直播 
 https://rthkcnews-lh.akamaihd.net/i/rthknews_1@312607/master.m3u8
 
