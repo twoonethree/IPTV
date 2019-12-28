@@ -21,8 +21,8 @@ https://m.youtube.com/watch?v=YZx98kRLFT4
 //#EXTINF:0 tvg-logo="https://i.pinimg.com/280x280_RS/80/b8/e8/80b8e8362fd4fbb12fa67b76a301eeb8.jpg" group-title="直播",蘋果直播
 //https://m.youtube.com/watch?v=2BooGLY2z3Y
 
-//#EXTINF:0 tvg-logo="https://i.pinimg.com/280x280_RS/80/b8/e8/80b8e8362fd4fbb12fa67b76a301eeb8.jpg" group-title="直播",蘋果直播2
-//https://m.youtube.com/watch?v=T1xqhLfPP3w
+#EXTINF:0 tvg-logo="https://i.pinimg.com/280x280_RS/80/b8/e8/80b8e8362fd4fbb12fa67b76a301eeb8.jpg" group-title="直播",蘋果直播2
+https://m.youtube.com/watch?v=LHGoesZ4qOw
 
 //#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/The_Stand_News_Logo.svg/1200px-The_Stand_News_Logo.svg.png" group-title="直播",立場新聞直播
 //https://www.facebook.com/video/playback/playlist.m3u8?v=1207609496115002
@@ -60,8 +60,8 @@ https://m.youtube.com/watch?v=L5ua3sNuMaI
 //#EXTINF:0 tvg-logo="https://www.post852.com/wp-content/themes/post852v2/img/logo.png" group-title="直播",852郵報直播
 //https://m.youtube.com/watch?v=ERea5sJKALk
 
-//#EXTINF:0 tvg-logo="" group-title="直播",TLHK直播
-//https://m.youtube.com/watch?v=6kZTrY1vqrM
+#EXTINF:0 tvg-logo="" group-title="直播",TLHK直播
+https://m.youtube.com/watch?v=V5uqMbPCnsI
 
 //#EXTINF:0 tvg-logo="" group-title="直播",TLHK直播2
 //https://m.youtube.com/watch?v=IJG1v3VSfdY
