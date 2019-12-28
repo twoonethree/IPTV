@@ -13,13 +13,13 @@ https://rthkcnews-lh.akamaihd.net/i/rthknews_1@312607/master.m3u8
 //https://www.facebook.com/video/playback/playlist.m3u8?v=807832569657431
 
 #EXTINF:0 tvg-logo="https://news.now.com/revamp2014/images/news_logo_400.png" group-title="直播",now直播
-https://m.youtube.com/watch?v=YZx98kRLFT4
+https://m.youtube.com/watch?v=FwDd_buOS78
 
-//#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/HK_Cable_TV_logo.svg/220px-HK_Cable_TV_logo.svg.png" group-title="直播",有線新聞直播
-//https://m.youtube.com/watch?v=s2EUqo8B580
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/HK_Cable_TV_logo.svg/220px-HK_Cable_TV_logo.svg.png" group-title="直播",有線新聞直播
+https://m.youtube.com/watch?v=31FlmRkE544
 
 #EXTINF:0 tvg-logo="https://i.pinimg.com/280x280_RS/80/b8/e8/80b8e8362fd4fbb12fa67b76a301eeb8.jpg" group-title="直播",蘋果直播
-https://m.youtube.com/watch?v=OJ_fEeqf_Fw
+https://m.youtube.com/watch?v=R9SOmoqEpnQ
 
 #EXTINF:0 tvg-logo="https://i.pinimg.com/280x280_RS/80/b8/e8/80b8e8362fd4fbb12fa67b76a301eeb8.jpg" group-title="直播",蘋果直播2
 https://m.youtube.com/watch?v=LHGoesZ4qOw
@@ -42,8 +42,8 @@ https://m.youtube.com/watch?v=LHGoesZ4qOw
 //#EXTINF:0 tvg-logo="https://i.ytimg.com/vi/zVTuyyt-XcA/mqdefault.jpg" group-title="直播",啤梨頻道直播
 //https://m.youtube.com/watch?v=zLaRdhfkOpM
 
-//#EXTINF:0 tvg-logo="http://bodyedt.com/wordpress/wp-content/uploads/2016/08/logo-s@2x-1.png" group-title="直播",香港大紀元直播
-//https://m.youtube.com/watch?v=L5ua3sNuMaI
+#EXTINF:0 tvg-logo="http://bodyedt.com/wordpress/wp-content/uploads/2016/08/logo-s@2x-1.png" group-title="直播",香港大紀元直播
+https://m.youtube.com/watch?v=xkx0D0-nHxw
 
 //#EXTINF:0 tvg-logo="http://bodyedt.com/wordpress/wp-content/uploads/2016/08/logo-s@2x-1.png" group-title="直播",香港大紀元直播2
 //https://m.youtube.com/watch?v=-zIFIrj5Rjs
