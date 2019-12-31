@@ -12,8 +12,8 @@ https://m.youtube.com/watch?v=aAicwmyL9qw
 //#EXTINF:0 tvg-logo="https://assets.post852.com/wp-content/uploads/2014/08/new_hkgolden.png" group-title="直播",高登新聞直播
 //https://www.facebook.com/video/playback/playlist.m3u8?v=807832569657431
 
-//#EXTINF:0 tvg-logo="https://news.now.com/revamp2014/images/news_logo_400.png" group-title="直播",now直播
-//https://m.youtube.com/watch?v=FwDd_buOS78
+#EXTINF:0 tvg-logo="https://news.now.com/revamp2014/images/news_logo_400.png" group-title="直播",now直播
+https://m.youtube.com/watch?v=ki2gU592Fto
 
 //#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/HK_Cable_TV_logo.svg/220px-HK_Cable_TV_logo.svg.png" group-title="直播",有線新聞直播
 //https://m.youtube.com/watch?v=31FlmRkE544
@@ -78,8 +78,8 @@ https://m.youtube.com/watch?v=6tJRmk9eKZY
 //#EXTINF:0 tvg-logo="https://www.uyghurcongress.org/cn/wp-content/uploads/2016/09/unnamed.png" group-title="直播",RFA自由亞洲直播
 //https://m.youtube.com/watch?v=aoIHQ9P1Ow0
 
-//#EXTINF:0 tvg-logo="https://res06.bignox.com/noxinfluencer/youtube/avatar/dec9a2dad8d0e5a5d41be7528c24a2d7.png" group-title="直播",智利仔-English Live直播
-//https://m.youtube.com/watch?v=CaVXbrEnquM
+#EXTINF:0 tvg-logo="https://res06.bignox.com/noxinfluencer/youtube/avatar/dec9a2dad8d0e5a5d41be7528c24a2d7.png" group-title="直播",智利仔-English Live直播
+https://m.youtube.com/watch?v=hRZwSkORWk0
 
 //#EXTINF:0 tvg-logo="" group-title="直播",YTC Live
 //https://m.youtube.com/watch?v=V1-U0hvyas0
