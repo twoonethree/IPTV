@@ -12,14 +12,14 @@ https://rthkcnews-lh.akamaihd.net/i/rthknews_1@312607/master.m3u8
 //#EXTINF:0 tvg-logo="https://assets.post852.com/wp-content/uploads/2014/08/new_hkgolden.png" group-title="直播",高登新聞直播
 //https://www.facebook.com/video/playback/playlist.m3u8?v=807832569657431
 
-//#EXTINF:0 tvg-logo="https://news.now.com/revamp2014/images/news_logo_400.png" group-title="直播",now直播
-//https://m.youtube.com/watch?v=b62_yJHhp64
+#EXTINF:0 tvg-logo="https://news.now.com/revamp2014/images/news_logo_400.png" group-title="直播",now直播
+https://m.youtube.com/watch?v=aERkKdoXlfA
 
-//#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/HK_Cable_TV_logo.svg/220px-HK_Cable_TV_logo.svg.png" group-title="直播",有線新聞直播
-//https://m.youtube.com/watch?v=Pikj4Myq-_E
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/HK_Cable_TV_logo.svg/220px-HK_Cable_TV_logo.svg.png" group-title="直播",有線新聞直播
+https://m.youtube.com/watch?v=7Pms13dBVc0
 
-//#EXTINF:0 tvg-logo="https://i.pinimg.com/280x280_RS/80/b8/e8/80b8e8362fd4fbb12fa67b76a301eeb8.jpg" group-title="直播",蘋果直播
-//https://m.youtube.com/watch?v=j3rtsmGzjLU
+#EXTINF:0 tvg-logo="https://i.pinimg.com/280x280_RS/80/b8/e8/80b8e8362fd4fbb12fa67b76a301eeb8.jpg" group-title="直播",蘋果直播
+https://m.youtube.com/watch?v=aVGfh64cfGc
 
 //#EXTINF:0 tvg-logo="https://i.pinimg.com/280x280_RS/80/b8/e8/80b8e8362fd4fbb12fa67b76a301eeb8.jpg" group-title="直播",蘋果直播2
 //https://m.youtube.com/watch?v=LHGoesZ4qOw
@@ -51,20 +51,20 @@ https://rthkcnews-lh.akamaihd.net/i/rthknews_1@312607/master.m3u8
 /// #EXTINF:0 tvg-logo="http://bodyedt.com/wordpress/wp-content/uploads/2016/08/logo-s@2x-1.png" group-title="直播",香港大紀元直播3
 /// https://m.youtube.com/watch?v=PmJ2JskQ4cY
 
-//#EXTINF:0 tvg-logo="https://www.visiontimes.hk/themes/kanzhongguo/img/keu_logo.png" group-title="直播",香江望神洲直播
-//https://m.youtube.com/watch?v=dDDSr2BZrNM
+#EXTINF:0 tvg-logo="https://www.visiontimes.hk/themes/kanzhongguo/img/keu_logo.png" group-title="直播",香江望神洲直播
+https://m.youtube.com/watch?v=Fc3FYTWedi4
 
 ///#EXTINF:0 tvg-logo=https://sohfrance.org/wp-content/uploads/2019/03/logo-eu4-retina.png" group-title="直播",希望之聲-時局放大鏡直播
 ///https://m.youtube.com/watch?v=RfPATDHSaX8
 
-//#EXTINF:0 tvg-logo="https://www.post852.com/wp-content/themes/post852v2/img/logo.png" group-title="直播",852郵報直播
-//https://m.youtube.com/watch?v=EOGMttsJgKA
+#EXTINF:0 tvg-logo="https://www.post852.com/wp-content/themes/post852v2/img/logo.png" group-title="直播",852郵報直播
+https://m.youtube.com/watch?v=rh3OS8ksT8U
 
 //#EXTINF:0 tvg-logo="https://www.post852.com/wp-content/themes/post852v2/img/logo.png" group-title="直播",852郵報直播2
 //https://m.youtube.com/watch?v=JqgKvyhsjsE
 
-//#EXTINF:0 tvg-logo="" group-title="直播",TLHK直播
-//https://m.youtube.com/watch?v=SrN-L-EQCw4
+#EXTINF:0 tvg-logo="" group-title="直播",TLHK直播
+https://m.youtube.com/watch?v=VaN04N9r8ig
 
 //#EXTINF:0 tvg-logo="" group-title="直播",RFA自由亞洲直播
 //https://m.youtube.com/watch?v=Hqa9QdRNCuk
@@ -87,8 +87,8 @@ https://rthkcnews-lh.akamaihd.net/i/rthknews_1@312607/master.m3u8
 //#EXTINF:0 tvg-logo="" group-title="直播",YTC Live
 //https://m.youtube.com/watch?v=V1-U0hvyas0
 
-//#EXTINF:0 tvg-logo="" group-title="直播",HK Live
-//https://m.youtube.com/watch?v=GV_uW2qM24I
+#EXTINF:0 tvg-logo="" group-title="直播",HK Live
+https://m.youtube.com/watch?v=-Qr_3Rg0K9Y
 
 //#EXTINF:0 tvg-logo="" group-title="直播",HK Live
 //https://m.youtube.com/watch?v=LZttihGHEcw
