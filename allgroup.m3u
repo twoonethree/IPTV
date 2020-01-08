@@ -6,8 +6,8 @@ https://stream-sd2.on.cc/src/smil:remote1.smil/playlist.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Radio_Television_Hong_Kong_Logo.svg/1200px-Radio_Television_Hong_Kong_Logo.svg.png" group-title="直播",RTHK直播 
 https://rthkcnews-lh.akamaihd.net/i/rthknews_1@312607/master.m3u8
 
-//#EXTINF:0 tvg-logo="https://assets.post852.com/wp-content/uploads/2014/08/new_hkgolden.png" group-title="直播",高登新聞直播
-//https://m.youtube.com/watch?v=gWJ2G4Te7Vo
+#EXTINF:0 tvg-logo="https://assets.post852.com/wp-content/uploads/2014/08/new_hkgolden.png" group-title="直播",高登新聞直播
+https://m.youtube.com/watch?v=t5UtuqwfVCo
 
 //#EXTINF:0 tvg-logo="https://assets.post852.com/wp-content/uploads/2014/08/new_hkgolden.png" group-title="直播",高登新聞直播
 //https://www.facebook.com/video/playback/playlist.m3u8?v=807832569657431
@@ -42,8 +42,8 @@ https://rthkcnews-lh.akamaihd.net/i/rthknews_1@312607/master.m3u8
 //#EXTINF:0 tvg-logo="https://i.ytimg.com/vi/zVTuyyt-XcA/mqdefault.jpg" group-title="直播",啤梨頻道直播
 //https://m.youtube.com/watch?v=I8dwptCP_Dc
 
-//#EXTINF:0 tvg-logo="http://bodyedt.com/wordpress/wp-content/uploads/2016/08/logo-s@2x-1.png" group-title="直播",香港大紀元直播
-//https://m.youtube.com/watch?v=UY48bzHsmv4
+#EXTINF:0 tvg-logo="http://bodyedt.com/wordpress/wp-content/uploads/2016/08/logo-s@2x-1.png" group-title="直播",香港大紀元直播
+https://m.youtube.com/watch?v=pyCtpdFLDE0
 
 //#EXTINF:0 tvg-logo="http://bodyedt.com/wordpress/wp-content/uploads/2016/08/logo-s@2x-1.png" group-title="直播",香港大紀元直播2
 //https://m.youtube.com/watch?v=-zIFIrj5Rjs
@@ -63,8 +63,8 @@ https://rthkcnews-lh.akamaihd.net/i/rthknews_1@312607/master.m3u8
 //#EXTINF:0 tvg-logo="https://www.post852.com/wp-content/themes/post852v2/img/logo.png" group-title="直播",852郵報直播2
 //https://m.youtube.com/watch?v=JqgKvyhsjsE
 
-//#EXTINF:0 tvg-logo="" group-title="直播",TLHK直播
-//https://m.youtube.com/watch?v=VaN04N9r8ig
+#EXTINF:0 tvg-logo="" group-title="直播",TLHK直播
+https://m.youtube.com/watch?v=yVbyabvCJa0
 
 //#EXTINF:0 tvg-logo="" group-title="直播",RFA自由亞洲直播
 //https://m.youtube.com/watch?v=Hqa9QdRNCuk
