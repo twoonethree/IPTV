@@ -87,8 +87,8 @@ https://m.youtube.com/watch?v=onV9qEnuE_k
 //#EXTINF:0 tvg-logo="" group-title="直播",YTC Live
 //https://m.youtube.com/watch?v=V1-U0hvyas0
 
-//#EXTINF:0 tvg-logo="" group-title="直播",HK Live
-//https://m.youtube.com/watch?v=UumrSuR5U7c
+#EXTINF:0 tvg-logo="" group-title="直播",HK Live
+https://m.youtube.com/watch?v=NefVAwuvLXA
 
 //#EXTINF:0 tvg-logo="" group-title="直播",HK Live
 //https://m.youtube.com/watch?v=LZttihGHEcw
