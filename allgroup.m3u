@@ -12,8 +12,8 @@ https://m.youtube.com/watch?v=BDbtBE4meVw
 //#EXTINF:0 tvg-logo="https://assets.post852.com/wp-content/uploads/2014/08/new_hkgolden.png" group-title="直播",高登新聞直播
 //https://www.facebook.com/video/playback/playlist.m3u8?v=807832569657431
 
-//#EXTINF:0 tvg-logo="https://news.now.com/revamp2014/images/news_logo_400.png" group-title="直播",now直播
-//https://m.youtube.com/watch?v=Eyl85IX6aJY
+#EXTINF:0 tvg-logo="https://news.now.com/revamp2014/images/news_logo_400.png" group-title="直播",now直播
+https://m.youtube.com/watch?v=lP7s2Z1UPsw
 
 //#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/HK_Cable_TV_logo.svg/220px-HK_Cable_TV_logo.svg.png" group-title="直播",有線新聞直播
 //https://m.youtube.com/watch?v=Kh5NjUbUHDY
