@@ -21,8 +21,8 @@ https://m.youtube.com/watch?v=lP7s2Z1UPsw
 #EXTINF:0 tvg-logo="https://i.pinimg.com/280x280_RS/80/b8/e8/80b8e8362fd4fbb12fa67b76a301eeb8.jpg" group-title="直播",蘋果直播
 https://m.youtube.com/watch?v=Y6RD1dZHPKI
 
-//#EXTINF:0 tvg-logo="https://i.pinimg.com/280x280_RS/80/b8/e8/80b8e8362fd4fbb12fa67b76a301eeb8.jpg" group-title="直播",蘋果直播2
-//https://m.youtube.com/watch?v=LHGoesZ4qOw
+#EXTINF:0 tvg-logo="https://i.pinimg.com/280x280_RS/80/b8/e8/80b8e8362fd4fbb12fa67b76a301eeb8.jpg" group-title="直播",蘋果直播2
+https://m.youtube.com/watch?v=ID3pQZDglsI
 
 //#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/The_Stand_News_Logo.svg/1200px-The_Stand_News_Logo.svg.png" group-title="直播",立場新聞直播
 //https://www.facebook.com/video/playback/playlist.m3u8?v=1207609496115002
