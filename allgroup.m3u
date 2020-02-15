@@ -19,7 +19,7 @@ https://rthkcnews-lh.akamaihd.net/i/rthknews_1@312607/master.m3u8
 //https://m.youtube.com/watch?v=_1P7q65dbs8
 
 #EXTINF:0 tvg-logo="https://i.pinimg.com/280x280_RS/80/b8/e8/80b8e8362fd4fbb12fa67b76a301eeb8.jpg" group-title="直播",蘋果直播
-https://m.youtube.com/watch?v=Q2VymuHW_oU
+https://m.youtube.com/watch?v=971oS4GIMQ8
 
 //#EXTINF:0 tvg-logo="https://i.pinimg.com/280x280_RS/80/b8/e8/80b8e8362fd4fbb12fa67b76a301eeb8.jpg" group-title="直播",蘋果直播
 //https://m.youtube.com/watch?v=ID3pQZDglsI
@@ -40,10 +40,10 @@ https://m.youtube.com/watch?v=Q2VymuHW_oU
 /// https://www.facebook.com/video/playback/playlist.m3u8?v=3122332381170754 
 
 #EXTINF:0 tvg-logo="https://i.ytimg.com/vi/zVTuyyt-XcA/mqdefault.jpg" group-title="直播",啤梨頻道直播
-https://m.youtube.com/watch?v=1c_wPZaxXcc
+https://m.youtube.com/watch?v=XWM_zXNITW0
 
-//#EXTINF:0 tvg-logo="http://bodyedt.com/wordpress/wp-content/uploads/2016/08/logo-s@2x-1.png" group-title="直播",香港大紀元直播
-//https://m.youtube.com/watch?v=RTJKTODY_ac
+#EXTINF:0 tvg-logo="http://bodyedt.com/wordpress/wp-content/uploads/2016/08/logo-s@2x-1.png" group-title="直播",香港大紀元直播
+https://m.youtube.com/watch?v=QlkMfmBPGDk
 
 //#EXTINF:0 tvg-logo="http://bodyedt.com/wordpress/wp-content/uploads/2016/08/logo-s@2x-1.png" group-title="直播",香港大紀元直播2
 //https://m.youtube.com/watch?v=-zIFIrj5Rjs
@@ -58,7 +58,7 @@ https://m.youtube.com/watch?v=1c_wPZaxXcc
 ///https://m.youtube.com/watch?v=RfPATDHSaX8
 
 #EXTINF:0 tvg-logo="https://www.post852.com/wp-content/themes/post852v2/img/logo.png" group-title="直播",852郵報直播
-https://m.youtube.com/watch?v=EY68hF81Yfw
+https://m.youtube.com/watch?v=fdsbMnJmh34
 
 //#EXTINF:0 tvg-logo="https://www.post852.com/wp-content/themes/post852v2/img/logo.png" group-title="直播",852郵報直播2
 //https://m.youtube.com/watch?v=JqgKvyhsjsE
@@ -87,8 +87,8 @@ https://m.youtube.com/watch?v=EY68hF81Yfw
 //#EXTINF:0 tvg-logo="" group-title="直播",YTC Live
 //https://m.youtube.com/watch?v=V1-U0hvyas0
 
-#EXTINF:0 tvg-logo="" group-title="直播",HK Live
-https://m.youtube.com/watch?v=bHoTID5wmDg
+//#EXTINF:0 tvg-logo="" group-title="直播",HK Live
+//https://m.youtube.com/watch?v=bHoTID5wmDg
 
 //#EXTINF:0 tvg-logo="" group-title="直播",HK Live
 //https://m.youtube.com/watch?v=LZttihGHEcw
