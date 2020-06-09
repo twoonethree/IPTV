@@ -36,19 +36,11 @@ https://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_2052_av-b.m3u8
 https://www.rthk.hk/feeds/dtt/rthktv32_https.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.pcne.tv/files/images/2017/our%20company/Phoenix_InfoNews.svg.png" tvg-name="凤凰资讯" group-title="香港",鳳凰資訊HD
-http://117.169.120.138:8080/live/fhzixun/.m3u8
+http://live.centerch.com/fhzx.m3u8
 #EXTINF:-1 tvg-logo="http://www.luanlishi.com/uploads/allimg/180328/0FI55212_0.jpg" tvg-name="凤凰香港" group-title="香港",鳳凰香港高清
 http://223.82.250.72/live/fhhongkong/1.m3u8
 
 #EXTINF:0 tvg-logo="http://www.nettv.live/uploads/18/1-1P602154AA34.jpg" group-title="香港",耀才財經台
 http://202.69.67.66:443/webcast/bshdlive-mobile/playlist.m3u8
 
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/HK01_logo.png" group-title="直播",HK01直播 
-https://live.cdn.hk01.com/origin/smil:01news.smil/playlist.m3u8
-#EXTINF:0 tvg-logo="https://tv.on.cc/img/ontv_logo.png" group-title="直播",東網電視直播 
-https://stream-sd2.on.cc/src/smil:remote1_hd.smil/chunklist_b3628000.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Radio_Television_Hong_Kong_Logo.svg/1200px-Radio_Television_Hong_Kong_Logo.svg.png" group-title="直播",RTHK直播 
-https://rthkcnews-lh.akamaihd.net/i/rthknews_1@312607/master.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Legco.svg/1200px-Legco.svg.png" group-title="直播",立法會直播
-https://5b3fd3486b91a.streamlock.net/ChamberF/spf_480p/playlist.m3u8
 
