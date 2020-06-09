@@ -14,16 +14,21 @@ http://viutv99-i.akamaihd.net/hls/live/265284/live1/master.m3u8
 
 #EXTINF:0 tvg-logo="http://mo.heytv.org/wp-content/uploads/2018/12/1-1Q1052133164b.jpg" tvg-name="香港開電視" group-title="香港",香港開電視 
 http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
-
 #EXTINF:0 tvg-logo="http://mo.heytv.org/wp-content/uploads/2018/12/1-1Q01420544J23.jpg" group-title="香港",有線新聞台
 https://ottproxy2.mott.tv/livehls/MOB-SCC/index.m3u8
+#EXTINF:0 tvg-logo="https://cdn.thestandnews.com/media/photos/cache/cable_WwZXL_1200x0.png" group-title="香港",有線直播台
+https://ottpr
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/a/a9/Cabletv_fn_logo.jpg" group-title="香港",有線財經資訊台
-https://icable.cdn.utvhk.com/live/5bcdb730f6be41868ac15afffbb67152/3d27db5ab65942eda36b25374669990d.m3u8
+https://ottproxy2.mott.tv/livehls/MOB-NGW/index.m3u8
+#EXTINF:0 tvg-logo="https://cdn.thestandnews.com/media/photos/cache/cable_WwZXL_1200x0.png" group-title="香港",有線娛樂台
+https://ottproxy2.mott.tv/livehls/MOB-CN/index.m3u8
+
 
 #EXTINF:0 tvg-logo="https://news.now.com/revamp2014/images/news_logo_400.png" group-title="香港",Now新聞台
 http://wowgua.com/live/channel_332.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Now_Live_News_logo.svg/1200px-Now_Live_News_logo.svg.png" group-title="香港",Now直播台
 http://wowgua.com/live/channel_331.m3u8
+
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/RTHK_TV_31.svg/1200px-RTHK_TV_31.svg.png" tvg-name="rtvk31" group-title="香港",rthk31 
 https://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_2052_av-b.m3u8
