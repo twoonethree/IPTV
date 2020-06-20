@@ -22,6 +22,8 @@ https://ottproxy2.mott.tv/livehls/MOB-SCC/index.m3u8
 https://ottproxy2.mott.tv/livehls/MOB-NGW/index.m3u8
 #EXTINF:0 tvg-logo="https://cdn.thestandnews.com/media/photos/cache/cable_WwZXL_1200x0.png" group-title="香港",有線娛樂台
 https://ottproxy2.mott.tv/livehls/MOB-CN/index.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/f/f5/I-CABLE_Channel18.png/220px-I-CABLE_Channel18.png" group-title="香港",有線18台
+http://107.148.240.185:13164/play.m3u8?token=lviuwvhjLORphm1Qy8C7Mni%2B&tid=gt&id=32
 
 
 #EXTINF:0 tvg-logo="https://news.now.com/revamp2014/images/news_logo_400.png" group-title="香港",Now新聞台
