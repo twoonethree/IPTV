@@ -39,8 +39,11 @@ https://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_2052_av-b.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/QkV6eqz.jpg" tvg-name="rthk32" group-title="香港",rthk32
 https://www.rthk.hk/feeds/dtt/rthktv32_https.m3u8
 
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/3/34/Phoenix_Chinese.svg/1200px-Phoenix_Chinese.svg.png" tvg-name="凤凰中文" group-title="香港",鳳凰衛視中文
+http://107.148.240.185:13164/play.m3u8?token=HaN2l3SncvUSQwYfn8BEhIHh&tid=gt&id=2
 #EXTINF:-1 tvg-logo="https://www.pcne.tv/files/images/2017/our%20company/Phoenix_InfoNews.svg.png" tvg-name="凤凰资讯" group-title="香港",鳳凰資訊HD
-http://live.centerch.com/fhzx.m3u8
+http://107.148.240.185:13164/play.m3u8?token=yNMnBcO4tP5NLZ7RnkLwaohR&tid=gt&id=3
 #EXTINF:-1 tvg-logo="http://www.luanlishi.com/uploads/allimg/180328/0FI55212_0.jpg" tvg-name="凤凰香港" group-title="香港",鳳凰香港高清
 http://223.82.250.72/live/fhhongkong/1.m3u8
 
