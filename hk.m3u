@@ -23,9 +23,9 @@ https://ottproxy2.mott.tv/livehls/MOB-NGW/index.m3u8
 #EXTINF:0 tvg-logo="https://cdn.thestandnews.com/media/photos/cache/cable_WwZXL_1200x0.png" group-title="香港",有線娛樂台
 https://ottproxy2.mott.tv/livehls/MOB-CN/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/f/f5/I-CABLE_Channel18.png/220px-I-CABLE_Channel18.png" group-title="香港",有線18台
-http://107.148.240.185:13164/play.m3u8?token=lviuwvhjLORphm1Qy8C7Mni%2B&tid=gt&id=32
+http://pullstream-ucan.speedws.com/live/65a9327d633a25634b1db9eff823071e/playlist.m3u8
 #EXTINF:0 tvg-logo="http://mo.heytv.org/wp-content/uploads/2018/12/1-1Q113132S50-L.jpg" group-title="香港",有線603台
-http://107.148.240.185:13164/play.m3u8?token=0oIwBZQOfTeikMtDmIV3SpAG&tid=gt&id=33
+http://pullstream-ucan.speedws.com/live/d910706635c34f85df619019bf9ca089/playlist.m3u8
 
 
 #EXTINF:0 tvg-logo="https://news.now.com/revamp2014/images/news_logo_400.png" group-title="香港",Now新聞台
