@@ -45,7 +45,7 @@ https://0c2a4b66b4507225496222b26a9d35f3.live.prod.hkatv.com/p3_cbr_hi_1080p.m3u
 #EXTINF:-1 tvg-logo="https://www.pcne.tv/files/images/2017/our%20company/Phoenix_InfoNews.svg.png" tvg-name="凤凰资讯" group-title="香港",鳳凰資訊HD
 http://live.centerch.com/fhzx.m3u8
 #EXTINF:-1 tvg-logo="http://www.luanlishi.com/uploads/allimg/180328/0FI55212_0.jpg" tvg-name="凤凰香港" group-title="香港",鳳凰香港高清
-http://223.82.250.72/live/fhhongkong/1.m3u8
+https://2d9177eadbb3094826e878458d4300c3.live.prod.hkatv.com/p2_cbr_lo_720p.m3u8
 
 #EXTINF:0 tvg-logo="http://www.nettv.live/uploads/18/1-1P602154AA34.jpg" group-title="香港",耀才財經台
 http://202.69.67.66:443/webcast/bshdlive-mobile/playlist.m3u8
