@@ -39,11 +39,8 @@ https://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_2052_av-b.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/QkV6eqz.jpg" tvg-name="rthk32" group-title="香港",rthk32
 https://www.rthk.hk/feeds/dtt/rthktv32_https.m3u8
 
-
-
 #EXTINF:-1 tvg-logo="https://www.hkatv.com/images/atv_logo_200x200.png" tvg-name="亞洲電視" group-title="香港",亞洲電視ATV
-https://0c2a4b66b4507225496222b26a9d35f3.live.prod.hkatv.com/p3_cbr_hi_1080p.m3u8
-
+https://15813114727637862976168173814320.live.prod.hkatv.com/a1_cbr_lo.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/3/34/Phoenix_Chinese.svg/1200px-Phoenix_Chinese.svg.png" tvg-name="凤凰中文" group-title="香港",鳳凰衛視中文
 https://0c2a4b66b4507225496222b26a9d35f3.live.prod.hkatv.com/p3_cbr_hi_1080p.m3u8
