@@ -21,8 +21,8 @@ http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
 
 #EXTINF:0 tvg-logo="http://mo.heytv.org/wp-content/uploads/2018/12/1-1Q01420544J23.jpg" group-title="香港",有線新聞台
 http://livetv.dnsfor.me/channel.5.m3u8
-//#EXTINF:0 tvg-logo="https://cdn.thestandnews.com/media/photos/cache/cable_WwZXL_1200x0.png" group-title="香港",有線直播台
-//https://ottpr
+#EXTINF:0 tvg-logo="https://cdn.thestandnews.com/media/photos/cache/cable_WwZXL_1200x0.png" group-title="香港",有線新聞直播台
+http://teslagram.com/live/channel_110.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/a/a9/Cabletv_fn_logo.jpg" group-title="香港",有線財經資訊台
 http://livetv.dnsfor.me/channel.6.m3u8
 #EXTINF:0 tvg-logo="https://cdn.thestandnews.com/media/photos/cache/cable_WwZXL_1200x0.png" group-title="香港",有線綜合娛樂台
