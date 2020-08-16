@@ -39,7 +39,7 @@ http://teslagram.com/live/channel_331.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/RTHK_TV_31.svg/1200px-RTHK_TV_31.svg.png" tvg-name="rtvk31" group-title="香港",rthk31 
 https://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_2052_av-b.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/QkV6eqz.jpg" tvg-name="rthk32" group-title="香港",rthk32
-https://www.rthk.hk/feeds/dtt/rthktv32_https.m3u8
+http://livetv.dnsfor.me/channel.2.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.hkatv.com/images/atv_logo_200x200.png" tvg-name="亞洲電視" group-title="香港",亞洲電視ATV
 https://15813114727637862976168173814320.live.prod.hkatv.com/a1_cbr_lo.m3u8
