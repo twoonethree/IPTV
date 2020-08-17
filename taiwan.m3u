@@ -52,6 +52,8 @@ https://www.youtube.com/watch?v=TL8mmew3jb8
 //http://104.250.154.42:8080/ZZ_zhongtiannews/ZZ_zhongtiannews.m3u8
 #EXTINF:0 tvg-logo="https://3.bp.blogspot.com/-_9niIIOucnE/Wh6RRwiCnVI/AAAAAAAAAaE/DEUEZnI48G06TlRtumi7DDJBlRkEwrybQCLcBGAs/s1600/CH52.png" group-title="台灣",中天新聞
 http://104.250.154.42:8080/ZZ_zhongtiannews/ZZ_zhongtiannews.m3u8
+#EXTINF:0 tvg-logo="https://twg.skyking.com.tw/skyking/Icon/CTI-036-250x130.png" group-title="台灣",中天綜合
+http://104.250.154.42:8080/ZZ_zhongtianzonghe/ZZ_zhongtianzonghe.m3u8
 
 //#EXTINF:0 tvg-logo="https://i.ytimg.com/vi/M7em79z_o3A/hqdefault.jpg" group-title="新聞",BCC中廣新聞網
 //https://www.youtube.com/watch?v=rgp-R3GyZJs
