@@ -62,11 +62,11 @@ http://104.250.154.42:8080/ZZ_zhongtiannews/ZZ_zhongtiannews.m3u8
 https://live.ntdimg.com/aplive200/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/w6apld6.png" group-title="台灣",Da Ai
-https://wowzaprodhd44-lh.akamaihd.net/i/953b6364_1@580145/master.m3u8
+https://www.youtube.com/watch?v=oV_i3Hsl_zg
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/PmD2WwD.jpg" group-title="台灣",Da Ai 2
-https://wowzaprodhd17-lh.akamaihd.net/i/46021e1e_1@576535/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/w6apld6.png" group-title="台灣",Da Ai Taiwan
-https://wowzaprodhd28-lh.akamaihd.net/i/a74135ef_1@577349/master.m3u8
+https://www.youtube.com/watch?v=DTNkEm6jaqQ
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/w6apld6.png" group-title="台灣",Da Ai海外
+https://www.youtube.com/watch?v=MIqUplvSRWA
 
 
 
