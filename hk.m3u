@@ -14,7 +14,7 @@ http://livetv.dnsfor.me/channel.19.m3u8
 http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=&Fsv_chan_hls_se_idx=12
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/ViuTV_logo.svg/1280px-ViuTV_logo.svg.png" tvg-name="viutv" group-title="香港",viuTV 
-http://107.148.240.185:13164/play.m3u8?token=wo7JUMryMxKpVJRN5yJL0%2FTd&tid=gt&id=8
+http://107.148.240.185:13164/play.m3u8?token=k9KdVpvzMBSpVJRN5iZM1PbR&tid=gt&id=8
 
 #EXTINF:0 tvg-logo="https://www.cabletv.com.hk/file/tv_channel/_c200x200/p5bd2c55f6ea73.png" tvg-name="香港開電視" group-title="香港",香港開電視 
 http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
