@@ -6,6 +6,9 @@ http://etomatomobile.hscdn.com/artemobile/livestream/playlist.m3u8
 http://bbstv.clouducs.com:1935/bbstv-live/livestream/chunklist_w1216149699.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/CBS_logo.svg/1176px-CBS_logo.svg.png" group-title="韓國",CBS
 http://cbs-live.gscdn.com:1935/cbs-live/cbs-live.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/kr-edaily-tv.jpg" group-title="韓國",Edaily TV
+http://edaily.flive.skcdn.com:1935/high/livestream/playlist.m3u8
+
 //#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/KBS_1_logo.svg/440px-KBS_1_logo.svg.png" group-title="韓國",KBS1
 //http://122.129.115.21:1935/edgedol/_definst_/tao107/playlist.m3u8
 //#EXTINF:-1 tvg-logo="https://photo.sofun.tw/2015/12/KBS-TV-Live-Logo.jpg" group-title="韓國",KBS2
