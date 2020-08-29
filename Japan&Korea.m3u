@@ -22,11 +22,10 @@ http://ebsonair.ebs.co.kr:1935/plus3familypc/familypc1m/playlist.m3u8
 //http://ebsonair.ebs.co.kr:1935/ebsutablet500k/tablet500k/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="韓國",Fishing TV
 http://media.fishingtv.kr:1935/mobileLIVE/_definst_/mp4:livestream.sdp/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="韓國",G1
+#EXTINF:-1 tvg-logo="https://www.nettv.live/uploads/19/1-1Z206233213Z5.jpg" group-title="韓國",G1
 http://smart.igtb.co.kr:1935/live/stream.sdp/playlist.m3u8?checkedby:hlscat.com
 #EXTINF:-1 tvg-logo="" group-title="韓國",Gugbang TV
 http://mediaworks.dema.mil.kr:1935/live_edge/cudo.sdp/playlist.m3u8
-
 
 //#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/KBS_1_logo.svg/440px-KBS_1_logo.svg.png" group-title="韓國",KBS1
 //http://122.129.115.21:1935/edgedol/_definst_/tao107/playlist.m3u8
