@@ -1,15 +1,15 @@
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/KBS_1_logo.svg/440px-KBS_1_logo.svg.png" group-title="韓國",KBS1
-http://122.129.115.21:1935/edgedol/_definst_/tao107/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://photo.sofun.tw/2015/12/KBS-TV-Live-Logo.jpg" group-title="韓國",KBS2
-http://122.129.115.21:1935/edgedol/_definst_/tao108/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://daewonmedia.com/wp-content/uploads/2016/05/anibox1-300x102.png" group-title="韓國",Anibox 한국어
-http://122.129.115.21:1935/edgedol/_definst_/tao113/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://s.iimg.me/ver3/images/gnb/635034453161457500.png" group-title="韓國",Ch CGV
-http://122.129.115.21:1935/edgedol/_definst_/tao103/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.ctsnyc.tv/wp-content/uploads/2018/06/CTS%EB%89%B4%EC%9A%95%EB%B0%A9%EC%86%A1-%EB%A1%9C%EA%B3%A0-e1528759630890.jpg"  group-title="韓國",CTS
-http://122.129.115.21:1935/edgedol/_definst_/tao136/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/nz/DisneyJunior.nz.png" group-title="韓國",Disney Jr 한국어
-http://122.129.115.21:1935/edgedol/_definst_/tao112/playlist.m3u8
+//#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/KBS_1_logo.svg/440px-KBS_1_logo.svg.png" group-title="韓國",KBS1
+//http://122.129.115.21:1935/edgedol/_definst_/tao107/playlist.m3u8
+//#EXTINF:-1 tvg-logo="https://photo.sofun.tw/2015/12/KBS-TV-Live-Logo.jpg" group-title="韓國",KBS2
+//http://122.129.115.21:1935/edgedol/_definst_/tao108/playlist.m3u8
+//#EXTINF:-1 tvg-logo="http://daewonmedia.com/wp-content/uploads/2016/05/anibox1-300x102.png" group-title="韓國",Anibox 한국어
+//http://122.129.115.21:1935/edgedol/_definst_/tao113/playlist.m3u8
+//#EXTINF:-1 tvg-logo="http://s.iimg.me/ver3/images/gnb/635034453161457500.png" group-title="韓國",Ch CGV
+//http://122.129.115.21:1935/edgedol/_definst_/tao103/playlist.m3u8
+//#EXTINF:-1 tvg-logo="http://www.ctsnyc.tv/wp-content/uploads/2018/06/CTS%EB%89%B4%EC%9A%95%EB%B0%A9%EC%86%A1-%EB%A1%9C%EA%B3%A0-e1528759630890.jpg"  group-title="韓國",CTS
+//http://122.129.115.21:1935/edgedol/_definst_/tao136/playlist.m3u8
+//#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/nz/DisneyJunior.nz.png" group-title="韓國",Disney Jr 한국어
+//http://122.129.115.21:1935/edgedol/_definst_/tao112/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/8b/Channels_ebs1.png" group-title="韓國", EBS 1
 http://ebsonair.ebs.co.kr:1935/ebs1familypc/familypc1m/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/56/EBS_2TV_Logo.png" group-title="韓國", EBS 2
@@ -20,8 +20,8 @@ http://ebsonair.ebs.co.kr:1935/plus1familypc/familypc1m/chunklist.m3u8
 http://ebsonair.ebs.co.kr:1935/plus2familypc/familypc1m/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://s11.mogucdn.com/mlcdn/fe720b/190409_8186hcgj0j59bdllbacj8k8cabjjg_240x149.jpg" group-title="韓國", EBSe
 http://ebsonair.ebs.co.kr:1935/plus3familypc/familypc1m/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/cb/AKR20120628019000005_01_i.jpg" group-title="韓國",EBS Kids
-http://ebsonair.ebs.co.kr:1935/ebsutablet500k/tablet500k/playlist.m3u8
+//#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/cb/AKR20120628019000005_01_i.jpg" group-title="韓國",EBS Kids
+//http://ebsonair.ebs.co.kr:1935/ebsutablet500k/tablet500k/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.billboard.com/files/styles/landscape_768/public/media/HallyPOP-Logo-2018-billboard-1548.jpg" group-title="韓國",HallyPOP
 https://809.cdn.nextologies.com/ngrp:Player.stream_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/aotg/k-plus/pos/k-plus_300.png" group-title="韓國",K+
