@@ -47,6 +47,13 @@ http://livetv.dnsfor.me/channel.2.m3u8
 #EXTINF:-1 tvg-logo="https://www.hkatv.com/images/atv_logo_200x200.png" tvg-name="亞洲電視" group-title="香港",亞洲電視ATV
 https://15813114727637862976168173814320.live.prod.hkatv.com/a1_cbr_lo.m3u8
 
+#EXTINF:0 tvg-logo="" tvg-name="亞旅衛視" group-title="香港",亞旅衛視
+http://hls.jingchangkan.tv/jingchangkan/156722438_0HaM/index.m3u8
+#EXTINF:0 tvg-logo="https://img.sj33.cn/uploads/allimg/201402/7-140225144GK51.png" tvg-name="星空衛視" group-title="香港",星空衛視
+rtmp://58.200.131.2:1935/livetv/startv?checkedby:hlscat.com
+#EXTINF:0 tvg-logo="https://www.searchpng.com/wp-content/uploads/2019/02/Star-Sports-Logo-PNG-Image-1024x1024.png" tvg-name="" group-title="香港",Star Sports
+rtmp://ivi.bupt.edu.cn:1935/livetv/starsports
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/3/34/Phoenix_Chinese.svg/1200px-Phoenix_Chinese.svg.png" tvg-name="凤凰中文" group-title="香港",鳳凰衛視中文
 https://0c2a4b66b4507225496222b26a9d35f3.live.prod.hkatv.com/p3_cbr_hi_1080p.m3u8
 #EXTINF:-1 tvg-logo="https://www.qingmo.net/wp-content/uploads/2019/02/fhwszxt.jpg" tvg-name="凤凰资讯" group-title="香港",鳳凰資訊HD
