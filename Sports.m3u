@@ -1,6 +1,10 @@
 
-////  #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/th/beINSports1.th.png" group-title="體育",beIN Sports 1
-////  https://live.we-play.tv/app/bein1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/71/3a/c4/713ac4d56c6ed60a5628376a8fdf5d95.png" group-title="體育",beIN Sports HD1
+http://rv.therevenge.co:80/live/bF3k2rhh9g/sQfy6vy5tu/73354.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/5f/ba/fd/5fbafd6ef30634b40077ef744652b9c6.png" group-title="體育",beIN Sports HD2
+http://rv.therevenge.co:80/live/bF3k2rhh9g/sQfy6vy5tu/73353.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/b5/e9/e9/b5e9e9f1fba36ccc036b649affe6a7d3.png" group-title="體育",beIN Sports HD3
+http://rv.therevenge.co:80/live/bF3k2rhh9g/sQfy6vy5tu/305.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/ESPN.us.png" group-title="體育",ESPN
 https://cvtv.cvalley.net/hls/ESPNHD/ESPNHD.m3u8
