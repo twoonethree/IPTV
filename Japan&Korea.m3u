@@ -31,10 +31,12 @@ https://dai.google.com/linear/hls/event/ctGD-E18Q0-3WScFd_tK5w/master.m3u8
 #EXTINF:-1 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/kr-ktv-4339.jpg" group-title="韓國",KTV
 rtmp://218.38.152.31:1935/klive/klive.stream
 
-//#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/KBS_1_logo.svg/440px-KBS_1_logo.svg.png" group-title="韓國",KBS1
-//http://122.129.115.21:1935/edgedol/_definst_/tao107/playlist.m3u8
-//#EXTINF:-1 tvg-logo="https://photo.sofun.tw/2015/12/KBS-TV-Live-Logo.jpg" group-title="韓國",KBS2
-//http://122.129.115.21:1935/edgedol/_definst_/tao108/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/90/KBS_News_9_logo.png" group-title="韓國",KBS뉴스9
+https://www.youtube.com/watch?v=ESVtlvaGdfY
+#EXTINF:-1 tvg-logo="https://news.kbs.co.kr/data/news/2019/02/25/4145770_Ib4.jpg" group-title="韓國",KBS WORLD 24"가 해외
+https://m.youtube.com/watch?v=4gwqZYZ-OSw
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2d/Korean_Broadcasting_System.svg/400px-Korean_Broadcasting_System.svg.png" group-title="韓國",KBSN Plus
+https://www.youtube.com/watch?v=JvmV3lfUko4
 
 #EXTINF:-1 tvg-logo="" group-title="韓國",NBS
 https://media.joycorp.co.kr:4443/live/live_720p/playlist.m3u8
