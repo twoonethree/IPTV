@@ -69,6 +69,8 @@ https://tv.nknews.org/tvhls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://www.stern.nyu.edu/sites/default/files/assets/images/maeil-business-newspaper-logo-feature.jpg"  group-title="韓國",Maeil Business Newspaper
 rtmp://origin.flive.skcdn.com/mbn-auth1/1000k
 
+#EXTINF:-1 tvg-logo="https://d1v80af1fj0ehx.cloudfront.net/wp-content/blogs.dir/1/files/2018/03/NHK-Logo-620x360.png" group-title="日本",NHK World
+https://b-nhkwlive-xjp.akamaized.net/hls/live/2003458-b/nhkwlive-xjp/index_600k.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/NHK_General_TV_logo.svg/1920px-NHK_General_TV_logo.svg.png" group-title="日本",NHK総合
 http://203.162.235.41:16903
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NHK_Educational_TV_logo.svg/1200px-NHK_Educational_TV_logo.svg.png" group-title="日本",NHK Eテレ
@@ -99,12 +101,13 @@ http://203.162.235.41:16912
 http://203.162.235.41:16905
 #EXTINF:-1  tvg-logo="https://digitalentertainmentmarketing.files.wordpress.com/2014/11/digital-entertainment-post-ntv-nippon-tv-japan.png" group-title="日本",日テレ NEWS24
 https://n24-cdn-live-b.ntv.co.jp/ch01/High.m3u8
-#EXTINF:-1 tvg-logo="https://www.eigeki.com/hp/eigeki/img/img_logo_no_reserve.png" group-title="日本",BS 衛星劇場
-http://192.240.127.34:1935/live/cs11.stream/play.m3u8
-#EXTINF:-1  tvg-logo="https://www.nihon-eiga.com/common/img/neiga_top_og_1812.jpg" group-title="日本",BS 日本映画
-http://192.240.127.34:1935/live/cs19.stream/play.m3u8
-#EXTINF:-1 tvg-logo="http://japan.cgntv.net/upload/happy_config/info_logo.png" group-title="日本",CGN 日本
+
+#EXTINF:-1 tvg-logo="http://japan.cgntv.net/upload/happy_config/info_logo.png" group-title="日本",CGN 
 http://cgntv-glive.ofsdelivery.net/live/_definst_/cgntv_jp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/in-gstv.jpg" group-title="日本",GSTV
+https://gemstv.wide-stream.net/gemstv01/smil:gemstv01.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/jp-japanet-channel-9218.jpg" group-title="日本",Japanet Channel DX
+https://bcsecurelivehls-i.akamaihd.net/hls/live/265320/5043843989001/140130JTDX/index.m3u8
 #EXTINF:-1  tvg-logo="https://jp.history.com/wp-content/themes/historychannel/cmn/img/logo.png" group-title="日本", テレビ歴史
 http://192.240.127.34:1935/live/cs14.stream/play.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/WNI-logo.png" group-title="日本", ウェザーニュース
