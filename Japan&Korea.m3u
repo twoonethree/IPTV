@@ -30,27 +30,22 @@ http://mediaworks.dema.mil.kr:1935/live_edge/cudo.sdp/playlist.m3u8
 //https://dai.google.com/linear/hls/event/ctGD-E18Q0-3WScFd_tK5w/master.m3u8
 #EXTINF:-1 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/kr-ktv-4339.jpg" group-title="韓國",KTV
 rtmp://218.38.152.31:1935/klive/klive.stream
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/90/KBS_News_9_logo.png" group-title="韓國",KBS뉴스9
 https://www.youtube.com/watch?v=ESVtlvaGdfY
 #EXTINF:-1 tvg-logo="https://news.kbs.co.kr/data/news/2019/02/25/4145770_Ib4.jpg" group-title="韓國",KBS WORLD 24"가 해외
 https://m.youtube.com/watch?v=4gwqZYZ-OSw
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2d/Korean_Broadcasting_System.svg/400px-Korean_Broadcasting_System.svg.png" group-title="韓國",KBSN Plus
 https://www.youtube.com/watch?v=JvmV3lfUko4
-
 #EXTINF:-1 tvg-logo="" group-title="韓國",NBS
 https://media.joycorp.co.kr:4443/live/live_720p/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Seoul_Broadcasting_System_logo.svg/1200px-Seoul_Broadcasting_System_logo.svg.png" group-title="韓國", SBS
 https://streaming-a-802.cdn.nextologies.com/SBS_Live_HD/live/SBS_Live_HD_1500k/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://img.isuper.tv/live-tv/kor-tv/sbs-plus-live.jpg " group-title="韓國", SBS Plus
 https://streaming-a-802.cdn.nextologies.com/SBS_Plus/live/SBS_Plus_1500k/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/2e6fb9_ba33c6c82a654a418a2badc919749c68~mv2.png/v1/fill/w_414,h_89,al_c,q_80,usm_0.66_1.00_0.01/2e6fb9_ba33c6c82a654a418a2badc919749c68~mv2.webp" group-title="韓國", SBS Star
 https://streaming-a-802.cdn.nextologies.com/SBS_18/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/kr-tv-work-net-8165.jpg" group-title="韓國",TVWorkNet
 http://live.worktv.or.kr:1935/live/wowtvlive1.sdp/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://m.science.ytn.co.kr/img/common/science_logo_1.png"  group-title="韓國",YTN 사이언스
 http://slive.sciencetv.kr:1935/science/yslive_20140419_1/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://ytn.co.kr/img/global/top_tit.jpg" group-title="韓國",YTN DMB
@@ -59,6 +54,15 @@ http://slive.ytn.co.kr:1935/dmb/ydlive_20140419_1/playlist.m3u8
 https://www.youtube.com/watch?v=kfNn0cgaQeE
 #EXTINF:-1 tvg-logo="https://www.ytn.co.kr/img/_top/ytnlogo_2018.png"  group-title="韓國",YTN Live
 https://www.youtube.com/watch?v=U_sYIKWhJvk
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/YTN_KOREAN.png"  group-title="韓國",YTN Korea 
+https://www.youtube.com/watch?v=VemvFLwDgLY
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/564x/8c/8e/9e/8c8e9effba9d0495c87d679551b45b54.jpg"  group-title="韓國",The KPOP
+https://www.youtube.com/watch?v=LnB0dSHKEAo
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/nr2Q-Iz7tTo/hqdefault_live.jpg"  group-title="韓國",All-Day KPOP
+https://www.youtube.com/watch?v=nr2Q-Iz7tTo
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/lbRN7gJm4lo/hqdefault.jpg"  group-title="韓國",24/7 Online KPOP IDOL
+https://www.youtube.com/watch?v=lbRN7gJm4lo
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/811423180854149121/7iTj7-5h_400x400.jpg"  group-title="韓國",Korean Central Television 
 https://tv.nknews.org/tvhls/stream.m3u8
