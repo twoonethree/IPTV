@@ -1,5 +1,4 @@
-#EXTINF:-1 tvg-logo="" group-title="體育",SportsLive
-http://live02.xafjjx.com/live/streamhd13748.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/3/33/CCTV-5_Logo.png" group-title="體育",CCTV 5
 http://223.110.245.165/ott.js.chinamobile.com/PLTV/3/224/3221226362/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/90/CCTV-5%2B_Logo.png" group-title="體育",CCTV 5+
