@@ -12,6 +12,8 @@ http://otvstream-yunduan.otvcloud.com/otv/skcc/live/channel34/index.m3u8?k=21b1e
 http://220.158.149.14:9999/live/TV00000000000000000078@HHZT;LIVE
 #EXTINF:0 tvg-logo="https://www.nettv.live/uploads/19/1-1Z220195433103.jpg" group-title="體育",博斯魅力
 http://ms003.happytv.com.tw/live/OcScNdWHvBx5P4w3/index.m3u8
+#EXTINF:0 tvg-logo="http://mo.heytv.org/wp-content/uploads/2018/12/1-1P426222R1296.jpg" group-title="體育",NewTV精品體育
+http://121.31.30.91:8081/ysten-business/live/jtiyu/1.m3u8
 
 #EXTINF:-1 tvg-logo="https://photocdn.sohu.com/20120529/Img344336334.jpg" group-title="體育",五星體育
 http://117.156.28.21/PLTV/88888888/224/3221225603/index.m3u8
