@@ -74,6 +74,8 @@ http://92.43.140.249/s86/04.m3u8
 https://receiver.adjara.com/adjarasport_live/UFCTV/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.digitaltveurope.com/files/2019/04/ufc-logo_500white_cropped.jpg" group-title="體育", UFC TB
 http://live-ng-01.more.tv/hls/UFC/master.m3u8
+#EXTINF:-1 tvg-logo="https://images3.alphacoders.com/689/thumb-350-689577.png" group-title="體育", SHAMSI WWE
+http://shamsi.xyz:25461/free/free/43
 #EXTINF:-1  tvg-logo="https://static.iptv-epg.com/us/Stadium.us.png" group-title="體育", Stadium
 https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8
 
