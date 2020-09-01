@@ -16,6 +16,8 @@ http://ms003.happytv.com.tw/live/OcScNdWHvBx5P4w3/index.m3u8
 http://121.31.30.91:8081/ysten-business/live/jtiyu/1.m3u8
 #EXTINF:0 tvg-logo="https://img.isuper.tv/live-tv/cn-tv/xjtvs-live.jpg" group-title="體育",新彊體育
 http://livehyw.chinamcache.com/xjtvs/zb0010.m3u8?auth_key=1598948250-0-0-746a80c7bfb290b431c567b46bfa2ac8
+#EXTINF:0 tvg-logo="https://img.isuper.tv/live-tv/cn-tv/jstv-live.jpg" group-title="體育",江蘇體育
+http://223.110.245.157/ott.js.chinamobile.com/PLTV/3/224/3221225935/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://photocdn.sohu.com/20120529/Img344336334.jpg" group-title="體育",五星體育
 http://117.156.28.21/PLTV/88888888/224/3221225603/index.m3u8
