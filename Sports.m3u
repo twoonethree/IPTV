@@ -32,6 +32,12 @@ https://keonline.shanghai.liveplay.qq.com/live/program/live/xsjhd/2300000/mnf.m3
 #EXTINF:-1 tvg-logo="https://img.tiantianzhibo.net/uploads/allimg/150208/1-15020Q13129436.jpg" group-title="體育",勁爆體育
 http://otvstream-yunduan.otvcloud.com/otv/skcc/live/channel43038/index.m3u8?k=8dd1531ac2ece0c774f17d3c3d51d615&t=5F4DADB9&UID=266E2FDA
 
+#EXTINF:-1 tvg-logo="http://www.cbcsport.az/assets/img/channel_logos_square_2.png" group-title="體育",CBC SPORT
+http://streams.livetv.az/azerbaijan/cbc_sport_hd/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/in/DDSports.in.png" group-title="體育",DD Sports
+http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/Stream(02)/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6b/Eurosport_1_Logo.jpg" group-title="體育",EuroSports 1
 https://cdn1.mobiletv.bg/T8/eurosport/es_794613_850k.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/19/Eurosport_2_Logo.jpg" group-title="體育",EuroSports 2
@@ -39,9 +45,6 @@ https://cdn1.mobiletv.bg/T3/eurosport2/eurosport2_794613_850k.m3u8
 
 #EXTINF:-1 tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/o/6/6554.1489225299.png" group-title="體育",FOX SPORTS NEWS
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
-
-#EXTINF:-1 tvg-logo="https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2F4952baec80a8f6de.2Epng/1200x630/crop-from/top/quality/80/voosport-world-1.png" group-title="體育",VOO SPORTS World1
-http://iptv8.premium-stv.com:2052/sourcebelgiques88/Zjkbgjsdg@7545/1896
 
 #EXTINF:-1 tvg-logo="http://www.logotypes101.com/logos/427/DCA37E7883AD43D493B18A411999FFE2/alkasssportchannelenglishlandscapelogo.png" group-title="體育",AL KASS SPORTS 1
 http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass1
@@ -54,13 +57,16 @@ http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass4
 #EXTINF:-1 tvg-logo="http://www.logotypes101.com/logos/427/DCA37E7883AD43D493B18A411999FFE2/alkasssportchannelenglishlandscapelogo.png" group-title="體育",AL KASS SPORTS 5
 http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass5
 
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/OlympicChannel.us.png" group-title="體育", Olympic Channel
+https://ott-live.olympicchannel.com/out/u/OC1_1.m3u8
 
+
+#EXTINF:-1 tvg-logo="https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2F4952baec80a8f6de.2Epng/1200x630/crop-from/top/quality/80/voosport-world-1.png" group-title="體育",VOO SPORTS World1
+http://iptv8.premium-stv.com:2052/sourcebelgiques88/Zjkbgjsdg@7545/1896
 
 #EXTINF:-1 tvg-logo="https://logonoid.com/images/viasat-sport-logo.jpg" group-title="體育",Viasat Sports
 http://live-ng-01.more.tv/hls/Viasat_Sport_HD/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/in/DDSports.in.png" group-title="體育",DD Sports
-http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/Stream(02)/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.fightbox.com/images/stories/menu_fb_roll.png" group-title="體育", FightBox
 http://92.43.140.249/s86/04.m3u8
@@ -71,8 +77,6 @@ http://live-ng-01.more.tv/hls/UFC/master.m3u8
 #EXTINF:-1  tvg-logo="https://static.iptv-epg.com/us/Stadium.us.png" group-title="體育", Stadium
 https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/OlympicChannel.us.png" group-title="體育", Olympic Channel
-https://ott-live.olympicchannel.com/out/u/OC1_1.m3u8
 
 #EXTINF:0 tvg-logo="https://static.iptv-epg.com/es/RealMadridTV.es.png" group-title="體育", Real Madrid TV
 http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-b.m3u8
