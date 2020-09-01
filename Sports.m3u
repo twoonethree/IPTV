@@ -19,6 +19,9 @@ http://121.31.30.91:8081/ysten-business/live/jtiyu/1.m3u8
 http://117.156.28.21/PLTV/88888888/224/3221225603/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/xinshijue.jpg" group-title="體育",新視覺體育
 https://keonline.shanghai.liveplay.qq.com/live/program/live/xsjhd/2300000/mnf.m3u8
+#EXTINF:-1 tvg-logo="https://img.tiantianzhibo.net/uploads/allimg/150208/1-15020Q13129436.jpg" group-title="體育",勁爆體育
+http://otvstream-yunduan.otvcloud.com/otv/skcc/live/channel43038/index.m3u8?k=8dd1531ac2ece0c774f17d3c3d51d615&t=5F4DADB9&UID=266E2FDA
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6b/Eurosport_1_Logo.jpg" group-title="體育",EuroSports 1
 https://cdn1.mobiletv.bg/T8/eurosport/es_794613_850k.m3u8
