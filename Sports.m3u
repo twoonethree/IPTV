@@ -43,6 +43,18 @@ https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master
 #EXTINF:-1 tvg-logo="https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2F4952baec80a8f6de.2Epng/1200x630/crop-from/top/quality/80/voosport-world-1.png" group-title="體育",VOO SPORTS World1
 http://iptv8.premium-stv.com:2052/sourcebelgiques88/Zjkbgjsdg@7545/1896
 
+#EXTINF:-1 tvg-logo="http://www.logotypes101.com/logos/427/DCA37E7883AD43D493B18A411999FFE2/alkasssportchannelenglishlandscapelogo.png" group-title="體育",AL KASS SPORTS 1
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass1
+#EXTINF:-1 tvg-logo="http://www.logotypes101.com/logos/427/DCA37E7883AD43D493B18A411999FFE2/alkasssportchannelenglishlandscapelogo.png" group-title="體育",AL KASS SPORTS 2
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass2
+#EXTINF:-1 tvg-logo="http://www.logotypes101.com/logos/427/DCA37E7883AD43D493B18A411999FFE2/alkasssportchannelenglishlandscapelogo.png" group-title="體育",AL KASS SPORTS 3
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass3
+#EXTINF:-1 tvg-logo="http://www.logotypes101.com/logos/427/DCA37E7883AD43D493B18A411999FFE2/alkasssportchannelenglishlandscapelogo.png" group-title="體育",AL KASS SPORTS 4
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass4
+#EXTINF:-1 tvg-logo="http://www.logotypes101.com/logos/427/DCA37E7883AD43D493B18A411999FFE2/alkasssportchannelenglishlandscapelogo.png" group-title="體育",AL KASS SPORTS 5
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass5
+
+
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/in/DDSports.in.png" group-title="體育",DD Sports
 http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/Stream(02)/index.m3u8
 
