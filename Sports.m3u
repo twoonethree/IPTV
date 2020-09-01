@@ -79,7 +79,7 @@ https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8
 
 
 #EXTINF:0 tvg-logo="https://static.iptv-epg.com/es/RealMadridTV.es.png" group-title="體育", Real Madrid TV
-http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-b.m3u8
+http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/master.m3u8
 #EXTINF:0 tvg-logo="https://static.iptv-epg.com/es/RealMadridTV.es.png" group-title="體育", Real Madrid TV Español
 http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/index_3_av-b.m3u8
 
