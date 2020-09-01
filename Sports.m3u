@@ -60,11 +60,15 @@ http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/Stream(02)/index.
 
 #EXTINF:-1 tvg-logo="http://www.fightbox.com/images/stories/menu_fb_roll.png" group-title="體育", FightBox
 http://92.43.140.249/s86/04.m3u8
+#EXTINF:-1 tvg-logo="https://img.ibxk.com.br/2013/12/programas/8011411175743506-t100x100.png" group-title="體育", UFC TV
+https://receiver.adjara.com/adjarasport_live/UFCTV/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.digitaltveurope.com/files/2019/04/ufc-logo_500white_cropped.jpg" group-title="體育", UFC TB
+http://live-ng-01.more.tv/hls/UFC/master.m3u8
+#EXTINF:-1  tvg-logo="https://static.iptv-epg.com/us/Stadium.us.png" group-title="體育", Stadium
+https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/OlympicChannel.us.png" group-title="體育", Olympic Channel
 https://ott-live.olympicchannel.com/out/u/OC1_1.m3u8
-#EXTINF:-1  tvg-logo="https://static.iptv-epg.com/us/Stadium.us.png" group-title="體育", Stadium
-https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8
 
 #EXTINF:0 tvg-logo="https://static.iptv-epg.com/es/RealMadridTV.es.png" group-title="體育", Real Madrid TV
 http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-b.m3u8
