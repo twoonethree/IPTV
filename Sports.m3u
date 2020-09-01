@@ -4,7 +4,11 @@ http://223.110.245.165/ott.js.chinamobile.com/PLTV/3/224/3221226362/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/90/CCTV-5%2B_Logo.png" group-title="體育",CCTV 5+
 http://39.134.65.162/PLTV/88888888/224/3221225507/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.nettv.live/uploads/19/1-1Z4191F354Q9.jpg" group-title="體育",廣東體育
-http://116.199.5.52:8114/index.m3u8?Fsv_chan_hls_se_idx=8&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
+http://nclive.grtn.cn/typd/sd/live.m3u8?_upt=011fe95d1598919995
+#EXTINF:-1 tvg-logo="https://www.nettv.live/uploads/19/1-1Z4191F354Q9.jpg" group-title="體育",廣東體育
+http://otvstream-yunduan.otvcloud.com/otv/skcc/live/channel34/index.m3u8?k=21b1e0b9e0a2e8b4e53f6534b12301f3&t=5F4D9B3A&UID=A28E593C
+
+
 #EXTINF:-1 tvg-logo="https://photocdn.sohu.com/20120529/Img344336334.jpg" group-title="體育",五星體育
 http://117.156.28.21/PLTV/88888888/224/3221225603/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/xinshijue.jpg" group-title="體育",新視覺體育
