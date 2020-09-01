@@ -55,6 +55,10 @@ http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass4
 http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass5
 
 
+
+#EXTINF:-1 tvg-logo="https://logonoid.com/images/viasat-sport-logo.jpg" group-title="體育",Viasat Sports
+http://live-ng-01.more.tv/hls/Viasat_Sport_HD/master.m3u8
+
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/in/DDSports.in.png" group-title="體育",DD Sports
 http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/Stream(02)/index.m3u8
 
@@ -77,7 +81,6 @@ http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/index_3_av-b.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.golfnetwork.co.jp/assets/img/pc/layout/header/logo_new.png"  group-title="體育", ゴルフネットワーク
 http://203.162.235.41:16924
-
 #EXTINF:-1 tvg-logo="http://onegolftv.com/wp-content/uploads/2018/08/onegolf-HD-with-image-100px.png"  group-title="體育", One Golf
 http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
 
