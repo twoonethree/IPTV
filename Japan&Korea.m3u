@@ -36,6 +36,8 @@ https://www.youtube.com/watch?v=ESVtlvaGdfY
 https://m.youtube.com/watch?v=4gwqZYZ-OSw
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2d/Korean_Broadcasting_System.svg/400px-Korean_Broadcasting_System.svg.png" group-title="韓國",KBSN Plus
 https://www.youtube.com/watch?v=JvmV3lfUko4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Kbs2.png/800px-Kbs2.png" group-title="韓國",KBS2
+http://2tv.gscdn.kbs.co.kr/2tv-m/2tv-m_hd.m3u8?Expires=1599108928&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cDovLzJ0di5nc2Nkbi5rYnMuY28ua3IvMnR2LW0vMnR2LW1faGQubTN1OCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTU5OTEwODkyOH19fV19&Signature=XhS~AlgWPJO0OqksVmcAJGfnxX~fBCHLvTLHY59mRu~ceEnKvCIVTNf54iB7~6N9BmZf6onLwA9ljkxJWdjd0QbINN32pGxNNGY6xwtsVL~JQwZCTDYU7pyNWcByCpGUOB2y9E3JeEsD~-lFAZ-4-pPdoZhPofDyBBFNGymKwD0xnWHmwusoovswnuaVljE-8oTmcoxAe-6aRfPVnQlY0CWAGuM7fJPkE8vvqCiotujd6TnL4Y8whvyw6cIVvx68XmwG3qJ7U4OBTzF7~glzVgiK1NMKktcdRBCz6Yg5pnwq9ci2SR9XOv3s9mQM9A8zbjKnnSgLstRtKVWEzBiiag__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA
 #EXTINF:-1 tvg-logo="" group-title="韓國",NBS
 https://media.joycorp.co.kr:4443/live/live_720p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Seoul_Broadcasting_System_logo.svg/1200px-Seoul_Broadcasting_System_logo.svg.png" group-title="韓國", SBS
