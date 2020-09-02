@@ -28,11 +28,19 @@ https://keonline.shanghai.liveplay.qq.com/live/program/live/xsjhd/2300000/mnf.m3
 #EXTINF:-1 tvg-logo="https://img.tiantianzhibo.net/uploads/allimg/150208/1-15020Q13129436.jpg" group-title="體育",勁爆體育
 http://liveplay-kk.rtxapp.com/live/program/live/jbtyhd/2300000/mnf.m3u8
 
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/B/bein-sports-logo-61C099EBD7-seeklogo.com.png" group-title="體育",beIN Sports HD
+https://www.youtube.com/watch?v=4TlVW4Lacu4
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-0l7sRhvDZ8w/WtsGnyIlnLI/AAAAAAAAAFE/7RAusoJLs_YIvmW1HhdmBJkmBkSowxzkgCEwYBhgL/s640/Sports_News_ar.png" group-title="體育",beIN Sports الإخبارية
+https://www.youtube.com/watch?v=6TY-6GSca1A
+
 #EXTINF:-1 tvg-logo="http://www.cbcsport.az/assets/img/channel_logos_square_2.png" group-title="體育",CBC SPORT
 http://streams.livetv.az/azerbaijan/cbc_sport_hd/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/in/DDSports.in.png" group-title="體育",DD Sports
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/600x315/84/26/41/842641774672d4185d3cc13b4d5ab850.jpg" group-title="體育",Doordarshan Sports LIVE
 http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/Stream(02)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/in/DDSports.in.png" group-title="體育",DD Sports
+https://www.youtube.com/watch?v=HOvfOarXTHQ
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6b/Eurosport_1_Logo.jpg" group-title="體育",EuroSports 1
 https://cdn1.mobiletv.bg/T8/eurosport/es_794613_850k.m3u8
