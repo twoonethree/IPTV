@@ -30,7 +30,7 @@ http://117.156.28.21/PLTV/88888888/224/3221225603/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/xinshijue.jpg" group-title="體育",新視覺體育
 https://keonline.shanghai.liveplay.qq.com/live/program/live/xsjhd/2300000/mnf.m3u8
 #EXTINF:-1 tvg-logo="https://img.tiantianzhibo.net/uploads/allimg/150208/1-15020Q13129436.jpg" group-title="體育",勁爆體育
-http://otvstream-yunduan.otvcloud.com/otv/skcc/live/channel43038/index.m3u8?k=8dd1531ac2ece0c774f17d3c3d51d615&t=5F4DADB9&UID=266E2FDA
+http://liveplay-kk.rtxapp.com/live/program/live/jbtyhd/2300000/mnf.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.cbcsport.az/assets/img/channel_logos_square_2.png" group-title="體育",CBC SPORT
 http://streams.livetv.az/azerbaijan/cbc_sport_hd/playlist.m3u8
