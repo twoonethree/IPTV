@@ -35,6 +35,7 @@ https://www.youtube.com/watch?v=4TlVW4Lacu4
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-0l7sRhvDZ8w/WtsGnyIlnLI/AAAAAAAAAFE/7RAusoJLs_YIvmW1HhdmBJkmBkSowxzkgCEwYBhgL/s640/Sports_News_ar.png" group-title="體育",beIN Sports الإخبارية
 https://www.youtube.com/watch?v=6TY-6GSca1A
 
+
 #EXTINF:-1 tvg-logo="http://" group-title="體育",ads sports
 http://212.47.252.54/hls/stream.m3u8
 
@@ -60,6 +61,9 @@ http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/Stream(02)/index.
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/in/DDSports.in.png" group-title="體育",Doordarshan Sports LIVE
 https://www.youtube.com/watch?v=HOvfOarXTHQ
+
+#EXTINF:-1 tvg-id="ESB.BR" tvg-logo="https://static.epg.best/br/ESPNBrasil.br.png" group-title="体育",ESPN Brasil
+https://playplusespn-lh.akamaihd.net/i/pp_espnbra@374460/index_720_av-p.m3u8|X-Forwarded-For=18.231.200.200
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6b/Eurosport_1_Logo.jpg" group-title="體育",EuroSports 1
 https://cdn1.mobiletv.bg/T8/eurosport/es_794613_850k.m3u8
