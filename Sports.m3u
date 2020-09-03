@@ -9,8 +9,6 @@ http://live5.ocnttv.com:8080/ZZ_guangdongtiyu/ZZ_guangdongtiyu.m3u8
 https://live4.tdm.com.mo/ch4/_definst_/sport_ch4.live/playlist.m3u8
 #EXTINF:0 tvg-logo="https://www.nettv.live/uploads/allimg/20/1-20040Q335270-L.jpg" group-title="體育",NowSportsPRIME
 http://livetv.dnsfor.me/channel.12.m3u8
-#EXTINF:0 tvg-logo="https://www.searchpng.com/wp-content/uploads/2019/02/Star-Sports-Logo-PNG-Image-1024x1024.png" tvg-name="" group-title="體育",Star Sports
-rtmp://ivi.bupt.edu.cn:1935/livetv/starsports
 
 #EXTINF:0 tvg-logo="https://img.isuper.tv/live-tv/vl-sports-live.jpg" group-title="體育",緯來體育
 http://220.158.149.14:9999/live/TV00000000000000000078@HHZT;LIVE
@@ -34,7 +32,6 @@ https://www.livedoomovies.com/02_epl2_720p/chunklist.m3u8
 https://www.youtube.com/watch?v=4TlVW4Lacu4
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-0l7sRhvDZ8w/WtsGnyIlnLI/AAAAAAAAAFE/7RAusoJLs_YIvmW1HhdmBJkmBkSowxzkgCEwYBhgL/s640/Sports_News_ar.png" group-title="體育",beIN Sports الإخبارية
 https://www.youtube.com/watch?v=6TY-6GSca1A
-
 
 #EXTINF:-1 tvg-logo="http://" group-title="體育",ads sports
 http://212.47.252.54/hls/stream.m3u8
@@ -89,6 +86,8 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ced7d5df64be98e07e
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/OlympicChannel.us.png" group-title="體育", Olympic Channel
 https://ott-live.olympicchannel.com/out/u/OC1_1.m3u8
 
+#EXTINF:0 tvg-logo="https://www.searchpng.com/wp-content/uploads/2019/02/Star-Sports-Logo-PNG-Image-1024x1024.png" tvg-name="" group-title="體育",Star Sports
+rtmp://ivi.bupt.edu.cn:1935/livetv/starsports
 #EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/in/SonySIX.in.png" group-title="体育",Sony Six
 http://216.144.250.174/Sony_Six_HD/tracks-v1a1/mono.m3u8
 
@@ -109,9 +108,6 @@ http://shamsi.xyz:25461/free/free/43
 #EXTINF:-1  tvg-logo="https://static.iptv-epg.com/us/Stadium.us.png" group-title="體育", Stadium
 https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8
 
-#EXTINF:-1  tvg-logo="https://im.haberturk.com/2019/05/28/ver1559048269/2478235_810x458.jpg" group-title="體育", TRT Spor
-https://m.youtube.com/watch?v=ph051HMAN-s
-
 #EXTINF:0 tvg-logo="https://static.iptv-epg.com/es/RealMadridTV.es.png" group-title="體育", Real Madrid TV
 http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/master.m3u8
 #EXTINF:0 tvg-logo="https://static.iptv-epg.com/es/RealMadridTV.es.png" group-title="體育", Real Madrid TV Español
@@ -130,6 +126,12 @@ http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist_b1600000.m
 http://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/chunklist_b1600000.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/au/RacingCom.au.png" group-title="體育", Racing.com (Australia)
 https://racingvic-i.akamaized.net/hls/live/598695/racingvic/1500.m3u8
+#EXTINF:-1 tvg-ID="SK1.AU" tvg-logo="https://media.info/i/lf/300/1514269404/6402.png" group-title="体育",Sky Racing 1
+https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/sky1_extreme@569780.m3u8
+#EXTINF:-1 tvg-ID="SK2.AU" tvg-logo="https://media.info/i/lf/300/1514269377/6411.png" group-title="体育",Sky Racing 2
+https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/sky2_extreme@569780.m3u8
+#EXTINF:-1 tvg-ID="STC.AU" tvg-logo="https://www.foxtel.com.au/content/dam/foxtel/shared/channel/SRW/SRH_425x243.png" group-title="体育",Sky Thoroughbred Central
+https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/stcsd_extreme@569780.m3u8
 
 #EXTINF:-1 tvg-logo="https://ott-gateway.sinclairstoryline.com/optimized/90/17ec0fba-d4ec-4421-a665-c8dcab0f80ee-small3x1_TheTChannel.png" group-title="體育", Tennis Channel
 https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/g.m3u8
