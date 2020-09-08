@@ -8,7 +8,7 @@ http://live5.ocnttv.com:8080/ZZ_guangdongtiyu/ZZ_guangdongtiyu.m3u8
 #EXTINF:-1 tvg-logo="http://www.nettv.live/uploads/18/1-1P5121Q245326.jpg" group-title="體育",澳視體育
 https://live4.tdm.com.mo/ch4/_definst_/sport_ch4.live/playlist.m3u8
 #EXTINF:0 tvg-logo="https://www.nettv.live/uploads/allimg/20/1-20040Q335270-L.jpg" group-title="體育",NowSportsPRIME
-http://livetv.dnsfor.me/channel.12.m3u8
+http://livetv.dnsfor.me:80/channel.12.m3u8
 
 #EXTINF:0 tvg-logo="https://img.isuper.tv/live-tv/vl-sports-live.jpg" group-title="體育",緯來體育
 http://220.158.149.14:9999/live/TV00000000000000000078@HHZT;LIVE
