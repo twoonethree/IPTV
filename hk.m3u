@@ -24,7 +24,7 @@ https://api.leonardpark.dev/live/icable/109
 #EXTINF:0 tvg-logo="https://cdn.thestandnews.com/media/photos/cache/cable_WwZXL_1200x0.png" group-title="香港",有線新聞直播台
 http://teslagram.com/live/channel_110.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/a/a9/Cabletv_fn_logo.jpg" group-title="香港",有線財經資訊台
-http://livetv.dnsfor.me/channel.6.m3u8
+https://uc6.i-cable.com/liveJoemud_ts/_definst_/4-23cbfe39-1638705362-1638791942-5d68ceeba810e320237071ff568f2479-8d9b829af28c222_611-03/freehd208_h.live/playlist.m3u8
 #EXTINF:0 tvg-logo="https://cdn.thestandnews.com/media/photos/cache/cable_WwZXL_1200x0.png" group-title="香港",有線綜合娛樂台
 http://livetv.dnsfor.me/channel.7.m3u8
 //#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/f/f5/I-CABLE_Channel18.png/220px-I-CABLE_Channel18.png" group-title="香港",有線18台
