@@ -13,18 +13,18 @@ https://bcovlive-a.akamaihd.net/f23dfe49b06b45d8878b55b4b6909595/us-west-2/53240
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/ViuTV_logo.svg/1280px-ViuTV_logo.svg.png" tvg-name="viutv" group-title="香港",viuTV99
 http://livetv.dnsfor.me/channel.20.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/ViuTV_logo.svg/1280px-ViuTV_logo.svg.png" tvg-name="viutv" group-title="香港",viuTV99 
-https://cdn.hkdtmb.com/hls/99/index.m3u8
+#EXTINF:0 tvg-logo="http://ww1.sinaimg.cn/large/6482e5f1gw1f3jklo5q5hj20iw0dw0sz.jpg" tvg-name="viutv" group-title="香港",viuTV96 
+https://cdn.hkyoutv.com/hls/96/index.m3u8
 
 #EXTINF:0 tvg-logo="https://www.cabletv.com.hk/file/tv_channel/_c200x200/p5bd2c55f6ea73.png" tvg-name="香港開電視" group-title="香港",香港開電視 
 http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
 
-#EXTINF:0 tvg-logo="http://mo.heytv.org/wp-content/uploads/2018/12/1-1Q01420544J23.jpg" group-title="香港",有線新聞台
+#EXTINF:0 tvg-logo="http://hk.heytv.org/wp-content/uploads/2019/04/1-1Q01420544J23.jpg" group-title="香港",有線新聞台
 https://api.leonardpark.dev/live/icable/109
-#EXTINF:0 tvg-logo="https://cdn.thestandnews.com/media/photos/cache/cable_WwZXL_1200x0.png" group-title="香港",有線新聞直播台
-http://teslagram.com/live/channel_110.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/a/a9/Cabletv_fn_logo.jpg" group-title="香港",有線財經資訊台
-https://uc6.i-cable.com/liveJoemud_ts/_definst_/4-23cbfe39-1638705362-1638791942-5d68ceeba810e320237071ff568f2479-8d9b829af28c222_611-03/freehd208_h.live/playlist.m3u8
+#EXTINF:0 tvg-logo="http://www.zyz98.com/uploads/cabletv110.jpg" group-title="香港",有線新聞直播台
+https://uc6.i-cable.com/liveJoemud_ts/_definst_/4-23cbfe37-1638732361-1638818941-58b5c0e1c869680da962730a4ef27300-8d9b8688c403c53_834-03/Stream1/playlist.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/7/7a/I-CABLE_Finance.png" group-title="香港",有線財經資訊台
+https://uc6.i-cable.com/liveJoemud_ts/_definst_/4-23cbfdf1-1638732361-1638818941-de221b71f09c1995ba8bb5262166c283-8d9b8688c51b334_7e4-03/freehd208_h.live/playlist.m3u8
 #EXTINF:0 tvg-logo="https://cdn.thestandnews.com/media/photos/cache/cable_WwZXL_1200x0.png" group-title="香港",有線綜合娛樂台
 http://livetv.dnsfor.me/channel.7.m3u8
 //#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/f/f5/I-CABLE_Channel18.png/220px-I-CABLE_Channel18.png" group-title="香港",有線18台
