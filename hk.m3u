@@ -55,9 +55,11 @@ rtmp://58.200.131.2:1935/livetv/startv?checkedby:hlscat.com
 rtmp://ivi.bupt.edu.cn:1935/livetv/starsports
 
 #EXTINF:-1 tvg-logo="https://www.qingmo.net/wp-content/uploads/2019/02/fhwszxt.jpg" tvg-name="凤凰资讯" group-title="香港",鳳凰資訊HD
-https://81e0996f61b8eabc6b95e3a16c274256.live.prod.hkatv.com/p1_cbr_hi_1080p.m3u8
-//#EXTINF:-1 tvg-logo="http://www.luanlishi.com/uploads/allimg/180328/0FI55212_0.jpg" tvg-name="凤凰香港" group-title="香港",鳳凰香港高清
-//https://2d9177eadbb3094826e878458d4300c3.live.prod.hkatv.com/p2_cbr_lo_720p.m3u8
+http://223.110.235.13/ott.js.chinamobile.com/PLTV/3/224/3221228098/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.luanlishi.com/uploads/allimg/180328/0FI55212_0.jpg" tvg-name="凤凰香港" group-title="香港",鳳凰香港高清
+http://223.110.236.2/ott.js.chinamobile.com/PLTV/3/224/3221228060/index.m3u8
+#EXTINF:-1 tvg-logo="https://img.isuper.tv/live-tv/hk-tv/phtv-live.jpg" tvg-name="凤凰中文" group-title="香港",鳳凰衛視中文台
+http://223.110.235.3/ott.js.chinamobile.com/PLTV/3/224/3221228057/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/4/42/%E9%A6%99%E6%B8%AF%E5%8D%AB%E8%A7%86HKS.jpg" tvg-name="" group-title="香港",香港衛視HKS
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
