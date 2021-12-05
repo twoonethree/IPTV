@@ -10,6 +10,8 @@ https://bcovlive-a.akamaihd.net/38974baa695d47bbb231665ca52b8b3c/us-west-2/53240
 http://livetv.dnsfor.me/channel.11.m3u8
 #EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/378800000515620839/621dfe1a3a58fd2a4971dac155c830d1_400x400.png" tvg-name="" group-title="香港",無線電視J1台
 https://bcovlive-a.akamaihd.net/f23dfe49b06b45d8878b55b4b6909595/us-west-2/5324042807001/4a3bca5b047b4564b18bb12dfa26ba62/playlist_ssaiM.m3u8
+#EXTINF:0 tvg-logo="https://www.chillglobal.com/images/channels/tvb-pearl-1432635567.jpg" tvg-name="" group-title="香港",無線明珠台
+https://cdn.hkdtmb.com/hls/84b/index.m3u8
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/ViuTV_logo.svg/1280px-ViuTV_logo.svg.png" tvg-name="viutv" group-title="香港",viuTV99
 http://livetv.dnsfor.me/channel.20.m3u8
