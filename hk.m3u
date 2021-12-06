@@ -21,13 +21,13 @@ https://cdn.hkyoutv.com/hls/96/index.m3u8
 #EXTINF:0 tvg-logo="https://www.cabletv.com.hk/file/tv_channel/_c200x200/p5bd2c55f6ea73.png" tvg-name="香港開電視" group-title="香港",香港開電視 
 http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
 
-#EXTINF:0 tvg-logo="http://hk.heytv.org/wp-content/uploads/2019/04/1-1Q01420544J23.jpg" group-title="香港",有線新聞台
+#EXTINF:0 tvg-logo="http://www.cabletv.com.hk/file/tv_channel/_r100x30/p5a30d6679429a.png" group-title="香港",有線新聞台
 https://api.leonardpark.dev/live/icable/109
-#EXTINF:0 tvg-logo="http://www.zyz98.com/uploads/cabletv110.jpg" group-title="香港",有線新聞直播台
+#EXTINF:0 tvg-logo="http://www.cabletv.com.hk/file/tv_channel/_r100x30/p5b06402f058c4.png" group-title="香港",有線新聞直播台
 https://uc6.i-cable.com/liveJoemud_ts/_definst_/4-23cbfe37-1638732361-1638818941-58b5c0e1c869680da962730a4ef27300-8d9b8688c403c53_834-03/Stream1/playlist.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/7/7a/I-CABLE_Finance.png" group-title="香港",有線財經資訊台
+#EXTINF:0 tvg-logo="http://www.cabletv.com.hk/file/tv_channel/_r100x30/p583cefafeeff7.png" group-title="香港",有線財經資訊台
 https://uc6.i-cable.com/liveJoemud_ts/_definst_/4-23cbfdf1-1638732361-1638818941-de221b71f09c1995ba8bb5262166c283-8d9b8688c51b334_7e4-03/freehd208_h.live/playlist.m3u8
-#EXTINF:0 tvg-logo="https://cdn.thestandnews.com/media/photos/cache/cable_WwZXL_1200x0.png" group-title="香港",有線綜合娛樂台
+#EXTINF:0 tvg-logo="http://www.cabletv.com.hk/file/tv_channel/_r100x30/p5de5c9c268514.png" group-title="香港",有線綜合娛樂台
 http://gslbmeiah.cdn.hk.chinamobile.com/livehls/MOB-CN/03.m3u8
 //#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/f/f5/I-CABLE_Channel18.png/220px-I-CABLE_Channel18.png" group-title="香港",有線18台
 //http://pullstream-ucan.speedws.com/live/65a9327d633a25634b1db9eff823071e/playlist.m3u8
@@ -57,7 +57,7 @@ http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid
 
 #EXTINF:-1 tvg-logo="https://www.qingmo.net/wp-content/uploads/2019/02/fhwszxt.jpg" tvg-name="凤凰资讯" group-title="香港",鳳凰資訊HD
 http://223.110.235.13/ott.js.chinamobile.com/PLTV/3/224/3221228098/index.m3u8
-#EXTINF:-1 tvg-logo="http://www.luanlishi.com/uploads/allimg/180328/0FI55212_0.jpg" tvg-name="凤凰香港" group-title="香港",鳳凰香港高清
+#EXTINF:-1 tvg-logo="https://img.isuper.tv/live-tv/hk-tv/phtv-hongkong-live.jpg" tvg-name="凤凰香港" group-title="香港",鳳凰香港高清
 http://223.110.236.2/ott.js.chinamobile.com/PLTV/3/224/3221228060/index.m3u8
 #EXTINF:-1 tvg-logo="https://img.isuper.tv/live-tv/hk-tv/phtv-live.jpg" tvg-name="凤凰中文" group-title="香港",鳳凰衛視中文台
 http://223.110.235.3/ott.js.chinamobile.com/PLTV/3/224/3221228057/index.m3u8
