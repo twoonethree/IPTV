@@ -52,8 +52,8 @@ http://hls.jingchangkan.tv/jingchangkan/156722438_0HaM/index.m3u8
 #EXTINF:0 tvg-logo="https://img.sj33.cn/uploads/allimg/201402/7-140225144GK51.png" tvg-name="星空衛視" group-title="香港",星空衛視
 http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=&Fsv_chan_hls_se_idx=233
 
-#EXTINF:0 tvg-logo="https://www.nicepng.com/png/full/952-9522547_top-10-most-famous-indian-television-channels-star.png" tvg-name="" group-title="香港",Star Sports 2
-http://jupiter.bdcabletv.com/selecttwo/video.m3u8
+//#EXTINF:0 tvg-logo="https://www.nicepng.com/png/full/952-9522547_top-10-most-famous-indian-television-channels-star.png" tvg-name="" group-title="香港",Star Sports 2
+//http://jupiter.bdcabletv.com/selecttwo/video.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.qingmo.net/wp-content/uploads/2019/02/fhwszxt.jpg" tvg-name="凤凰资讯" group-title="香港",鳳凰資訊HD
 http://223.110.235.13/ott.js.chinamobile.com/PLTV/3/224/3221228098/index.m3u8
@@ -63,7 +63,7 @@ http://223.110.236.2/ott.js.chinamobile.com/PLTV/3/224/3221228060/index.m3u8
 http://223.110.235.3/ott.js.chinamobile.com/PLTV/3/224/3221228057/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/4/42/%E9%A6%99%E6%B8%AF%E5%8D%AB%E8%A7%86HKS.jpg" tvg-name="" group-title="香港",香港衛視HKS
-http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+https://al-pull2.hkatv.vip/live/hktv20210929.m3u8
 
 #EXTINF:0 tvg-logo="http://www.nettv.live/uploads/18/1-1P602154AA34.jpg" group-title="香港",耀才財經台
 http://202.69.67.66:443/webcast/bshdlive-mobile/playlist.m3u8
