@@ -1,8 +1,8 @@
 #EXTM3U 
 #EXTINF:0 tvg-logo="https://news.now.com/revamp2014/images/news_logo_400.png" group-title="直播",now直播新聞
-http://teslagram.com/live/channel_331.m3u8
-#EXTINF:0 tvg-logo="https://cdn.thestandnews.com/media/photos/cache/cable_WwZXL_1200x0.png" group-title="香港",有線新聞直播台
-http://teslagram.com/live/channel_110.m3u8
+http://ewcdnsite02.nowe.com/session/09-75e2532e50852636814b865b3de9a/Content/HLS/LIVE/Channel(HLS_CH331)/index.m3u8?token=b2187a7482885929ac8b5a3cfe45ad24_1638823003
+#EXTINF:0 tvg-logo="http://www.zyz98.com/uploads/cabletv110.jpg" group-title="香港",有線新聞直播台
+https://uc6.i-cable.com/liveJoemud_ts/_definst_/4-23cbfe38-1638807961-1638894541-93e21c50c5304ebf78f619d027f7fe4f-8d9b918912a5140_6d7-03/Stream1/playlist.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/HK01_logo.png" group-title="直播",HK01直播 
 https://live.cdn.hk01.com/origin/smil:01news.smil/playlist.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Radio_Television_Hong_Kong_Logo.svg/1200px-Radio_Television_Hong_Kong_Logo.svg.png" group-title="直播",RTHK直播 
