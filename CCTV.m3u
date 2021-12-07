@@ -3,10 +3,12 @@
 
 #EXTINF:0 tvg-logo="https://www.tvchinese.net/uploads/tv/cctv1.jpg" tvg-name="" group-title="CCTV",CCTV1
 http://140.207.241.3:8080/live/program/live/cctv1hd/4000000/mnf.m3u8
-//#EXTINF:0 tvg-logo="https://upload.shejihz.com/2020/05/d7a970468c72179986480226e53e3eaa.jpg" tvg-name="" group-title="CCTV",CCTV2
-//http://112.25.48.68/live/program/live/cctv1hd/4000000/mnf.m3u8
+#EXTINF:0 tvg-logo="https://upload.shejihz.com/2020/05/d7a970468c72179986480226e53e3eaa.jpg" tvg-name="" group-title="CCTV",CCTV2
+http://39.135.89.3:6610/yinhe/2/ch00000090990000001293/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:0 tvg-logo="http://img.mp.itc.cn/upload/20170717/00e5f7113f794b95b13c32b3c5ff7beb_th.jpg" tvg-name="" group-title="CCTV",CCTV3
 http://140.207.241.3:8080/live/program/live/cctv3hd/4000000/mnf.m3u8
+#EXTINF:0 tvg-logo="https://p2.img.cctvpic.com/photoAlbum/page/performance/img/2021/10/25/1635144125056_756.png" tvg-name="" group-title="CCTV",CCTV4
+http://39.135.89.3:6610/yinhe/2/ch00000090990000001290/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/3/33/CCTV-5_Logo.png/400px-CCTV-5_Logo.png" tvg-name="" group-title="CCTV",CCTV5
 http://140.207.241.3:8080/live/program/live/cctv5hd/4000000/mnf.m3u8
 #EXTINF:0 tvg-logo="https://p3.img.cctvpic.com/photoAlbum/page/performance/img/2021/10/25/1635144183950_203.png" tvg-name="" group-title="CCTV",CCTV5+
