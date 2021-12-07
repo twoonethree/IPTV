@@ -36,12 +36,8 @@ http://seb.sason.top/sc/dsxw_fhd.m3u8
 http://seb.sason.top/sc/dscjxw_fhd.m3u8
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/b/b0/Chinatvnews.jpg/250px-Chinatvnews.jpg" group-title="台灣",中視新聞
-https://www.youtube.com/watch?v=YFCNyUfbJyU
-//#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/b/b0/Chinatvnews.jpg/250px-Chinatvnews.jpg" group-title="新聞",中視新聞
-//https://www.youtube.com/watch?v=wxQcIb8zcPA
+https://raw.githubusercontent.com/etag2000/IPTV/YTlive/ctvnews.m3u8
 
-//#EXTINF:0 tvg-logo="http://www.nettv.live/uploads/18/1-1P31011310a51.jpg" group-title="新聞",台視新聞
-//https://www.youtube.com/watch?v=NbjI0cARzjQ&list=PLxY9LoSnhGg3JTPFNOaPxuFzN95Q2DscP&index=5&t=0s
 #EXTINF:0 tvg-logo="http://www.nettv.live/uploads/18/1-1P31011310a51.jpg" group-title="台灣",台視新聞
 https://www.youtube.com/watch?v=NbjI0cARzjQ
 
