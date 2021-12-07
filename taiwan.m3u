@@ -8,8 +8,8 @@ rtmp://59.124.75.138/sat/tv421
 
 #EXTINF:0 tvg-logo="https://img.isuper.tv/live-tv/ftv-live.jpg" group-title="台灣",民視HD
 rtmp://59.124.75.138/sat/tv051
-#EXTINF:0 tvg-logo="https://img.isuper.tv/live-tv/ftv-live.jpg" group-title="台灣",民視HD
-rtmp://59.124.75.138/sat/tv051
+#EXTINF:0 tvg-logo="https://www.ftv.com.tw/tftaiwan/images/ch_logo_ftvn.png" group-title="台灣",民視新聞台
+http://seb.sason.top/sc/msxw_fhd.m3u8
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/e/e1/SETN_logo.png" group-title="台灣",三立新聞HD
 http://60.199.188.65/HLS/WG_ETTV-N/02.m3u8
