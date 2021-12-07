@@ -45,12 +45,12 @@ https://raw.githubusercontent.com/etag2000/IPTV/YTlive/ctvnews.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/4/43/TTV_Home_Channel_with_HD_2016.png/400px-TTV_Home_Channel_with_HD_2016.png" group-title="台灣",台視HD
 rtmp://59.124.75.138/sat/tv071
 #EXTINF:0 tvg-logo="http://www.nettv.live/uploads/18/1-1P31011310a51.jpg" group-title="台灣",台視新聞
-https://www.youtube.com/watch?v=NbjI0cARzjQ
+http://seb.sason.top/sc/tsxw_fhd.m3u8
 
-//#EXTINF:0 tvg-logo="https://img.isuper.tv/live-tv/cts-live.jpg" group-title="新聞",華視新聞
-//https://www.youtube.com/watch?v=TL8mmew3jb8
-#EXTINF:0 tvg-logo="https://img.isuper.tv/live-tv/cts-live.jpg" group-title="台灣",華視新聞
-https://www.youtube.com/watch?v=TL8mmew3jb8
+#EXTINF:0 tvg-logo="https://www.cts.com.tw/images/2018cts/cts-logo.png" group-title="新聞",華視HD
+rtmp://59.124.75.138/sat/tv111
+#EXTINF:0 tvg-logo="https://www.cts.com.tw/images/2018cts/cts-logo.pn" group-title="台灣",華視新聞資訊台
+https://raw.githubusercontent.com/etag2000/IPTV/YTlive/ctsnews.m3u8
 
 //#EXTINF:0 tvg-logo="https://3.bp.blogspot.com/-_9niIIOucnE/Wh6RRwiCnVI/AAAAAAAAAaE/DEUEZnI48G06TlRtumi7DDJBlRkEwrybQCLcBGAs/s1600/CH52.png" group-title="新聞",中天新聞
 //http://104.250.154.42:8080/ZZ_zhongtiannews/ZZ_zhongtiannews.m3u8
