@@ -15,9 +15,15 @@ http://140.207.241.3:8080/live/program/live/cctv5hd/4000000/mnf.m3u8
 http://140.207.241.3:8080/live/program/live/cctv5phd/4000000/mnf.m3u8
 #EXTINF:0 tvg-logo="https://p4.img.cctvpic.com/photoAlbum/page/performance/img/2021/10/25/1635144204985_291.png" tvg-name="" group-title="CCTV",CCTV6
 http://140.207.241.3:8080/live/program/live/cctv6hd/4000000/mnf.m3u8
+#EXTINF:0 tvg-logo="https://p2.img.cctvpic.com/photoAlbum/page/performance/img/2021/10/25/1635144221934_463.png" tvg-name="" group-title="CCTV",CCTV7
+http://39.135.89.3:6610/yinhe/2/ch00000090990000001291/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:0 tvg-logo="https://p1.img.cctvpic.com/photoAlbum/page/performance/img/2021/10/25/1635144253790_368.png" tvg-name="" group-title="CCTV",CCTV8
 http://140.207.241.3:8080/live/program/live/cctv8hd/4000000/mnf.m3u8
+#EXTINF:0 tvg-logo="https://p5.img.cctvpic.com/photoAlbum/page/performance/img/2021/10/25/1635144281237_580.png" tvg-name="" group-title="CCTV",CCTV9
+http://39.135.89.3:6610/yinhe/2/ch00000090990000001294/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:0 tvg-logo="https://p3.img.cctvpic.com/photoAlbum/page/performance/img/2021/10/25/1635144450089_567.png" tvg-name="" group-title="CCTV",CCTV10
 http://140.207.241.3:8080/live/program/live/cctv10hd/4000000/mnf.m3u
+#EXTINF:0 tvg-logo="https://p3.img.cctvpic.com/photoAlbum/page/performance/img/2021/10/25/1635144508632_906.png" tvg-name="" group-title="CCTV",CCTV12
+http://39.135.89.3:6610/yinhe/2/ch00000090990000001289/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:0 tvg-logo="https://p3.img.cctvpic.com/photoAlbum/page/performance/img/2021/10/25/1635144527821_541.png" tvg-name="" group-title="CCTV",CCTV14
 http://140.207.241.3:8080/live/program/live/cctvsehd/4000000/mnf.m3u8
