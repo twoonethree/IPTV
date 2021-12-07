@@ -7,3 +7,5 @@ http://140.207.241.3:8080/live/program/live/cctv1hd/4000000/mnf.m3u8
 //http://112.25.48.68/live/program/live/cctv1hd/4000000/mnf.m3u8
 #EXTINF:0 tvg-logo="http://img.mp.itc.cn/upload/20170717/00e5f7113f794b95b13c32b3c5ff7beb_th.jpg" tvg-name="" group-title="CCTV",CCTV3
 http://140.207.241.3:8080/live/program/live/cctv3hd/4000000/mnf.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/3/33/CCTV-5_Logo.png/400px-CCTV-5_Logo.png" tvg-name="" group-title="CCTV",CCTV5
+http://140.207.241.3:8080/live/program/live/cctv5hd/4000000/mnf.m3u8
