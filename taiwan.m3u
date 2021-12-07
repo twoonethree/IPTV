@@ -21,8 +21,8 @@ http://seb.sason.top/ptv/ftv.php?id=ly
 #EXTINF:0 tvg-logo="https://www.nettvpro.live/uploads/allimg/20/1-2002111934260-L.jpg" group-title="台灣",民視影劇台
 http://seb.sason.top/ptv/ftv.php?id=yj
 
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/e/e1/SETN_logo.png" group-title="台灣",三立新聞HD
-http://60.199.188.65/HLS/WG_ETTV-N/02.m3u8
+#EXTINF:0 tvg-logo="http://dv33.davillage.com.tw/wp-content/uploads/2017/08/%E4%B8%89%E7%AB%8B.png" group-title="台灣",三立Live新聞
+https://raw.githubusercontent.com/etag2000/IPTV/YTlive/setlive.m3u8
 #EXTINF:0 tvg-logo="http://www.zyz98.com/uploads/setinews.jpg" group-title="台灣",三立iNews最正新聞
 http://seb.sason.top/sc/slinews_fhd.m3u8
 #EXTINF:0 tvg-logo="http://www.tvyan.com/uploads/dianshi/setduhui.jpg" group-title="台灣",三立都會台
