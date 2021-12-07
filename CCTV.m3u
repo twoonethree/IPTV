@@ -1,1 +1,7 @@
-test
+
+#EXTM3U 
+
+#EXTINF:0 tvg-logo="https://www.tvchinese.net/uploads/tv/cctv1.jpg" tvg-name="" group-title="CCTV",CCTV1
+http://112.25.48.68/live/program/live/cctv1hd/4000000/mnf.m3u8
+#EXTINF:0 tvg-logo="https://upload.shejihz.com/2020/05/d7a970468c72179986480226e53e3eaa.jpg" tvg-name="" group-title="CCTV",CCTV2
+http://112.25.48.68/live/program/live/cctv1hd/4000000/mnf.m3u8
