@@ -37,6 +37,8 @@ http://seb.sason.top/sc/dsxw_fhd.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/5/53/%E6%9D%B1%E6%A3%AE%E8%B2%A1%E7%B6%93%E6%96%B0%E8%81%9E%E5%8F%B0.png" group-title="台灣",東森財經新聞
 http://seb.sason.top/sc/dscjxw_fhd.m3u8
 
+#EXTINF:0 tvg-logo="https://pic.4gtv.tv/ChannelLogo/mobile/logo_4gtv_4gtv-4gtv040_mobile.png" group-title="台灣",中視HD
+rtmp://59.124.75.138/sat/tv091
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/b/b0/Chinatvnews.jpg/250px-Chinatvnews.jpg" group-title="台灣",中視新聞
 https://raw.githubusercontent.com/etag2000/IPTV/YTlive/ctvnews.m3u8
 
