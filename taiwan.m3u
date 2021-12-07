@@ -12,6 +12,14 @@ rtmp://59.124.75.138/sat/tv051
 http://seb.sason.top/sc/msxw_fhd.m3u8
 #EXTINF:0 tvg-logo="https://pic.4gtv.tv/ChannelLogo/mobile/logo_4gtv_4gtv-4gtv001_mobile.png" group-title="台灣",民視台灣台
 http://seb.sason.top/ptv/ftv.php?id=tw
+#EXTINF:0 tvg-logo="https://pic.4gtv.tv/ChannelLogo/mobile/logo_4gtv_4gtv-4gtv003_mobile.png" group-title="台灣",民視第一台
+http://seb.sason.top/ptv/ftv.php?id=dy
+#EXTINF:0 tvg-logo="https://pic.4gtv.tv/ChannelLogo/mobile/logo_4gtv_4gtv-4gtv004_mobile.png" group-title="台灣",民視綜藝台
+http://seb.sason.top/ptv/ftv.php?id=zy
+#EXTINF:0 tvg-logo="https://pic.4gtv.tv/ChannelLogo/mobile/logo_4gtv_litv-ftv07_mobile.png" group-title="台灣",民視旅遊台
+http://seb.sason.top/ptv/ftv.php?id=ly
+#EXTINF:0 tvg-logo="https://www.nettvpro.live/uploads/allimg/20/1-2002111934260-L.jpg" group-title="台灣",民視影劇台
+http://seb.sason.top/ptv/ftv.php?id=yj
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/e/e1/SETN_logo.png" group-title="台灣",三立新聞HD
 http://60.199.188.65/HLS/WG_ETTV-N/02.m3u8
