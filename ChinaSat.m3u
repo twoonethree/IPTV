@@ -10,5 +10,13 @@ http://39.135.40.170/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225651/index.m3u8
 http://39.135.40.170/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225675/index.m3u8
 #EXTINF:0 tvg-logo="https://pic3.zhimg.com/80/v2-f97330d247b46b28f12c2bba5b474ef2_1440w.jpg" tvg-name="" group-title="衛視",安徽衛視
 http://39.135.40.170/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225701/index.m3u8
+#EXTINF:0 tvg-logo="http://www.tvyan.com/uploads/dianshi/shandongtv.jpg" tvg-name="" group-title="衛視",山東衛視
+http://39.135.40.170/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225672/index.m3u8
+#EXTINF:0 tvg-logo="https://www.3wen.com/userfiles/images/13p.jpg" tvg-name="" group-title="衛視",廣東衛視
+http://39.135.40.170/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225666/index.m3u8
+#EXTINF:0 tvg-logo="http://n.sinaimg.cn/sinacn20190731ac/253/w650h403/20190731/c806-iaqfzyv5108728.jpg" tvg-name="" group-title="衛視",江蘇衛視
+http://39.135.40.170/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225722/index.m3u8
+#EXTINF:0 tvg-logo="https://p1.ssl.qhimg.com/dmsmty/1080_822_/t01c68670d2545cf960.jpg" tvg-name="" group-title="衛視",江西衛視
+http://39.135.40.170/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225669/index.m3u8
 
-安徽
+
