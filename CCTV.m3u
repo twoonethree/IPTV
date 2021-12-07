@@ -27,6 +27,8 @@ http://140.207.241.3:8080/live/program/live/cctv10hd/4000000/mnf.m3u
 http://39.135.40.170/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225739/index.m3u8
 #EXTINF:0 tvg-logo="https://p3.img.cctvpic.com/photoAlbum/page/performance/img/2021/10/25/1635144508632_906.png" tvg-name="" group-title="CCTV",CCTV12
 http://39.135.89.3:6610/yinhe/2/ch00000090990000001289/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:0 tvg-logo="https://p1.img.cctvpic.com/photoAlbum/page/performance/img/2019/6/10/1560152945059_800.png" tvg-name="" group-title="CCTV",CCTV13
+http://39.135.40.170/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225742/index.m3u8
 #EXTINF:0 tvg-logo="https://p3.img.cctvpic.com/photoAlbum/page/performance/img/2021/10/25/1635144527821_541.png" tvg-name="" group-title="CCTV",CCTV14
 http://140.207.241.3:8080/live/program/live/cctvsehd/4000000/mnf.m3u8
 #EXTINF:0 tvg-logo="https://p3.img.cctvpic.com/photoAlbum/page/performance/img/2021/10/25/1635144555544_376.png" tvg-name="" group-title="CCTV",CCTV15
