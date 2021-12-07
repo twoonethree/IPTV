@@ -54,26 +54,28 @@ https://raw.githubusercontent.com/etag2000/IPTV/YTlive/ctsnews.m3u8
 
 #EXTINF:0 tvg-logo="https://3.bp.blogspot.com/-_9niIIOucnE/Wh6RRwiCnVI/AAAAAAAAAaE/DEUEZnI48G06TlRtumi7DDJBlRkEwrybQCLcBGAs/s1600/CH52.png" group-title="台灣",中天新聞
 http://seb.sason.top/sc/ztxw_fhd.m3u8
-#EXTINF:0 tvg-logo="https://twg.skyking.com.tw/skyking/Icon/CTI-036-250x130.png" group-title="台灣",中天綜合
-http://104.250.154.42:8080/ZZ_zhongtianzonghe/ZZ_zhongtianzonghe.m3u8
+//#EXTINF:0 tvg-logo="https://twg.skyking.com.tw/skyking/Icon/CTI-036-250x130.png" group-title="台灣",中天綜合
+//http://104.250.154.42:8080/ZZ_zhongtianzonghe/ZZ_zhongtianzonghe.m3u8
 
-//#EXTINF:0 tvg-logo="https://i.ytimg.com/vi/M7em79z_o3A/hqdefault.jpg" group-title="新聞",BCC中廣新聞網
-//https://www.youtube.com/watch?v=rgp-R3GyZJs
-//#EXTINF:0 tvg-logo="https://i.ytimg.com/vi/M7em79z_o3A/hqdefault.jpg" group-title="台灣",BCC中廣新聞網
-//https://www.youtube.com/watch?v=rgp-R3GyZJs
+#EXTINF:0 tvg-logo="https://photo.sofun.tw/2018/12/Videoland-Japan-Logo.jpg" group-title="台灣",緯來日本台
+rtmp://59.124.75.138/sat/tv771
+#EXTINF:0 tvg-logo="https://img.isuper.tv/live-tv/vl-maxtv-live.jpg" group-title="台灣",緯來育樂台
+rtmp://59.124.75.138/sat/tv701
+#EXTINF:0 tvg-logo="https://img.isuper.tv/live-tv/vl-sports-live.jpg" group-title="台灣",緯來體育台
+rtmp://59.124.75.138/sat/tv721
 
-#EXTINF:0 tvg-logo="https://www.nettv.live/uploads/19/1-1Z220195433103.jpg" group-title="台灣",博斯魅力
-http://ms003.happytv.com.tw/live/OcScNdWHvBx5P4w3/index.m3u8
+//#EXTINF:0 tvg-logo="https://www.nettv.live/uploads/19/1-1Z220195433103.jpg" group-title="台灣",博斯魅力
+//http://ms003.happytv.com.tw/live/OcScNdWHvBx5P4w3/index.m3u8
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/4KtjyeR.jpg" group-title="台灣",NTD TV
 https://live.ntdimg.com/aplive200/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/w6apld6.png" group-title="台灣",Da Ai
-https://www.youtube.com/watch?v=oV_i3Hsl_zg
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/PmD2WwD.jpg" group-title="台灣",Da Ai 2
-https://www.youtube.com/watch?v=DTNkEm6jaqQ
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/w6apld6.png" group-title="台灣",Da Ai海外
-https://www.youtube.com/watch?v=MIqUplvSRWA
+//#EXTINF:-1 tvg-logo="https://i.imgur.com/w6apld6.png" group-title="台灣",Da Ai
+//https://www.youtube.com/watch?v=oV_i3Hsl_zg
+//#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/PmD2WwD.jpg" group-title="台灣",Da Ai 2
+//https://www.youtube.com/watch?v=DTNkEm6jaqQ
+//#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/w6apld6.png" group-title="台灣",Da Ai海外
+//https://www.youtube.com/watch?v=MIqUplvSRWA
 
 
 
