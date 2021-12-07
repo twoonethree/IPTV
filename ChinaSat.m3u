@@ -18,5 +18,13 @@ http://39.135.40.170/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225666/index.m3u8
 http://39.135.40.170/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225722/index.m3u8
 #EXTINF:0 tvg-logo="https://p1.ssl.qhimg.com/dmsmty/1080_822_/t01c68670d2545cf960.jpg" tvg-name="" group-title="衛視",江西衛視
 http://39.135.40.170/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225669/index.m3u8
+#EXTINF:0 tvg-logo="https://pic.ntimg.cn/file/20200705/26753533_182617285419_2.jpg" tvg-name="" group-title="衛視",浙江衛視
+http://39.135.40.170/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225731/index.m3u8
+#EXTINF:0 tvg-logo="https://img.isuper.tv/live-tv/cn-tv/sztv-live.jpg" tvg-name="" group-title="衛視",深圳衛視
+http://39.135.40.170/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225725/index.m3u8
+#EXTINF:0 tvg-logo="https://img.isuper.tv/live-tv/cn-tv/hbtv-live.jpg" tvg-name="" group-title="衛視",湖北衛視
+http://39.135.40.170/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225721/index.m3u8
+#EXTINF:0 tvg-logo="https://5b0988e595225.cdn.sohucs.com/q_70,c_zoom,w_640/images/20170728/496314fc2a5a48b684c20c806b98fd96.jpg" tvg-name="" group-title="衛視",湖南衛視
+http://39.135.40.170/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225719/index.m3u8
 
 
