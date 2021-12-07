@@ -1,0 +1,10 @@
+#EXTM3U 
+
+#EXTINF:0 tvg-logo="http://www.zyz98.com/uploads/newtvgongfu.jpg" tvg-name="" group-title="NewTV",NewTV中國功夫
+http://39.135.40.170/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225690/index.m3u8
+#EXTINF:0 tvg-logo="http://www.tvyan.com/uploads/dianshi/newtvjspl.jpg" tvg-name="" group-title="NewTV",NewTV軍事評論
+http://39.135.40.170/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225749/index.m3u8
+#EXTINF:0 tvg-logo="http://www.tvquanqiu.com/uploads/newtvjunlv.jpg" tvg-name="" group-title="NewTV",NewTV軍旅劇場
+http://39.135.40.170/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225727/index.m3u8
+#EXTINF:0 tvg-logo="hhttp://www.tvyan.com/uploads/dianshi/newtvnongye.jpg" tvg-name="" group-title="NewTV",NewTV農業致富
+http://39.135.40.170/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225687/index.m3u8
