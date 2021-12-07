@@ -15,3 +15,7 @@ http://140.207.241.3:8080/live/program/live/cctv5phd/4000000/mnf.m3u8
 http://140.207.241.3:8080/live/program/live/cctv6hd/4000000/mnf.m3u8
 #EXTINF:0 tvg-logo="https://p1.img.cctvpic.com/photoAlbum/page/performance/img/2021/10/25/1635144253790_368.png" tvg-name="" group-title="CCTV",CCTV8
 http://140.207.241.3:8080/live/program/live/cctv8hd/4000000/mnf.m3u8
+#EXTINF:0 tvg-logo="https://p3.img.cctvpic.com/photoAlbum/page/performance/img/2021/10/25/1635144450089_567.png" tvg-name="" group-title="CCTV",CCTV10
+http://140.207.241.3:8080/live/program/live/cctv8hd/4000000/mnf.m3u8
+#EXTINF:0 tvg-logo="https://p3.img.cctvpic.com/photoAlbum/page/performance/img/2021/10/25/1635144527821_541.png" tvg-name="" group-title="CCTV",CCTV14
+http://140.207.241.3:8080/live/program/live/cctvsehd/4000000/mnf.m3u8
