@@ -1,16 +1,25 @@
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Logo_Eleven_Sports_2020.png/800px-Logo_Eleven_Sports_2020.png" group-title="體育", ELEVEN1體育台
+rtmp://59.124.75.138:1935/sat/tv731
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Logo_Eleven_Sports_2020.png/800px-Logo_Eleven_Sports_2020.png" group-title="體育", ELEVEN2體育台
+rtmp://59.124.75.138:1935/sat/tv741
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/3/33/CCTV-5_Logo.png" group-title="體育",CCTV 5
 http://140.207.241.3:8080/live/program/live/cctv5hd/4000000/mnf.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/90/CCTV-5%2B_Logo.png" group-title="體育",CCTV 5+
 http://140.207.241.3:8080/live/program/live/cctv5phd/4000000/mnf.m3u8
 #EXTINF:-1 tvg-logo="https://www.nettv.live/uploads/19/1-1Z4191F354Q9.jpg" group-title="體育",廣東體育
 http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=8&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
+
+#EXTINF:0 tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/101_4ff53e627ce28c4ba535c0c8e2178da8.png" group-title="體育", 愛爾達體育1台
+rtmp://59.124.75.138/sat/md051
+
 #EXTINF:-1 tvg-logo="http://www.nettv.live/uploads/18/1-1P5121Q245326.jpg" group-title="體育",澳視體育
 https://live4.tdm.com.mo/ch4/_definst_/sport_ch4.live/playlist.m3u8
 #EXTINF:0 tvg-logo="https://www.nettv.live/uploads/allimg/20/1-20040Q335270-L.jpg" group-title="體育",NowSportsPRIME
 http://livetv.dnsfor.me:80/channel.12.m3u8
 #EXTINF:0 tvg-logo="https://img.isuper.tv/live-tv/vl-sports-live.jpg" group-title="體育",緯來體育
 rtmp://59.124.75.138/sat/tv721
-#EXTINF:0 tvg-logo="http://mo.heytv.org/wp-content/uploads/2018/12/1-1P426222R1296.jpg" group-title="體育",NewTV精品體育
+#EXTINF:0 tvg-logo="http://www.tvyan.com/uploads/dianshi/newtvjpty.jpg" group-title="體育",NewTV精品體育
 http://39.135.40.170/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225724/index.m3u8
 #EXTINF:-1 tvg-logo="https://photocdn.sohu.com/20120529/Img344336334.jpg" group-title="體育",五星體育
 http://112.25.48.68/live/program/live/ssty/4000000/mnf.m3u8
