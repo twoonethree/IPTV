@@ -3,6 +3,11 @@ rtmp://59.124.75.138:1935/sat/tv731
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Logo_Eleven_Sports_2020.png/800px-Logo_Eleven_Sports_2020.png" group-title="體育", ELEVEN2體育台
 rtmp://59.124.75.138:1935/sat/tv741
 
+#EXTINF:0 tvg-logo="http://img3.downza.cn/download/201810/095920-5bd7baf81bf17.jpg" group-title="體育", 咪咕視頻-PP體育1
+http://39.134.65.162/PLTV/88888888/224/3221225611/index.m3u8
+#EXTINF:0 tvg-logo="http://img3.downza.cn/download/201810/095920-5bd7baf81bf17.jpg" group-title="體育", 咪咕視頻-PP體育2
+http://39.135.38.13/PLTV/88888888/224/3221225970/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/3/33/CCTV-5_Logo.png" group-title="體育",CCTV 5
 http://140.207.241.3:8080/live/program/live/cctv5hd/4000000/mnf.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/90/CCTV-5%2B_Logo.png" group-title="體育",CCTV 5+
