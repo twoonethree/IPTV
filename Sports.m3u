@@ -63,6 +63,8 @@ http://103.157.210.165:8000/play/a023/index.m3u8
 http://103.157.210.165:8000/play/a024/index.m3u8
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/197_144.png" group-title="體育", Astro Cricket
 http://208.86.19.21:80/720.stream/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/66/39/c7/6639c7f00ca2acb1e2fd8b61cb11cfb4.jpg" group-title="體育", Jio Cricket HD
+https://2je0.short.gy/JIO-CRICKET-HD/wostvlive.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/66/39/c7/6639c7f00ca2acb1e2fd8b61cb11cfb4.jpg" group-title="體育", Jio Cricket 3
 http://jo123.biz/jweb/m3u8.php?c=Jio_Cricket_3_HD&q=1200&e=.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/66/39/c7/6639c7f00ca2acb1e2fd8b61cb11cfb4.jpg" group-title="體育", Jio Cricket 4
