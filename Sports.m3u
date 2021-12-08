@@ -36,14 +36,35 @@ http://112.25.48.68/live/program/live/xsjhd/4000000/mnf.m3u8
 #EXTINF:-1 tvg-logo="https://img.tiantianzhibo.net/uploads/allimg/150208/1-15020Q13129436.jpg" group-title="體育",勁爆體育
 http://112.25.48.68/live/program/live/jbtyhd/4000000/mnf.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/abu-dhabi-sports-1-ae.png" group-title="體育",AD Sports
+https://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/600x315/84/26/41/842641774672d4185d3cc13b4d5ab850.jpg" group-title="體育",DD Sports
 http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/Stream(02)/index.m3u8
-
+#EXTINF:-1 tvg-logo="https://www.freesports.tv/assets/components/mor/General/img/freesports-logo.png" group-title="體育",Free Sports
+https://csm-e-stv.tls1.yospace.com/csm/live/203444271.m3u8
 #EXTINF:-1 tvg-ID="NFL.US" tvg-logo="https://static.epg.best/us/NFLNetwork.us.png" group-title="体育",NFL Network
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ced7d5df64be98e07ed47b6/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=708&deviceId=5ced7d5df64be98e07ed47b6&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 
 #EXTINF:-1 tvg-logo="http://www.fightbox.com/images/stories/menu_fb_roll.png" group-title="體育", FightBox
 http://92.43.140.249/s86/04.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.airtv.net/images/logos/hindi/Willow-HD.png" group-title="體育", Willow HD
+http://208.86.19.21:80/731.stream/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.pngkey.com/png/detail/921-9211380_sky-sports-cricket-sky-sports-main-event-logo.png" group-title="體育", Sky Sports Cricket
+http://103.157.210.165:8000/play/a023/index.m3u8
+#EXTINF:-1 tvg-logo="https://supersport.azureedge.net/web-assets/channels/hos/supersport-cricket.png" group-title="體育", Super Sports Cricket
+http://103.157.210.165:8000/play/a024/index.m3u8
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/197_144.png" group-title="體育", Astro Cricket
+http://208.86.19.21:80/720.stream/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/66/39/c7/6639c7f00ca2acb1e2fd8b61cb11cfb4.jpg" group-title="體育", Jio Cricket 3
+http://jo123.biz/jweb/m3u8.php?c=Jio_Cricket_3_HD&q=1200&e=.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/66/39/c7/6639c7f00ca2acb1e2fd8b61cb11cfb4.jpg" group-title="體育", Jio Cricket 4
+http://jo123.biz/jweb/m3u8.php?c=Jio_Cricket_4_HD&q=800&e=.m3u8
+#EXTINF:-1 tvg-logo="https://a-sports.tv/wp-content/uploads/2021/10/android-chrome-192x192-1.png" group-title="體育", A Sports
+http://221.120.204.4/LOCKLE-A-SPORTS/index.m3u8
+
+
 
 #EXTINF:-1  tvg-logo="https://static.iptv-epg.com/us/Stadium.us.png" group-title="體育", Stadium
 https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8
