@@ -24,15 +24,12 @@ http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
 #EXTINF:0 tvg-logo="http://www.cabletv.com.hk/file/tv_channel/_r100x30/p5a30d6679429a.png" group-title="香港",有線新聞台
 https://api.leonardpark.dev/live/icable/109
 #EXTINF:0 tvg-logo="http://www.cabletv.com.hk/file/tv_channel/_r100x30/p5b06402f058c4.png" group-title="香港",有線新聞直播台
-https://uc6.i-cable.com/liveJoemud_ts/_definst_/4-23cbfe37-1638732361-1638818941-58b5c0e1c869680da962730a4ef27300-8d9b8688c403c53_834-03/Stream1/playlist.m3u8
+https://api.leonardpark.dev/live/icable/110
 #EXTINF:0 tvg-logo="http://www.cabletv.com.hk/file/tv_channel/_r100x30/p583cefafeeff7.png" group-title="香港",有線財經資訊台
-https://uc6.i-cable.com/liveJoemud_ts/_definst_/4-23cbfdf1-1638732361-1638818941-de221b71f09c1995ba8bb5262166c283-8d9b8688c51b334_7e4-03/freehd208_h.live/playlist.m3u8
+https://api.leonardpark.dev/live/icable/108
 #EXTINF:0 tvg-logo="http://www.cabletv.com.hk/file/tv_channel/_r100x30/p5de5c9c268514.png" group-title="香港",有線綜合娛樂台
 http://gslbmeiah.cdn.hk.chinamobile.com/livehls/MOB-CN/03.m3u8
-//#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/f/f5/I-CABLE_Channel18.png/220px-I-CABLE_Channel18.png" group-title="香港",有線18台
-//http://pullstream-ucan.speedws.com/live/65a9327d633a25634b1db9eff823071e/playlist.m3u8
-//#EXTINF:0 tvg-logo="http://mo.heytv.org/wp-content/uploads/2018/12/1-1Q113132S50-L.jpg" group-title="香港",有線603台
-//http://pullstream-ucan.speedws.com/live/d910706635c34f85df619019bf9ca089/playlist.m3u8
+
 
 #EXTINF:0 tvg-logo="https://news.now.com/revamp2014/images/news_logo_400.png" group-title="香港",Now新聞台
 http://livetv.dnsfor.me:80/channel.4.m3u8#https://www.navchina.cf/IPTV/now.php?id=332
@@ -45,7 +42,6 @@ http://livetv.dnsfor.me:80/channel.12.m3u8
 https://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_2052_av-b.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/QkV6eqz.jpg" tvg-name="rthk32" group-title="香港",rthk32
 http://livetv.dnsfor.me/channel.2.m3u8
-
 
 #EXTINF:0 tvg-logo="http://www.ctstvnet.com/uploads/image/20190904/1567573278176773.png" tvg-name="亞旅衛視" group-title="香港",亞旅衛視
 http://hls.jingchangkan.tv/jingchangkan/156722438_0HaM/index.m3u8
