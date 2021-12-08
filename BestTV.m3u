@@ -1,2 +1,29 @@
 
+#EXTM3U 
+
+#EXTINF:0 tvg-logo="http://pic.downcc.com/upload/2015-2/201527215823.png" tvg-name="" group-title="BestTV",BestTV影院1
 rtsp://183.252.166.199/PLTV/88888888/224/3221226757/45949783.smil
+
+#EXTINF:0 tvg-logo="http://pic.downcc.com/upload/2015-2/201527215823.png" tvg-name="" group-title="BestTV",BestTV影院2
+rtsp://183.252.166.199/PLTV/88888888/224/3221226816/48629572.smil
+
+#EXTINF:0 tvg-logo="http://pic.downcc.com/upload/2015-2/201527215823.png" tvg-name="" group-title="BestTV",BestTV影院3
+rtsp://183.252.166.199/PLTV/88888888/224/3221226748/45950069.smil
+
+#EXTINF:0 tvg-logo="http://pic.downcc.com/upload/2015-2/201527215823.png" tvg-name="" group-title="BestTV",BestTV影院4
+rtsp://183.252.166.199/PLTV/88888888/224/3221226797/47878049.smil
+
+#EXTINF:0 tvg-logo="http://pic.downcc.com/upload/2015-2/201527215823.png" tvg-name="" group-title="BestTV",BestTV電視劇1
+rtsp://183.252.166.199/PLTV/88888888/224/3221226761/45973212.smil
+
+#EXTINF:0 tvg-logo="http://pic.downcc.com/upload/2015-2/201527215823.png" tvg-name="" group-title="BestTV",BestTV電視劇2
+rtsp://183.252.166.199/PLTV/88888888/224/3221226022/10000100000000060000000002296864_0.smil
+
+#EXTINF:0 tvg-logo="http://pic.downcc.com/upload/2015-2/201527215823.png" tvg-name="" group-title="BestTV",BestTV電視劇3
+rtsp://183.252.166.199/PLTV/88888888/224/3221226752/45973624.smil
+
+#EXTINF:0 tvg-logo="http://pic.downcc.com/upload/2015-2/201527215823.png" tvg-name="" group-title="BestTV",BestTV動畫1
+rtsp://183.252.166.199/PLTV/88888888/224/3221226756/45973923.smil
+
+#EXTINF:0 tvg-logo="http://pic.downcc.com/upload/2015-2/201527215823.png" tvg-name="" group-title="BestTV",BestTV動畫2
+rtsp://183.252.166.199/PLTV/88888888/224/3221226917/57526342.smil
