@@ -3,6 +3,9 @@ rtmp://59.124.75.138:1935/sat/tv731
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Logo_Eleven_Sports_2020.png/800px-Logo_Eleven_Sports_2020.png" group-title="體育", ELEVEN2體育台
 rtmp://59.124.75.138:1935/sat/tv741
 
+#EXTINF:0 tvg-logo="https://www.pngkey.com/png/detail/245-2457974_television-star-1-cricket-live.png" group-title="體育", Star Sports1
+http://208.86.19.21:80/724.stream/index.m3u8
+
 #EXTINF:0 tvg-logo="http://img3.downza.cn/download/201810/095920-5bd7baf81bf17.jpg" group-title="體育", 咪咕視頻-PP體育1
 http://39.134.65.162/PLTV/88888888/224/3221225611/index.m3u8
 #EXTINF:0 tvg-logo="http://img3.downza.cn/download/201810/095920-5bd7baf81bf17.jpg" group-title="體育", 咪咕視頻-PP體育2
