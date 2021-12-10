@@ -34,6 +34,8 @@ https://2je0.short.gy/JIO-CRICKET-HD/wostvlive.m3u8
 http://jo123.biz/jweb/m3u8.php?c=Jio_Cricket_3_HD&q=1200&e=.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/66/39/c7/6639c7f00ca2acb1e2fd8b61cb11cfb4.jpg" group-title="體育",Jio Cricket 4
 http://jo123.biz/jweb/m3u8.php?c=Jio_Cricket_4_HD&q=800&e=.m3u8
+#EXTINF:-1 tvg-ID="NFL.US" tvg-logo="https://image.pngaaa.com/566/233566-middle.png" group-title="体育",NBA TV
+https://2je0.short.gy/NBA_TV_UHD/hubtvapp.m3u8
 #EXTINF:-1 tvg-ID="NFL.US" tvg-logo="https://static.epg.best/us/NFLNetwork.us.png" group-title="体育",NFL Network
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ced7d5df64be98e07ed47b6/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=708&deviceId=5ced7d5df64be98e07ed47b6&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 #EXTINF:-1 tvg-logo="http://onegolftv.com/wp-content/uploads/2018/08/onegolf-HD-with-image-100px.png" group-title="體育",One Golf
