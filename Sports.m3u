@@ -24,6 +24,8 @@ rtmp://59.124.75.138:1935/sat/tv731
 rtmp://59.124.75.138:1935/sat/tv741
 #EXTINF:-1 tvg-logo="http://www.fightbox.com/images/stories/menu_fb_roll.png" group-title="體育",FightBox
 http://92.43.140.249/s86/04.m3u8
+#EXTINF:-1 tvg-logo="https://media.foxsports.com.au/commercial/cricket/FOXCRICKET_MASTERLOGO_foxcricket_blue_landscape_SMALL.jpg" group-title="體育",FOX-CRICKET501
+https://2je0.short.gy/FOX-CRICKET-HD/hubtvapp.m3u8
 #EXTINF:-1 tvg-logo="https://www.freesports.tv/assets/components/mor/General/img/freesports-logo.png" group-title="體育",Free Sports
 https://csm-e-stv.tls1.yospace.com/csm/live/203444271.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/66/39/c7/6639c7f00ca2acb1e2fd8b61cb11cfb4.jpg" group-title="體育",Jio Cricket HD
