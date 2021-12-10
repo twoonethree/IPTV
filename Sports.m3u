@@ -56,6 +56,8 @@ http://jupiter.bdcabletv.com/StarSports_2-Enc/video.m3u8
 http://103.157.210.165:8000/play/a024/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/34/85/8c/34858c396585f2f36851cca0db1c7da1--match-point-sport-logos.jpg" group-title="體育",Tennis Channel
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://ewsat.com/img/TRT_SPOR.png" group-title="體育",TRT SPORT
+https://2je0.short.gy/TRT-SPORTS/hubtvapp.m3u8
 #EXTINF:-1 tvg-logo="https://www.airtv.net/images/logos/hindi/Willow-HD.png" group-title="體育",Willow HD
 http://208.86.19.21:80/731.stream/index.m3u8
 #EXTINF:0 tvg-logo="http://img3.downza.cn/download/201810/095920-5bd7baf81bf17.jpg" group-title="體育",咪咕視頻-PP體育1
