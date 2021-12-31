@@ -21,6 +21,10 @@ https://cdn.hkyoutv.com/hls/96/index.m3u8
 #EXTINF:0 tvg-logo="https://www.cabletv.com.hk/file/tv_channel/_c200x200/p5bd2c55f6ea73.png" tvg-name="香港開電視" group-title="香港",香港開電視 
 http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
 
+#EXTINF:0 tvg-logo="http://liveq.tv/liveq.tv/img/hk-%E9%A6%99%E6%B8%AF%E5%9C%8B%E9%9A%9B%E8%B2%A1%E7%B6%93%E5%8F%B0.jpg
+" tvg-name="香港國際財經台" group-title="香港",香港國際財經台
+http://uc6.i-cable.com/live_freedirect/opentvhd002_h.live/playlist.m3u8
+
 #EXTINF:0 tvg-logo="http://www.cabletv.com.hk/file/tv_channel/_r100x30/p5a30d6679429a.png" group-title="香港",有線新聞台
 https://api.leonardpark.dev/live/icable/109
 #EXTINF:0 tvg-logo="http://www.cabletv.com.hk/file/tv_channel/_r100x30/p5b06402f058c4.png" group-title="香港",有線新聞直播台
@@ -42,6 +46,8 @@ http://livetv.dnsfor.me:80/channel.12.m3u8
 https://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_2052_av-b.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/QkV6eqz.jpg" tvg-name="rthk32" group-title="香港",rthk32
 http://livetv.dnsfor.me/channel.2.m3u8
+#EXTINF:0 tvg-logo="https://www.nettvpro.live/uploads/18/1-1P41QA5463X.jpg" tvg-name="rthk33" group-title="香港",rthk33
+http://iptv.tvfix.org/hkdtmb/33/index.m3u8
 
 #EXTINF:0 tvg-logo="http://www.ctstvnet.com/uploads/image/20190904/1567573278176773.png" tvg-name="亞旅衛視" group-title="香港",亞旅衛視
 http://hls.jingchangkan.tv/jingchangkan/156722438_0HaM/index.m3u8
@@ -60,7 +66,13 @@ http://223.110.236.2/ott.js.chinamobile.com/PLTV/3/224/3221228060/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/4/42/%E9%A6%99%E6%B8%AF%E5%8D%AB%E8%A7%86HKS.jpg" tvg-name="" group-title="香港",香港衛視HKS
 https://al-pull2.hkatv.vip/live/hktv20210929.m3u8
 
+
+#EXTINF:0 tvg-logo="http://liveq.tv/liveq.tv/img/hk-%E7%BE%8E%E4%BA%9E%E9%9B%BB%E5%BD%B1%E5%8F%B0.jpg" group-title="香港",美亞電影台
+http://iptv.tvfix.org/hls/mydy.m3u8
+
 #EXTINF:0 tvg-logo="http://www.nettv.live/uploads/18/1-1P602154AA34.jpg" group-title="香港",耀才財經台
 http://202.69.67.66:443/webcast/bshdlive-mobile/playlist.m3u8
+
+
 
 
