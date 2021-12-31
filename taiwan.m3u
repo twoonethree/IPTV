@@ -68,14 +68,11 @@ rtmp://59.124.75.138/sat/tv721
 rtmp://59.124.75.138:1935/sat/tv731
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Logo_Eleven_Sports_2020.png/800px-Logo_Eleven_Sports_2020.png" group-title="台灣", ELEVEN2體育台
 rtmp://59.124.75.138:1935/sat/tv741
-
-#EXTINF:0 tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/101_4ff53e627ce28c4ba535c0c8e2178da8.png" group-title="台灣", 愛爾達體育1台
+#EXTINF:0 tvg-logo="https://www.sienaclubfedelissimi.it/wp-content/uploads/2021/08/eleven-sports-320x180.png" group-title="台灣", ELEVEN+體育台
 rtmp://59.124.75.138/sat/md051
 
-//#EXTINF:0 tvg-logo="https://www.nettv.live/uploads/19/1-1Z220195433103.jpg" group-title="台灣",博斯魅力
-//http://ms003.happytv.com.tw/live/OcScNdWHvBx5P4w3/index.m3u8
 
-#EXTINF:0 tvg-logo="https://i.imgur.com/4KtjyeR.jpg" group-title="台灣",NTD TV
+#EXTINF:0 tvg-logo="https://i.imgur.com/4KtjyeR.jpg" group-title="台灣",NTDTV新唐人亞太台
 https://live.ntdimg.com/aplive200/playlist.m3u8
 
 //#EXTINF:-1 tvg-logo="https://i.imgur.com/w6apld6.png" group-title="台灣",Da Ai
