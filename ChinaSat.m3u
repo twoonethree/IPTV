@@ -1,37 +1,37 @@
 #EXTM3U 
 
 #EXTINF:0 tvg-logo="https://img.isuper.tv/live-tv/cn-tv/setv-live.jpg" tvg-name="" group-title="衛視",東南衛視
-http://39.135.40.170/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225696/index.m3u8
+rtsp://183.252.166.199/PLTV/88888888/224/3221226121/10000100000000060000000002358085_0.smil
 #EXTINF:0 tvg-logo="https://www.mroyal.cn/upload/150729163155806.jpg" tvg-name="" group-title="衛視",東方衛視
-http://39.135.40.170/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225718/index.m3u8
+rtsp://183.252.166.199/PLTV/88888888/224/3221226041/10000100000000060000000002296882_0.smil
 #EXTINF:0 tvg-logo="http://www.tvquanqiu.com/uploads/beijingtv.jpg" tvg-name="" group-title="衛視",北京衛視
-http://39.135.40.170/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225651/index.m3u8
+rtsp://183.252.166.199/PLTV/88888888/224/3221226092/10000100000000060000000002296930_0.smil
 #EXTINF:0 tvg-logo="https://www.mroyal.cn/upload/150729163155806.jpg" tvg-name="" group-title="衛視",天津衛視
 http://39.135.40.170/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225675/index.m3u8
 #EXTINF:0 tvg-logo="https://pic3.zhimg.com/80/v2-f97330d247b46b28f12c2bba5b474ef2_1440w.jpg" tvg-name="" group-title="衛視",安徽衛視
 http://39.135.40.170/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225701/index.m3u8
 #EXTINF:0 tvg-logo="http://www.tvyan.com/uploads/dianshi/shandongtv.jpg" tvg-name="" group-title="衛視",山東衛視
-http://39.135.40.170/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225672/index.m3u8
+rtsp://183.252.166.199/PLTV/88888888/224/3221226090/10000100000000060000000002296928_0.smil
 #EXTINF:0 tvg-logo="https://www.3wen.com/userfiles/images/13p.jpg" tvg-name="" group-title="衛視",廣東衛視
-http://39.135.40.170/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225666/index.m3u8
+rtsp://183.252.166.199/PLTV/88888888/224/3221226089/10000100000000060000000002296927_0.smil
 #EXTINF:0 tvg-logo="http://n.sinaimg.cn/sinacn20190731ac/253/w650h403/20190731/c806-iaqfzyv5108728.jpg" tvg-name="" group-title="衛視",江蘇衛視
-http://39.135.40.170/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225722/index.m3u8
+rtsp://183.252.166.199/PLTV/88888888/224/3221226038/10000100000000060000000002296879_0.smil
 #EXTINF:0 tvg-logo="https://p1.ssl.qhimg.com/dmsmty/1080_822_/t01c68670d2545cf960.jpg" tvg-name="" group-title="衛視",江西衛視
-http://39.135.40.170/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225669/index.m3u8
+rtsp://183.252.166.199/PLTV/88888888/224/3221226687/42186801.smil
 #EXTINF:0 tvg-logo="https://pic.ntimg.cn/file/20200705/26753533_182617285419_2.jpg" tvg-name="" group-title="衛視",浙江衛視
-http://39.135.40.170/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225731/index.m3u8
+rtsp://183.252.166.199/PLTV/88888888/224/3221226040/10000100000000060000000002296881_0.smil
 #EXTINF:0 tvg-logo="https://img.isuper.tv/live-tv/cn-tv/sztv-live.jpg" tvg-name="" group-title="衛視",深圳衛視
 http://39.135.40.170/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225725/index.m3u8
 #EXTINF:0 tvg-logo="https://img.isuper.tv/live-tv/cn-tv/hbtv-live.jpg" tvg-name="" group-title="衛視",湖北衛視
-http://39.135.40.170/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225721/index.m3u8
+rtsp://183.252.166.199/PLTV/88888888/224/3221226091/10000100000000060000000002296929_0.smil
 #EXTINF:0 tvg-logo="https://5b0988e595225.cdn.sohucs.com/q_70,c_zoom,w_640/images/20170728/496314fc2a5a48b684c20c806b98fd96.jpg" tvg-name="" group-title="衛視",湖南衛視
-http://39.135.40.170/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225719/index.m3u8
+rtsp://183.252.166.199/PLTV/88888888/224/3221226082/10000100000000060000000002296924_0.smil
 #EXTINF:0 tvg-logo="http://img.yao51.com/jiankangtuku/qewsqsarhx.jpeg" tvg-name="" group-title="衛視",遼寧衛視
 http://39.135.40.170/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225779/index.m3u8
 #EXTINF:0 tvg-logo="https://imgb12.photophoto.cn/20180429/zhongqingweishixinlogo-33386577_3.jpg" tvg-name="" group-title="衛視",重慶衛視
-http://39.135.40.170/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225745/index.m3u8
+rtsp://183.252.166.199/PLTV/88888888/224/3221226753/45949735.smil
 #EXTINF:0 tvg-logo="http://y.qichejiashi.com/tupian/upload/159536590.jpg" tvg-name="" group-title="衛視",黑龍江衛視
-http://39.135.40.170/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225734/index.m3u8
+rtsp://183.252.166.199/PLTV/88888888/224/3221226087/10000100000000060000000002296926_0.smil
 
 
 
