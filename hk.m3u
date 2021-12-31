@@ -20,9 +20,7 @@ https://cdn.hkyoutv.com/hls/96/index.m3u8
 
 #EXTINF:0 tvg-logo="https://www.cabletv.com.hk/file/tv_channel/_c200x200/p5bd2c55f6ea73.png" tvg-name="香港開電視" group-title="香港",香港開電視 
 http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
-
-#EXTINF:0 tvg-logo="http://liveq.tv/liveq.tv/img/hk-%E9%A6%99%E6%B8%AF%E5%9C%8B%E9%9A%9B%E8%B2%A1%E7%B6%93%E5%8F%B0.jpg
-" tvg-name="香港國際財經台" group-title="香港",香港國際財經台
+#EXTINF:0 tvg-logo="http://liveq.tv/liveq.tv/img/hk-%E9%A6%99%E6%B8%AF%E5%9C%8B%E9%9A%9B%E8%B2%A1%E7%B6%93%E5%8F%B0.jpg" tvg-name="香港國際財經台" group-title="香港",香港國際財經台
 http://uc6.i-cable.com/live_freedirect/opentvhd002_h.live/playlist.m3u8
 
 #EXTINF:0 tvg-logo="http://www.cabletv.com.hk/file/tv_channel/_r100x30/p5a30d6679429a.png" group-title="香港",有線新聞台
