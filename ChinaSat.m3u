@@ -22,7 +22,22 @@ rtsp://183.252.166.199/PLTV/88888888/224/3221226076/1000010000000006000000000229
 rtsp://183.252.166.199/PLTV/88888888/224/3221226038/10000100000000060000000002296879_0.smil
 #EXTINF:0 tvg-logo="http://www.jazzad.net/uploads/allimg/1401/1-1401242119444Y.jpg" tvg-name="" group-title="衛視",河北衛視
 rtsp://183.252.166.199/PLTV/88888888/224/3221226111/10000100000000060000000002310153_0.smil
-
+#EXTINF:0 tvg-logo="https://www.mlzhongguo.com/uploads/image/10/15722429805398.png" tvg-name="" group-title="衛視",西藏衛視
+rtsp://183.252.166.199/PLTV/88888888/224/3221226808/48629336.smil
+#EXTINF:0 tvg-logo="http://www.id-cctv.com/uploads/allimg/c200110/15N64KY4QF-245K.jpg" tvg-name="" group-title="衛視",峽西衛視
+rtsp://183.252.166.199/PLTV/88888888/224/3221226110/10000100000000060000000002310152_0.smil
+#EXTINF:0 tvg-logo="http://pic.baike.soso.com/p/20140422/20140422095857-1641611142.jpg" tvg-name="" group-title="衛視",兵團衛視
+rtsp://183.252.166.199/PLTV/88888888/224/3221226804/48628997.smil
+#EXTINF:0 tvg-logo="https://img.isuper.tv/live-tv/cn-tv/sanshatv-live.jpg" tvg-name="" group-title="衛視",三沙衛視
+rtsp://183.252.166.199/PLTV/88888888/224/3221226819/57526516.smil
+#EXTINF:0 tvg-logo="http://www.tvyan.com/uploads/dianshi/tvs2.jpg" tvg-name="" group-title="衛視",南方衛視
+rtsp://183.252.166.199/PLTV/88888888/224/3221226788/48356344.smil
+#EXTINF:0 tvg-logo="https://pic55.photophoto.cn/20200613/0007019860880479_b.jpg" tvg-name="" group-title="衛視",廣西衛視
+rtsp://183.252.166.199/PLTV/88888888/224/3221226070/10000100000000060000000002296911_0.smil
+#EXTINF:0 tvg-logo="https://pic2.ntimg.cn/pic/20211027/26753533_225221384103_4.jpg" tvg-name="" group-title="衛視",雲南衛視
+rtsp://183.252.166.199/PLTV/88888888/224/3221226108/10000100000000060000000002310150_0.smil
+#EXTINF:0 tvg-logo="http://upload-up.qingting.fm/device/b66b8b6606b542d38e9e6e111d5735eb/1554257197779_MeVFNn8e3.png" tvg-name="" group-title="衛視",山西衛視
+rtsp://183.252.166.199/PLTV/88888888/224/3221226842/48628662.smil
 #EXTINF:0 tvg-logo="http://www.sjxgs.com/uploads/logo/2019/xmws/xmws002.jpg" tvg-name="" group-title="衛視",廈門衛視
 rtsp://183.252.166.199/PLTV/88888888/224/3221226124/10000100000000060000000002358105_0.smil
 #EXTINF:0 tvg-logo="https://img.sj33.cn/uploads/allimg/201402/7-140225141914354.png" tvg-name="" group-title="衛視",四川衛視
