@@ -65,6 +65,9 @@ https://al-pull2.hkatv.vip/live/hktv20210929.m3u8
 #EXTINF:0 tvg-logo="http://liveq.tv/liveq.tv/img/hk-%E7%BE%8E%E4%BA%9E%E9%9B%BB%E5%BD%B1%E5%8F%B0.jpg" group-title="香港",美亞電影台
 http://iptv.tvfix.org/hls/mydy.m3u8
 
+#EXTINF:0 tvg-logo="https://efcwalnut.org/ch/wp-content/uploads/2019/08/logo-ctv.jpg" group-title="香港",創世電視
+https://cdn-us.deepcore.online/hlsme/ctv_us_480.m3u8
+
 #EXTINF:0 tvg-logo="http://www.nettv.live/uploads/18/1-1P602154AA34.jpg" group-title="香港",耀才財經台
 http://202.69.67.66:443/webcast/bshdlive-mobile/playlist.m3u8
 
