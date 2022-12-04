@@ -31,16 +31,13 @@ http://media.fantv.hk/m3u8/archive/channel2.m3u8
 http://livetv.dnsfor.me:80/channel.4.m3u8#https://www.navchina.cf/IPTV/now.php?id=332
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Now_Live_News_logo.svg/1200px-Now_Live_News_logo.svg.png" group-title="香港",Now直播台
 http://livetv.dnsfor.me:80/channel.3.m3u8#https://www.navchina.cf/IPTV/now.php?id=331
-#EXTINF:0 tvg-logo="https://www.nettv.live/uploads/allimg/20/1-20040Q335270-L.jpg" group-title="香港",NowSportsPRIME
-http://livetv.dnsfor.me:80/channel.12.m3u8
+#EXTINF:0 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch630_170_122" group-title="香港",NowSportsPRIME
+http://livetv.dnsfor.me/channel.12.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/RTHK_TV_31.svg/1200px-RTHK_TV_31.svg.png" tvg-name="rthk31" group-title="香港",rthk31 
 https://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_2052_av-b.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/QkV6eqz.jpg" tvg-name="rthk32" group-title="香港",rthk32
 http://livetv.dnsfor.me/channel.2.m3u8
-#EXTINF:0 tvg-logo="https://www.nettvpro.live/uploads/18/1-1P41QA5463X.jpg" tvg-name="rthk33" group-title="香港",rthk33
-http://iptv.tvfix.org/hkdtmb/33/index.m3u8
-
-#EXTINF:0 tvg-logo="http://www.nettv.live/uploads/18/1-1P602154AA34.jpg" group-title="香港",耀才財經台
+#EXTINF:0 tvg-logo="https://d55-invdn-com.investing.com/company_logo/1fbe28a616fc6f3cb56f30d014eeb625.jpg" group-title="香港",耀才財經台
 http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
 
 
