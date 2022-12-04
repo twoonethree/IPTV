@@ -1,7 +1,7 @@
 #EXTM3U 
 #EXTINF:0 tvg-logo="https://www.abu.org.my/wp-content/uploads/2019/04/tvb-resized.png" tvg-name="" group-title="香港",無線電視翡翠台
 http://23.237.10.66:16106
-#EXTINF:0 tvg-logo="https://www.chillglobal.com/images/channels/tvb-j2-1432636011.jpg" tvg-name="" group-title="香港",J2
+#EXTINF:0 tvg-logo="https://logos.fandom.com/wiki/TVB_J2?file=TVB_J2_2022.svg" tvg-name="" group-title="香港",J2
 https://cdn.hklive.tv/xxxx/82/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/6/62/TVBN_2017_logo.png" tvg-name="" group-title="香港",無線新聞台
 http://cdn.hklive.tv/xxxx/83/index.m3u8
@@ -17,10 +17,10 @@ https://cdn.hklive.tv/xxxx/96/index.m3u8
 http://media.fantv.hk/m3u8/archive/channel2.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/0/06/HOY_TV_LOGO.jpg/220px-HOY_TV_LOGO.jpg" tvg-name="HOYTV" group-title="香港",HOY資訊台
 https://hoytv-live-stream.hoy.tv/ch78/index-fhd.m3u8
-#EXTINF:0 tvg-logo="http://liveq.tv/liveq.tv/img/hk-%E9%A6%99%E6%B8%AF%E5%9C%8B%E9%9A%9B%E8%B2%A1%E7%B6%93%E5%8F%B0.jpg" tvg-name="香港國際財經台" group-title="香港",香港國際財經台
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/3/3a/HKIBC_logo.png/220px-HKIBC_logo.png" tvg-name="香港國際財經台" group-title="香港",香港國際財經台
 http://uc6.i-cable.com/live_freedirect/opentvhd002_h.live/playlist.m3u8
 #EXTINF:0 tvg-logo="http://www.cabletv.com.hk/file/tv_channel/_r100x30/p5a30d6679429a.png" group-title="香港",有線新聞台
-https://uc6.i-cable.com/live_freedirect/freehd209_h.live/playlist.m3u8
+http://61.10.2.140/live_freedirect/freehd209_h.live/playlist.m3u8
 #EXTINF:0 tvg-logo="http://www.cabletv.com.hk/file/tv_channel/_r100x30/p5b06402f058c4.png" group-title="香港",有線直播台
 http://61.10.2.148/live_freedirect/hd110_h.live/playlist.m3u8
 #EXTINF:0 tvg-logo="http://www.cabletv.com.hk/file/tv_channel/_r100x30/p583cefafeeff7.png" group-title="香港",有線財經資訊台
