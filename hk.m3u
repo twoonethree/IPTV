@@ -32,7 +32,7 @@ http://61.10.2.140/live_freedirect/freehd208_h.live/playlist.m3u8
 #EXTINF:0 tvg-logo="http://epg.i-cable.com/new/images/epgMobileIcon/301.png" group-title="香港",有線綜合娛樂台
 http://media.fantv.hk/m3u8/archive/channel2.m3u8
 #EXTINF:0 tvg-logo="https://news.now.com/revamp2014/images/news_logo_400.png" group-title="香港",Now新聞台
-http://livetv.dnsfor.me:80/channel.4.m3u8
+https://pull-l3-cny.douyincdn.com/live/f49db49809a6d8e96047011ee9160bc8.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Now_Live_News_logo.svg/1200px-Now_Live_News_logo.svg.png" group-title="香港",Now直播台
 http://livetv.dnsfor.me:80/channel.3.m3u8
 #EXTINF:0 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch630_170_122" group-title="香港",NowSportsPRIME
