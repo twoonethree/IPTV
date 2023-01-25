@@ -1,4 +1,10 @@
 #EXTM3U 
+#EXTINF:-1 tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/101_4ff53e627ce28c4ba535c0c8e2178da8.png" group-title="體育",愛爾達體育1台
+http://www.best336699.com:1935/besttv/IR11.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/105_d920826e421c52555783aa87e7af47d4.png" group-title="體育",愛爾達體育2台
+http://www.best336699.com:1935/besttv/IR22.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/110_9e4a755240362ee6d9b527a4219a85c8.png" group-title="體育",愛爾達體育3台
+http://www.best336699.com:1935/besttv/IR33.stream/playlist.m3u8
 #EXTINF:0 tvg-logo="https://www.abu.org.my/wp-content/uploads/2019/04/tvb-resized.png" tvg-name="" group-title="香港",無線電視翡翠台
 https://cdn.hklive.tv/xxxx/81/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/1/13/TVB_J2.jpg/200px-TVB_J2.jpg" tvg-name="" group-title="香港",無線J2
