@@ -39,10 +39,6 @@ http://cdn.hklive.tv/xxxx/332/index.m3u8
 http://livetv.dnsfor.me:80/channel.3.m3u8
 #EXTINF:0 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch630_170_122" group-title="香港",NowSportsPRIME
 http://livetv.dnsfor.me/channel.12.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/SPOTV_logo.svg/440px-SPOTV_logo.svg.png" group-title="香港",SPOTV
-https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/6271486521001/playlist.m3u8
-#EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/19/SPOTV2.png/revision/latest/scale-to-width-down/284?cb=20220810092715" group-title="香港",SPOTV2
-https://bcovlive-a.akamaihd.net/48eee16919834d3b97df1082a649bcfa/ap-northeast-1/6271486521001/playlist.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/RTHK_TV_31.svg/1200px-RTHK_TV_31.svg.png" tvg-name="rthk31" group-title="香港",rthk31 
 https://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_2052_av-b.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/QkV6eqz.jpg" tvg-name="rthk32" group-title="香港",rthk32
