@@ -13,3 +13,5 @@ http://gslb.cdn.hk.chinamobile.com/live/d2afb43f61464fc5a3d3b1b0a4c187a1/11a674a
 http://210.210.155.37/dr9445/h/h14/index.m3u8
 #EXTINF:0 tvg-logo="https://w7.pngwing.com/pngs/820/427/png-transparent-bloomberg-television-television-channel-dish-network-custom-plan-miscellaneous-television-text-thumbnail.png" group-title="財經", Bloomberg Asia
 https://bloomberg.com/media-manifest/streams/asia.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/4/48/CTI_News_Logo.jpg" group-title="新聞", 中天新聞
+https://ythls.armelin.one/channel/UC5l1Yto5oOIgRXlI4p4VKbw.m3u8
