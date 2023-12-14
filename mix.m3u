@@ -15,3 +15,5 @@ http://210.210.155.37/dr9445/h/h14/index.m3u8
 https://bloomberg.com/media-manifest/streams/asia.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/4/48/CTI_News_Logo.jpg" group-title="新聞", 中天新聞
 https://ythls.armelin.one/channel/UC5l1Yto5oOIgRXlI4p4VKbw.m3u8
+#EXTINF:0 group-title="新聞", 大立電視台
+http://www.dalitv.com.tw:4568/live/dali/index.m3u8
