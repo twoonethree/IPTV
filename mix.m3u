@@ -17,3 +17,30 @@ https://bloomberg.com/media-manifest/streams/asia.m3u8
 https://ythls.armelin.one/channel/UC5l1Yto5oOIgRXlI4p4VKbw.m3u8
 #EXTINF:0 group-title="新聞", 大立電視台
 http://www.dalitv.com.tw:4568/live/dali/index.m3u8
+#EXTINF:0 group-title="兒童", EBC YOYO
+https://ythls.armelin.one/channel/UCiWRSesvSYmY7YOyz0tv_zQ.m3u8
+#EXTINF:0 group-title="新聞", 民視新聞
+https://ythls.armelin.one/channel/UC2VmWn8dAqkzlQqvy02E1PA.m3u8
+#EXTINF:0 group-title="新聞", 環宇新聞
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8
+#EXTINF:0 group-title="新聞", 鏡電視新聞
+https://ythls.armelin.one/channel/UC4LjkybVKXCDlneVXlKAbmw.m3u8
+#EXTINF:0 group-title="新聞", 三立iNews
+https://ythls.armelin.one/channel/UCoNYj9OFHZn3ACmmeRCPwbA.m3u8
+#EXTINF:0 group-title="新聞", Supreme Master TV
+https://lbs-us1.suprememastertv.com/720p.m3u8
+#EXTINF:0 group-title="天氣", Taiwan Plus TV
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV78.m3u8
+#EXTINF:0 group-title="新聞", 台視新聞
+https://ythls.armelin.one/channel/UC8ROUUjHzEQm-ndb69CX8Ww.m3u8
+#EXTINF:0 group-title="新聞", TVBS Aisa
+http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
+#EXTINF:0 group-title="新聞", TVBS News
+https://ythls.armelin.one/channel/UC5nwNW4KdC0SzrhF9BXEYOQ.m3u8
+#EXTINF:0 group-title="娛樂", 天才衝衝衝
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV26.m3u8
+#EXTINF:0 group-title="購物", 東森購物
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV18.m3u8
+
+
+
