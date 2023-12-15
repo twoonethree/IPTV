@@ -41,6 +41,26 @@ https://ythls.armelin.one/channel/UC5nwNW4KdC0SzrhF9BXEYOQ.m3u8
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV26.m3u8
 #EXTINF:0 group-title="購物", 東森購物
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV18.m3u8
+#EXTINF:0 group-title="綜合", 面包台
+https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
+#EXTINF:0 group-title="財經", Bloomberg Aisa Live Event
+https://bloomberg.com/media-manifest/streams/asia-event.m3u8
+#EXTINF:0 group-title="電影", 斗魚電影8
+http://epg.112114.xyz/douyu/4332
+#EXTINF:0 group-title="電影", 斗魚電影9
+http://epg.112114.xyz/douyu/6140589
+#EXTINF:0 group-title="電影", 斗魚電影15
+http://epg.112114.xyz/douyu/8770422
+#EXTINF:0 group-title="電影", 斗魚電影19
+http://epg.112114.xyz/douyu/747764
+#EXTINF:0 group-title="電影", 斗魚電影24
+http://epg.112114.xyz/douyu/36337
+#EXTINF:0 group-title="電影", 斗魚電影25
+http://epg.112114.xyz/douyu/8814650
+#EXTINF:0 group-title="電影", 斗魚電影28
+http://epg.112114.xyz/douyu/263824
+#EXTINF:0 group-title="電影", 斗魚電影44
+http://epg.112114.xyz/douyu/323876
 
 
 
