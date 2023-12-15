@@ -65,7 +65,21 @@ http://epg.112114.xyz/douyu/323876
 http://210.210.155.37/x6bnqe/s/s29/index.m3u8
 #EXTINF:0 group-title="綜合", 浙江衛視
 https://hw-m-l.cztv.com/channels/lantian/channel10/1080p.m3u8
-
-
-
-
+#EXTINF:0 group-title="綜合", 海南衛視
+http://livelyws.chinamcache.com/lyws/zb01.m3u8?auth_key=1593241343-0-0-90b80e74457c94b2015f9428a1cb9b0e
+#EXTINF:0 group-title="電影", 斗魚粵語電影
+http://epg.112114.xyz/douyu/1226741
+#EXTINF:0 group-title="新聞", 日本ANN News
+https://ythls.armelin.one/channel/UCGCZAYq5Xxojl_tSXcVJhiQ.m3u8
+#EXTINF:0 group-title="新聞", 日本朝日新聞
+https://ythls.armelin.one/channel/UCMKvT0YVLufHMdGLH89J1oA.m3u8
+#EXTINF:0 group-title="購物", 日本BS11
+http://203.162.235.41:22101
+#EXTINF:0 group-title="綜合", 日本BS Nippon TV
+http://203.162.235.41:29108
+#EXTINF:0 group-title="綜合", 日本Fuji TV
+http://203.162.235.41:15094
+#EXTINF:0 group-title="綜合", 日本Goft Network
+http://203.162.235.41:28107
+#EXTINF:0 group-title="綜合", 日本GSTV
+https://gstv-tnz-gsmediastreaming.preview-jpea.channel.media.azure.net/dfd06b62-e9d1-4a7f-bcbb-89d2ecbc82ee/preview.ism/manifest(format=mpd-time-csf,audio-only=false)
