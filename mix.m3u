@@ -61,6 +61,11 @@ http://epg.112114.xyz/douyu/8814650
 http://epg.112114.xyz/douyu/263824
 #EXTINF:0 group-title="電影", 斗魚電影44
 http://epg.112114.xyz/douyu/323876
+#EXTINF:0 group-title="綜合", 東方衛視
+http://210.210.155.37/x6bnqe/s/s29/index.m3u8
+#EXTINF:0 group-title="綜合", 浙江衛視
+https://hw-m-l.cztv.com/channels/lantian/channel10/1080p.m3u8
+
 
 
 
