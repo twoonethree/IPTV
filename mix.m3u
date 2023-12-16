@@ -1,85 +1,85 @@
 #EXTM3U
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/RTHK_TV_31.svg/1200px-RTHK_TV_31.svg.png" tvg-name="rthk31" group-title="香港",rthk31 
+#EXTINF:0 group-title="香港",香港-rthk31 
 https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
-#EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b4/RTHK_TV_32_2013.svg/revision/latest?cb=20230331041130&path-prefix=vi" tvg-name="rthk32" group-title="香港",rthk32
+#EXTINF:0 group-title="香港",香港-rthk32
 https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/master.m3u8
-#EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/dc/20170126103454%21RTHK_TV_33.svg/revision/latest?cb=20200511233616" tvg-name"rthk33" group-title="香港",rthk33
+#EXTINF:0 group-title="香港",香港-rthk33
 https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/master.m3u8
-#EXTINF:0 tvg-logo="https://d55-invdn-com.investing.com/company_logo/1fbe28a616fc6f3cb56f30d014eeb625.jpg" group-title="財經",耀才財經台
+#EXTINF:0 tvg-logo="https://d55-invdn-com.investing.com/company_logo/1fbe28a616fc6f3cb56f30d014eeb625.jpg" group-title="財經",香港-耀才財經台
 http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
-#EXTINF:0 tvg-logo="https://zh.m.wikipedia.org/wiki/File:HKJC_Horse_Racing.jpg" tvg-name="Horse Racing Live" group-title="香港",賽馬直擊 
+#EXTINF:0 group-title="香港",香港-賽馬直擊 
 http://gslb.cdn.hk.chinamobile.com/live/d2afb43f61464fc5a3d3b1b0a4c187a1/11a674a3cca94ceaafab4bd0e2ae634c-1.m3u8
-#EXTINF:0 tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/10d7e8b1-9fe1-4c41-aeb7-331f4fb188aa/desxy2x-4e034849-d74f-4195-87a5-e13aa0b19b89.jpg/v1/fill/w_670,h_377,q_75,strp/celestial_movies_logo_by_huyvo2001_desxy2x-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9Mzc3IiwicGF0aCI6IlwvZlwvMTBkN2U4YjEtOWZlMS00YzQxLWFlYjctMzMxZjRmYjE4OGFhXC9kZXN4eTJ4LTRlMDM0ODQ5LWQ3NGYtNDE5NS04N2E1LWUxM2FhMGIxOWI4OS5qcGciLCJ3aWR0aCI6Ijw9NjcwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.ozhLQZ4HKPA9YHkX9zgTCDfocC9ZkHYhOrKDcpzxC-8" tvg-namee="Celestial Movies" group-title="香港",天映頻道
+#EXTINF:0 group-title="電影",香港-天映頻道
 http://210.210.155.37/dr9445/h/h14/index.m3u8
-#EXTINF:0 tvg-logo="https://w7.pngwing.com/pngs/820/427/png-transparent-bloomberg-television-television-channel-dish-network-custom-plan-miscellaneous-television-text-thumbnail.png" group-title="財經", Bloomberg Asia
+#EXTINF:0 group-title="財經",Bloomberg Asia
 https://bloomberg.com/media-manifest/streams/asia.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/4/48/CTI_News_Logo.jpg" group-title="新聞", 中天新聞
+#EXTINF:0 group-title="新聞",台灣-中天新聞
 https://ythls.armelin.one/channel/UC5l1Yto5oOIgRXlI4p4VKbw.m3u8
-#EXTINF:0 group-title="新聞", 大立電視台
+#EXTINF:0 group-title="新聞",台灣-大立電視台
 http://www.dalitv.com.tw:4568/live/dali/index.m3u8
-#EXTINF:0 group-title="兒童", EBC YOYO
+#EXTINF:0 group-title="兒童",台灣-EBC YOYO
 https://ythls.armelin.one/channel/UCiWRSesvSYmY7YOyz0tv_zQ.m3u8
-#EXTINF:0 group-title="新聞", 民視新聞
+#EXTINF:0 group-title="新聞",台灣-民視新聞
 https://ythls.armelin.one/channel/UC2VmWn8dAqkzlQqvy02E1PA.m3u8
-#EXTINF:0 group-title="新聞", 環宇新聞
+#EXTINF:0 group-title="新聞",台灣-環宇新聞
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8
-#EXTINF:0 group-title="新聞", 鏡電視新聞
+#EXTINF:0 group-title="新聞",台灣-鏡電視新聞
 https://ythls.armelin.one/channel/UC4LjkybVKXCDlneVXlKAbmw.m3u8
-#EXTINF:0 group-title="新聞", 三立iNews
+#EXTINF:0 group-title="新聞",台灣-三立iNews
 https://ythls.armelin.one/channel/UCoNYj9OFHZn3ACmmeRCPwbA.m3u8
-#EXTINF:0 group-title="新聞", Supreme Master TV
+#EXTINF:0 group-title="新聞",Supreme Master TV
 https://lbs-us1.suprememastertv.com/720p.m3u8
-#EXTINF:0 group-title="天氣", Taiwan Plus TV
+#EXTINF:0 group-title="綜合",台灣-Taiwan Plus TV
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV78.m3u8
-#EXTINF:0 group-title="新聞", 台視新聞
+#EXTINF:0 group-title="新聞",台灣-台視新聞
 https://ythls.armelin.one/channel/UC8ROUUjHzEQm-ndb69CX8Ww.m3u8
-#EXTINF:0 group-title="新聞", TVBS Aisa
+#EXTINF:0 group-title="新聞",台灣-TVBS Aisa
 http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
-#EXTINF:0 group-title="新聞", TVBS News
+#EXTINF:0 group-title="新聞",台灣-TVBS News
 https://ythls.armelin.one/channel/UC5nwNW4KdC0SzrhF9BXEYOQ.m3u8
-#EXTINF:0 group-title="娛樂", 天才衝衝衝
+#EXTINF:0 group-title="娛樂",台灣-天才衝衝衝
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV26.m3u8
-#EXTINF:0 group-title="購物", 東森購物
+#EXTINF:0 group-title="購物",台灣-東森購物
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV18.m3u8
-#EXTINF:0 group-title="綜合", 面包台
+#EXTINF:0 group-title="綜合",中國-面包台
 https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
-#EXTINF:0 group-title="財經", Bloomberg Aisa Live Event
+#EXTINF:0 group-title="財經",Bloomberg Aisa Live Event
 https://bloomberg.com/media-manifest/streams/asia-event.m3u8
-#EXTINF:0 group-title="電影", 斗魚電影8
+#EXTINF:0 group-title="電影",中國-斗魚外語電影
 http://epg.112114.xyz/douyu/4332
-#EXTINF:0 group-title="電影", 斗魚電影9
+#EXTINF:0 group-title="電影",中國-斗魚外語電影
 http://epg.112114.xyz/douyu/6140589
-#EXTINF:0 group-title="電影", 斗魚電影15
+#EXTINF:0 group-title="電影",中國-斗魚外語電影
 http://epg.112114.xyz/douyu/8770422
-#EXTINF:0 group-title="電影", 斗魚電影19
+#EXTINF:0 group-title="電影",中國-斗魚外語電影
 http://epg.112114.xyz/douyu/747764
-#EXTINF:0 group-title="電影", 斗魚電影24
+#EXTINF:0 group-title="電影",中國-斗魚外語電影
 http://epg.112114.xyz/douyu/36337
-#EXTINF:0 group-title="電影", 斗魚電影25
+#EXTINF:0 group-title="電影",中國-斗魚外語電影
 http://epg.112114.xyz/douyu/8814650
-#EXTINF:0 group-title="電影", 斗魚電影28
+#EXTINF:0 group-title="電影",中國-斗魚外語電影
 http://epg.112114.xyz/douyu/263824
-#EXTINF:0 group-title="電影", 斗魚電影44
+#EXTINF:0 group-title="電影",中國-斗魚外語電影
 http://epg.112114.xyz/douyu/323876
-#EXTINF:0 group-title="綜合", 東方衛視
+#EXTINF:0 group-title="綜合",中國-東方衛視
 http://210.210.155.37/x6bnqe/s/s29/index.m3u8
-#EXTINF:0 group-title="綜合", 浙江衛視
+#EXTINF:0 group-title="綜合",中國-浙江衛視
 https://hw-m-l.cztv.com/channels/lantian/channel10/1080p.m3u8
-#EXTINF:0 group-title="綜合", 海南衛視
+#EXTINF:0 group-title="綜合",中國-海南衛視
 http://livelyws.chinamcache.com/lyws/zb01.m3u8?auth_key=1593241343-0-0-90b80e74457c94b2015f9428a1cb9b0e
-#EXTINF:0 group-title="電影", 斗魚粵語電影
+#EXTINF:0 group-title="電影",中國-斗魚粵語電影
 http://epg.112114.xyz/douyu/1226741
-#EXTINF:0 group-title="新聞", 日本ANN News
+#EXTINF:0 group-title="新聞",日本-ANN News
 https://ythls.armelin.one/channel/UCGCZAYq5Xxojl_tSXcVJhiQ.m3u8
-#EXTINF:0 group-title="新聞", 日本朝日新聞
+#EXTINF:0 group-title="新聞",日本-朝日新聞
 https://ythls.armelin.one/channel/UCMKvT0YVLufHMdGLH89J1oA.m3u8
-#EXTINF:0 group-title="購物", 日本BS11
+#EXTINF:0 group-title="購物",日本-BS11
 http://203.162.235.41:22101
-#EXTINF:0 group-title="綜合", 日本BS Asahi
+#EXTINF:0 group-title="綜合",日本-BS Asahi
 http://203.162.235.41:29108
-#EXTINF:0 group-title="綜合", 日本Fuji TV
+#EXTINF:0 group-title="綜合",日本-Fuji TV
 http://203.162.235.41:15094
-#EXTINF:0 group-title="綜合", 日本Goft Network
+#EXTINF:0 group-title="綜合",日本-Goft Network
 http://203.162.235.41:28107
-#EXTINF:0 group-title="綜合", 日本GSTV
+#EXTINF:0 group-title="綜合",日本-GSTV
 https://gstv-tnz-gsmediastreaming.preview-jpea.channel.media.azure.net/dfd06b62-e9d1-4a7f-bcbb-89d2ecbc82ee/preview.ism/manifest(format=mpd-time-csf,audio-only=false)
