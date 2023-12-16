@@ -115,7 +115,15 @@ https://rt-rtd.rttv.com/dvr/rtdoc/playlist.m3u8
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00219-gunpowdersky-dustintlnz-samsungnz/playlist.m3u8
 #EXTINF:0 group-title="烹飪",Gusto TV
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01077-gustoworldwidem-gustotvnz-samsungnz/playlist.m3u8
-
-
-
-
+#EXTINF:0 group-title="體育",FUEL TV
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/fuel-tv/606c2f67-acff-4152-975a-e5bfef54eb61/2.m3u8
+#EXTINF:0 group-title="AUTO",Motorvision TV
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01329-otterainc-motorvisionnz-samsungnz/playlist.m3u8
+#EXTINF:0 group-title="音樂",MTV
+http://37.18.239.36:8888/MTV_Adria/index.m3u8
+#EXTINF:0 group-title="科學",NASA TV
+http://iphone-streaming.ustream.tv/uhls/6540154/streams/live/iphone/playlist.m3u8
+#EXTINF:0 group-title="Lifestyles",Superyacht TV
+https://sy.wns.live/hls/stream.m3u8
+#EXTINF:0 group-title="Lifestyles",World Fashion Channel
+https://live-3.otcnet.ru/wfcenmulti/playlist.m3u8
