@@ -83,3 +83,39 @@ http://203.162.235.41:15094
 http://203.162.235.41:28107
 #EXTINF:0 group-title="綜合",日本-GSTV
 https://gstv-tnz-gsmediastreaming.preview-jpea.channel.media.azure.net/dfd06b62-e9d1-4a7f-bcbb-89d2ecbc82ee/preview.ism/manifest(format=mpd-time-csf,audio-only=false)
+#EXTINF:0 group-title="新聞",日本-MBS News
+https://ythls.armelin.one/channel/UCkKJhKO73xF1pK5h9R82ZGQ.m3u8
+#EXTINF:0 group-title="新聞",日本-NTV News 24
+https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
+#EXTINF:0 group-title="綜合",日本-Nippon TV
+http://203.162.235.41:16095
+#EXTINF:0 group-title="綜合",日本-Asahi
+http://203.162.235.41:18097
+#EXTINF:0 group-title="電影",日本-WOWOW PRIME
+http://203.162.235.41:27106
+#EXTINF:0 group-title="新聞",ABC News
+https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
+#EXTINF:0 group-title="新聞",DW English
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+#EXTINF:0 group-title="新聞",Euronews
+https://rakuten-euronews-10-be.samsung.wurl.tv/playlist.m3u8
+#EXTINF:0 group-title="新聞",NHK World
+https://cdn.nhkworld.jp/www11/nhkworld-tv/pre/hlscomp.m3u8
+#EXTINF:0 group-title="新聞",TRT World
+https://api.trtworld.com/livestream/v1/WcM3Oa2LHD9iUjWDSRUI335NkMWVTUV351H56dqC/master.m3u8
+#EXTINF:0 group-title="新聞",UN WEB TV
+https://cdnapi.kaltura.com/p/2503451/sp/250345100/playManifest/entryId/1_gb6tjmle/protocol/https/format/applehttp/a.m3u8
+#EXTINF:0 group-title="新聞",WON
+https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
+#EXTINF:0 group-title="兒童",Zoo Moo
+https://zoomoo-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:0 group-title="資訊",RT Documentary
+https://rt-rtd.rttv.com/dvr/rtdoc/playlist.m3u8
+#EXTINF:0 group-title="電影",DUST
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00219-gunpowdersky-dustintlnz-samsungnz/playlist.m3u8
+#EXTINF:0 group-title="烹飪",Gusto TV
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01077-gustoworldwidem-gustotvnz-samsungnz/playlist.m3u8
+
+
+
+
