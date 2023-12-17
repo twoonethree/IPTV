@@ -135,7 +135,7 @@ http://cfss.cc/api/ysp/cctv4.m3u8
 https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
 #EXTINF:0 group-title="體育",中國-CCTV5+
 https://node1.olelive.com:6443/live/CCTV5PHD/hls.m3u8
-##EXTINF:0 group-title="電影",中國-CCTV6
+#EXTINF:0 group-title="電影",中國-CCTV6
 http://cfss.cc/api/ysp/cctv6.m3u8
 #EXTINF:0 group-title="軍事",中國-CCTV7
 http://cfss.cc/api/ysp/cctv7.m3u8
@@ -157,4 +157,13 @@ https://newsmax-samsungus.amagi.tv/playlist.m3u8
 http://198.16.100.90:8278/bbcnews_twn/playlist.m3u8?tid=MF3F9344101593441015&ct=19254&tsum=ee2dfdc43081584c1c81ddf78256bf30
 #EXTINF:0 group-title="綜合",香港-翡翠台
 https://edge6a.v2h-cdn.com/jade/jade.stream/chunklist.m3u8
-
+#EXTINF:0 group-title="科教",中國-CCTV10
+http://cfss.cc/api/ysp/cctv10.m3u8
+#EXTINF:0 group-title="戲曲",中國-CCTV11
+http://cfss.cc/api/ysp/cctv11.m3u8
+#EXTINF:0 group-title="社會",中國-CCTV12
+http://cfss.cc/api/ysp/cctv12.m3u8
+#EXTINF:0 group-title="新聞",中國-CCTV13
+http://cfss.cc/api/ysp/cctv13.m3u8
+#EXTINF:0 group-title="音樂",中國-CCTV15
+http://cfss.cc/api/ysp/cctv15.m3u8
