@@ -126,20 +126,22 @@ https://sy.wns.live/hls/stream.m3u8
 #EXTINF:0 group-title="Lifestyles",World Fashion Channel
 https://live-3.otcnet.ru/wfcenmulti/playlist.m3u8
 #EXTINF:0 group-title="綜合",中國-CCTV1
-https://p.ggiptv.com/v/ysp.m3u8?token=9P8Im%2F765GVFgUktZonlYXGh&id=cctv1
+http://cfss.cc/api/ysp/cctv1.m3u8
 #EXTINF:0 group-title="財經",中國-CCTV2
-https://p.ggiptv.com/v/ysp.m3u8?token=a5mZEytGyDnKTi51DrOgkOKi&id=cctv2
+http://cfss.cc/api/ysp/cctv2.m3u8
 #EXTINF:0 group-title="綜藝",中國-CCTV3
-https://p.ggiptv.com/v/ysp.m3u8?token=v1ugyeErZcfdpBNygh6jSmoV&id=cctv3
+http://cfss.cc/api/ysp/cctv3.m3u8
 #EXTINF:0 group-title="國際",中國-CCTV4
-https://p.ggiptv.com/v/ysp.m3u8?token=tDHj7iDI9iXwgEPpUCXj18Pg&id=cctv4
+http://cfss.cc/api/ysp/cctv4.m3u8
 #EXTINF:0 group-title="體育",中國-CCTV5
-https://p.ggiptv.com/v/ysp.m3u8?token=mdm1LgUXQ2Fmmi567D4W%2Bl7j&id=cctv5
+https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
 #EXTINF:0 group-title="體育",中國-CCTV5+
-https://p.ggiptv.com/v/ysp.m3u8?token=KD3D6RPX1zsMG5wMTy%2FsyBye&id=cctv5p
+https://node1.olelive.com:6443/live/CCTV5PHD/hls.m3u8
 ##EXTINF:0 group-title="電影",中國-CCTV6
-https://p.ggiptv.com/v/ysp.m3u8?token=P1wnQaNnb8UuOYp44I2%2FKpOK&id=cctv6
+http://cfss.cc/api/ysp/cctv6.m3u8
 #EXTINF:0 group-title="軍事",中國-CCTV7
-https://p.ggiptv.com/v/ysp.m3u8?token=T3i3uk4SKHt65YLjQW2%2BCYq6&id=cctv7
+http://cfss.cc/api/ysp/cctv7.m3u8
 #EXTINF:0 group-title="電視劇",中國-CCTV8
-https://p.ggiptv.com/v/ysp.m3u8?token=TmuCxOcSI2ypg7FmVk2VN3bK&id=cctv8
+http://cfss.cc/api/ysp/cctv8.m3u8
+#EXTINF:0 group-title="紀錄",中國-CCTV9
+http://cfss.cc/api/ysp/cctv9.m3u8
