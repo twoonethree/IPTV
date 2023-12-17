@@ -155,3 +155,5 @@ http://50.7.238.114:8278/cnn_twn/playlist.m3u8?tid=ME9E1590756115907561&ct=19225
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:0 group-title="新聞",NewsmaxTV
 https://newsmax-samsungus.amagi.tv/playlist.m3u8
+#EXTINF:0 group-title="新聞",BBC News
+http://4e87b8a2.rossteleccom.net/iptv/UWSCNHYFPPFSA5/545/6491/index.m3u8
