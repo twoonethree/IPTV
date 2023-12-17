@@ -145,3 +145,5 @@ http://cfss.cc/api/ysp/cctv7.m3u8
 http://cfss.cc/api/ysp/cctv8.m3u8
 #EXTINF:0 group-title="紀錄",中國-CCTV9
 http://cfss.cc/api/ysp/cctv9.m3u8
+#EXTINF:0 group-title="新聞",ABC News
+https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
