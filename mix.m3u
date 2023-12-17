@@ -63,8 +63,6 @@ http://epg.112114.xyz/douyu/263824
 http://epg.112114.xyz/douyu/323876
 #EXTINF:0 group-title="綜合",中國-東方衛視
 http://210.210.155.37/x6bnqe/s/s29/index.m3u8
-#EXTINF:0 group-title="綜合",中國-浙江衛視
-https://hw-m-l.cztv.com/channels/lantian/channel10/1080p.m3u8
 #EXTINF:0 group-title="綜合",中國-海南衛視
 http://livelyws.chinamcache.com/lyws/zb01.m3u8?auth_key=1593241343-0-0-90b80e74457c94b2015f9428a1cb9b0e
 #EXTINF:0 group-title="電影",中國-斗魚粵語電影
@@ -127,3 +125,21 @@ http://iphone-streaming.ustream.tv/uhls/6540154/streams/live/iphone/playlist.m3u
 https://sy.wns.live/hls/stream.m3u8
 #EXTINF:0 group-title="Lifestyles",World Fashion Channel
 https://live-3.otcnet.ru/wfcenmulti/playlist.m3u8
+#EXTINF:0 group-title="綜合",中國-CCTV1
+https://p.ggiptv.com/v/ysp.m3u8?token=9P8Im%2F765GVFgUktZonlYXGh&id=cctv1
+#EXTINF:0 group-title="財經",中國-CCTV2
+https://p.ggiptv.com/v/ysp.m3u8?token=a5mZEytGyDnKTi51DrOgkOKi&id=cctv2
+#EXTINF:0 group-title="綜藝",中國-CCTV3
+https://p.ggiptv.com/v/ysp.m3u8?token=v1ugyeErZcfdpBNygh6jSmoV&id=cctv3
+#EXTINF:0 group-title="國際",CCTV4
+https://p.ggiptv.com/v/ysp.m3u8?token=tDHj7iDI9iXwgEPpUCXj18Pg&id=cctv4
+#EXTINF:0 group-title="體育",中國-CCTV5
+https://p.ggiptv.com/v/ysp.m3u8?token=mdm1LgUXQ2Fmmi567D4W%2Bl7j&id=cctv5
+#EXTINF:0 group-title="體育",中國-CCTV5+
+https://p.ggiptv.com/v/ysp.m3u8?token=KD3D6RPX1zsMG5wMTy%2FsyBye&id=cctv5p
+##EXTINF:0 group-title="電影",中國-CCTV6
+https://p.ggiptv.com/v/ysp.m3u8?token=P1wnQaNnb8UuOYp44I2%2FKpOK&id=cctv6
+#EXTINF:0 group-title="軍事",中國-CCTV7
+https://p.ggiptv.com/v/ysp.m3u8?token=T3i3uk4SKHt65YLjQW2%2BCYq6&id=cctv7
+#EXTINF:0 group-title="電視劇",中國-CCTV8
+https://p.ggiptv.com/v/ysp.m3u8?token=TmuCxOcSI2ypg7FmVk2VN3bK&id=cctv8
