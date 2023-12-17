@@ -177,4 +177,23 @@ http://cfss.cc/api/ysp/bjws.m3u8
 http://cfss.cc/api/ysp/jsws.m3u8
 #EXTINF:0 group-title="綜合",中國-湖南衛視
 http://180.97.247.27/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel25/index.m3u8
-
+#EXTINF:0 group-title="綜合",中國-深圳衛視
+http://180.97.247.27/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel17/index.m3u8
+#EXTINF:0 group-title="綜合",中國-黑龍江衛視
+https://iptv.luas.edu.cn/liverespath/fe1745c7599e85d0a34fa0ad3986ef25c2ed7c6f/62f40ca683-0-0-8f0a9a264759754e90aa804bf7e9f8a8/index.m3u8
+#EXTINF:0 group-title="綜合",中國-四川衛視
+http://180.97.247.27/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel31/index.m3u8
+#EXTINF:0 group-title="綜合",中國-東南衛視
+http://180.97.247.27/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel80/index.m3u8
+#EXTINF:0 group-title="綜合",中國-湖北衛視
+http://180.97.247.27/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel21/index.m3u8
+#EXTINF:0 group-title="綜合",中國-天津衛視
+http://180.97.247.27/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel28/index.m3u8
+#EXTINF:0 group-title="綜合",中國-遼寧衛視
+http://180.97.247.27/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel32/index.m3u8
+#EXTINF:0 group-title="綜合",中國-江西衛視
+http://180.97.247.27/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel22/index.m3u8
+#EXTINF:0 group-title="綜合",中國-吉林衛視
+http://180.97.247.27/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel20/index.m3u8
+#EXTINF:0 group-title="綜合",中國-金鷹卡通
+http://180.97.247.27/4309-tx.otvstream.otvcloud.com/otv/skcc/live/channel43025/index.m3u8
