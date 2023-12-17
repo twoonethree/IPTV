@@ -197,3 +197,9 @@ http://180.97.247.27/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel22/inde
 http://180.97.247.27/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel20/index.m3u8
 #EXTINF:0 group-title="綜合",中國-金鷹卡通
 http://180.97.247.27/4309-tx.otvstream.otvcloud.com/otv/skcc/live/channel43025/index.m3u8
+#EXTINF:0 group-title="體育",中國-廣東體育
+http://180.97.247.27/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel34/index.m3u8
+#EXTINF:0 group-title="體育",中國-勁爆體育
+http://180.97.247.27/4309-tx.otvstream.otvcloud.com/otv/skcc/live/channel43084/index.m3u8
+#EXTINF:0 group-title="體育",台灣-ELEVEN1
+http://50.7.238.114:8278/golfchannel_twn/playlist.m3u8?tid=MFBF2798068027980680&ct=18393&tsum=d8204023f67120512c75a8882f121120
