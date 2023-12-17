@@ -153,3 +153,5 @@ https://rakuten-euronews-10-be.samsung.wurl.tv/playlist.m3u8
 http://50.7.238.114:8278/cnn_twn/playlist.m3u8?tid=ME9E1590756115907561&ct=19225&tsum=adf5db9504938a69e07bad07c9d6f7d6
 #EXTINF:0 group-title="新聞",FOXNews
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
+#EXTINF:0 group-title="新聞",NewsmaxTV
+https://newsmax-samsungus.amagi.tv/playlist.m3u8
