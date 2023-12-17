@@ -157,5 +157,7 @@ https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 https://newsmax-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:0 group-title="新聞",BBC News
 http://4e87b8a2.rossteleccom.net/iptv/UWSCNHYFPPFSA5/545/6491/index.m3u8
-#EXTINF:0 group-title="綜合",翡翠台
+#EXTINF:0 group-title="綜合",香港-翡翠台
 https://edge6a.v2h-cdn.com/jade/jade.stream/chunklist.m3u8
+#EXTINF:0 group-title="新聞",香港-無線新聞台
+https://edge6a.v2h-cdn.com/news/news.stream/chunklist.m3u8 
