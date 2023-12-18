@@ -61,9 +61,9 @@ http://epg.112114.xyz/douyu/8814650
 http://epg.112114.xyz/douyu/263824
 #EXTINF:0 group-title="電影",中國-斗魚外語電影
 http://epg.112114.xyz/douyu/323876
-#EXTINF:0 group-title="綜合",中國-東方衛視
+#EXTINF:-1 tvg-logo=" " tvg-id="31" tvg-name="东方卫视" group-title="卫视",东方卫视
 http://210.210.155.37/x6bnqe/s/s29/index.m3u8
-#EXTINF:0 group-title="綜合",中國-海南衛視
+#EXTINF:-1 tvg-logo=" " tvg-id="37" tvg-name="旅游卫视" group-title="卫视",海南卫视
 http://livelyws.chinamcache.com/lyws/zb01.m3u8?auth_key=1593241343-0-0-90b80e74457c94b2015f9428a1cb9b0e
 #EXTINF:0 group-title="電影",中國-斗魚粵語電影
 http://epg.112114.xyz/douyu/1226741
@@ -155,7 +155,7 @@ https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 https://newsmax-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:0 group-title="新聞",BBC News
 http://198.16.100.90:8278/bbcnews_twn/playlist.m3u8?tid=MF3F9344101593441015&ct=19254&tsum=ee2dfdc43081584c1c81ddf78256bf30
-#EXTINF:0 group-title="綜合",香港-翡翠台
+#EXTINF:-1 tvg-logo=" " tvg-id="126" tvg-name="翡翠台" group-title="港澳及国外",翡翠台
 https://edge6a.v2h-cdn.com/jade/jade.stream/chunklist.m3u8
 #EXTINF:-1 tvg-logo=" " tvg-id="11" tvg-name="CCTV10" group-title="央视",CCTV-10科教
 http://cfss.cc/api/ysp/cctv10.m3u8
@@ -167,35 +167,34 @@ http://cfss.cc/api/ysp/cctv12.m3u8
 http://cfss.cc/api/ysp/cctv13.m3u8
 #EXTINF:-1 tvg-logo=" " tvg-id="16" tvg-name="CCTV15" group-title="央视",CCTV-15音乐
 http://cfss.cc/api/ysp/cctv15.m3u8
-#EXTINF:0 group-title="綜合",中國-廣東衛視
+#EXTINF:-1 tvg-logo=" " tvg-id="33" tvg-name="广东卫视" group-title="卫视",广东卫视
 http://cfss.cc/api/ysp/gdws.m3u8
-#EXTINF:0 group-title="綜合",中國-浙江衛視
+#EXTINF:-1 tvg-logo=" " tvg-id="28" tvg-name="浙江卫视" group-title="卫视",浙江卫视
 http://cfss.cc/api/ysp/zjws.m3u8
-#EXTINF:0 group-title="綜合",中國-北京衛視
+#EXTINF:-1 tvg-logo=" " tvg-id="30" tvg-name="北京卫视" group-title="卫视",北京卫视
 http://cfss.cc/api/ysp/bjws.m3u8
-#EXTINF:0 group-title="綜合",中國-江蘇衛視
+#EXTINF:-1 tvg-logo=" " tvg-id="29" tvg-name="江苏卫视" group-title="卫视",江苏卫视
 http://cfss.cc/api/ysp/jsws.m3u8
-#EXTINF:0 group-title="綜合",中國-湖南衛視
+#EXTINF:-1 tvg-logo=" " tvg-id="27" tvg-name="湖南卫视" group-title="央视",湖南卫视
 http://180.97.247.27/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel25/index.m3u8
-#EXTINF:0 group-title="綜合",中國-深圳衛視
+#EXTINF:-1 tvg-logo=" " tvg-id="34" tvg-name="深圳卫视" group-title="卫视",深圳卫视
 http://180.97.247.27/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel17/index.m3u8
-#EXTINF:0 group-title="綜合",中國-黑龍江衛視
+#EXTINF:-1 tvg-logo=" " tvg-id="46" tvg-name="黑龙江卫视" group-title="卫视",黑龙江卫视
 https://iptv.luas.edu.cn/liverespath/fe1745c7599e85d0a34fa0ad3986ef25c2ed7c6f/62f40ca683-0-0-8f0a9a264759754e90aa804bf7e9f8a8/index.m3u8
-#EXTINF:0 group-title="綜合",中國-四川衛視
+#EXTINF:-1 tvg-logo=" " tvg-id="56" tvg-name="四川卫视" group-title="卫视",四川卫视
 http://180.97.247.27/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel31/index.m3u8
-#EXTINF:0 group-title="綜合",中國-東南衛視
+#EXTINF:-1 tvg-logo=" " tvg-id="41" tvg-name="东南卫视" group-title="卫视",东南卫视
 http://180.97.247.27/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel80/index.m3u8
-#EXTINF:0 group-title="綜合",中國-湖北衛視
+#EXTINF:-1 tvg-logo=" " tvg-id="48" tvg-name="湖北卫视" group-title="卫视",湖北卫视
 http://180.97.247.27/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel21/index.m3u8
-#EXTINF:0 group-title="綜合",中國-天津衛視
+#EXTINF:-1 tvg-logo=" " tvg-id="39" tvg-name="天津卫视" group-title="卫视",天津卫视
 http://180.97.247.27/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel28/index.m3u8
-#EXTINF:0 group-title="綜合",中國-遼寧衛視
+#EXTINF:-1 tvg-logo=" " tvg-id="36" tvg-name="辽宁卫视" group-title="卫视",辽宁卫视
 http://180.97.247.27/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel32/index.m3u8
-#EXTINF:0 group-title="綜合",中國-江西衛視
+#EXTINF:-1 tvg-logo=" " tvg-id="50" tvg-name="江西卫视" group-title="卫视",江西卫视
 http://180.97.247.27/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel22/index.m3u8
-#EXTINF:0 group-title="綜合",中國-吉林衛視
-http://180.97.247.27/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel20/index.m3u8
-#EXTINF:0 group-title="綜合",中國-金鷹卡通
+#EXTINF:-1 tvg-logo=" " tvg-id="51" tvg-name="吉林卫视" group-title="卫视",吉林卫视http://180.97.247.27/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel20/index.m3u8
+#EXTINF:-1 tvg-logo=" " tvg-id="69" tvg-name="金鹰卡通" group-title="卫视",金鹰卡通
 http://180.97.247.27/4309-tx.otvstream.otvcloud.com/otv/skcc/live/channel43025/index.m3u8
 #EXTINF:0 group-title="體育",中國-廣東體育
 http://180.97.247.27/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel34/index.m3u8
