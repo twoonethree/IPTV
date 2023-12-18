@@ -123,25 +123,25 @@ http://iphone-streaming.ustream.tv/uhls/6540154/streams/live/iphone/playlist.m3u
 https://sy.wns.live/hls/stream.m3u8
 #EXTINF:0 group-title="Lifestyles",World Fashion Channel
 https://live-3.otcnet.ru/wfcenmulti/playlist.m3u8
-#EXTINF:0 group-title="綜合",中國-CCTV1
+#EXTINF:-1 tvg-logo=" " tvg-id="1" tvg-name="CCTV1" group-title="央视",CCTV-1综合
 http://cfss.cc/api/ysp/cctv1.m3u8
-#EXTINF:0 group-title="財經",中國-CCTV2
+#EXTINF:-1 tvg-logo=" " tvg-id="2" tvg-name="CCTV2" group-title="央视",CCTV-2财经
 http://cfss.cc/api/ysp/cctv2.m3u8
-#EXTINF:0 group-title="綜藝",中國-CCTV3
+#EXTINF:-1 tvg-logo=" " tvg-id="3" tvg-name="CCTV3" group-title="央视",CCTV-3综艺
 http://cfss.cc/api/ysp/cctv3.m3u8
-#EXTINF:0 group-title="國際",中國-CCTV4
+#EXTINF:-1 tvg-logo=" " tvg-id="4" tvg-name="CCTV4" group-title="央视",CCTV-4中文国际
 http://cfss.cc/api/ysp/cctv4.m3u8
-#EXTINF:0 group-title="體育",中國-CCTV5
+#EXTINF:-1 tvg-logo=" " tvg-id="5" tvg-name="CCTV5" group-title="央视",CCTV-5体育
 https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
-#EXTINF:0 group-title="體育",中國-CCTV5+
+#EXTINF:-1 tvg-logo=" " tvg-id="6" tvg-name="CCTV5+" group-title="央视",CCTV-5+体育赛事
 https://node1.olelive.com:6443/live/CCTV5PHD/hls.m3u8
-#EXTINF:0 group-title="電影",中國-CCTV6
+#EXTINF:-1 tvg-logo=" " tvg-id="7" tvg-name="CCTV6" group-title="央视",CCTV-6电影
 http://cfss.cc/api/ysp/cctv6.m3u8
-#EXTINF:0 group-title="軍事",中國-CCTV7
+#EXTINF:-1 tvg-logo=" " tvg-id="8" tvg-name="CCTV7" group-title="央视",CCTV-7国防军事
 http://cfss.cc/api/ysp/cctv7.m3u8
-#EXTINF:0 group-title="電視劇",中國-CCTV8
+#EXTINF:-1 tvg-logo=" " tvg-id="9" tvg-name="CCTV8" group-title="央视",CCTV-8电视剧
 http://cfss.cc/api/ysp/cctv8.m3u8
-#EXTINF:0 group-title="紀錄",中國-CCTV9
+#EXTINF:-1 tvg-logo=" " tvg-id="10" tvg-name="CCTV9" group-title="央视",CCTV-9纪录
 http://cfss.cc/api/ysp/cctv9.m3u8
 #EXTINF:0 group-title="新聞",ABC News
 https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
@@ -157,15 +157,15 @@ https://newsmax-samsungus.amagi.tv/playlist.m3u8
 http://198.16.100.90:8278/bbcnews_twn/playlist.m3u8?tid=MF3F9344101593441015&ct=19254&tsum=ee2dfdc43081584c1c81ddf78256bf30
 #EXTINF:0 group-title="綜合",香港-翡翠台
 https://edge6a.v2h-cdn.com/jade/jade.stream/chunklist.m3u8
-#EXTINF:0 group-title="科教",中國-CCTV10
+#EXTINF:-1 tvg-logo=" " tvg-id="11" tvg-name="CCTV10" group-title="央视",CCTV-10科教
 http://cfss.cc/api/ysp/cctv10.m3u8
-#EXTINF:0 group-title="戲曲",中國-CCTV11
+#EXTINF:-1 tvg-logo=" " tvg-id="12" tvg-name="CCTV11" group-title="央视",CCTV-11戏曲
 http://cfss.cc/api/ysp/cctv11.m3u8
-#EXTINF:0 group-title="社會",中國-CCTV12
+#EXTINF:-1 tvg-logo=" " tvg-id="13" tvg-name="CCTV12" group-title="央视",CCTV-12社会与法
 http://cfss.cc/api/ysp/cctv12.m3u8
-#EXTINF:0 group-title="新聞",中國-CCTV13
+#EXTINF:-1 tvg-logo=" " tvg-id="14" tvg-name="CCTV13" group-title="央视",CCTV-13新闻
 http://cfss.cc/api/ysp/cctv13.m3u8
-#EXTINF:0 group-title="音樂",中國-CCTV15
+#EXTINF:-1 tvg-logo=" " tvg-id="16" tvg-name="CCTV15" group-title="央视",CCTV-15音乐
 http://cfss.cc/api/ysp/cctv15.m3u8
 #EXTINF:0 group-title="綜合",中國-廣東衛視
 http://cfss.cc/api/ysp/gdws.m3u8
