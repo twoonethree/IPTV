@@ -200,5 +200,5 @@ http://180.97.247.27/4309-tx.otvstream.otvcloud.com/otv/skcc/live/channel43025/i
 http://180.97.247.27/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel34/index.m3u8
 #EXTINF:-1 tvg-logo=" " tvg-id="1964" tvg-name="劲爆体育" group-title="地方台",劲爆体育
 http://180.97.247.27/4309-tx.otvstream.otvcloud.com/otv/skcc/live/channel43084/index.m3u8
-#EXTINF:0 group-title="體育",台灣-ELEVEN1
+#EXTINF:-1 tvg-logo=" " tvg-id="6093" tvg-name="ELEVEN体育一台" group-title="港澳及国外",ELEVEN体育一台
 http://50.7.238.114:8278/golfchannel_twn/playlist.m3u8?tid=MFBF2798068027980680&ct=18393&tsum=d8204023f67120512c75a8882f121120
