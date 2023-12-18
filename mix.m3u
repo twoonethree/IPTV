@@ -124,9 +124,9 @@ https://sy.wns.live/hls/stream.m3u8
 #EXTINF:0 group-title="Lifestyles",World Fashion Channel
 https://live-3.otcnet.ru/wfcenmulti/playlist.m3u8
 #EXTINF:-1 tvg-logo=" " tvg-id="1" tvg-name="CCTV1" group-title="央视",CCTV-1综合
-http://cfss.cc/api/ysp/cctv1.m3u8
+https://node1.olelive.com:6443/live/CCTV1HD/hls.m3u8
 #EXTINF:-1 tvg-logo=" " tvg-id="2" tvg-name="CCTV2" group-title="央视",CCTV-2财经
-http://cfss.cc/api/ysp/cctv2.m3u8
+https://node1.olelive.com:6443/live/CCTV2HD/hls.m3u8
 #EXTINF:-1 tvg-logo=" " tvg-id="3" tvg-name="CCTV3" group-title="央视",CCTV-3综艺
 http://cfss.cc/api/ysp/cctv3.m3u8
 #EXTINF:-1 tvg-logo=" " tvg-id="4" tvg-name="CCTV4" group-title="央视",CCTV-4中文国际
