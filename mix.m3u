@@ -206,3 +206,5 @@ http://50.7.238.114:8278/golfchannel_twn/playlist.m3u8?tid=MFBF2798068027980680&
 http://live.cgtn.com/500/prog_index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/anhui.png" tvg-id="32" tvg-name="安徽卫视" group-title="卫视",安徽卫视
 http://180.97.247.27/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel23/index.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/999207042198880256/UHyziQ06_400x400.jpg" tvg-id=" " tvg-name="Club MTV" group-title="音樂",Club MTV
+http://194.145.202.71:8087/udp/239.254.5.232:6060 
