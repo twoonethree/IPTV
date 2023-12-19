@@ -208,3 +208,5 @@ http://live.cgtn.com/500/prog_index.m3u8
 http://180.97.247.27/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel23/index.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/999207042198880256/UHyziQ06_400x400.jpg" tvg-id=" " tvg-name="Club MTV" group-title="音樂",Club MTV
 http://194.145.202.71:8087/udp/239.254.5.232:6060 
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shandong.png" tvg-id="38" tvg-name="山东卫视" group-title="卫视",山东卫视
+https://iptv.luas.edu.cn/liverespath/8b205af319dcc92c60a69a96423af21b24a29ca0/dd6f0a43db-0-0-63f6f29dcc6843fd6b50323d4bfc8b09/index.m3u8
