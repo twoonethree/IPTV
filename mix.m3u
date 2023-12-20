@@ -139,7 +139,7 @@ https://node1.olelive.com:6443/live/CCTV7HD/hls.m3u8
 https://node1.olelive.com:6443/live/CCTV8HD/hls.m3u8
 #EXTINF:-1 tvg-logo=" " tvg-id="10" tvg-name="CCTV9" group-title="央视",CCTV-9纪录
 https://node1.olelive.com:6443/live/CCTV9HD/hls.m3u8
-#EXTINF:0 group-title="新聞",ABC News
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/abcaus.png" tvg-id="7100" tvg-name="ABCAustralia" group-title="港澳及国外",ABCAustralia
 https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
 #EXTINF:0 group-title="新聞",Euronews
 https://rakuten-euronews-10-be.samsung.wurl.tv/playlist.m3u8
