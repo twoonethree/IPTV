@@ -220,5 +220,5 @@ http://180.97.247.27/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel59/inde
 http://198.16.100.90:8278/inews_twn/playlist.m3u8?tid=MF7F8784108987841089&ct=19225&tsum=50d719a9ed62cc070153963585e6d9d3
 #EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/now-news5207.logowik.com.webp" tvg-id=" " tvg-name="Now新聞" group-title="香港",Now新聞台
 https://16888.vercel.app/api/xsj.php?id=now-news
-#EXTINF:-1 tvg-logo=" " tvg-id=" " tvg-name="Hoy TV77" group-title="香港",HOY TV77台
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/f/f3/HOY_TV_Logo.svg/1200px-HOY_TV_Logo.svg.png" tvg-id=" " tvg-name="Hoy TV77" group-title="香港",HOY TV77台
 https://hoytv-live-stream.hoy.tv/ch77/index-fhd.m3u8
