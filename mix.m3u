@@ -7,7 +7,7 @@ https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/master.m3u8
 https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/master.m3u8
 #EXTINF:0 tvg-logo="https://d55-invdn-com.investing.com/company_logo/1fbe28a616fc6f3cb56f30d014eeb625.jpg" group-title="財經",香港-耀才財經台
 http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
-#EXTINF:0 group-title="電影",香港-天映頻道
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logos/images/d/dd/Celestial_Movies_logo.png/revision/latest/scale-to-width-down/340?cb=20220330083514&path-prefix=vi" tvg-id="828" tvg-name="天映经典" group-title="港澳及国外",天映经典频道
 http://210.210.155.37/dr9445/h/h14/index.m3u8
 #EXTINF:0 group-title="財經",Bloomberg Asia
 https://bloomberg.com/media-manifest/streams/asia.m3u8
