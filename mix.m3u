@@ -9,9 +9,9 @@ https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/master.m3u8
 http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logos/images/7/72/Celestial_Movies_logo_screenbug_2015.png/revision/latest?cb=20230327101136&path-prefix=vi" tvg-id="828" tvg-name="天映经典" group-title="港澳及国外",天映经典频道
 http://210.210.155.37/dr9445/h/h14/index.m3u8
-#EXTINF:0 tvg-logo="https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100059474533031" group-title="財經",Bloomberg Asia
+#EXTINF:0  tvg-logo="https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100059474533031" group-title="財經",Bloomberg Asia
 https://bloomberg.com/media-manifest/streams/asia.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/4/48/CTI_News_Logo.jpg" group-title="台灣” group-title="新聞",中天新聞
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/4/48/CTI_News_Logo.jpg" group-title="台灣”,中天新聞
 https://ythls.armelin.one/channel/UC5l1Yto5oOIgRXlI4p4VKbw.m3u8
 #EXTINF:0 group-title="新聞",台灣-大立電視台
 http://www.dalitv.com.tw:4568/live/dali/index.m3u8
