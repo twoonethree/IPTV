@@ -73,10 +73,6 @@ https://cdnapi.kaltura.com/p/2503451/sp/250345100/playManifest/entryId/1_gb6tjml
 https://rt-rtd.rttv.com/dvr/rtdoc/playlist.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0b/MTV_New_Official_Logo_2021.png" group-title="音樂",MTV
 http://37.18.239.36:8888/MTV_Adria/index.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/NASA_TV.svg/1270px-NASA_TV.svg.png" group-title="科學",NASA TV
-http://iphone-streaming.ustream.tv/uhls/6540154/streams/live/iphone/playlist.m3u8
-#EXTINF:0 tvg-logo="https://luxpro.mc/wp-content/uploads/2019/03/wfc.jpg" group-title="Lifestyles",World Fashion Channel
-https://live-3.otcnet.ru/wfcenmulti/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://m.mlzhongguo.com/uploads/image/10/15722288625063.jpg" tvg-id="1" tvg-name="CCTV1" group-title="央视",CCTV-1综合
 https://node1.olelive.com:6443/live/CCTV1HD/hls.m3u8
 #EXTINF:-1 tvg-logo="http://m.mlzhongguo.com/uploads/image/10/15722291329062.jpg" tvg-id="2" tvg-name="CCTV2" group-title="央视",CCTV-2财经
@@ -102,7 +98,7 @@ https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea09
 #EXTINF:0 group-title="新聞",Euronews
 https://rakuten-euronews-10-be.samsung.wurl.tv/playlist.m3u8
 #EXTINF:0 group-title="新聞",CNN
-http://50.7.238.114:8278/cnn_twn/playlist.m3u8?tid=ME9E1590756115907561&ct=19225&tsum=adf5db9504938a69e07bad07c9d6f7d6
+http://198.16.100.90:8278/cnn_twn/playlist.m3u8?tid=ME9E1590756115907561&ct=19225&tsum=adf5db9504938a69e07bad07c9d6f7d6
 #EXTINF:0 group-title="新聞",FOXNews
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:0 group-title="新聞",NewsmaxTV
