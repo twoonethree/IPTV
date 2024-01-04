@@ -1,10 +1,14 @@
-﻿#EXTM3U
+#EXTM3U
 #EXTINF:-1 tvg-logo="http://pic.greenxf.com/phoneico/2018-6/201862910582688807.png" tvg-id="126" tvg-name="翡翠台" group-title="香港",翡翠台
 https://edge6a.v2h-cdn.com/jade/jade.stream/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d7/TVB_J2_2022.svg/revision/latest?cb=20220620145308" tvg-id="416" tvg-name="J2" group-title="香港",J2
 http://198.16.100.90:8278/j2_twn/playlist.m3u8?tid=m22905da1d346&ct=18336&tsum=3b4998c4f5367bb820165f66b0caab0e
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5c/TVB_News_Channel.jpg/revision/latest/scale-to-width-down/200?cb=20210722080518" tvg-id="130" tvg-name="无线新闻" group-title="香港",无线新闻台
 http://198.16.100.90:8278/inews_twn/playlist.m3u8?tid=MF7F8784108987841089&ct=19225&tsum=50d719a9ed62cc070153963585e6d9d3
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/8nNfVfEsf-s/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAjH1L9dtDJQvLUKppVkuRnjKve0w" tvg-id=" " tvg-name="無線財經體育資訊台" group-title="香港",無線財經體育資訊台
+http://198.16.100.90:8278/tvbcaijing_twn/playlist.m3u8?tid=MD3D9552893795528937&ct=19254&tsum=77d4c2db4fa7537d7dd3eb19f933526d
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB明珠台.png" tvg-id="127" tvg-name="明珠台" group-title="香港",明珠台
+http://198.16.100.90:8278/pearl_twn/playlist.m3u8?tid=MC6C7041327570413275&ct=19226&tsum=681972baf66d69caf7cccc92a90e5aad
 #EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/now-news5207.logowik.com.webp" tvg-id=" " tvg-name="Now新聞" group-title="香港",Now新聞台
 https://16888.vercel.app/api/xsj.php?id=now-news
 #EXTINF:0 tvg-logo="https://www.rthk.hk/img/tv_logo_31_s.svg" group-title="香港",rthk31 
@@ -28,9 +32,9 @@ http://210.210.155.37/dr9445/h/h14/index.m3u8
 #EXTINF:-1 tvg-logo="http://m.mlzhongguo.com/uploads/image/10/15722288625063.jpg" tvg-id="1" tvg-name="CCTV1" group-title="央视",CCTV-1综合
 https://node1.olelive.com:6443/live/CCTV1HD/hls.m3u8
 #EXTINF:-1 tvg-logo="http://m.mlzhongguo.com/uploads/image/10/15722291329062.jpg" tvg-id="2" tvg-name="CCTV2" group-title="央视",CCTV-2财经
-https://node1.olelive.com:6443/live/CCTV2HD/hls.m3u8
+https://iptv.luas.edu.cn/liverespath/6b13fe5368d391761312a985ace065c0ecad2f5e/877097d2fa-0-0-b7736e6941fd5cb71f45ef9397b68092/index.m3u8
 #EXTINF:-1 tvg-logo="http://m.mlzhongguo.com/uploads/image/10/15722291408328.jpg" tvg-id="3" tvg-name="CCTV3" group-title="央视",CCTV-3综艺
-https://iptv.luas.edu.cn/liverespath/f76f9947c68be18d7a456e25aa59a08c5747e6a5/18b2b42e40-0-0-6700d359b43266351710462ef38cc0f0/index.m3u8
+https://node1.olelive.com:6443/live/CCTV3HD/hls.m3u8
 #EXTINF:-1 tvg-logo="http://m.mlzhongguo.com/uploads/image/10/15722294567755.jpg" tvg-id="4" tvg-name="CCTV4" group-title="央视",CCTV-4中文国际
 https://iptv.luas.edu.cn/liverespath/c70d81eefb04fef7777c2a5aab4ddc9459ce4246/0baa43f537-0-0-5bc4eda6a2031a1140906b86d867a79e/index.m3u8
 #EXTINF:-1 tvg-logo="http://m.mlzhongguo.com/uploads/image/10/15722295661118.jpg" tvg-id="5" tvg-name="CCTV5" group-title="央视",CCTV-5体育
@@ -181,3 +185,4 @@ https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 http://198.16.100.90:8278/bbcnews_twn/playlist.m3u8?tid=MF3F9344101593441015&ct=19254&tsum=ee2dfdc43081584c1c81ddf78256bf30
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/999207042198880256/UHyziQ06_400x400.jpg" tvg-id=" " tvg-name="Club MTV" group-title="音樂",Club MTV
 http://194.145.202.71:8087/udp/239.254.5.232:6060 
+
