@@ -185,4 +185,5 @@ https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 http://198.16.100.90:8278/bbcnews_twn/playlist.m3u8?tid=MF3F9344101593441015&ct=19254&tsum=ee2dfdc43081584c1c81ddf78256bf30
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/999207042198880256/UHyziQ06_400x400.jpg" tvg-id=" " tvg-name="Club MTV" group-title="音樂",Club MTV
 http://194.145.202.71:8087/udp/239.254.5.232:6060 
-
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/viutv.png" tvg-id="408" tvg-name="ViuTV" group-title="香港",ViuTV
+http://198.16.100.90:8278/viu1_twn/playlist.m3u8?tid=MF9F2344917423449174&ct=19254&tsum=3cb061ac749a32280d3b88c022a1403f
