@@ -1,45 +1,35 @@
 #EXTM3U
-#EXTINF:0 tvg-logo="https://www.abu.org.my/wp-content/uploads/2019/04/tvb-resized.png" tvg-name="" group-title="香港",無線電視翡翠台
-https://cdn.hklive.tv/xxxx/81/index.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/1/13/TVB_J2.jpg/200px-TVB_J2.jpg" tvg-name="" group-title="香港",無線J2
-https://cdn.hklive.tv/xxxx/82/index.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/6/62/TVBN_2017_logo.png" tvg-name="" group-title="香港",無線新聞台
-https://cdn.hklive.tv/xxxx/83/index.m3u8
-#EXTINF:0 tvg-logo="https://www.right.com.cn/forum/data/attachment/forum/202209/24/120410e61h137knyhnkh9h.png" tvg-name="" group-title="香港",無線財經體育資訊台
-https://cdn.hklive.tv/xxxx/85/index.m3u8
-#EXTINF:0 tvg-logo="https://www.chillglobal.com/images/channels/tvb-pearl-1432635567.jpg" tvg-name="" group-title="香港",無線明珠台
-https://cdn.hklive.tv/xxxx/84/index.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/ViuTV_logo.svg/1280px-ViuTV_logo.svg.png" tvg-name="viutv" group-title="香港",viuTV99
-https://cdn.hklive.tv/xxxx/99/index.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ViuTVsix-logo.svg/652px-ViuTVsix-logo.svg.png" tvg-name="viutv" group-title="香港",viuTV96 
-https://cdn.hklive.tv/xxxx/96/index.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/0/06/HOY_TV_LOGO.jpg/220px-HOY_TV_LOGO.jpg" tvg-name="HOYTV" group-title="香港",HOY TV 
-http://media.fantv.hk/m3u8/archive/channel2.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/0/06/HOY_TV_LOGO.jpg/220px-HOY_TV_LOGO.jpg" tvg-name="HOYTV" group-title="香港",HOY資訊台
+#EXTINF:-1 tvg-logo="http://pic.greenxf.com/phoneico/2018-6/201862910582688807.png" tvg-id="126" tvg-name="翡翠台" group-title="香港",翡翠台
+https://edge6a.v2h-cdn.com/jade/jade.stream/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d7/TVB_J2_2022.svg/revision/latest?cb=20220620145308" tvg-id="416" tvg-name="J2" group-title="香港",J2
+http://198.16.100.90:8278/j2_twn/playlist.m3u8?tid=m22905da1d346&ct=18336&tsum=3b4998c4f5367bb820165f66b0caab0e
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5c/TVB_News_Channel.jpg/revision/latest/scale-to-width-down/200?cb=20210722080518" tvg-id="130" tvg-name="无线新闻" group-title="香港",無線新聞台
+http://198.16.100.90:8278/inews_twn/playlist.m3u8?tid=MD8D9734527497345274&ct=19249&tsum=88c5d57f9fdce89810d61e1001910a80
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/8nNfVfEsf-s/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAjH1L9dtDJQvLUKppVkuRnjKve0w" tvg-id=" " tvg-name="無線財經體育資訊台" group-title="香港",無線財經體育資訊台
+http://198.16.100.90:8278/tvbcaijing_twn/playlist.m3u8?tid=MD3D9552893795528937&ct=19254&tsum=77d4c2db4fa7537d7dd3eb19f933526d
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB明珠台.png" tvg-id="127" tvg-name="明珠台" group-title="香港",明珠台
+http://198.16.100.90:8278/pearl_twn/playlist.m3u8?tid=MC6C7041327570413275&ct=19226&tsum=681972baf66d69caf7cccc92a90e5aad
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/viutv.png" tvg-id="408" tvg-name="ViuTV" group-title="香港",ViuTV
+http://198.16.100.90:8278/viu1_twn/playlist.m3u8?tid=MF9F2344917423449174&ct=19254&tsum=3cb061ac749a32280d3b88c022a1403f
+#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/viutv-68980.logowik.com.webp" tvg-id="" tvg-name="Viu6" group-title="香港",Viu6
+http://50.7.238.114:8278/viusix_twn/playlist.m3u8?tid=MF0F4217630642176306&ct=19249&tsum=33becc0fe8466036420dbbb4727dc49e
+#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/now-news5207.logowik.com.webp" tvg-id=" " tvg-name="Now新聞" group-title="香港",Now新聞台
+https://16888.vercel.app/api/xsj.php?id=now-news
+#EXTINF:0 tvg-logo="https://www.rthk.hk/img/tv_logo_31_s.svg" group-title="香港",rthk31 
+https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
+#EXTINF:0 tvg-logo="https://www.rthk.hk/img/tv_logo_32_s.svg" group-title="香港",rthk32
+https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/master.m3u8
+#EXTINF:0 tvg-logo="https://www.rthk.hk/img/tv_logo_33_s.svg" group-title="香港",rthk33
+https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/master.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/f/f3/HOY_TV_Logo.svg/1200px-HOY_TV_Logo.svg.png" tvg-id=" " tvg-name="Hoy76" group-title="香港",HOY76
+https://hoytv-live-stream.hoy.tv/ch76/index-fhd.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/f/f3/HOY_TV_Logo.svg/1200px-HOY_TV_Logo.svg.png" tvg-id=" " tvg-name="Hoy77" group-title="香港",HOY77
+https://hoytv-live-stream.hoy.tv/ch77/index-fhd.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/f/f3/HOY_TV_Logo.svg/1200px-HOY_TV_Logo.svg.png" tvg-id=" " tvg-name="Hoy78" group-title="香港",HOY78
 https://hoytv-live-stream.hoy.tv/ch78/index-fhd.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/3/3a/HKIBC_logo.png/220px-HKIBC_logo.png" tvg-name="香港國際財經台" group-title="香港",香港國際財經台
-http://uc6.i-cable.com/live_freedirect/opentvhd002_h.live/playlist.m3u8
-#EXTINF:0 tvg-logo="http://www.cabletv.com.hk/file/tv_channel/_r100x30/p5a30d6679429a.png" group-title="香港",有線新聞台
-http://61.10.2.140/live_freedirect/freehd209_h.live/playlist.m3u8
-#EXTINF:0 tvg-logo="http://www.cabletv.com.hk/file/tv_channel/_r100x30/p5b06402f058c4.png" group-title="香港",有線直播台
-http://61.10.2.148/live_freedirect/hd110_h.live/playlist.m3u8
-#EXTINF:0 tvg-logo="http://www.cabletv.com.hk/file/tv_channel/_r100x30/p583cefafeeff7.png" group-title="香港",有線財經資訊台
-http://61.10.2.140/live_freedirect/freehd208_h.live/playlist.m3u8
-#EXTINF:0 tvg-logo="http://epg.i-cable.com/new/images/epgMobileIcon/301.png" group-title="香港",有線綜合娛樂台
-http://media.fantv.hk/m3u8/archive/channel2.m3u8
-#EXTINF:0 tvg-logo="https://news.now.com/revamp2014/images/news_logo_400.png" group-title="香港",Now新聞台
-http://cdn.hklive.tv/xxxx/332/index.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Now_Live_News_logo.svg/1200px-Now_Live_News_logo.svg.png" group-title="香港",Now直播台
-http://livetv.dnsfor.me:80/channel.3.m3u8
-#EXTINF:0 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch630_170_122" group-title="香港",NowSportsPRIME
-http://livetv.dnsfor.me/channel.12.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/RTHK_TV_31.svg/1200px-RTHK_TV_31.svg.png" tvg-name="rthk31" group-title="香港",rthk31 
-https://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_2052_av-b.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/QkV6eqz.jpg" tvg-name="rthk32" group-title="香港",rthk32
-http://livetv.dnsfor.me/channel.2.m3u8
 #EXTINF:0 tvg-logo="https://d55-invdn-com.investing.com/company_logo/1fbe28a616fc6f3cb56f30d014eeb625.jpg" group-title="香港",耀才財經台
 http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
-
-
-
-
+#EXTINF:0 tvg-logo="https://yt3.googleusercontent.com/ytc/AIf8zZQyThr8UIk5RmxkPpCsDasIZNhHfXx5O0y9HkEq=s100-c-k-c0x00ffffff-no-rj" group-title="香港",面包台
+https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logos/images/7/72/Celestial_Movies_logo_screenbug_2015.png/revision/latest?cb=20230327101136&path-prefix=vi" tvg-id="828" tvg-name="天映经典" group-title="香港",天映经典频道
+http://210.210.155.37/dr9445/h/h14/index.m3u8
