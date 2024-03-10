@@ -1,8 +1,7 @@
 
 #EXTM3U 
-
 #EXTINF:0 tvg-logo="https://www.tvchinese.net/uploads/tv/cctv1.jpg" tvg-name="" group-title="CCTV",CCTV1
-rtsp://183.252.166.199/PLTV/88888888/224/3221226834/48356507.smil
+http://1.70.33.214:4022/udp/239.1.1.7:8007
 #EXTINF:0 tvg-logo="https://upload.shejihz.com/2020/05/d7a970468c72179986480226e53e3eaa.jpg" tvg-name="" group-title="CCTV",CCTV2
 rtsp://183.252.166.199/PLTV/88888888/224/3221226655/40417429.smil
 #EXTINF:0 tvg-logo="http://img.mp.itc.cn/upload/20170717/00e5f7113f794b95b13c32b3c5ff7beb_th.jpg" tvg-name="" group-title="CCTV",CCTV3
