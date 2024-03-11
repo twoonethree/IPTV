@@ -1,86 +1,9 @@
-#EXTINF:0 tvg-logo="http://tv.itver.cc/wp-content/uploads/2014/03/NextTV-Logo.jpg" group-title="台灣",壹新聞
-http://stream.nexttv.com.tw/n001/playlist.m3u8
-
-#EXTINF:0 tvg-logo="https://img.sj33.cn/uploads/allimg/201612/0Z6191104-0.png" group-title="台灣",TVBS-HD
-http://50.7.61.148:30080/Entry/tvbs
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/1/1c/Tvbsnews.png" group-title="台灣",TVBS新聞台
-rtmp://59.124.75.138/sat/tv551
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/Tvbs-logo-42.png" group-title="台灣",TVBS歡樂台
-rtmp://59.124.75.138/sat/tv421
-
-#EXTINF:0 tvg-logo="https://img.isuper.tv/live-tv/ftv-live.jpg" group-title="台灣",民視HD
-rtmp://59.124.75.138/sat/tv051
-#EXTINF:0 tvg-logo="https://www.ftv.com.tw/tftaiwan/images/ch_logo_ftvn.png" group-title="台灣",民視新聞台
-http://seb.sason.top/sc/msxw_fhd.m3u8
-#EXTINF:0 tvg-logo="https://pic.4gtv.tv/ChannelLogo/mobile/logo_4gtv_4gtv-4gtv001_mobile.png" group-title="台灣",民視台灣台
-http://seb.sason.top/ptv/ftv.php?id=tw
-#EXTINF:0 tvg-logo="https://pic.4gtv.tv/ChannelLogo/mobile/logo_4gtv_4gtv-4gtv003_mobile.png" group-title="台灣",民視第一台
-http://seb.sason.top/ptv/ftv.php?id=dy
-#EXTINF:0 tvg-logo="https://pic.4gtv.tv/ChannelLogo/mobile/logo_4gtv_4gtv-4gtv004_mobile.png" group-title="台灣",民視綜藝台
-http://seb.sason.top/ptv/ftv.php?id=zy
-#EXTINF:0 tvg-logo="https://pic.4gtv.tv/ChannelLogo/mobile/logo_4gtv_litv-ftv07_mobile.png" group-title="台灣",民視旅遊台
-http://seb.sason.top/ptv/ftv.php?id=ly
-#EXTINF:0 tvg-logo="https://www.nettvpro.live/uploads/allimg/20/1-2002111934260-L.jpg" group-title="台灣",民視影劇台
-http://seb.sason.top/ptv/ftv.php?id=yj
-
-#EXTINF:0 tvg-logo="http://dv33.davillage.com.tw/wp-content/uploads/2017/08/%E4%B8%89%E7%AB%8B.png" group-title="台灣",三立Live新聞
-https://raw.githubusercontent.com/etag2000/IPTV/YTlive/setlive.m3u8
-#EXTINF:0 tvg-logo="http://www.zyz98.com/uploads/setinews.jpg" group-title="台灣",三立iNews最正新聞
-http://seb.sason.top/sc/slinews_fhd.m3u8
-#EXTINF:0 tvg-logo="http://www.tvyan.com/uploads/dianshi/setduhui.jpg" group-title="台灣",三立都會台
-https://setlive-lh.akamaihd.net/i/setmetro_1@132201/index_1080_av-b.m3u8?sd=10&rebase=on
-#EXTINF:0 tvg-logo="http://www.tvyan.com/uploads/dianshi/settaiwan.jpg" group-title="台灣",三立台灣台
-http://50.7.61.148:30080/Entry/settw-
-
-#EXTINF:0 tvg-logo="https://pic.4gtv.tv/ChannelLogo/mobile/logo_4gtv_4gtv-live114_mobile.png" group-title="台灣",東森新聞HD
-http://seb.sason.top/sc/dsxw_fhd.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/5/53/%E6%9D%B1%E6%A3%AE%E8%B2%A1%E7%B6%93%E6%96%B0%E8%81%9E%E5%8F%B0.png" group-title="台灣",東森財經新聞
-http://seb.sason.top/sc/dscjxw_fhd.m3u8
-
-#EXTINF:0 tvg-logo="https://pic.4gtv.tv/ChannelLogo/mobile/logo_4gtv_4gtv-4gtv040_mobile.png" group-title="台灣",中視HD
-rtmp://59.124.75.138/sat/tv091
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/b/b0/Chinatvnews.jpg/250px-Chinatvnews.jpg" group-title="台灣",中視新聞
-https://raw.githubusercontent.com/etag2000/IPTV/YTlive/ctvnews.m3u8
-
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/4/43/TTV_Home_Channel_with_HD_2016.png/400px-TTV_Home_Channel_with_HD_2016.png" group-title="台灣",台視HD
-rtmp://59.124.75.138/sat/tv071
-#EXTINF:0 tvg-logo="http://www.nettv.live/uploads/18/1-1P31011310a51.jpg" group-title="台灣",台視新聞
-http://seb.sason.top/sc/tsxw_fhd.m3u8
-
-#EXTINF:0 tvg-logo="http://event.cts.com.tw/2017_ctschannel/image/logo1.jpg" group-title="新聞",華視HD
-rtmp://59.124.75.138/sat/tv111
-#EXTINF:0 tvg-logo="http://event.cts.com.tw/2017_ctschannel/image/logo3.jpg" group-title="台灣",華視新聞資訊台
-https://raw.githubusercontent.com/etag2000/IPTV/YTlive/ctsnews.m3u8
-
-#EXTINF:0 tvg-logo="https://3.bp.blogspot.com/-_9niIIOucnE/Wh6RRwiCnVI/AAAAAAAAAaE/DEUEZnI48G06TlRtumi7DDJBlRkEwrybQCLcBGAs/s1600/CH52.png" group-title="台灣",中天新聞
-http://seb.sason.top/sc/ztxw_fhd.m3u8
-//#EXTINF:0 tvg-logo="https://twg.skyking.com.tw/skyking/Icon/CTI-036-250x130.png" group-title="台灣",中天綜合
-//http://104.250.154.42:8080/ZZ_zhongtianzonghe/ZZ_zhongtianzonghe.m3u8
-
-#EXTINF:0 tvg-logo="https://photo.sofun.tw/2018/12/Videoland-Japan-Logo.jpg" group-title="台灣",緯來日本台
-rtmp://59.124.75.138/sat/tv771
-#EXTINF:0 tvg-logo="https://img.isuper.tv/live-tv/vl-maxtv-live.jpg" group-title="台灣",緯來育樂台
-rtmp://59.124.75.138/sat/tv701
-#EXTINF:0 tvg-logo="https://img.isuper.tv/live-tv/vl-sports-live.jpg" group-title="台灣",緯來體育台
-rtmp://59.124.75.138/sat/tv721
-
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Logo_Eleven_Sports_2020.png/800px-Logo_Eleven_Sports_2020.png" group-title="台灣", ELEVEN1體育台
-rtmp://59.124.75.138:1935/sat/tv731
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Logo_Eleven_Sports_2020.png/800px-Logo_Eleven_Sports_2020.png" group-title="台灣", ELEVEN2體育台
-rtmp://59.124.75.138:1935/sat/tv741
-#EXTINF:0 tvg-logo="https://www.sienaclubfedelissimi.it/wp-content/uploads/2021/08/eleven-sports-320x180.png" group-title="台灣", ELEVEN+體育台
-rtmp://59.124.75.138/sat/md051
-
-
-#EXTINF:0 tvg-logo="https://i.imgur.com/4KtjyeR.jpg" group-title="台灣",NTDTV新唐人亞太台
-https://live.ntdimg.com/aplive200/playlist.m3u8
-
-//#EXTINF:-1 tvg-logo="https://i.imgur.com/w6apld6.png" group-title="台灣",Da Ai
-//https://www.youtube.com/watch?v=oV_i3Hsl_zg
-//#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/PmD2WwD.jpg" group-title="台灣",Da Ai 2
-//https://www.youtube.com/watch?v=DTNkEm6jaqQ
-//#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/w6apld6.png" group-title="台灣",Da Ai海外
-//https://www.youtube.com/watch?v=MIqUplvSRWA
-
-
-
+#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/hollywood.jpg" tvg-id="129" tvg-name="
+好萊塢電影台” group-title="電影",萊塢電影台
+http://ali.hlspull.yximgs.com/live/twlivezmpzzwdeyzszzczvszfzlzvzfhzuezdfzhzwzlzcmbhlwzy.flv
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/DiscoveryHD.png" tvg-id="6037" tvg-name="Discovery" group-title="海外",探索发现频道
+http://ali.hlspull.yximgs.com/live/twlivezezcxlvofbzbvnzzsfzvbhfhcvbcvzfdvbnzczzszzzezztspz.flv
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCMovies.png" tvg-id="6080" tvg-name="东森电影台" group-title="電影",东森电影台
+http://ali.hlspull.yximgs.com/live/twlivezowdxnzltdzhecvxczzezzezyhzdyduozuomdfzhzzzdzszy.flv
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCWesternMovies.png" tvg-id="6084" tvg-name="东森洋片台" group-title="電影",东森洋片台
+http://ali.hlspull.yximgs.com/live/twlivezmzptdzzxfzwetzvbzstzzzsutyhdzhflzzfhfhyzwzsyp.flv
