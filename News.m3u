@@ -23,3 +23,19 @@ https://shls-live-ak.akamaized.net/out/v1/115bfcde8fa342d182ef846445cdbdcf/index
 https://i.mjh.nz/SamsungTVPlus/GBBB1500004LG.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/News24.svg/400px-News24.svg.png" tvg-id=" " tvg-name="日テレNEWS24" group-title="新聞",日テレNEWS24
 https://stream01.willfonk.com/live_playlist.m3u8?cid=CS349&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS新闻.png" tvg-id="6073" tvg-name="TVBS新闻台" group-title="新聞",TVBS 新闻台
+http://38.64.72.148/hls/modn/list/4006/chunklist1.m3u8
+#EXTINF:-1 tvg-logo="https://i1.hdslb.com/bfs/face/acae3eaa89905861c2f1c3abc35e8f38ddc2dae6.jpg@1c.webp" tvg-id=" " tvg-name="BRTV新闻" group-title="新聞",BRTV新闻
+http://live.funhillrm.com/5/sd/live.m3u8
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/台视新闻.png" tvg-id="6143" tvg-name="台视新闻" group-title="新聞",台视新闻
+http://38.64.72.148/hls/modn/list/4013/chunklist0.m3u8
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FTVNews.png" tvg-id="6071" tvg-name="民视新闻台" group-title="新聞",民视新闻台
+http://38.64.72.148/hls/modn/list/4012/chunklist1.m3u8
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/中视新闻.png" tvg-id="7176" tvg-name="中视新闻" group-title="新聞",中视新闻台
+http://198.16.100.90:8278/ca73a13c37/playlist.m3u8?tid=mee3f06f682eb&ct=18335&tsum=7491cceca17c1e2af05824583855f8bd
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/4/48/CTI_News_Logo.jpg" tvg-id=" " tvg-name="中天新闻" group-title="新聞",中天新闻台
+http://198.16.100.90:8278/ctinews/playlist.m3u8?tid=MA4A6611409066114090&ct=19226&tsum=f0333c4e69a7c5880f766ec9f29ca203
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/年代ERANewsHD.png" tvg-id="6068" tvg-name="年代新闻台" group-title="台湾",年代新闻台
+http://50.7.238.114:8278/niandainews_twn/playlist.m3u8?tid=MBCB9184423891844238&ct=19249&tsum=ac0331d98099429b19c53fe6d20972ec
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GlobalNews.png" tvg-id="6171" tvg-name="寰宇新闻" group-title="新聞",寰宇新闻
+http://ali.hlspull.yximgs.com/live/twlivephxehmffzuxcxzvezezyhmnzzxzzhzdhnzbnxfdzfhyxw.flv
