@@ -11,3 +11,15 @@ https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea09
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/NHKWorld.png" tvg-id="331" tvg-name="NHKWorld" group-title="新聞",NHK World TV
 https://cdn.nhkworld.jp/www11/nhkworld-tv/bmcc-live/es/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ebayimg.com/images/g/tDQAAOSwbEZkSP3p/s-l400.jpg" tvg-id=" " tvg-name="GBN" group-title="新聞",GBN News
+https://live-gbnews.simplestreamcdn.com/live5/gbnews/bitrate1.isml/manifest.m3u8
+#EXTINF:-1 tvg-logo="https://www.cbn.com/images8/cbnnews/news-channel-logo.png" tvg-id=" " tvg-name="CBN" group-title="新聞",CBN News
+https://bcovlive-a.akamaihd.net/re8d9f611ee4a490a9bb59e52db91414d/us-east-1/734546207001/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SkyNews.png" tvg-id="742" tvg-name="SkyNews" group-title="新聞",Sky News
+http://198.16.100.90:8278/skynews_antik/playlist.m3u8?tid=MA0A3161061431610614&ct=19249&tsum=15f8cca00a8cc3a6d2a61519b7dfeb59
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/euronews.png" tvg-id="6183" tvg-name="Euronews" group-title="新聞",Euronews
+https://shls-live-ak.akamaized.net/out/v1/115bfcde8fa342d182ef846445cdbdcf/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/NBC_News_%282023%29.svg/420px-NBC_News_%282023%29.svg.png" tvg-id=" " tvg-name="nbcnews" group-title="新聞",nbc news
+https://i.mjh.nz/SamsungTVPlus/GBBB1500004LG.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/News24.svg/400px-News24.svg.png" tvg-id=" " tvg-name="日テレNEWS24" group-title="新聞",日テレNEWS24
+https://stream01.willfonk.com/live_playlist.m3u8?cid=CS349&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
