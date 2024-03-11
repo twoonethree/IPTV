@@ -3,7 +3,7 @@
 https://edge6a.v2h-cdn.com/jade/jade.stream/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d7/TVB_J2_2022.svg/revision/latest?cb=20220620145308" tvg-id="416" tvg-name="J2" group-title="香港",J2
 http://198.16.100.90:8278/j2_twn/playlist.m3u8?tid=m22905da1d346&ct=18336&tsum=3b4998c4f5367bb820165f66b0caab0e
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5c/TVB_News_Channel.jpg/revision/latest/scale-to-width-down/200?cb=20210722080518" tvg-id="130" tvg-name="无线新闻" group-title="香港",無線新聞台
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5c/TVB_News_Channel.jpg/revision/latest/scale-to-width-down/200?cb=20210722080518" tvg-id="130" tvg-name="無線新闻" group-title="香港",無線新聞台
 http://198.16.100.90:8278/inews_twn/playlist.m3u8?tid=MD8D9734527497345274&ct=19249&tsum=88c5d57f9fdce89810d61e1001910a80
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/8nNfVfEsf-s/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAjH1L9dtDJQvLUKppVkuRnjKve0w" tvg-id=" " tvg-name="無線財經體育資訊台" group-title="香港",無線財經體育資訊台
 http://198.16.100.90:8278/tvbcaijing_twn/playlist.m3u8?tid=MD3D9552893795528937&ct=19254&tsum=77d4c2db4fa7537d7dd3eb19f933526d
@@ -21,6 +21,10 @@ https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
 https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/master.m3u8
 #EXTINF:0 tvg-logo="https://www.rthk.hk/img/tv_logo_33_s.svg" group-title="香港",rthk33
 https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/master.m3u8
+#EXTINF:0 tvg-logo="https://www.rthk.hk/img/tv_logo_34_s.svg" group-title="香港",rthk34
+https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream03/streamPlaylist.m3u8
+#EXTINF:0 tvg-logo="https://www.rthk.hk/img/tv_logo_35_s.svg" group-title="香港",rthk35
+https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream03/streamPlaylist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/f/f3/HOY_TV_Logo.svg/1200px-HOY_TV_Logo.svg.png" tvg-id=" " tvg-name="Hoy76" group-title="香港",HOY76
 https://hoytv-live-stream.hoy.tv/ch76/index-fhd.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/f/f3/HOY_TV_Logo.svg/1200px-HOY_TV_Logo.svg.png" tvg-id=" " tvg-name="Hoy77" group-title="香港",HOY77
