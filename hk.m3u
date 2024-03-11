@@ -1,20 +1,24 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="http://pic.greenxf.com/phoneico/2018-6/201862910582688807.png" tvg-id="126" tvg-name="翡翠台" group-title="香港",翡翠台
-https://edge6a.v2h-cdn.com/jade/jade.stream/chunklist.m3u8
+http://ali.hlspull.yximgs.com/live/twlivefhwwzpthzyztzzzxcxbfhzzfzvhdtzdvbtvzszxzfszzcvbctvbfc.flv
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d7/TVB_J2_2022.svg/revision/latest?cb=20220620145308" tvg-id="416" tvg-name="J2" group-title="香港",J2
-http://198.16.100.90:8278/j2_twn/playlist.m3u8?tid=m22905da1d346&ct=18336&tsum=3b4998c4f5367bb820165f66b0caab0e
+http://ali.hlspull.yximgs.com/live/twlivefhwohdpthzyfiplhdftuzfbvdimhdznbzszbcvxzfzsehbvbztvbd2.flv
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5c/TVB_News_Channel.jpg/revision/latest/scale-to-width-down/200?cb=20210722080518" tvg-id="130" tvg-name="無線新闻" group-title="香港",無線新聞台
 http://ali.hlspull.yximgs.com/live/twlivefhwzpthlzzszszzbvdlzdmnbzhdhyzyztvbwxxw.flv
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/8nNfVfEsf-s/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAjH1L9dtDJQvLUKppVkuRnjKve0w" tvg-id=" " tvg-name="無線財經體育資訊台" group-title="香港",無線財經體育資訊台
-http://198.16.100.90:8278/tvbcaijing_twn/playlist.m3u8?tid=MD3D9552893795528937&ct=19254&tsum=77d4c2db4fa7537d7dd3eb19f933526d
+http://ali.hlspull.yximgs.com/live/twlivefhwylwpthzyzzfzxvzlmnduhyzmtvbwxcd.flv
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/8nNfVfEsf-s/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAjH1L9dtDJQvLUKppVkuRnjKve0w" tvg-id=" " tvg-name="無線財經體育資訊2台" group-title="香港",無線財經體育資訊2台
+http://ali.hlspull.yximgs.com/live/twlivefhwohdpthfgfbvcfghzyfzszbcvxzvbxzsfzfzsehbvbztvbd5.flv
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB明珠台.png" tvg-id="127" tvg-name="明珠台" group-title="香港",明珠台
-http://198.16.100.90:8278/pearl_twn/playlist.m3u8?tid=MC6C7041327570413275&ct=19226&tsum=681972baf66d69caf7cccc92a90e5aad
+http://ali.hlspull.yximgs.com/live/twlivetcfzhvdzzxcodwoetzmncthvbstyreyhbnnvbdzzwthzyztvbmz.flv
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/e/e3/TvbEN.png" tvg-id=" " tvg-name="娛樂新聞台" group-title="香港",娛樂新聞台
 https://edge6a.v2h-cdn.com/enew/enew.stream/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/1/17/TVB_Xing_He_logo_2017.png" tvg-id=" " tvg-name="TVB星河台" group-title="香港",TVB星河台
+http://ali.hlspull.yximgs.com/live/twlivezzmzptvzszzwxnhzzwzztzzztyfzszzszcfzxfzwmxzdtvbxh.flv
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/viutv.png" tvg-id="408" tvg-name="ViuTV" group-title="香港",ViuTV
-http://198.16.100.90:8278/viu1_twn/playlist.m3u8?tid=MF9F2344917423449174&ct=19254&tsum=3cb061ac749a32280d3b88c022a1403f
+http://ali.hlspull.yximgs.com/live/twlivefhtzznzzdldzluzobnmzzhnbbmdzlpthzyzvzutv.flv
 #EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/viutv-68980.logowik.com.webp" tvg-id="" tvg-name="Viu6" group-title="香港",Viu6
-http://50.7.238.114:8278/viusix_twn/playlist.m3u8?tid=MF0F4217630642176306&ct=19249&tsum=33becc0fe8466036420dbbb4727dc49e
+http://ali.hlspull.yximgs.com/live/twlivefhwzptdzbehztyhbvhfzcvszzfyztvzutvszx.flv
 #EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/now-news5207.logowik.com.webp" tvg-id=" " tvg-name="Now新聞" group-title="香港",Now新聞台
 https://16888.vercel.app/api/xsj.php?id=now-news
 #EXTINF:0 tvg-logo="https://www.rthk.hk/img/tv_logo_31_s.svg" group-title="香港",rthk31 
@@ -37,5 +41,7 @@ https://hoytv-live-stream.hoy.tv/ch78/index-fhd.m3u8
 http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
 #EXTINF:0 tvg-logo="https://yt3.googleusercontent.com/ytc/AIf8zZQyThr8UIk5RmxkPpCsDasIZNhHfXx5O0y9HkEq=s100-c-k-c0x00ffffff-no-rj" group-title="香港",面包台
 https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logos/images/7/72/Celestial_Movies_logo_screenbug_2015.png/revision/latest?cb=20230327101136&path-prefix=vi" tvg-id="828" tvg-name="天映经典" group-title="香港",天映经典频道
-http://210.210.155.37/dr9445/h/h14/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logos/images/7/72/Celestial_Movies_logo_screenbug_2015.png/revision/latest?cb=20230327101136&path-prefix=vi" tvg-id="828" tvg-name="天影頻道" group-title="電影",天映频道
+http://ali.hlspull.yximgs.com/live/twlivezezcxlvofbzbvnzzsfzvbhfhcvxcvzszbcvzfdvzsfcbzbnztypz.flv
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" tvg-id="141" tvg-name="凤凰中文" group-title="香港",凤凰卫视中文台
+http://ali.hlspull.yximgs.com/live/fa7cdfad1a5aaf8370eb7887844fh.flv
