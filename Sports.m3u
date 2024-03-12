@@ -31,6 +31,8 @@ http://redlabmcdn.s.llnwi.net/nv02/bs12hd/index.m3u8
 http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.daily-sun.com/assets/news_images/2022/08/18/T-Sports_logo.jpg" group-title="體育",TSports Officiel 
 https://live.tsports.com/live/tsports_live_720/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.comedy.co.uk/images/channels/tnt_sports_1.jpg" group-title="體育",TNTSports1
+http://198.16.100.90:8278/beeone/playlist.m3u8?tid=ME4E5665100556651005&ct=19254&tsum=caea1a674ddae23ddac022c6f734bbe9
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/34/85/8c/34858c396585f2f36851cca0db1c7da1--match-point-sport-logos.jpg" group-title="體育",Tennis Channel
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/TDMSport.png/500px-TDMSport.png" group-title="體育",澳視體育
