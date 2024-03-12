@@ -1,10 +1,26 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/hollywood.jpg" tvg-id="129" tvg-name="
-好萊塢電影台” group-title="電影",萊塢電影台
+好萊塢電影台” group-title="電影",好萊塢電影台
 http://ali.hlspull.yximgs.com/live/twlivezmpzzwdeyzszzczvszfzlzvzfhzuezdfzhzwzlzcmbhlwzy.flv
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/DiscoveryHD.png" tvg-id="6037" tvg-name="Discovery" group-title="海外",探索发现频道
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/DiscoveryHD.png" tvg-id="6037" tvg-name="Discovery" group-title="海外",探索發現频道
 http://ali.hlspull.yximgs.com/live/twlivezezcxlvofbzbvnzzsfzvbhfhcvbcvzfdvbnzczzszzzezztspz.flv
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCMovies.png" tvg-id="6080" tvg-name="东森电影台" group-title="電影",东森电影台
+#EXTINF:-1 tvg-logo="https://i0.wp.com/img.isuper.tv/live-tv/animal-planet-live.jpg" tvg-id=" " tvg-name="動物星球" group-title="海外",動物星球
+http://ali.hlspull.yximgs.com/live/twlivexcvbpzyhvzcvnzzsfzvbhfhczhbnzszbcvzfdvzsfcbzbnzzwxz.flv
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCMovies.png" tvg-id="6080" tvg-name="東森電影台" group-title="電影",東森電影台
 http://ali.hlspull.yximgs.com/live/twlivezowdxnzltdzhecvxczzezzezyhzdyduozuomdfzhzzzdzszy.flv
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCWesternMovies.png" tvg-id="6084" tvg-name="东森洋片台" group-title="電影",东森洋片台
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCWesternMovies.png" tvg-id="6084" tvg-name="東森洋片台" group-title="電影",東森洋片台
 http://ali.hlspull.yximgs.com/live/twlivezmzptdzzxfzwetzvbzstzzzsutyhdzhflzzfhfhyzwzsyp.flv
+#EXTINF:-1 tvg-logo="https://zh.m.wikipedia.org/wiki/%E6%9D%B1%E6%A3%AE%E6%88%B2%E5%8A%87%E5%8F%B0#/media/File%3AEBC_Drama_Logo.png" tvg-id="  " tvg-name="東森戲劇台" group-title="電視劇",東森戲劇台
+http://ali.hlspull.yximgs.com/live/twliveyvzozmfdycvbzcxlzdzfxdcvnzvdwspzcophzfvztycxzpzzmendsxd.flv
+#EXTINF:-1 tvg-logo="https://i0.wp.com/img.isuper.tv/live-tv/lstime-movie-live.jpg" tvg-id="" tvg-name="龍祥電影台" group-title="電影",龍祥電影台
+http://ali.hlspull.yximgs.com/live/twlivemzloehzbzzzpvboydetzewszhthzyuzfzwetyzzzhflxsz.flv
+#EXTINF:-1 tvg-logo="http://www.ltv.com.tw/wp-content/uploads/ltv-uploads/%E9%BE%8D%E8%8F%AF%E9%9B%BB%E5%BD%B1-300x161.jpg" tvg-id="" tvg-name="龍華電影台" group-title="電影",龍華電影台
+http://ali.hlspull.yximgs.com/live/twlivezpxnmzfhzuowezczxhvzlfzffzdwpoehcopvdzozzfxwzy.flv
+#EXTINF:-1 tvg-logo="http://www.ltv.com.tw/wp-content/uploads/ltv-uploads/%E9%BE%8D%E8%8F%AF%E6%B4%8B%E7%89%87-300x162.jpg" tvg-id="" tvg-name="龍華洋片台" group-title="電影",龍華洋片台
+http://ali.hlspull.yximgs.com/live/twlivezezcxlvofbzbvbzzzfzvzhslcfvxcvxszbcvzfdvsfcbzbnztyxty.flv
+#EXTINF:-1 tvg-logo="https://cloud.tipo.gov.tw/S282/pic/20190627/107/083/897/pic_107083897_20181226_1.jpg" tvg-id="" tvg-name="華藝綜合台" group-title="台灣",華藝綜合台
+http://ali.hlspull.yximgs.com/live/twlivesfbxcvzsfzdhnfcvbsxzdnzsvmbnfzuzfdhyuzmzbvnzslhdz.flv
+#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/lstime.jpg" tvg-id="" tvg-name="龍祥時代" group-title="電影",龍祥時代
+http://ali.hlspull.yximgs.com/live/twlivemzloehzbzzzpvboydetzewszhthzyuzfzwetyzzzhflxsz.flv
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/TVBS_MEDIA_INC._LOGO.jpg" tvg-id="" tvg-name="TVBSHD" group-title="台灣",TVBSHD
+http://ali.hlspull.yximgs.com/live/twlivezpzovdxzozfdezodszxcvlzzfvhnzlzzzobzzzsvhzchtvbs.flv
