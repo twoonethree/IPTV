@@ -6,6 +6,8 @@ http://198.16.100.90:8278/eltasport2_twn/playlist.m3u8?tid=ME3E4844502848445028&
 http://www.best336699.com:1935/besttv/IR33.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://sportcast.com.tw/images/nav2-1.png" group-title="體育",博斯運動2台
 http://198.16.100.90:8278/bosisport2_twn/playlist.m3u8?tid=ME9E7698135376981353&ct=19249&tsum=9eadcc8585f74357f09f1465844024c9
+#EXTINF:-1 tvg-logo="http://sportcast.com.tw/images/nav1-1.png" group-title="體育",博斯高球1台
+http://198.16.100.90:8278/bosigolf1_twn/playlist.m3u8?tid=m51c41c232c43&ct=18335&tsum=26e2e08302bf0409db94a692921fa08b
 #EXTINF:-1 tvg-logo="http://sportcast.com.tw/images/nav1-1.png" group-title="體育",博斯高球2台
 http://198.16.100.90:8278/bosigolf2_twn/playlist.m3u8?tid=MF5F9848925298489252&ct=19225&tsum=2600464749aadbcd55d1c32ec071e36e
 
