@@ -63,14 +63,8 @@ http://39.77.3.79:8989/udp/239.253.254.196:8000
 http://39.77.3.79:8989/udp/239.253.254.195:8000
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/bingtuan.png" tvg-id="兵团卫视" tvg-name="兵团卫视" group-title="卫视",兵团卫视
 http://116.95.218.217:9999/udp/239.125.1.135:4130
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/xuandong.png" tvg-id="哈哈炫动" tvg-name="哈哈炫动" group-title="卫视",哈哈炫动
-http://223.10.10.230:8083/udp/239.1.1.64:8064
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/kaku.png" tvg-id="卡酷动画" tvg-name="卡酷动画" group-title="卫视",卡酷动画
-http://223.10.10.230:8083/udp/239.1.1.62:8062
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xiamen.png" tvg-id="厦门卫视" tvg-name="厦门卫视" group-title="卫视",厦门卫视
 http://223.10.10.230:8083/udp/239.1.1.71:8071
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jinyingkatong.png" tvg-id="金鹰卡通" tvg-name="金鹰卡通" group-title="卫视",金鹰卡通
-http://116.95.218.217:9999/udp/239.125.1.128:4130
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xizang.png" tvg-id="西藏卫视" tvg-name="西藏卫视" group-title="卫视",西藏卫视
 http://116.95.218.217:9999/udp/239.125.1.117:4130
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sansha.png" tvg-id="三沙卫视" tvg-name="三沙卫视" group-title="卫视",三沙卫视
