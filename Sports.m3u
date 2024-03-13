@@ -14,6 +14,8 @@ http://198.16.100.90:8278/bosigolf2_twn/playlist.m3u8?tid=MF5F9848925298489252&c
 http://198.16.100.90:8278/bositennis_twn/playlist.m3u8?tid=MA9A5922328659223286&ct=19225&tsum=c83f112dbae37be6d20618138fddcf77
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/49/DAZN_1.svg" tvg-id="DAZN 1.tw" tvg-name="DAZN 1.tw" group-title="Sport",DAZN 1.tw
 http://198.16.100.90:8278/golfchannel_twn/playlist.m3u8?tid=MFBF2798068027980680&ct=18393&tsum=d8204023f67120512c75a8882f121120
+#EXTINF:-1 tvg-logo="https://pic.baike.soso.com/ugc/baikepic2/10964/20220508112309-1209545772_png_910_470_111536.jpg/300" tvg-id="廣東體育" tvg-name="廣東體育" group-title="Sport",廣東體育
+http://116.1.187.73:8181/tsfile/live/1017_1.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.comedy.co.uk/images/channels/tnt_sports_1.jpg" tvg-id="TNTSports1" tvg-id="TNTSports1" group-title="Sport",TNTSports1
 http://198.16.100.90:8278/beeone/playlist.m3u8?tid=ME4E5665100556651005&ct=19254&tsum=caea1a674ddae23ddac022c6f734bbe9
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7d/TNT_Sports_2_HD_%282023%29.svg/revision/latest/scale-to-width-down/250?cb=20230717231157" tvg-id="TNTSports2" tvg-name="TNTSports2" group-title="Sport",TNTSports2
