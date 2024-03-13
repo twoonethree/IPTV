@@ -26,11 +26,11 @@ http://198.16.100.90:8278/ctinews/playlist.m3u8?tid=MA4A6611409066114090&ct=1922
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/年代ERANewsHD.png" tvg-id="era news 年代新聞.tw" tvg-name="era news 年代新聞.tw" group-title="News",era news 年代新聞.tw
 http://50.7.238.114:8278/niandainews_twn/playlist.m3u8?tid=MBCB9184423891844238&ct=19249&tsum=ac0331d98099429b19c53fe6d20972ec
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GlobalNews.png" tvg-id="寰宇新聞台.tw" tvg-name="寰宇新聞台.tw" group-title="News",寰宇新聞台.tw
-http://ali.hlspull.yximgs.com/live/twlivephxehmffzuxcxzvezezyhmnzzxzzhzdhnzbnxfdzfhyxw.flv
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/NextTVNews.png" tvg-id="壹電視新聞台.tw" tvg-name="壹電視新聞台.tw" group-title="News",壹電視新聞台.tw
 http://ali.hlspull.yximgs.com/live/twlivemzfoyzvzsdvbnweztzuzzxzcvfzzszfhfzddzzlhtbchyxw.flv
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/UniqueNews.png" tvg-id="非凡新聞台.tw" tvg-name="非凡新聞台.tw" group-title="News",非凡新聞台.tw
-http://ali.hlspull.yximgs.com/live/twlivesztnfzzozdcbfcxvzfuuzzwezzzszyuhhdzszhzynffxw.flv
+http://198.16.100.90:8278/feifannews_twn/playlist.m3u8?tid=ME3E6962233269622332&ct=19225&tsum=eea4d84db71e12ba91bfcf328f4dec9d
 #EXTINF:-1 tvg-logo="https://ip.taicca.tw/company/avatar?v=2&company_id=468&sig=707600084&width=600&height=600" tvg-id="鏡電視新聞台.tw" tvg-name="鏡電視新聞台.tw" group-title="News",鏡電視新聞台.tw
 http://ali.hlspull.yximgs.com/live/twliveexcvzzocvuozxucfdexzpzzyxchvlzxzfezhcelethzzdxw.flv
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCNews.png" tvg-id="東森新聞台.tw" tvg-name="東森新聞台.tw" group-title="News",東森新聞台.tw
