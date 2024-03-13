@@ -3,6 +3,8 @@
 http://ali.hlspull.yximgs.com/live/twlivezmpzzwdeyzszzczvszfzlzvzfhzuezdfzhzwzlzcmbhlwzy.flv
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/DiscoveryHD.png" tvg-id="Global Trekker 探索世界頻道.tw" tvg-name="Global Trekker 探索世界頻道.tw" group-title="精選",Global Trekker 探索世界頻道.tw
 http://ali.hlspull.yximgs.com/live/twlivezezcxlvofbzbvnzzsfzvbhfhcvbcvzfdvbnzczzszzzezztspz.flv
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/3/33/Discovery_Asia_%282017-.n.v.%29.png/revision/latest/scale-to-width-down/1000?cb=20180408072813" tvg-id="Discovery Asia" tvg-name="Discovery Asia" group-title="Movie",Discovery Asia
+http://198.16.100.90:8278/discoverytwn_twn/playlist.m3u8?tid=MB1B4014431840144318&ct=19254&tsum=a72e8caa6986ef92c4d6cb743e22a78f
 #EXTINF:-1 tvg-logo="https://i0.wp.com/img.isuper.tv/live-tv/animal-planet-live.jpg" tvg-id="動物星球頻道.tw" tvg-name="動物星球頻道.tw" group-title="精選",動物星球頻道.tw
 http://ali.hlspull.yximgs.com/live/twlivexcvbpzyhvzcvnzzsfzvbhfhczhbnzszbcvzfdvzsfcbzbnzzwxz.flv
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCMovies.png" tvg-id="東森電影台.tw" tvg-name="東森電影台.tw" group-title="Movie",東森電影台.tw
