@@ -1,4 +1,4 @@
-mum#EXTM3U
+EXTM3U
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/400px-Russia-today-logo.svg.png" tvg-id="RT" tvg-name="RT" group-title="News",RT
 https://rt-rtd.rttv.com/live/rtnews/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BBCWORLDNEWSASIA.png" tvg-id="BBC News" tvg-name="BBC News" group-title="News",BBC News
