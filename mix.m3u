@@ -77,7 +77,7 @@ http://39.77.3.79:8989/udp/239.253.254.175:8000
 http://39.77.3.79:8989/udp/239.253.254.236:8000
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" tvg-id="CCTV-15音乐" tvg-name="CCTV-15音乐" group-title="央视",CCTV-15音乐
 http://39.77.3.79:8989/udp/239.253.254.170:8000
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" tvg-id="CCTV-17农业农村频道" tvg-name="CCTV-17农业农村频道" group-title="央视",CCTV-17农村农业
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" tvg-id="CCTV-17农业农村频道" tvg-name="CCTV-17农业农村频道" group-title="央视",CCTV-17农业农村频道
 http://39.77.3.79:8989/udp/239.253.254.168:8000
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" tvg-id="CGTN" tvg-name="CGTN" group-title="央视",CGTN
 http://39.77.3.79:8989/udp/239.253.254.182:8000
