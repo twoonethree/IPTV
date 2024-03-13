@@ -44,7 +44,9 @@ https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logos/images/7/72/Celestial_Movies_logo_screenbug_2015.png/revision/latest?cb=20230327101136&path-prefix=vi" tvg-id="天映經典頻道" tvg-name="天映經典頻道" group-title="電影",天映經典頻道
 http://ali.hlspull.yximgs.com/live/twlivezezcxlvofbzbvnzzsfzvbhfhcvxcvzszbcvzfdvzsfcbzbnztypz.flv
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" tvg-id="Phoenix Chinese Channel" tvg-name="Phoenix Chinese Channel" group-title="香港",Phoenix Chinese Channel
-http://ali.hlspull.yximgs.com/live/fa7cdfad1a5aaf8370eb7887844fh.flv
+http://115.221.89.115:8888/rtp/233.50.200.191:5140
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/1/16/Phoenix_InfoNews.svg/330px-Phoenix_InfoNews.svg.png" tvg-id="Phoenix InfoNews" tvg-name="Phoenix InfoNews" group-title="香港",Phoenix InfoNews
+http://115.221.89.115:8888/rtp/233.50.200.192:5140
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" tvg-id="CCTV-1综合" tvg-name="CCTV-1综合" group-title="央视",CCTV-1综合
 http://115.221.89.115:8888/rtp/233.50.201.118:5140
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" tvg-id="CCTV-2财经" tvg-name="CCTV-2财经" group-title="央视",CCTV-2财经
