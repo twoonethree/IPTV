@@ -1,6 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/hollywood.jpg" tvg-id="129" tvg-name="
-好萊塢電影台” group-title="電影",好萊塢電影台
+#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/hollywood.jpg" tvg-id="好萊塢電影台" tvg-name="好萊塢電影台” group-title="電影",好萊塢電影台
 http://ali.hlspull.yximgs.com/live/twlivezmpzzwdeyzszzczvszfzlzvzfhzuezdfzhzwzlzcmbhlwzy.flv
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/DiscoveryHD.png" tvg-id="6037" tvg-name="Discovery" group-title="海外",探索發現频道
 http://ali.hlspull.yximgs.com/live/twlivezezcxlvofbzbvnzzsfzvbhfhcvbcvzfdvbnzczzszzzezztspz.flv
