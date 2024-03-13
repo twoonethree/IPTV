@@ -17,9 +17,9 @@ https://edge6a.v2h-cdn.com/enew/enew.stream/chunklist.m3u8
 http://ali.hlspull.yximgs.com/live/twlivezzmzptvzszzwxnhzzwzztzzztyfzszzszcfzxfzwmxzdtvbxh.flv
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/viutv.png" tvg-id="ViuTV" tvg-name="ViuTV" group-title="香港",ViuTV
 http://ali.hlspull.yximgs.com/live/twlivefhtzznzzdldzluzobnmzzhnbbmdzlpthzyzvzutv.flv
-#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/viutv-68980.logowik.com.webp" tvg-id="Viu6" tvg-name="Viu6" group-title="香港",Viu6
+#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/viutv-68980.logowik.com.webp" tvg-id="ViuTVsix" tvg-name="ViuTVsix" group-title="香港",ViuTVsix
 http://ali.hlspull.yximgs.com/live/twlivefhwzptdzbehztyhbvhfzcvszzfyztvzutvszx.flv
-#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/now-news5207.logowik.com.webp" tvg-id="Now新聞" tvg-name="Now新聞" group-title="香港",Now新聞台
+#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/now-news5207.logowik.com.webp" tvg-id="Now NEWS" tvg-name="Now NEWS" group-title="News",Now NEWS
 https://16888.vercel.app/api/xsj.php?id=now-news
 #EXTINF:0 tvg-logo="https://www.rthk.hk/img/tv_logo_31_s.svg" tvg-id="rthk31" group-title="香港",rthk31 
 https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
@@ -43,7 +43,7 @@ http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
 https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logos/images/7/72/Celestial_Movies_logo_screenbug_2015.png/revision/latest?cb=20230327101136&path-prefix=vi" tvg-id="天映經典頻道" tvg-name="天映經典頻道" group-title="電影",天映經典頻道
 http://ali.hlspull.yximgs.com/live/twlivezezcxlvofbzbvnzzsfzvbhfhcvxcvzszbcvzfdvzsfcbzbnztypz.flv
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" tvg-id="凤凰卫视中文台（香港有线）" tvg-name="凤凰中文" group-title="香港",凤凰卫视中文台
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" tvg-id="Phoenix Chinese Channel" tvg-name="Phoenix Chinese Channel" group-title="香港",Phoenix Chinese Channel
 http://ali.hlspull.yximgs.com/live/fa7cdfad1a5aaf8370eb7887844fh.flv
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" tvg-id="CCTV-1综合" tvg-name="CCTV-1综合" group-title="央视",CCTV-1综合
 http://39.77.3.79:8989/udp/239.253.254.77:8000
