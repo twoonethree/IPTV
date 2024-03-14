@@ -4,13 +4,13 @@ http://198.16.100.90:8278/Wlt/playlist.m3u8?tid=MC9C7523788875237888&ct=19225&ts
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d7/TVB_J2_2022.svg/revision/latest?cb=20220620145308" tvg-id="J2" tvg-name="J2" group-title="香港",J2
 http://198.16.100.90:8278/j2_twn/playlist.m3u8?tid=MFCF3274854132748541&ct=19254&tsum=699466c18aac56202ad1d2843fd21032
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5c/TVB_News_Channel.jpg/revision/latest/scale-to-width-down/200?cb=20210722080518" tvg-id="無綫新聞台" tvg-name="無綫新聞台" group-title="香港",無綫新聞台
-http://198.16.100.90:8278/inews_twn/playlist.m3u8?tid=MF7F8784108987841089&ct=19225&tsum=50d719a9ed62cc070153963585e6d9d3
+http://live.cooltv.top/tv/tvb.php?id=0&hq
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/8nNfVfEsf-s/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAjH1L9dtDJQvLUKppVkuRnjKve0w" tvg-id="無綫財經 體育 資訊台" tvg-name="無綫財經體育資訊台" group-title="香港",無綫財經體育資訊台
 http://198.16.100.90:8278/tvbcaijing_twn/playlist.m3u8?tid=MD3D9552893795528937&ct=19254&tsum=77d4c2db4fa7537d7dd3eb19f933526d
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/8nNfVfEsf-s/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAjH1L9dtDJQvLUKppVkuRnjKve0w" tvg-id="myTV SUPER 18台" tvg-name="無綫財經體育資訊2台" group-title="香港",無綫財經體育資訊2台
 http://ali.hlspull.yximgs.com/live/twlivefhwohdpthfgfbvcfghzyfzszbcvxzvbxzsfzfzsehbvbztvbd5.flv
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB明珠台.png" tvg-id="明珠台" tvg-name="明珠台" group-title="香港",明珠台
-http://198.16.100.90:8278/pearl_twn/playlist.m3u8?tid=MC6C7041327570413275&ct=19226&tsum=681972baf66d69caf7cccc92a90e5aad
+http://sz.l68.fun:9001/bysid/2
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/e/e3/TvbEN.png" tvg-id="娛樂新聞台" tvg-name="娛樂新聞台" group-title="香港",娛樂新聞台
 https://edge6a.v2h-cdn.com/enew/enew.stream/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/1/17/TVB_Xing_He_logo_2017.png" tvg-id="TVB星河台" tvg-name="TVB星河台" group-title="香港",TVB星河台
