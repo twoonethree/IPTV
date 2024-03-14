@@ -7,10 +7,6 @@ http://198.16.100.90:8278/j2_twn/playlist.m3u8?tid=MFCF3274854132748541&ct=19254
 http://198.16.100.90:8278/inews_twn/playlist.m3u8?tid=MF7F8784108987841089&ct=19225&tsum=50d719a9ed62cc070153963585e6d9d3
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/8nNfVfEsf-s/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAjH1L9dtDJQvLUKppVkuRnjKve0w" tvg-id="無綫財經 體育 資訊台" tvg-name="無綫財經體育資訊台" group-title="香港",無綫財經體育資訊台
 http://198.16.100.90:8278/tvbcaijing_twn/playlist.m3u8?tid=MD3D9552893795528937&ct=19254&tsum=77d4c2db4fa7537d7dd3eb19f933526d
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/8nNfVfEsf-s/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAjH1L9dtDJQvLUKppVkuRnjKve0w" tvg-id="myTV SUPER 18台" tvg-name="無綫財經體育資訊2台" group-title="香港",無綫財經體育資訊2台
-http://ali.hlspull.yximgs.com/live/twlivefhwohdpthfgfbvcfghzyfzszbcvxzvbxzsfzfzsehbvbztvbd5.flv
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB明珠台.png" tvg-id="明珠台" tvg-name="明珠台" group-title="香港",明珠台
-http://ali.hlspull.yximgs.com/live/twlivetcfzhvdzzxcodwoetzmncthvbstyreyhbnnvbdzzwthzyztvbmz.flv
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/e/e3/TvbEN.png" tvg-id="娛樂新聞台" tvg-name="娛樂新聞台" group-title="香港",娛樂新聞台
 https://edge6a.v2h-cdn.com/enew/enew.stream/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/1/17/TVB_Xing_He_logo_2017.png" tvg-id="TVB星河台" tvg-name="TVB星河台" group-title="香港",TVB星河台
@@ -43,5 +39,4 @@ http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
 https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logos/images/7/72/Celestial_Movies_logo_screenbug_2015.png/revision/latest?cb=20230327101136&path-prefix=vi" tvg-id="天映經典頻道" tvg-name="天映經典頻道" group-title="電影",天映經典頻道
 http://ali.hlspull.yximgs.com/live/twlivezezcxlvofbzbvnzzsfzvbhfhcvxcvzszbcvzfdvzsfcbzbnztypz.flv
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" tvg-id="凤凰卫视中文台（香港有线）" tvg-name="凤凰中文" group-title="香港",凤凰卫视中文台
-http://ali.hlspull.yximgs.com/live/fa7cdfad1a5aaf8370eb7887844fh.flv
+
