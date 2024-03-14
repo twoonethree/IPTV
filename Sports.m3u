@@ -12,7 +12,7 @@ http://198.16.100.90:8278/bosigolf1_twn/playlist.m3u8?tid=m51c41c232c43&ct=18335
 http://198.16.100.90:8278/bosigolf2_twn/playlist.m3u8?tid=MF5F9848925298489252&ct=19225&tsum=2600464749aadbcd55d1c32ec071e36e
 #EXTINF:-1 tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_litv-longturn09_mobile.png" tvg-id="博斯網球台.tw"tvg-name="博斯網球台.tw" group-title="Sport",博斯網球台.tw
 http://198.16.100.90:8278/bositennis_twn/playlist.m3u8?tid=MA9A5922328659223286&ct=19225&tsum=c83f112dbae37be6d20618138fddcf77
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/49/DAZN_1.svg" tvg-id="DAZN 1.tw" tvg-name="DAZN 1.tw" group-title="Sport",DAZN 1.tw
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/Tv-channel-%E2%94%82-dazn-1.png?20221217130913" tvg-id="DAZN 1.tw" tvg-name="DAZN 1.tw" group-title="Sport",DAZN 1.tw
 http://198.16.100.90:8278/golfchannel_twn/playlist.m3u8?tid=MFBF2798068027980680&ct=18393&tsum=d8204023f67120512c75a8882f121120
 #EXTINF:-1 tvg-logo="https://pic.baike.soso.com/ugc/baikepic2/10964/20220508112309-1209545772_png_910_470_111536.jpg/300" tvg-id="廣東體育" tvg-name="廣東體育" group-title="Sport",廣東體育
 http://116.1.187.73:8181/tsfile/live/1017_1.m3u8
