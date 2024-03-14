@@ -14,11 +14,11 @@ http://ali.hlspull.yximgs.com/live/twlivetcfzhvdzzxcodwoetzmncthvbstyreyhbnnvbdz
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/e/e3/TvbEN.png" tvg-id="娛樂新聞台" tvg-name="娛樂新聞台" group-title="香港",娛樂新聞台
 https://edge6a.v2h-cdn.com/enew/enew.stream/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/1/17/TVB_Xing_He_logo_2017.png" tvg-id="TVB星河台" tvg-name="TVB星河台" group-title="香港",TVB星河台
-http://ali.hlspull.yximgs.com/live/twlivezzmzptvzszzwxnhzzwzztzzztyfzszzszcfzxfzwmxzdtvbxh.flv
+https://edge6a.v2h-cdn.com/xinghe/xinghe.stream/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/viutv.png" tvg-id="ViuTV" tvg-name="ViuTV" group-title="香港",ViuTV
 http://ali.hlspull.yximgs.com/live/twlivefhtzznzzdldzluzobnmzzhnbbmdzlpthzyzvzutv.flv
-#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/viutv-68980.logowik.com.webp" tvg-id="Viu6" tvg-name="Viu6" group-title="香港",Viu6
-http://ali.hlspull.yximgs.com/live/twlivefhwzptdzbehztyhbvhfzcvszzfyztvzutvszx.flv
+#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/viutv-68980.logowik.com.webp" tvg-id="ViuTVsix" tvg-name="ViuTVsix" group-title="香港",ViuTVsix
+http://198.16.100.90:8278/viusix_twn/playlist.m3u8?tid=MC6C1412376614123766&ct=19225&tsum=f4273425d435057616c3380b9e2a0287
 #EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/now-news5207.logowik.com.webp" tvg-id="Now新聞" tvg-name="Now新聞" group-title="香港",Now新聞台
 https://16888.vercel.app/api/xsj.php?id=now-news
 #EXTINF:0 tvg-logo="https://www.rthk.hk/img/tv_logo_31_s.svg" tvg-id="rthk31" group-title="香港",rthk31 
@@ -36,7 +36,7 @@ https://hoytv-live-stream.hoy.tv/ch76/index-fhd.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/f/f3/HOY_TV_Logo.svg/1200px-HOY_TV_Logo.svg.png" tvg-id="Hoy77" tvg-name="Hoy77" group-title="香港",HOY77
 https://hoytv-live-stream.hoy.tv/ch77/index-fhd.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/f/f3/HOY_TV_Logo.svg/1200px-HOY_TV_Logo.svg.png" tvg-id="Hoy78" tvg-name="Hoy78" group-title="香港",HOY78
-http://ali.hlspull.yximgs.com/live/twlivezezcxlvofbncvshhzszcvndfncvbdzpeyzhxchzszzhzezzzyxxw
+https://hoytv-live-stream.hoy.tv/ch78/index-fhd.m3u8
 #EXTINF:0 tvg-logo="https://d55-invdn-com.investing.com/company_logo/1fbe28a616fc6f3cb56f30d014eeb625.jpg" group-title="香港",耀才財經台
 http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
 #EXTINF:0 tvg-logo="https://yt3.googleusercontent.com/ytc/AIf8zZQyThr8UIk5RmxkPpCsDasIZNhHfXx5O0y9HkEq=s100-c-k-c0x00ffffff-no-rj" group-title="香港",面包台
