@@ -11,12 +11,12 @@ http://198.16.100.90:8278/tvbcaijing_twn/playlist.m3u8?tid=MD3D9552893795528937&
 https://edge6a.v2h-cdn.com/enew/enew.stream/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/1/17/TVB_Xing_He_logo_2017.png" tvg-id="TVB星河台" tvg-name="TVB星河台" group-title="香港",TVB星河台
 https://edge6a.v2h-cdn.com/xinghe/xinghe.stream/chunklist.m3u8
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/viutv.png" tvg-id="ViuTV" tvg-name="ViuTV" group-title="香港",ViuTV
-http://ali.hlspull.yximgs.com/live/twlivefhtzznzzdldzluzobnmzzhnbbmdzlpthzyzvzutv.flv
+##EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/viutv.png" tvg-id="ViuTV" tvg-name="ViuTV" group-title="香港",ViuTV
+##http://ali.hlspull.yximgs.com/live/twlivefhtzznzzdldzluzobnmzzhnbbmdzlpthzyzvzutv.flv
 #EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/viutv-68980.logowik.com.webp" tvg-id="ViuTVsix" tvg-name="ViuTVsix" group-title="香港",ViuTVsix
 http://198.16.100.90:8278/viusix_twn/playlist.m3u8?tid=MC6C1412376614123766&ct=19225&tsum=f4273425d435057616c3380b9e2a0287
-#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/now-news5207.logowik.com.webp" tvg-id="Now新聞" tvg-name="Now新聞" group-title="香港",Now新聞台
-https://16888.vercel.app/api/xsj.php?id=now-news
+##EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/now-news5207.logowik.com.webp" tvg-id="Now新聞" tvg-name="Now新聞" group-title="香港",Now新聞台
+##https://16888.vercel.app/api/xsj.php?id=now-news
 #EXTINF:0 tvg-logo="https://www.rthk.hk/img/tv_logo_31_s.svg" tvg-id="rthk31" group-title="香港",rthk31 
 https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
 #EXTINF:0 tvg-logo="https://www.rthk.hk/img/tv_logo_32_s.svg" tvg-id="rthk32" group-title="香港",rthk32
