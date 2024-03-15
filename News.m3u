@@ -1,18 +1,36 @@
 EXTM3U
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/400px-Russia-today-logo.svg.png" tvg-id="RT" tvg-name="RT" group-title="News",RT
-https://rt-rtd.rttv.com/live/rtnews/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BBCWORLDNEWSASIA.png" tvg-id="BBC News" tvg-name="BBC News" group-title="News",BBC News
-http://198.16.100.90:8278/bbc1_antik/playlist.m3u8?tid=MF5F6677034466770344&ct=19225&tsum=7620e8a88546352c525938a2dee63a56
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FOXHD.png" tvg-id="FOXNEWS" tvg-name="FOXNEWS" group-title="News",FOXNEWS
-https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/ABC_News_logo_2021.svg/768px-ABC_News_logo_2021.svg.png" tvg-id="ABC News" tvg-name="ABC News" group-title="News",ABC News
+http://198.16.100.90:8278/abcnews_glo/playlist.m3u8?tid=MAEA6759929367599293&ct=19225&tsum=edd59704e2182262583ea5b0e1093b9d
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/abcaus.png" tvg-id="ABC Australia" tvg-name="ABC Australia" group-title="News",ABC Australia
 https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BBCWORLDNEWSASIA.png" tvg-id="BBC News" tvg-name="BBC News" group-title="News",BBC News
+http://198.16.100.90:8278/bbc1_antik/playlist.m3u8?tid=MF5F6677034466770344&ct=19225&tsum=7620e8a88546352c525938a2dee63a56
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CNNNews.png" tvg-id="CNN International" tvg-name="CNN International" group-title="News",CNN International
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/Euronews._2016_logo.png" tvg-id="EURONEWS" tvg-name="EURONEWS" group-title="News",EURONEWS
+https://shls-live-ak.akamaized.net/out/v1/115bfcde8fa342d182ef846445cdbdcf/index.m3u8
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FOXHD.png" tvg-id="FOXNEWS" tvg-name="FOXNEWS" group-title="News",FOXNEWS
+https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/35/GB_News_Logo.svg/330px-GB_News_Logo.svg.png" tvg-id="GBNEWS" tvg-name="GBNEWS" group-title="News",GBNEWS
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-gbnewsnz-samsungnz/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Global_News.svg/308px-Global_News.svg.png" tvg-id="Globle News" tvg-name="Globle News" group-title="News",Globle News
+https://live.corusdigitaldev.com/groupd/live/8970c668-40cd-4ca9-8c4d-25fd04f619b5/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/NBC_News_%282023%29.svg/315px-NBC_News_%282023%29.svg.png" tvg-id="NBC News" tvg-name="NBC News" group-title="News",NBC News
+https://i.mjh.nz/SamsungTVPlus/GBBB1500004LG.m3u8
+#EXTINF:-1 tvg-logo="https://www.newsmaxtv.com/CMSScripts/NewsmaxTV/images/logos/Newsmax-TV-White.png" tvg-id="NEWSMAX" tvg-name="NEWSMAX" group-title="News",NEWSMAX
+https://nmx1ota.akamaized.net/hls/live/2107010/Live_1/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.newsmaxtv.com/CMSScripts/NewsmaxTV/images/logos/Newsmax2-white.png" tvg-id="NEWSMAX2" tvg-name="NEWSMAX2" group-title="News",NEWSMAX2
+https://newsmax-vizio.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/NHKWorld.png" tvg-id="NHK WORLD-JAPAN" tvg-name="NHK WORLD-JAPAN" group-title="News",NHK WORLD-JAPAN
 https://cdn.nhkworld.jp/www11/nhkworld-tv/bmcc-live/es/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/400px-Russia-today-logo.svg.png" tvg-id="RT" tvg-name="RT" group-title="News",RT
+https://rt-rtd.rttv.com/live/rtnews/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SkyNews.png" tvg-id="Sky News" tvg-name="Sky News" group-title="News",Sky News
 http://198.16.100.90:8278/skynews_antik/playlist.m3u8?tid=MA0A3161061431610614&ct=19249&tsum=15f8cca00a8cc3a6d2a61519b7dfeb59
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/News24.svg/300px-News24.svg.png" tvg-id="日テレNEWS24" tvg-name="日テレNEWS24" group-title="News",日テレN
+https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/News24.svg/300px-News24.svg.png" tvg-id="日テレNEWS24" tvg-name="日テレNEWS24" group-title="News",日テレNEWS24
+https://stream01.willfonk.com/live_playlist.m3u8?cid=CS349&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS新闻.png" tvg-id="TVBS 新聞台.tw" tvg-name="TVBS 新聞台.tw" group-title="News",TVBS 新聞台.tw
 http://38.64.72.148/hls/modn/list/4006/chunklist1.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/台视新闻.png" tvg-id="台視新聞台.tw" tvg-name="台視新聞台.tw" group-title="News",台視新聞台.tw
@@ -27,15 +45,16 @@ http://198.16.100.90:8278/ctinews/playlist.m3u8?tid=MA4A6611409066114090&ct=1922
 http://50.7.238.114:8278/niandainews_twn/playlist.m3u8?tid=MBCB9184423891844238&ct=19249&tsum=ac0331d98099429b19c53fe6d20972ec
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GlobalNews.png" tvg-id="寰宇新聞台.tw" tvg-name="寰宇新聞台.tw" group-title="News",寰宇新聞台.tw
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/NextTVNews.png" tvg-id="壹電視新聞台.tw" tvg-name="壹電視新聞台.tw" group-title="News",壹電視新聞台.tw
-http://ali.hlspull.yximgs.com/live/twlivemzfoyzvzsdvbnweztzuzzxzcvfzzszfhfzddzzlhtbchyxw.flv
+##EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/NextTVNews.png" tvg-id="壹電視新聞台.tw" tvg-name="壹電視新聞台.tw" group-title="News",壹電視新聞台.tw
+##http://ali.hlspull.yximgs.com/live/twlivemzfoyzvzsdvbnweztzuzzxzcvfzzszfhfzddzzlhtbchyxw.flv
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/UniqueNews.png" tvg-id="非凡新聞台.tw" tvg-name="非凡新聞台.tw" group-title="News",非凡新聞台.tw
 http://198.16.100.90:8278/feifannews_twn/playlist.m3u8?tid=ME3E6962233269622332&ct=19225&tsum=eea4d84db71e12ba91bfcf328f4dec9d
-#EXTINF:-1 tvg-logo="https://ip.taicca.tw/company/avatar?v=2&company_id=468&sig=707600084&width=600&height=600" tvg-id="鏡電視新聞台.tw" tvg-name="鏡電視新聞台.tw" group-title="News",鏡電視新聞台.tw
-http://ali.hlspull.yximgs.com/live/twliveexcvzzocvuozxucfdexzpzzyxchvlzxzfezhcelethzzdxw.flv
+##EXTINF:-1 tvg-logo="https://ip.taicca.tw/company/avatar?v=2&company_id=468&sig=707600084&width=600&height=600" tvg-id="鏡電視新聞台.tw" tvg-name="鏡電視新聞台.tw" group-title="News",鏡電視新聞台.tw
+##http://ali.hlspull.yximgs.com/live/twliveexcvzzocvuozxucfdexzpzzyxchvlzxzfezhcelethzzdxw.flv
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCNews.png" tvg-id="東森新聞台.tw" tvg-name="東森新聞台.tw" group-title="News",東森新聞台.tw
 http://50.7.238.114:8278/ettvnews/playlist.m3u8?tid=m1785954e5a67&ct=18336&tsum=ce82c650c85a63fe1ead9e30f2d4bfb4
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETNews.png" tvg-id="三立新聞台.tw" tvg-name="三立新聞台.tw" group-title="News",三立新聞台.tw
-http://ali.hlspull.yximgs.com/live/twlivehmcyoywzzubzdfzfvchtzuzxczxvcbszfsdxcbmzsllivexw.flv
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCFinancialNews.png" tvg-id="東森財經新聞台.tw" tvg-name="東森財經新聞台.tw" group-title="News",東森財經新聞台.tw
 http://50.7.238.114:8278/ettvcaijing_twn/playlist.m3u8?tid=MB8B2069463920694639&ct=19249&tsum=05ff51a1b274ce7d31d05bbf11df18ad
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETNews.png" tvg-id="三立Live" tvg-name="三立Live" group-title="News",三立Live
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u8
+
