@@ -8,7 +8,7 @@ http://39.77.3.79:8989/udp/239.253.254.191:8000
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" tvg-id="CCTV-4中文国际(亚)" tvg-name="CCTV-4中文国际(亚)" group-title="央视",CCTV-4中文国际(亚)
 http://39.77.3.79:8989/udp/239.253.254.111:8000
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" tvg-id="CCTV-5体育" tvg-name="CCTV-5体育" group-title="央视",CCTV-5体育
-http://61.144.82.94:808/hls/42/index.m3u8
+http://61.144.82.98:808/hls/42/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" tvg-id="CCTV-5体育" tvg-name="CCTV-5体育" group-title="央视",CCTV-5体育
 http://39.77.3.79:8989/udp/239.253.254.192:8000
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" tvg-id="CCTV5+体育赛事" tvg-name="CCTV5+体育赛事" group-title="央视",CCTV-5+体育赛事
