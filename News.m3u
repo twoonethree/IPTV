@@ -59,6 +59,6 @@ http://198.16.100.90:8278/feifannews_twn/playlist.m3u8?tid=ME3E6962233269622332&
 http://50.7.238.114:8278/ettvnews/playlist.m3u8?tid=m1785954e5a67&ct=18336&tsum=ce82c650c85a63fe1ead9e30f2d4bfb4
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCFinancialNews.png" tvg-id="東森財經新聞台.tw" tvg-name="東森財經新聞台.tw" group-title="News",東森財經新聞台.tw
 http://50.7.238.114:8278/ettvcaijing_twn/playlist.m3u8?tid=MB8B2069463920694639&ct=19249&tsum=05ff51a1b274ce7d31d05bbf11df18ad
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETNews.png" tvg-id="三立Live" tvg-name="三立Live" group-title="News",三立Live
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETNews.png" tvg-id="三立新聞台.tw" tvg-name="三立新聞台.tw" group-title="News",三立新聞台.tw
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u8
 
