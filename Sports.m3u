@@ -1,5 +1,7 @@
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/Tv-channel-%E2%94%82-dazn-1.png?20221217130913" tvg-id="DAZN 1.tw" tvg-name="DAZN 1.tw" group-title="Sport",DAZN 1.tw
 http://198.16.100.90:8278/golfchannel_twn/playlist.m3u8?tid=MFBF2798068027980680&ct=18393&tsum=d8204023f67120512c75a8882f121120
+#EXTINF:-1 tvg-logo="https://tvtvtv.ru/icons/dubai_sports_3.png" tvg-id="Dubai Sport 3" tvg-name="Dubai Sport 3" group-title="Sport",Dubai Sport 3
+http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist_b1600000.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.comedy.co.uk/images/channels/tnt_sports_1.jpg" tvg-id="TNT Sports 1 HD" tvg-id="TNT Sports 1 HD" group-title="Sport",TNT Sports 1 HD
 http://198.16.100.90:8278/beeone/playlist.m3u8?tid=ME4E5665100556651005&ct=19254&tsum=caea1a674ddae23ddac022c6f734bbe9
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7d/TNT_Sports_2_HD_%282023%29.svg/revision/latest/scale-to-width-down/250?cb=20230717231157" tvg-id="TNT Sports 2 HD" tvg-name="TNT Sports 2 HD" group-title="Sport",TNT Sports 2 HD
