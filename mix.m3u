@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="http://pic.greenxf.com/phoneico/2018-6/201862910582688807.png" tvg-id="翡翠台" tvg-name="翡翠台" group-title="香港",翡翠台
-http://198.16.100.90:8278/Wlt/playlist.m3u8?tid=MC9C7523788875237888&ct=19225&tsum=fc74aa160d3ca61369c2e5f3ae79ee8e
+http://61.144.82.98:808/hls/105/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d7/TVB_J2_2022.svg/revision/latest?cb=20220620145308" tvg-id="J2" tvg-name="J2" group-title="香港",J2
 http://198.16.100.90:8278/j2_twn/playlist.m3u8?tid=m22905da1d346&ct=18336&tsum=3b4998c4f5367bb820165f66b0caab0e
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5c/TVB_News_Channel.jpg/revision/latest/scale-to-width-down/200?cb=20210722080518" tvg-id="無綫新聞台" tvg-name="無綫新聞台" group-title="香港",無綫新聞台
