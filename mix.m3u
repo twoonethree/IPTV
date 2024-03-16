@@ -177,4 +177,5 @@ http://110.72.76.111:808/hls/26/index.m3u8
 http://110.72.76.111:808/hls/28/index.m3u8
 #EXTINF:-1 tvg-logo="https://img03.sogoucdn.com/v2/thumb/retype_exclude_gif/ext/auto/crop/xy/ai/w/548/h/368/t/0?appid=200698&url=https://pic.baike.soso.com/ugc/baikepic2/4138/20220406084348-3307665_png_541_363_124809.jpg/800" tvg-id="CETV1" tvg-name="CETV1" group-title="卫视",CETV1
 http://110.72.76.111:808/hls/129/index.m3u8
-
+#EXTINF:-1 tvg-logo="https://pic.baike.soso.com/ugc/baikepic2/10964/20220508112309-1209545772_png_910_470_111536.jpg/300" tvg-id="广东体育頻道" tvg-name="广东体育頻道" group-title="Sport",广东体育頻道
+http://61.144.82.98:808/hls/22/index.m3u8
