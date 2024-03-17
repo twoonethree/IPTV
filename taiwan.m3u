@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Animax_logo.svg/600px-Animax_logo.svg.png" tvg-id="好ANIMAX.tw" tvg-name="ANIMAX.tw" group-title="動漫",ANIMAX.tw
+https://yamatovideo-yamatoanimation-1-it.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/hollywood.jpg" tvg-id="好萊塢電影台.tw" tvg-name="好萊塢電影台.tw" group-title="Movie",好萊塢電影台.tw
 http://198.16.100.90:8278/hollywoodmovies_twn/playlist.m3u8?tid=m39bfcd99239617992917&ct=17874&tsum=774ffa7546c934dc27e743c5bbb454d3
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/DiscoveryHD.png" tvg-id="Global Trekker" tvg-name="Global Trekker" group-title="精選",Global Trekker
