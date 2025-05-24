@@ -13,10 +13,10 @@ https://live.tvfix.org/live/pearl/index.m3u8
 https://live.tvfix.org/live/enews/index.m3u8
 #EXTINF:-1 tvg-logo="https://zh.wikipedia-on-ipfs.org/I/TVBS_Asia_logo_2017.png.webp" tvg-id="無線亞洲台" tvg-name="無線亞洲台" group-title="香港",無線亞洲台
 https://live.tvfix.org/live/tvbs/2/v4000000/index.m3u8
-##EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/viutv.png" tvg-id="ViuTV" tvg-name="ViuTV" group-title="香港",ViuTV
-##http://ali.hlspull.yximgs.com/live/twlivefhtzznzzdldzluzobnmzzhnbbmdzlpthzyzvzutv.flv
-#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/viutv-68980.logowik.com.webp" tvg-id="ViuTVsix" tvg-name="ViuTVsix" group-title="香港",ViuTVsix
-http://198.16.100.90:8278/viusix_twn/playlist.m3u8?tid=MC6C1412376614123766&ct=19225&tsum=f4273425d435057616c3380b9e2a0287
+EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/viutv.png" tvg-id="ViuTV" tvg-name="ViuTV" group-title="香港",ViuTV
+http://198.16.100.186:8278/viu1_twn/playlist.m3u8?tid=MF9F2344917423449174&ct=19254&tsum=3cb061ac749a32280d3b88c022a1403f
+##EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/viutv-68980.logowik.com.webp" tvg-id="ViuTVsix" tvg-name="ViuTVsix" group-title="香港",ViuTVsix
+##http://198.16.100.90:8278/viusix_twn/playlist.m3u8?tid=MC6C1412376614123766&ct=19225&tsum=f4273425d435057616c3380b9e2a0287
 ##EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/now-news5207.logowik.com.webp" tvg-id="Now新聞" tvg-name="Now新聞" group-title="香港",Now新聞台
 ##https://16888.vercel.app/api/xsj.php?id=now-news
 #EXTINF:0 tvg-logo="https://www.rthk.hk/img/tv_logo_31_s.svg" tvg-id="TV31" group-title="香港",RTHKTV31.hk 
@@ -36,7 +36,7 @@ https://hoytv-live-stream.hoy.tv/ch77/index-fhd.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/f/f3/HOY_TV_Logo.svg/1200px-HOY_TV_Logo.svg.png" tvg-id="Hoy78" tvg-name="Hoy78" group-title="香港",HOY78
 https://hoytv-live-stream.hoy.tv/ch78/index-fhd.m3u8
 #EXTINF:0 tvg-logo="https://d55-invdn-com.investing.com/company_logo/1fbe28a616fc6f3cb56f30d014eeb625.jpg" group-title="香港",耀才財經台
-http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
+https://v3.mediacast.hk/webcast/bshdlive-pc/chunklist_w1870816002.m3u8
 #EXTINF:0 tvg-logo="https://yt3.googleusercontent.com/ytc/AIf8zZQyThr8UIk5RmxkPpCsDasIZNhHfXx5O0y9HkEq=s100-c-k-c0x00ffffff-no-rj" group-title="香港",面包台
 https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/4/4d/Phoenix_hongkong.png" tvg-id="Phoenix Hong Kong Channel" tvg-name="Phoenix Hong Kong Channel" group-title="香港", Phoenix Hong Kong Channel
