@@ -9,10 +9,10 @@ https://live.tvfix.org/live/inews/index.m3u8
 https://live.tvfix.org/live/c18/index.m3u8
 #EXTINF:-1 tvg-logo="https://corporate.tvb.com/_fck_/image/Pearl.jpg" tvg-id="明珠台" tvg-name="明珠台" group-title="香港",明珠台
 https://live.tvfix.org/live/pearl/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/e/e3/TvbEN.png" tvg-id="娛樂新聞台" tvg-name="娛樂新聞台" group-title="香港",娛樂新聞台
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/e/e3/TvbEN.png" tvg-id="無線娛樂新聞台" tvg-name="無線娛樂新聞台" group-title="香港",無線娛樂新聞台
 https://live.tvfix.org/live/enews/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/1/17/TVB_Xing_He_logo_2017.png" tvg-id="TVB星河台" tvg-name="TVB星河台" group-title="香港",TVB星河台
-https://edge6a.v2h-cdn.com/xinghe/xinghe.stream/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://zh.wikipedia-on-ipfs.org/I/TVBS_Asia_logo_2017.png.webp" tvg-id="無線亞洲台" tvg-name="無線亞洲台" group-title="香港",無線亞洲台
+https://live.tvfix.org/live/tvbs/2/v4000000/index.m3u8
 ##EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/viutv.png" tvg-id="ViuTV" tvg-name="ViuTV" group-title="香港",ViuTV
 ##http://ali.hlspull.yximgs.com/live/twlivefhtzznzzdldzluzobnmzzhnbbmdzlpthzyzvzutv.flv
 #EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/viutv-68980.logowik.com.webp" tvg-id="ViuTVsix" tvg-name="ViuTVsix" group-title="香港",ViuTVsix
@@ -45,4 +45,5 @@ https://live.tvfix.org/live/fwxg/index.m3u8
 https://live.tvfix.org/live/fwzx/1/v4000000/index.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/1VhXilw.png" tvg-id="天映經典頻道" tvg-name="天映經典頻道" group-title="香港", 天映經典頻道
 https://live.tvfix.org/live/tyjd/index.m3u8
-
+#EXTINF:0 tvg-logo="https://i.imgur.com/1VhXilw.png" tvg-id="美亞電影台" tvg-name="美亞電影台" group-title="香港", 美亞電影台
+https://live.tvfix.org/live/mydy/index.m3u8
