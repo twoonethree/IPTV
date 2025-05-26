@@ -1,74 +1,74 @@
 #EXTM3U 
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" tvg-id="湖南卫视" tvg-name="湖南卫视" group-title="央视",湖南卫视
-http://php.jdshipin.com:8880/bst.php?id=hnwshd/4000000
+http://175.22.226.131:888/hls/38/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" tvg-id="浙江卫视" tvg-name="浙江卫视" group-title="卫视",浙江卫视
-http://php.jdshipin.com:8880/bst.php?id=zjwshd/4000000
+http://175.22.226.131:888/hls/37/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" tvg-id="江苏卫视" tvg-name="江苏卫视" group-title="卫视",江苏卫视
-http://php.jdshipin.com:8880/bst.php?id=jswshd/4000000
+http://175.22.226.131:888/hls/36/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" tvg-id="北京卫视" tvg-name="北京卫视" group-title="卫视",北京卫视
-http://php.jdshipin.com:8880/bst.php?id=bjwshd/4000000
+http://175.22.226.131:888/hls/34/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" tvg-id="东方卫视" tvg-name="东方卫视" group-title="卫视",东方卫视
-http://php.jdshipin.com:8880/bst.php?id=hddfws/4000000
+http://175.22.226.131:888/hls/35/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/anhui.png" tvg-id="安徽卫视" tvg-name="安徽卫视" group-title="卫视",安徽卫视
-http://php.jdshipin.com:8880/bst.php?id=ahwshd/4000000
+http://175.22.226.131:888/hls/42/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png" tvg-id="广东卫视" tvg-name="广东卫视" group-title="卫视",广东卫视
-http://php.jdshipin.com:8880/bst.php?id=gdwshd/4000000
+https://h5cdn3.kylintv.tv/live/gdtvhd_iphone.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shenzhen.png" tvg-id="深圳卫视" tvg-name="深圳卫视" group-title="卫视",深圳卫视
-http://php.jdshipin.com:8880/bst.php?id=szwshd/4000000
+http://175.22.226.131:888/hls/41/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png" tvg-id="辽宁卫视" tvg-name="辽宁卫视" group-title="卫视",辽宁卫视
-http://php.jdshipin.com:8880/bst.php?id=lnwshd/4000000
+http://175.22.226.131:888/hls/39/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/lvyou.png" tvg-id="海南卫视" tvg-name="海南卫视" group-title="卫视",海南卫视
-http://php.jdshipin.com:8880/bst.php?id=hainanwshd8m/8000000
+http://175.22.226.131:888/hls/52/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shandong.png" tvg-id="山东卫视" tvg-name="山东卫视" group-title="卫视",山东卫视
-http://php.jdshipin.com:8880/bst.php?id=sdwshd/4000000
+http://175.22.226.131:888/hls/44/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/tianjin.png" tvg-id="天津卫视" tvg-name="天津卫视" group-title="卫视",天津卫视
-http://php.jdshipin.com:8880/bst.php?id=tjwshd/4000000
+http://175.22.226.131:888/hls/40/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/chongqing.png" tvg-id="重庆卫视" tvg-name="重庆卫视" group-title="卫视",重庆卫视
-http://php.jdshipin.com:8880/bst.php?id=cqwshd8m/8000000
+http://175.22.226.131:888/hls/50/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongnan.png" tvg-id="东南卫视" tvg-name="东南卫视" group-title="卫视",东南卫视
-http://php.jdshipin.com:8880/bst.php?id=dnwshd/4000000
+http://175.22.226.131:888/hls/48/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/gansu.png" tvg-id="甘肃卫视" tvg-name="甘肃卫视" group-title="卫视",甘肃卫视
-http://php.jdshipin.com:8880/bst.php?id=gswshd8m/8000000
+http://175.22.226.131:888/hls/63/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangxi.png" tvg-id="广西卫视" tvg-name="广西卫视" group-title="卫视",广西卫视
-http://php.jdshipin.com:8880/bst.php?id=gxwshd8m/8000000
+http://175.22.226.131:888/hls/59/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guizhou.png" tvg-id="贵州卫视" tvg-name="贵州卫视" group-title="卫视",贵州卫视
-http://php.jdshipin.com:8880/bst.php?id=gzwshd8m/8000000
+http://175.22.226.131:888/hls/45/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hebei.png" tvg-id="河北卫视" tvg-name="河北卫视" group-title="卫视",河北卫视
-http://php.jdshipin.com:8880/bst.php?id=hbwshd8m/8000000
+http://175.22.226.131:888/hls/47/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/heilongjiang.png" tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" group-title="卫视",黑龙江卫视
-http://php.jdshipin.com:8880/bst.php?id=hljwshd/4000000
+http://175.22.226.131:888/hls/46/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/henan.png" tvg-id="河南卫视" tvg-name="河南卫视" group-title="卫视",河南卫视
-http://36.27.24.158:4000/rtp/233.50.201.144:5140
+http://175.22.226.131:888/hls/55/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hubei.png" tvg-id="湖北卫视" tvg-name="湖北卫视" group-title="卫视",湖北卫视
-http://php.jdshipin.com:8880/bst.php?id=hbwshd/4000000
+http://175.22.226.131:888/hls/49/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangxi.png" tvg-id="江西卫视" tvg-name="江西卫视" group-title="卫视",江西卫视
-http://php.jdshipin.com:8880/bst.php?id=jxwshd/4000000
+http://175.22.226.131:888/hls/58/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jilin.png" tvg-id="吉林卫视" tvg-name="吉林卫视" group-title="卫视",吉林卫视
-http://php.jdshipin.com:8880/bst.php?id=jlwshd8m/8000000
+http://175.22.226.131:888/hls/21/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/neimeng.png" tvg-id="内蒙古卫视" tvg-name="内蒙古卫视" group-title="卫视",内蒙古卫视
-http://php.jdshipin.com:8880/bst.php?id=nmgws/1300000
+http://175.22.226.131:888/hls/57/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/ningxia.png" tvg-id="宁夏卫视" tvg-name="宁夏卫视" group-title="卫视",宁夏卫视
-http://php.jdshipin.com:8880/bst.php?id=lnwshd8m/8000000
+http://175.22.226.131:888/hls/65/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanxi_.png" tvg-id="山西卫视" tvg-name="山西卫视" group-title="卫视",山西卫视
-http://php.jdshipin.com:8880/bst.php?id=shanxiws/1300000
+http://175.22.226.131:888/hls/56/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanxi.png" tvg-id="陕西卫视" tvg-name="陕西卫视" group-title="卫视",陕西卫视
-http://php.jdshipin.com:8880/bst.php?id=sxws/1300000
+http://175.22.226.131:888/hls/53/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sichuan.png" tvg-id="四川卫视" tvg-name="四川卫视" group-title="卫视",四川卫视
-http://php.jdshipin.com:8880/bst.php?id=scwshd8m/8000000
+http://175.22.226.131:888/hls/61/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xinjiang.png" tvg-id="新疆卫视" tvg-name="新疆卫视" group-title="卫视",新疆卫视
-http://php.jdshipin.com:8880/bst.php?id=xjws/1300000
+http://175.22.226.131:888/hls/64/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/yunnan.png" tvg-id="云南卫视" tvg-name="云南卫视" group-title="卫视",云南卫视
-http://php.jdshipin.com:8880/bst.php?id=ynwshd8m/8000000
+http://175.22.226.131:888/hls/51/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/qinghai.png" tvg-id="青海卫视" tvg-name="青海卫视" group-title="卫视",青海卫视
-http://php.jdshipin.com:8880/bst.php?id=qhws/1300000
+http://175.22.226.131:888/hls/54/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/bingtuan.png" tvg-id="兵团卫视" tvg-name="兵团卫视" group-title="卫视",兵团卫视
-http://php.jdshipin.com:8880/bst.php?id=btws/1300000
+http://175.22.226.131:888/hls/62/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xiamen.png" tvg-id="厦门卫视" tvg-name="厦门卫视" group-title="卫视",厦门卫视
 http://php.jdshipin.com:8880/bst.php?id=xmws/1300000
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xizang.png" tvg-id="西藏卫视" tvg-name="西藏卫视" group-title="卫视",西藏卫视
-http://php.jdshipin.com:8880/bst.php?id=xzws/1300000
+http://175.22.226.131:888/hls/60/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sansha.png" tvg-id="三沙卫视" tvg-name="三沙卫视" group-title="卫视",三沙卫视
-http://111.164.252.230:8686/udp/225.1.2.181:5002
+http://175.22.226.131:888/hls/66/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/b/b6/GRT_GBA_TV.jpg/330px-GRT_GBA_TV.jpg" tvg-id="大湾区卫视" tvg-name="大湾区卫视" group-title="卫视",大湾区卫视
 http://38.64.72.148/hls/modn/list/4011/chunklist0.m3u8
 #EXTINF:-1 tvg-logo="http://pro.statics.logoqs.techuangyi.com/2019/09/19/d090a998da390764ca42e80ccafa889d.png?x-oss-process=image/resize,m_fill,w_312,h_175" tvg-id="农林卫视" tvg-name="农林卫视" group-title="卫视",农林卫视
