@@ -1,5 +1,5 @@
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/Tv-channel-%E2%94%82-dazn-1.png?20221217130913" tvg-id="DAZN 1.tw" tvg-name="DAZN 1.tw" group-title="Sport",DAZN 1.tw
-http://198.16.100.90:8278/golfchannel_twn/playlist.m3u8?tid=MFBF2798068027980680&ct=18393&tsum=d8204023f67120512c75a8882f121120
+##EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/Tv-channel-%E2%94%82-dazn-1.png?20221217130913" tvg-id="DAZN 1.tw" tvg-name="DAZN 1.tw" group-title="Sport",DAZN 1.tw
+##http://198.16.100.90:8278/golfchannel_twn/playlist.m3u8?tid=MFBF2798068027980680&ct=18393&tsum=d8204023f67120512c75a8882f121120
 #EXTINF:-1 tvg-logo="https://tvtvtv.ru/icons/dubai_sports_2.png" tvg-id="Dubai Sport 2" tvg-name="Dubai Sport 2" group-title="Sport",Dubai Sport 2
 http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1300000.m3u8
 #EXTINF:-1 tvg-logo="https://tvtvtv.ru/icons/dubai_sports_3.png" tvg-id="Dubai Sport 3" tvg-name="Dubai Sport 3" group-title="Sport",Dubai Sport 3
@@ -33,7 +33,7 @@ http://50.7.234.10:8278/bositennis_twn/playlist.m3u8?tid=MDCD2148551721485517&ct
 #EXTINF:-1 tvg-logo="https://pic.baike.soso.com/ugc/baikepic2/10964/20220508112309-1209545772_png_910_470_111536.jpg/300" tvg-id="广东体育频道" tvg-name="广东体育频道" group-title="Sport",广东体育频道
 http://116.1.187.73:8181/tsfile/live/1017_1.m3u8
 #EXTINF:-1 tvg-logo="https://image.16pic.com/00/01/41/16pic_141455_s.jpg" tvg-id="五星体育" tvg-name="五星体育" group-title="Sport",五星体育
-http://php.jdshipin.com:8880/bst.php?id=wxty
+http://180.165.132.50:5003/custom7.m3u8?token=7375646ff91c4f198c6f258e32fccc13c43da934&z=1f48
 #EXTINF:-1 tvg-logo="https://photocdn.sohu.com/20120529/Img344336334.jpg" tvg-id="劲爆体育" tvg-name="劲爆体育" group-title="Sport",劲爆体育
 http://php.jdshipin.com:8880/bst.php?id=jbty
 #EXTINF:-1 tvg-logo="https://static.ntimg.cn/original/images/nx_mark.png" tvg-id="魅力足球" tvg-name="魅力足球" group-title="Sport",魅力足球
