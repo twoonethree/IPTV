@@ -1,36 +1,36 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" tvg-id="CCTV-1综合" tvg-name="CCTV-1综合" group-title="央视",CCTV-1综合
-http://124.95.180.107:6718/1.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225490/index.m3u8
+http://180.165.132.50:5003/cctv1.m3u8?token=7375646f1f7cee743a5ce5d22526a624053b5b21&z=1f48
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" tvg-id="CCTV-2财经" tvg-name="CCTV-2财经" group-title="央视",CCTV-2财经
-http://124.95.180.107:6718/1.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225612/index.m3u8
+http://180.165.132.50:5003/cctv2.m3u8?token=7375646fba5d45c382569e5d9c0f7a965bb18d4b&z=1f48
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" tvg-id="CCTV-3综艺" tvg-name="CCTV-3综艺" group-title="央视",CCTV-3综艺
-http://124.95.180.107:6718/1.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225611/index.m3u8
+http://180.165.132.50:5003/cctv3.m3u8?token=7375646fbcdec61a66bb64892e60a4f01691ced5&z=1f48
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" tvg-id="CCTV-4中文国际(亚)" tvg-name="CCTV-4中文国际(亚)" group-title="央视",CCTV-4中文国际(亚)
-http://124.95.180.107:6718/1.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225610/index.m3u8
+http://180.165.132.50:5003/cctv4.m3u8?token=7375646f627a9cc0d7082957277d0954297530cf&z=1f48
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" tvg-id="CCTV-5体育" tvg-name="CCTV-5体育" group-title="央视",CCTV-5体育
-http://124.95.180.107:6718/1.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225489/index.m3u8
+http://180.165.132.50:5003/cctv5.m3u8?token=7375646f3b02270ce9c31551e5f091db82b0993a&z=1f48
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" tvg-id="CCTV5+体育赛事" tvg-name="CCTV5+体育赛事" group-title="央视",CCTV-5+体育赛事
 http://124.95.180.107:6718/1.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225494/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" tvg-id="CCTV-6电影" tvg-name="CCTV-6电影" group-title="央视",CCTV-6电影
-http://124.95.180.107:6718/1.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225609/index.m3u8
+http://180.165.132.50:5003/cctv6.m3u8?token=7375646fa897234f72259cbfb3fb8c711e983113&z=1f48
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png" tvg-id="CCTV-7国防军事" tvg-name="CCTV-7国防军事" group-title="央视",CCTV-7国防军事
-http://124.95.180.107:6718/1.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226002/index.m3u8
+http://180.165.132.50:5003/cctv7.m3u8?token=7375646fba13287f9eabdb7c9fbf6ccacd62bf2c&z=1f48
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" tvg-id="CCTV-8电视剧" tvg-name="CCTV-8电视剧" group-title="央视",CCTV-8电视剧
-http://124.95.180.107:6718/1.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225492/index.m3u8
+http://180.165.132.50:5003/cctv8.m3u8?token=7375646f0db94daeb77df412fb2f9297f2090036&z=1f48
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png" tvg-id="CCTV-9纪录" tvg-name="CCTV-9纪录" group-title="央视",CCTV-9纪录
 http://42.238.164.130:8808/cctv9.m3u8?token=7375646fc326143e3687450f4377c82f7174902f&z=22c3
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png" tvg-id="CCTV-10科教" tvg-name="CCTV-10科教" group-title="央视",CCTV-10科教
-http://124.95.180.107:6718/1.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225606/index.m3u8
+http://180.165.132.50:5003/cctv10.m3u8?token=7375646faf24758fecddf5af18a1f644c6b9db66&z=1f48
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV11.png" tvg-id="CCTV-11戏曲" tvg-name="CCTV-11戏曲" group-title="央视",CCTV-11戏曲
-http://124.95.180.107:6718/1.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225853/index.m3u8
+http://180.165.132.50:5003/cctv11.m3u8?token=7375646f3f2c58d0403728a802fd6b6b15a75668&z=1f48
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png" tvg-id="CCTV-12社会与法" tvg-name="CCTV-12社会与法" group-title="央视",CCTV-12社会与法
-http://124.95.180.107:6718/1.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225605/index.m3u8
+http://180.165.132.50:5003/cctv12.m3u8?token=7375646f31241cf9d34824ae6c7e7b5eceae8cb2&z=1f48
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" tvg-id="CCTV-13新闻" tvg-name="CCTV-13新闻" group-title="央视",CCTV-13新闻
-http://124.95.180.107:6718/1.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226062/index.m3u8
+http://180.165.132.50:5003/cctv13.m3u8?token=7375646f7e170881400fd8c15bf55700a03cfc80&z=1f48
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png" tvg-id="CCTV-14少儿" tvg-name="CCTV-14少儿" group-title="央视",CCTV-14少儿
-http://124.95.180.107:6718/1.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225604/index.m3u8
+http://180.165.132.50:5003/cctv14.m3u8?token=7375646fe3dc7094088a405ceaa36e64aaf315d2&z=1f48
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" tvg-id="CCTV-15音乐" tvg-name="CCTV-15音乐" group-title="央视",CCTV-15音乐
-http://124.95.180.107:6718/1.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225854/index.m3u8
+http://180.165.132.50:5003/cctv15.m3u8?token=7375646f8d2eb9415c0b9863a677a886973ff37e&z=1f48
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" tvg-id="CCTV-16" tvg-name="CCTV-16奧林匹克" group-title="央视",CCTV-16奧林匹克
 http://124.95.180.107:6718/1.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226095/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" tvg-id="CCTV-17农业农村高清频道" tvg-name="CCTV-17农业农村高清频道" group-title="央视",CCTV-17农业农村高清频道
