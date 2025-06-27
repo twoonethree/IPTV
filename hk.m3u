@@ -1,16 +1,16 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logos/images/8/8b/TVB_Jade_Malaysia.png/revision/latest?cb=20230811100915&path-prefix=vi" tvg-id="翡翠台" tvg-name="翡翠台" group-title="香港",翡翠台
-https://live.tvfix.org/live/jade/index.m3u8
+https://s1.m16tv.cfd/aktv/CH-0/AKTV.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9f/TVBPlus.jpg/revision/latest?cb=20240429164515" tvg-id="J2" tvg-name="J2" group-title="香港", TVB-Plus
-https://live.tvfix.org/live/tvbplus/index.m3u8
+https://s1.m16tv.cfd/aktv/tvbplus/AKTV.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5c/TVB_News_Channel.jpg/revision/latest/scale-to-width-down/200?cb=20210722080518" tvg-id="無綫新聞台" tvg-name="無綫新聞台" group-title="香港",無綫新聞台
-https://live.tvfix.org/live/inews/index.m3u8
+https://s1.m16tv.cfd/aktv/CH-1/AKTV.m3u8
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/8nNfVfEsf-s/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAjH1L9dtDJQvLUKppVkuRnjKve0w" tvg-id="18賽馬台" tvg-name="18賽馬台" group-title="香港",18賽馬台
 https://s1.m16tv.cfd/aktv/mytvsuper18/AKTV.m3u8
 #EXTINF:-1 tvg-logo="https://corporate.tvb.com/_fck_/image/Pearl.jpg" tvg-id="明珠台" tvg-name="明珠台" group-title="香港",明珠台
-https://live.tvfix.org/live/pearl/index.m3u8
+https://s1.m16tv.cfd/aktv/CH-2/AKTV.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/e/e3/TvbEN.png" tvg-id="無線娛樂新聞台" tvg-name="無線娛樂新聞台" group-title="香港",無線娛樂新聞台
-https://live.tvfix.org/live/enews/index.m3u8
+https://s1.m16tv.cfd/aktv/CH-1/AKTV.m3u8
 #EXTINF:-1 tvg-logo="https://zh.wikipedia-on-ipfs.org/I/TVBS_Asia_logo_2017.png.webp" tvg-id="無線亞洲台" tvg-name="無線亞洲台" group-title="香港",無線亞洲台
 https://live.tvfix.org/live/tvbs/2/v4000000/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/viutv.png" tvg-id="ViuTV" tvg-name="ViuTV" group-title="香港",ViuTV
