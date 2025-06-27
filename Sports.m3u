@@ -1,39 +1,37 @@
-##EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/Tv-channel-%E2%94%82-dazn-1.png?20221217130913" tvg-id="DAZN 1.tw" tvg-name="DAZN 1.tw" group-title="Sport",DAZN 1.tw
-##http://198.16.100.90:8278/golfchannel_twn/playlist.m3u8?tid=MFBF2798068027980680&ct=18393&tsum=d8204023f67120512c75a8882f121120
-#EXTINF:-1 tvg-logo="https://archive.org/download/SkySportsPremierLeague_201708/sky%20sports%20premier%20league.png" tvg-id="SKY SPORTS PREMIER LEAGUE UK" tvg-name="SKY SPORTS PREMIER LEAGUE UK" group-title="Sport",SKY SPORTS PREMIER LEAGUE UK
-http://38b891c9.rossteleccom.net/iptv/SQNLRPBE7FFE8V/7335/index.m3u8
-#EXTINF:-1 tvg-logo="https://archive.org/download/SkySportsFootball_201708/sky%20sports%20football.png" tvg-id="SKY SPORTS Football UK" tvg-name="SKY SPORTS Football UK" group-title="Sport",SKY SPORTS Football UK
-http://38b891c9.rossteleccom.net/iptv/SQNLRPBE7FFE8V/7336/index.m3u8
-#EXTINF:-1 tvg-logo="https://540k006f.tinifycdn.com/images/content/sky_sport_f1_logo_header_landscape_min.jpg?resize.width=1200" tvg-id="SKY SPORTS F1" tvg-name="SKY SPORTS F1" group-title="Sport",SKY SPORTS F1
-http://38b891c9.rossteleccom.net/iptv/SQNLRPBE7FFE8V/7342/index.m3u8
-#EXTINF:-1 tvg-logo="https://images.icon-icons.com/290/PNG/512/sportsnet_30861.png" tvg-id="Sportnet+ !NatGeo" tvg-name="Sportnet+ !NatGeo" group-title="Sport",Sportnet+ !NatGeo
-http://38b891c9.rossteleccom.net/iptv/SQNLRPBE7FFE8V/6485/index.m3u8
-#EXTINF:-1 tvg-logo="https://logovectorseek.com/wp-content/uploads/2019/09/eurosport-1-logo-vector.png" tvg-id="Eurosport 1" tvg-name="Eurosport 1" group-title="Sport",Eurosport 1
-http://38b891c9.rossteleccom.net/iptv/SQNLRPBE7FFE8V/6556/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/220px-2015_Fox_Sports_1_logo.svg.png" tvg-id="Fox Sports 1" tvg-name="Fox Sports 1" group-title="Sport",Fox Sports 1
-http://38b891c9.rossteleccom.net/iptv/SQNLRPBE7FFE8V/7322/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/FS2_logo_2015.svg/220px-FS2_logo_2015.svg.png" tvg-id="Fox Sports 2" tvg-name="Fox Sports 2" group-title="Sport",Fox Sports 2
-http://38b891c9.rossteleccom.net/iptv/SQNLRPBE7FFE8V/7323/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Fox_Sports_M%C3%A9xico_Logo_2022.png/960px-Fox_Sports_M%C3%A9xico_Logo_2022.png?20240624013946" tvg-id="Fox Sports" tvg-name="Fox Sports" group-title="Sport",Fox Sports
-http://38b891c9.rossteleccom.net/iptv/SQNLRPBE7FFE8V/19139/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.brandinlabs.com/wp-content/uploads/2017/07/2017071013163626-1.png" tvg-id="NBA TV" tvg-name="NBA TV" group-title="Sport",NBA TV
-http://38b891c9.rossteleccom.net/iptv/SQNLRPBE7FFE8V/7226/index.m3u8
-#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/31/1/tsn-hockey-logo-png_seeklogo-314967.png" tvg-id="TSN 4" tvg-name="TSN 4" group-title="Sport",TSN 4
-http://38b891c9.rossteleccom.net/iptv/SQNLRPBE7FFE8V/6445/index.m3u8
+#EXTINF:-1 tvg-logo="https://media.licdn.com/dms/image/v2/C4E0BAQEoXrnCB4vHyQ/company-logo_200_200/company-logo_200_200/0/1631362639577/bek_sports_network_logo?e=2147483647&v=beta&t=v7smvwAHNtVo0JV4EwqkCD3NnL7RuzWsV6t1LAfHExM" tvg-id="BEK Sports" tvg-name="BEK Sports" group-title="Sport",BEK Sports
+https://cdn3.wowza.com/5/ZWQ1K2NYTmpFbGsr/BEK-WOWZA-1/smil:BEKPRIMEW.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://streamstak.com/boxingtv/wp-content/uploads/sites/17/2024/04/boxing-tv-logo-white.png" tvg-id="Boxing TV" tvg-name="Boxing TV" group-title="Sport",Boxing TV
+https://1180885077.rsc.cdn77.org/HLS/BOXINGTV.m3u8
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" tvg-id="CCTV-5体育" tvg-name="CCTV-5体育" group-title="Sport",CCTV-5体育
+http://sh.lnott.top:880/dx05.m3u8
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" tvg-id="CCTV5+体育赛事" tvg-name="CCTV5+体育赛事" group-title="Sport",CCTV-5+体育赛事
+http://sh.lnott.top:880/dx16.m3u8
+#EXTINF:-1 tvg-logo="https://cms-images.acc.indazn.com/di/library/DAZN_News/23/a2/dazn-combat-poster_9t52rjpt6dlp16lr1mfxg8vt6.jpg?t=-540622153&quality=85&w=684" tvg-id="DAZN Combat" tvg-name="DAZN Combat" group-title="Sport",DAZN Combat
+https://dazn-combat-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-dazn-combat-rakuten/CDN/master.m3u8
+#EXTINF:-1 tvg-logo="https://tvtvtv.ru/icons/dubai_sports_1.png" tvg-id="Dubai Sport 1" tvg-name="Dubai Sport 1" group-title="Sport",Dubai Sport 1
+https://dmidspta.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/chunklist_b200000.m3u8
 #EXTINF:-1 tvg-logo="https://tvtvtv.ru/icons/dubai_sports_2.png" tvg-id="Dubai Sport 2" tvg-name="Dubai Sport 2" group-title="Sport",Dubai Sport 2
 http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1300000.m3u8
 #EXTINF:-1 tvg-logo="https://tvtvtv.ru/icons/dubai_sports_3.png" tvg-id="Dubai Sport 3" tvg-name="Dubai Sport 3" group-title="Sport",Dubai Sport 3
 http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 tvg-logo="https://www.newscaststudio.com/wp-content/uploads/2024/10/fanduel-sports-network-logo.jpg" tvg-id="FanDuel Sports" tvg-name="FanDuel Sports" group-title="Sport",FanDuel Sports
+https://fl3.moveonjoy.com/PAC_12/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/220px-2015_Fox_Sports_1_logo.svg.png" tvg-id="Fox Sports 1" tvg-name="Fox Sports 1" group-title="Sport",Fox Sports 1
+http://23.237.104.106:8080/USA_FS1/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/FS2_logo_2015.svg/220px-FS2_logo_2015.svg.png" tvg-id="Fox Sports 2" tvg-name="Fox Sports 2" group-title="Sport",Fox Sports 2
+http://23.237.104.106:8080/USA_FS2/index.m3u8
+#EXTINF:-1 tvg-logo="https://images.tapology.com/logos/2605/profile/Glory_Kickboxing-logo.jpg?1574366345" tvg-id="Glory Kickboxing" tvg-name="Glory Kickboxing" group-title="Sport",Glory Kickboxing
+https://6f972d29.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0dsb3J5S2lja2JveGluZ19ITFM/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/250px-NBA_TV.svg.png" tvg-id="NBA TV" tvg-name="NBA TV" group-title="Sport",NBA TV
+https://ft.fbcdntv247.cfd/memfs/b93f8f7b-03f8-4693-803a-32a9c894e296_output_0.m3u8
+#EXTINF:-1 tvg-logo="https://www.sportsvideo.org/wp-content/uploads/2016/09/updatenhln.gif" tvg-id="NHL Network" tvg-name="NHL Network" group-title="Sport",NHL Network
+https://nhl-firetv.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://img.favpng.com/24/15/20/red-bull-tv-logo-television-red-bull-street-style-png-favpng-Q0YsjzNKDHqbxexk9HbmybuH4.jpg" tvg-id="Red Bul TV" tvg-name="Red Bul TV" group-title="Sport",Red Bul TV
+https://e7c8f7d5.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWdiX1JlZEJ1bGxUVi0xX0hMUw/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2021/01/sportstv.png.webp" tvg-id="SportsTV" tvg-name="SportsTV" group-title="Sport",SportsTV
 https://live.sportstv.com.tr/hls/low/sportstv.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/120px-TNT_Sports_2021_logo.svg.png" tvg-id="TNT Sports 1 HD" tvg-id="TNT Sports 1 HD" group-title="Sport",TNT Sports 1 HD
-http://38b891c9.rossteleccom.net/iptv/SQNLRPBE7FFE8V/2505/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/nR1oe65.png" tvg-id="TNT Sports 2 HD" tvg-name="TNT Sports 2 HD" group-title="Sport",TNT Sports 2 HD
-http://38b891c9.rossteleccom.net/iptv/SQNLRPBE7FFE8V/2506/index.m3u8
-#EXTINF:-1 tvg-logo="http://thedesignpartnership.co.uk/logos/sport/truepremier1.png" tvg-id="TruePremium1" tvg-name="TruePremium1" group-title="Sport",TruePremium1
-http://198.16.100.90:8278/truepre1_pat/playlist.m3u8?tid=MCEC6796185367961853&ct=19249&tsum=9ab501851eed281c85dc762c6b915c47
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/34/85/8c/34858c396585f2f36851cca0db1c7da1--match-point-sport-logos.jpg" tvg-id="Tennis Channel" tvg-nane="Tennis Channel" group-title="Sport",Tennis Channel
-https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://sadesign.vn/pictures/picfullsizes/2024/09/24/iix1727161127.jpg" tvg-id="Tennis+" tvg-name="Tennis+" group-title="Sport",Tennis+
+https://amg01935-amg01935c1-amgplt0165.playout.now3.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://apl-hamivideo.cdn.hinet.net/HamiVideo/getHamiVideoImg.php?imageId=sourceImages@Live@61@1744.png" group-title="Sport",愛爾達體育1台
 http://50.7.234.10:8278/eltasport_twn/playlist.m3u8?tid=md3567b35401611916221&ct=17874&tsum=be2a069324faa7f0737ca0d396d43745
 #EXTINF:-1 tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/105_d920826e421c52555783aa87e7af47d4.png" group-title="Sport",愛爾達體育2台
