@@ -13,8 +13,8 @@ https://s1.m16tv.cfd/aktv/CH-2/AKTV.m3u8
 https://s1.m16tv.cfd/aktv/CH-1/AKTV.m3u8
 #EXTINF:-1 tvg-logo="https://tvbaw-blog.s3.us-west-1.amazonaws.com/tvbusa/wp-content/uploads/2024/04/10093209/06_TVB-Pearl-Banner_1920x1080.jpg" tvg-id="明珠劇集台(北美)" tvg-name="明珠劇集台(北美)" group-title="香港",明珠劇集台(北美)
 https://s1.m16tv.cfd/aktv/CH-19/AKTV.m3u8
-#EXTINF:-1 tvg-logo="https://tvbaw-blog.s3.us-west-1.amazonaws.com/tvbusa/wp-content/uploads/2024/04/10093209/06_TVB-Pearl-Banner_1920x1080.jpg" tvg-id="明珠劇集台(北美)" tvg-name="明珠劇集台(北美)" group-title="香港",明珠劇集台(北美)
-https://s1.m16tv.cfd/aktv/CH-19/AKTV.m3u8
+#EXTINF:-1 tvg-logo="https://tvbaw-blog.s3.us-west-1.amazonaws.com/tvbusa/wp-content/uploads/2024/04/10092840/03_TVB-Drama-Banner_1920x1080-1.jpg" tvg-id="翡翠劇集台(北美)" tvg-name="翡翠劇集台(北美)" group-title="香港",翡翠劇集台(北美)
+https://s1.m16tv.cfd/aktv/CH-18/AKTV.m3u8
 #EXTINF:-1 tvg-logo="https://zh.wikipedia-on-ipfs.org/I/TVBS_Asia_logo_2017.png.webp" tvg-id="TVBS亞洲台" tvg-name="TVBS亞洲台" group-title="香港",TVBS亞洲台
 http://38.64.72.148/hls/modn/list/4005/chunklist0.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/viutv.png" tvg-id="ViuTV" tvg-name="ViuTV" group-title="香港",ViuTV
