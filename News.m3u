@@ -1,4 +1,6 @@
 EXTM3U
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5c/TVB_News_Channel.jpg/revision/latest/scale-to-width-down/200?cb=20210722080518" tvg-id="無綫新聞台" tvg-name="無綫新聞台" group-title="News",無綫新聞台
+https://s1.m16tv.cfd/aktv/CH-1/AKTV.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/ABC_News_logo_2021.svg/768px-ABC_News_logo_2021.svg.png" tvg-id="ABC News" tvg-name="ABC News" group-title="News",ABC News
 https://content-aapm1.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be/d.m3u8?pbs=20f69a78cb4e4127b0f8c4f92d7bc11e
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/abcaus.png" tvg-id="ABC Australia" tvg-name="ABC Australia" group-title="News",ABC Australia
