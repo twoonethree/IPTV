@@ -24,6 +24,8 @@ http://23.237.104.106:8080/USA_FS1/index.m3u8
 http://23.237.104.106:8080/USA_FS2/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.tapology.com/logos/2605/profile/Glory_Kickboxing-logo.jpg?1574366345" tvg-id="Glory Kickboxing" tvg-name="Glory Kickboxing" group-title="Sport",Glory Kickboxing
 https://6f972d29.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0dsb3J5S2lja2JveGluZ19ITFM/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.super.website/fs/super-website/userFiles/mgi-bg-tesst/images/179-mma-tv.jpg?v=1639576389" tvg-id="MMA-TV" tvg-name="MMA-TV" group-title="Sport",MMA-TV
+https://streams2.sofast.tv/vglive-sk-462904/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/250px-NBA_TV.svg.png" tvg-id="NBA TV" tvg-name="NBA TV" group-title="Sport",NBA TV
 https://ft.fbcdntv247.cfd/memfs/b93f8f7b-03f8-4693-803a-32a9c894e296_output_0.m3u8
 #EXTINF:-1 tvg-logo="https://www.sportsvideo.org/wp-content/uploads/2016/09/updatenhln.gif" tvg-id="NHL Network" tvg-name="NHL Network" group-title="Sport",NHL Network
