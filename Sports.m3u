@@ -2,6 +2,8 @@
 https://cdn3.wowza.com/5/ZWQ1K2NYTmpFbGsr/BEK-WOWZA-1/smil:BEKPRIMEW.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://streamstak.com/boxingtv/wp-content/uploads/sites/17/2024/04/boxing-tv-logo-white.png" tvg-id="Boxing TV" tvg-name="Boxing TV" group-title="Sport",Boxing TV
 https://1180885077.rsc.cdn77.org/HLS/BOXINGTV.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Logo_Canal%2B_Sport_2013.svg/800px-Logo_Canal%2B_Sport_2013.svg.png?20230427120428" tvg-id="Canal+ Sports" tvg-name="Canal+ Sports" group-title="Sport",Canal+ Sports
+http://78.130.250.2:8023/play/a02v/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" tvg-id="CCTV-5体育" tvg-name="CCTV-5体育" group-title="Sport",CCTV-5体育
 http://sh.lnott.top:880/dx05.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" tvg-id="CCTV5+体育赛事" tvg-name="CCTV5+体育赛事" group-title="Sport",CCTV-5+体育赛事
