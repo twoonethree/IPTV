@@ -1,4 +1,14 @@
-#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/322_300.png" group-title="電影",天映頻道
-http://45.126.83.51/qwr9ew/s/s33/index.m3u8
-
-
+#EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logos/images/7/72/Celestial_Movies_logo_screenbug_2015.png/revision/latest?cb=20230327101136&path-prefix=vi" tvg-id="天映頻道" tvg-name="天映頻道" group-title="電影", 天映頻道
+https://s1.m16tv.cfd/aktv2/CH-3/AKTV.m3u8
+#EXTINF:0 tvg-logo="https://p3-sdbk2-media.byteimg.com/tos-cn-i-xv4ileqgde/e4ecfda054f449aa93dea10368104812~tplv-xv4ileqgde-resize-w:750.image" tvg-id="美亞電影台" tvg-name="美亞電影台" group-title="電影", 美亞電影台
+https://s1.m16tv.cfd/aktv/hk/AKTV.m3u8
+#EXTINF:0 tvg-logo="https://www.citypng.com/public/uploads/preview/hd-hbo-white-logo-transparent-background-701751694708059eqwbw0wzhn.png" tvg-id="HBO" tvg-name="HBO" group-title="電影", HBO
+https://s1.m16tv.cfd/aktv2/hbo/AKTV.m3u8
+#EXTINF:0 tvg-logo="https://i0.wp.com/img.isuper.tv/live-tv/hollywood-movie-live.jpg" tvg-id="好萊塢電影台" tvg-name="好萊塢電影台" group-title="電影", 好萊塢電影台
+https://s1.m16tv.cfd/aktv2/CH-4/AKTV.m3u8
+#EXTINF:0 tvg-logo="https://i0.wp.com/img.isuper.tv/live-tv/ebc-emovie-live.jpg" tvg-id="東森洋片" tvg-name="東森洋片" group-title="電影", 東森洋片
+https://s1.m16tv.cfd/aktv2/CH-2/AKTV.m3u8
+#EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/doraemon/images/7/7f/%E6%9D%B1%E6%A3%AE%E9%9B%BB%E5%BD%B1%E5%8F%B0%E5%8F%B0%E6%A8%99.jpg/revision/latest?cb=20200603061726&path-prefix=zh-tw" tvg-id="東森電影" tvg-name="東森電影" group-title="電影", 東森電影
+https://s1.m16tv.cfd/aktv2/CH-1/AKTV.m3u8
+#EXTINF:0 tvg-logo="https://media.licdn.com/dms/image/v2/C560BAQHqFlh7JhrRBg/company-logo_200_200/company-logo_200_200/0/1675697536521?e=2147483647&v=beta&t=XTU2d3MLse3_HeeKpCRyZB1A5RDz4d6ycy7RrqlEjnk" tvg-id="MCE" tvg-name="MCE" group-title="電影",MCE
+https://s1.m16tv.cfd/taiwan/CH-3/AKTV.m3u8
