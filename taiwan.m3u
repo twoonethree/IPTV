@@ -1,27 +1,17 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Animax_logo.svg/600px-Animax_logo.svg.png" tvg-id="好ANIMAX.tw" tvg-name="ANIMAX.tw" group-title="動漫",ANIMAX.tw
-https://yamatovideo-yamatoanimation-1-it.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/hollywood.jpg" tvg-id="好萊塢電影台.tw" tvg-name="好萊塢電影台.tw" group-title="Movie",好萊塢電影台.tw
-http://198.16.100.90:8278/hollywoodmovies_twn/playlist.m3u8?tid=m39bfcd99239617992917&ct=17874&tsum=774ffa7546c934dc27e743c5bbb454d3
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/DiscoveryHD.png" tvg-id="Global Trekker" tvg-name="Global Trekker" group-title="精選",Global Trekker
-http://ali.hlspull.yximgs.com/live/twlivezezcxlvofbzbvnzzsfzvbhfhcvbcvzfdvbnzczzszzzezztspz.flv
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/3/33/Discovery_Asia_%282017-.n.v.%29.png/revision/latest/scale-to-width-down/1000?cb=20180408072813" tvg-id="Discovery Asia" tvg-name="Discovery Asia" group-title="Movie",Discovery Asia
-http://198.16.100.90:8278/discoverytwn_twn/playlist.m3u8?tid=MB1B4014431840144318&ct=19254&tsum=a72e8caa6986ef92c4d6cb743e22a78f
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/3/33/Discovery_Asia_%282017-.n.v.%29.png/revision/latest/scale-to-width-down/1000?cb=20180408072813" tvg-id="國家地理頻道" tvg-name="國家地理頻道" group-title="精選",國家地理頻道
-http://198.16.100.90:8278/natgeohd_twn/playlist.m3u8?tid=ma1f0b9808d5014467661&ct=17874&tsum=73dfb91284f5b1358251546e6f03da3d
-#EXTINF:-1 tvg-logo="https://i0.wp.com/img.isuper.tv/live-tv/animal-planet-live.jpg" tvg-id="動物星球頻道.tw" tvg-name="動物星球頻道.tw" group-title="精選",動物星球頻道.tw
-http://ali.hlspull.yximgs.com/live/twlivexcvbpzyhvzcvnzzsfzvbhfhczhbnzszbcvzfdvzsfcbzbnzzwxz.flv
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/DiscoveryHD.png" tvg-id="ELTA影劇台" tvg-name="ELTA影劇台" group-title="精選",ELTA影劇台
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Animax_logo.svg/600px-Animax_logo.svg.png" tvg-id="ANIMAX" tvg-name="ANIMAX" group-title="台灣",ANIMAX
+https://s1.m16tv.cfd/aktv/animaxhk/AKTV.m3u8
+#EXTINF:-1 tvg-logo="https://i0.wp.com/img.isuper.tv/live-tv/hollywood-movie-live.jpg" tvg-id="好萊塢電影台" tvg-name="好萊塢電影台" group-title="台灣",好萊塢電影台
+https://s1.m16tv.cfd/aktv2/CH-4/AKTV.m3u8
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/DiscoveryHD.png" tvg-id="ELTA影劇台" tvg-name="ELTA影劇台" group-title="台灣",ELTA影劇台
 http://198.16.100.90:8278/eltadrama_twn/playlist.m3u8?tid=MFDF4206608342066083&ct=19225&tsum=c6e03c86e60731f01aef66e1b32dcc84
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCMovies.png" tvg-id="東森電影台.tw" tvg-name="東森電影台.tw" group-title="Movie",東森電影台.tw
-http://ali.hlspull.yximgs.com/live/twlivezowdxnzltdzhecvxczzezzezyhzdyduozuomdfzhzzzdzszy.flv
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCWesternMovies.png" tvg-id="東森洋片台.tw" tvg-name="東森洋片台.tw" group-title="Movies",東森洋片台.tw
-http://ali.hlspull.yximgs.com/live/twlivezmzptdzzxfzwetzvbzstzzzsutyhdzhflzzfhfhyzwzsyp.flv
-#EXTINF:-1 tvg-logo="https://zh.m.wikipedia.org/wiki/%E6%9D%B1%E6%A3%AE%E6%88%B2%E5%8A%87%E5%8F%B0#/media/File%3AEBC_Drama_Logo.png" tvg-id="東森戲劇台.tw" tvg-name="東森戲劇台.tw" group-title="電視劇",東森戲劇台.tw
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCMovies.png" tvg-id="東森電影台" tvg-name="東森電影台" group-title="台灣",東森電影台
+https://s2.m16tv.cfd/aktv2/CH-1/AKTV.m3u8
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCWesternMovies.png" tvg-id="東森洋片台" tvg-name="東森洋片台" group-title="台灣",東森洋片台
+https://s2.m16tv.cfd/aktv2/CH-2/AKTV.m3u8
+#EXTINF:-1 tvg-logo="https://zh.m.wikipedia.org/wiki/%E6%9D%B1%E6%A3%AE%E6%88%B2%E5%8A%87%E5%8F%B0#/media/File%3AEBC_Drama_Logo.png" tvg-id="東森戲劇台" tvg-name="東森戲劇台" group-title="台灣",東森戲劇台
 http://ali.hlspull.yximgs.com/live/twliveyvzozmfdycvbzcxlzdzfxdcvnzvdwspzcophzfvztycxzpzzmendsxd.flv
-#EXTINF:-1 tvg-logo="https://ettv.ebc.net.tw/upload/ettv/img/logoes/pc_logo.png" tvg-id="東森綜合台.tw" tvg-name="東森綜合台.tw" group-title="台灣",東森綜合台.tw
+#EXTINF:-1 tvg-logo="https://ettv.ebc.net.tw/upload/ettv/img/logoes/pc_logo.png" tvg-id="東森綜合台" tvg-name="東森綜合台" group-title="台灣",東森綜合台
 http://198.16.100.90:8278/ettvzhonghe/playlist.m3u8?tid=MC4C1214674912146749&ct=19254&tsum=9b96a50ba99dca1a02a27b05a6fb4b0d
-#EXTINF:-1 tvg-logo="https://cloud.tipo.gov.tw/S282/pic/20190627/107/083/897/pic_107083897_20181226_1.jpg" tvg-id="華藝MBC綜合台.tw" tvg-name="華藝MBC綜合台.tw" group-title="台灣",華藝MBC綜合台.tw
-http://ali.hlspull.yximgs.com/live/twlivesfbxcvzsfzdhnfcvbsxzdnzsvmbnfzuzfdhyuzmzbvnzslhdz.flv
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/TVBS_MEDIA_INC._LOGO.jpg" tvg-id="TVBS.tw" tvg-name="TVBS.tw" group-title="台灣",TVBS.tw
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/TVBS_MEDIA_INC._LOGO.jpg" tvg-id="TVBS" tvg-name="TVBS" group-title="台灣",TVBS
 http://ali.hlspull.yximgs.com/live/twlivezpzovdxzozfdezodszxcvlzzfvhnzlzzzobzzzsvhzchtvbs.flv
