@@ -7,6 +7,8 @@ https://s1.m16tv.cfd/aktv2/CH-4/AKTV.m3u8
 https://s1.m16tv.cfd/taiwan/tvbs/AKTV.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS新闻.png" tvg-id="TVBS 新聞台" tvg-name="TVBS 新聞台" group-title="台灣",TVBS 新聞台
 https://s1.m16tv.cfd/tvbs/tvbs/AKTV.m3u8
+#EXTINF:-1 tvg-logo="https://zh.wikipedia-on-ipfs.org/I/TVBS_Asia_logo_2017.png.webp" tvg-id="TVBS亞洲台" tvg-name="TVBS亞洲台" group-title="台灣",TVBS亞洲台
+http://38.64.72.148/hls/modn/list/4005/chunklist0.m3u8
 #EXTINF:-1 tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv066_mobile.png" tvg-id="台視HD" tvg-name="台視HD" group-title="台灣",台視HD
 https://s1.m16tv.cfd/taiwan/CH-4/AKTV.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/台视新闻.png" tvg-id="台視新聞台" tvg-name="台視新聞台" group-title="台灣",台視新聞台
@@ -33,6 +35,10 @@ http://50.7.234.10:8278/ettvcaijing_twn/playlist.m3u8?tid=MB8B2069463920694639&c
 https://s2.m16tv.cfd/aktv2/CH-1/AKTV.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCWesternMovies.png" tvg-id="東森洋片台" tvg-name="東森洋片台" group-title="台灣",東森洋片台
 https://s2.m16tv.cfd/aktv2/CH-2/AKTV.m3u8
+#EXTINF:-1 tvg-logo="https://podcastaddict.com/cache/artwork/thumb/3023382" tvg-id="東森美國" tvg-name="東森美國" group-title="台灣",東森美國
+http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/2/25/Ebc-super-live.png/250px-Ebc-super-live.png" tvg-id="東森超視" tvg-name="東森超視" group-title="台灣",東森超視
+https://podcastaddict.com/cache/artwork/thumb/3023382
 #EXTINF:-1 tvg-logo="https://zh.m.wikipedia.org/wiki/%E6%9D%B1%E6%A3%AE%E6%88%B2%E5%8A%87%E5%8F%B0#/media/File%3AEBC_Drama_Logo.png" tvg-id="東森戲劇台" tvg-name="東森戲劇台" group-title="台灣",東森戲劇台
 http://ali.hlspull.yximgs.com/live/twliveyvzozmfdycvbzcxlzdzfxdcvnzvdwspzcophzfvztycxzpzzmendsxd.flv
 #EXTINF:-1 tvg-logo="https://ettv.ebc.net.tw/upload/ettv/img/logoes/pc_logo.png" tvg-id="東森綜合台" tvg-name="東森綜合台" group-title="台灣",東森綜合台
