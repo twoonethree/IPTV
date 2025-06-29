@@ -52,8 +52,6 @@ https://dai.google.com/linear/hls/event/qI1pC-R_Sma0bVLVjaEOtw/master.m3u8
 https://xumo-xumoent-vc-122-sjv70.fast.nbcuni.com/live/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/NBC_Sports_2023.svg/250px-NBC_Sports_2023.svg.png" tvg-id="NBC Sports" tvg-name="NBC Sports" group-title="Sport",NBC Sports
 https://ft.fbcdntv247.cfd/memfs/b93f8f7b-03f8-4693-803a-32a9c894e296_output_0.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/NBC_Sports_2023.svg/250px-NBC_Sports_2023.svg.png" tvg-id="NBC Sports Boston" tvg-name="NBC Sports Boston" group-title="Sport",NBC Sports Boston
-http://38b891c9.rossteleccom.net/iptv/SQNLRPBE7FFE8V/7327/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.sportsvideo.org/wp-content/uploads/2016/09/updatenhln.gif" tvg-id="NHL Network" tvg-name="NHL Network" group-title="Sport",NHL Network
 https://nhl-firetv.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=small-60&scale=1&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2Fa3c09b3c-9f7e-40e9-b14e-5174a45ad551%2FP12_Insider_blue_-_Sean_Kent.png" tvg-id="Pac 12 Insider" tvg-name="Pac 12 Insider" group-title="Sport",Pac 12 Insider
