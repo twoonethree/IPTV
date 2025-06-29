@@ -49,6 +49,8 @@ http://ares.mnet.mk/hls/mnet-sport.m3u8
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/003/015/077/non_2x/racing-motorcycle-emblem-logo-design-vector.jpg" tvg-id="Motor Racing" tvg-name="Motor Racing" group-title="Sport",Motor Racing
 https://dai.google.com/linear/hls/event/qI1pC-R_Sma0bVLVjaEOtw/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/250px-NBA_TV.svg.png" tvg-id="NBA TV" tvg-name="NBA TV" group-title="Sport",NBA TV
+https://xumo-xumoent-vc-122-sjv70.fast.nbcuni.com/live/master.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/NBC_Sports_2023.svg/250px-NBC_Sports_2023.svg.png" tvg-id="NBC Sports" tvg-name="NBC Sports" group-title="Sport",NBC Sports
 https://ft.fbcdntv247.cfd/memfs/b93f8f7b-03f8-4693-803a-32a9c894e296_output_0.m3u8
 #EXTINF:-1 tvg-logo="https://www.sportsvideo.org/wp-content/uploads/2016/09/updatenhln.gif" tvg-id="NHL Network" tvg-name="NHL Network" group-title="Sport",NHL Network
 https://nhl-firetv.amagi.tv/playlist.m3u8
