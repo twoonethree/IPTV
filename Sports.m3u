@@ -18,6 +18,8 @@ https://dmidspta.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/chunkl
 http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1300000.m3u8
 #EXTINF:-1 tvg-logo="https://tvtvtv.ru/icons/dubai_sports_3.png" tvg-id="Dubai Sport 3" tvg-name="Dubai Sport 3" group-title="Sport",Dubai Sport 3
 http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 tvg-logo="https://esportsmax.tv/wp-content/uploads/2024/02/Esports-max-blanco-1024x446.png" tvg-id="eSports Max" tvg-name="eSports Max" group-title="Sport",eSports Max
+http://vcpar.myplaytv.com/esportsmax/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.newscaststudio.com/wp-content/uploads/2024/10/fanduel-sports-network-logo.jpg" tvg-id="FanDuel Sports" tvg-name="FanDuel Sports" group-title="Sport",FanDuel Sports
 https://fl3.moveonjoy.com/PAC_12/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/fox-sports-1-logo-png-transparent.png" tvg-id="Fox Sports" tvg-name="Fox Sports" group-title="Sport",Fox Sports
@@ -56,6 +58,8 @@ https://pac12-roku-us.amagi.tv/playlist.m3u8
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de94dacb394a300099fa22a/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=713&deviceId=5de94dacb394a300099fa22a&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/3e/RACING.COM_logo_2016.svg/200px-RACING.COM_logo_2016.svg.png" tvg-id="Racing.com" tvg-name="Racing.com" group-title="Sport",Racing.com
 https://racingvic-i.akamaized.net/hls/live/598695/racingvic/index1500.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/91/RM2019.png/revision/latest?cb=20191224175551" tvg-id="Real Madrid TV" tvg-name="Real Madrid TV" group-title="Sport",Real Madrid TV
+https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/master.m3u8
 #EXTINF:-1 tvg-logo="https://img.favpng.com/24/15/20/red-bull-tv-logo-television-red-bull-street-style-png-favpng-Q0YsjzNKDHqbxexk9HbmybuH4.jpg" tvg-id="Red Bul TV" tvg-name="Red Bul TV" group-title="Sport",Red Bul TV
 https://e7c8f7d5.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWdiX1JlZEJ1bGxUVi0xX0hMUw/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://tvepg.eu/img/serbia/logo/sos_kanal_plus.png" tvg-id="SOS Kanal Plus" tvg-name="SOS Kanal Plus" group-title="Sport",SOS Kanal Plus
