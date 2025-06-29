@@ -4,6 +4,8 @@ https://cdn3.wowza.com/5/ZWQ1K2NYTmpFbGsr/BEK-WOWZA-1/smil:BEKPRIMEW.smil/playli
 https://1180885077.rsc.cdn77.org/HLS/BOXINGTV.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Logo_Canal%2B_Sport_2013.svg/800px-Logo_Canal%2B_Sport_2013.svg.png?20230427120428" tvg-id="Canal+ Sports" tvg-name="Canal+ Sports" group-title="Sport",Canal+ Sports
 http://78.130.250.2:8023/play/a02v/index.m3u8
+#EXTINF:-1 tvg-logo="https://nmfsport.no/wp-content/uploads/2023/08/logo-canalmotor-360.e9acc707a9c3db580cce7cdab96f1b39.jpg" tvg-id="Canal Motor" tvg-name="Canal Motor" group-title="Sport",Canal Motor
+http://digicom.hls.iptvdc.com/canalmotor/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" tvg-id="CCTV-5体育" tvg-name="CCTV-5体育" group-title="Sport",CCTV-5体育
 http://sh.lnott.top:880/dx05.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" tvg-id="CCTV5+体育赛事" tvg-name="CCTV5+体育赛事" group-title="Sport",CCTV-5+体育赛事
@@ -18,24 +20,69 @@ http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunkl
 http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist_b1600000.m3u8
 #EXTINF:-1 tvg-logo="https://www.newscaststudio.com/wp-content/uploads/2024/10/fanduel-sports-network-logo.jpg" tvg-id="FanDuel Sports" tvg-name="FanDuel Sports" group-title="Sport",FanDuel Sports
 https://fl3.moveonjoy.com/PAC_12/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/fox-sports-1-logo-png-transparent.png" tvg-id="Fox Sports" tvg-name="Fox Sports" group-title="Sport",Fox Sports
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5a74b8e1e22a61737979c6bf/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=705&deviceId=5a74b8e1e22a61737979c6bf&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/220px-2015_Fox_Sports_1_logo.svg.png" tvg-id="Fox Sports 1" tvg-name="Fox Sports 1" group-title="Sport",Fox Sports 1
 http://23.237.104.106:8080/USA_FS1/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/FS2_logo_2015.svg/220px-FS2_logo_2015.svg.png" tvg-id="Fox Sports 2" tvg-name="Fox Sports 2" group-title="Sport",Fox Sports 2
 http://23.237.104.106:8080/USA_FS2/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.gaora.co.jp/common/img/logo.svg" tvg-id="Gaora Sports" tvg-name="Gaora Sports" group-title="Sport",Gaora Sports
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs17
 #EXTINF:-1 tvg-logo="https://images.tapology.com/logos/2605/profile/Glory_Kickboxing-logo.jpg?1574366345" tvg-id="Glory Kickboxing" tvg-name="Glory Kickboxing" group-title="Sport",Glory Kickboxing
 https://6f972d29.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0dsb3J5S2lja2JveGluZ19ITFM/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i0.wp.com/www.horizonsports.com/wp-content/uploads/2018/11/logo-white-and-green-large.png" tvg-id="Horizon Sports" tvg-name="Horizon Sports" group-title="Sport",Horizon Sports
+https://dai.google.com/linear/hls/event/onG023gQQ22Tjm14B5yg1w/master.m3u8
+#EXTINF:-1 tvg-logo="https://www.jsports.co.jp/img/icon/ch1.png" tvg-id="J Sports 1" tvg-name="J Sports 1" group-title="Sport",J Sports 1
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs18
+#EXTINF:-1 tvg-logo="https://www.jsports.co.jp/img/icon/ch2.png" tvg-id="J Sports 2" tvg-name="J Sports 2" group-title="Sport",J Sports 2
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs19
+#EXTINF:-1 tvg-logo="https://www.jsports.co.jp/img/icon/ch3.png" tvg-id="J Sports 3" tvg-name="J Sports 3" group-title="Sport",J Sports 3
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs21
+#EXTINF:-1 tvg-logo="https://www.jsports.co.jp/img/icon/ch4.png" tvg-id="J Sports 4" tvg-name="J Sports 4" group-title="Sport",J Sports 4
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs22
 #EXTINF:-1 tvg-logo="https://static.super.website/fs/super-website/userFiles/mgi-bg-tesst/images/179-mma-tv.jpg?v=1639576389" tvg-id="MMA-TV" tvg-name="MMA-TV" group-title="Sport",MMA-TV
 https://streams2.sofast.tv/vglive-sk-462904/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfq6IYxtIIorEJQpGcyt82lnD6vFnNNAo9RJhCN7z1eE6SpEd8f9NUl_yjXzJqhhUSVxM&usqp=CAU" tvg-id="M-Net Sport" tvg-name="M-Net Sport" group-title="Sport",M-Net Sport
+http://ares.mnet.mk/hls/mnet-sport.m3u8
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/003/015/077/non_2x/racing-motorcycle-emblem-logo-design-vector.jpg" tvg-id="Motor Racing" tvg-name="Motor Racing" group-title="Sport",Motor Racing
+https://dai.google.com/linear/hls/event/qI1pC-R_Sma0bVLVjaEOtw/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/250px-NBA_TV.svg.png" tvg-id="NBA TV" tvg-name="NBA TV" group-title="Sport",NBA TV
 https://ft.fbcdntv247.cfd/memfs/b93f8f7b-03f8-4693-803a-32a9c894e296_output_0.m3u8
 #EXTINF:-1 tvg-logo="https://www.sportsvideo.org/wp-content/uploads/2016/09/updatenhln.gif" tvg-id="NHL Network" tvg-name="NHL Network" group-title="Sport",NHL Network
 https://nhl-firetv.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=small-60&scale=1&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2Fa3c09b3c-9f7e-40e9-b14e-5174a45ad551%2FP12_Insider_blue_-_Sean_Kent.png" tvg-id="Pac 12 Insider" tvg-name="Pac 12 Insider" group-title="Sport",Pac 12 Insider
+https://pac12-roku-us.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2023/08/PGA-Tour-Logo-500x281.png" tvg-id="PGA Tour" tvg-name="PGA Tour" group-title="Sport",PGA Tour
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de94dacb394a300099fa22a/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=713&deviceId=5de94dacb394a300099fa22a&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/3e/RACING.COM_logo_2016.svg/200px-RACING.COM_logo_2016.svg.png" tvg-id="Racing.com" tvg-name="Racing.com" group-title="Sport",Racing.com
+https://racingvic-i.akamaized.net/hls/live/598695/racingvic/index1500.m3u8
 #EXTINF:-1 tvg-logo="https://img.favpng.com/24/15/20/red-bull-tv-logo-television-red-bull-street-style-png-favpng-Q0YsjzNKDHqbxexk9HbmybuH4.jpg" tvg-id="Red Bul TV" tvg-name="Red Bul TV" group-title="Sport",Red Bul TV
 https://e7c8f7d5.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWdiX1JlZEJ1bGxUVi0xX0hMUw/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://tvepg.eu/img/serbia/logo/sos_kanal_plus.png" tvg-id="SOS Kanal Plus" tvg-name="SOS Kanal Plus" group-title="Sport",SOS Kanal Plus
+https://53be5ef2d13aa.streamlock.net/soskanalplus/soskanalplus.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://images-cdn4.welcomesoftware.com/assets/sports+grid.jpg/Zz02ZDBhYjhkYWEyMDIxMWVmOTcyYzEyMDVkNGFiZmU5Nw==?width=768&height=430" tvg-id="Sports Grid" tvg-name="Sports Grid" group-title="Sport",Sports Grid
+https://sportsgrid-tribal.amagi.tv/playlist1080p.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2021/01/sportstv.png.webp" tvg-id="SportsTV" tvg-name="SportsTV" group-title="Sport",SportsTV
 https://live.sportstv.com.tr/hls/low/sportstv.m3u8
+#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/3ftgj11637160967.png" tvg-id="SSC 1" tvg-name="SSC 1" group-title="Sport",SSC 1
+https://linear-253.frequency.stream/dist/glewedtv/253/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static-www.adweek.com/wp-content/uploads/2022/11/swerve-logo-for-white-background-2.png" tvg-id="Swerve Sports" tvg-name="Swerve Sports" group-title="Sport",Swerve Sports
+https://af.ayassport.ir/hls2/ssc1.m3u8
+#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/30/1/tennis-channel-logo-png_seeklogo-301868.png" tvg-id="Tennis Channel" tvg-name="Tennis Channel" group-title="Sport",Tennis Channel
+https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://sadesign.vn/pictures/picfullsizes/2024/09/24/iix1727161127.jpg" tvg-id="Tennis+" tvg-name="Tennis+" group-title="Sport",Tennis+
 https://amg01935-amg01935c1-amgplt0165.playout.now3.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://teleromagna.it/Images/logo-tr-sport.jpg" tvg-id="TR Sport" tvg-name="TR Sport" group-title="Sport",TR Sport
+https://livetr.teleromagna.it/mia/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TraceSSLogo.png/250px-TraceSSLogo.png" tvg-id="Trace Sports Stars" tvg-name="Trace Sports Stars" group-title="Sport",Trace Sports Stars
+https://trace-sportstars-samsungnz.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.broadbandtvnews.com/wp-content/uploads/2020/04/14111902/Unbeaten.png" tvg-id="Unbeaten" tvg-name="Unbeaten" group-title="Sport",Unbeaten
+https://unbeaten-tcl.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn2.steamgriddb.com/logo_thumb/18e65b5eee7fa932b048ae301974c6bc.png" tvg-id="World Poker Tour" tvg-name="World Poker Tour" group-title="Sport",World Poker Tour
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/608016e446d73500075ea7e0/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/R1UjyfX.png",Бокс ТВ
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/14/XsportUA2013.jpg?20171118184244" tvg-id="XSPORT" tvg-name="XSPORT" group-title="Sport",XSPORT
+http://iptv.prosto.tv:7000/ch109/video.m3u8
 #EXTINF:-1 tvg-logo="https://apl-hamivideo.cdn.hinet.net/HamiVideo/getHamiVideoImg.php?imageId=sourceImages@Live@61@1744.png" group-title="Sport",愛爾達體育1台
 http://50.7.234.10:8278/eltasport_twn/playlist.m3u8?tid=md3567b35401611916221&ct=17874&tsum=be2a069324faa7f0737ca0d396d43745
 #EXTINF:-1 tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/105_d920826e421c52555783aa87e7af47d4.png" group-title="Sport",愛爾達體育2台
