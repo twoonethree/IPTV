@@ -86,7 +86,7 @@ https://trace-sportstars-samsungnz.amagi.tv/playlist.m3u8
 https://unbeaten-tcl.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn2.steamgriddb.com/logo_thumb/18e65b5eee7fa932b048ae301974c6bc.png" tvg-id="World Poker Tour" tvg-name="World Poker Tour" group-title="Sport",World Poker Tour
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/608016e446d73500075ea7e0/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
-#EXTINF:-1 tvg-logo="https://cdn2.steamgriddb.com/logo_thumb/18e65b5eee7fa932b048ae301974c6bc.png" tvg-id="World Poker Tour" tvg-name="World Poker Tour" group-title="Sport",World Poker Tour
+#EXTINF:-1 tvg-logo="https://cdn2.steamgriddb.com/logo_thumb/18e65b5eee7fa932b048ae301974c6bc.png" tvg-id="WPT" tvg-name="WPT" group-title="Sport",WPT
 https://amg00218-wptenterprisesi-worldpokertour-klowdtv-5619e.amagi.tv/playlist/amg00218-wptenterprisesi-worldpokertour-klowdtv/playlist.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/R1UjyfX.png",Бокс ТВ
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/14/XsportUA2013.jpg?20171118184244" tvg-id="XSPORT" tvg-name="XSPORT" group-title="Sport",XSPORT
