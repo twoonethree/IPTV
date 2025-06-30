@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logos/images/8/8b/TVB_Jade_Malaysia.png/revision/latest?cb=20230811100915&path-prefix=vi" tvg-id="翡翠台" tvg-name="翡翠台" group-title="香港",翡翠台
 https://s1.m16tv.cfd/aktv/CH-0/AKTV.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9f/TVBPlus.jpg/revision/latest?cb=20240429164515" tvg-id="J2" tvg-name="J2" group-title="香港", TVB-Plus
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9f/TVBPlus.jpg/revision/latest?cb=20240429164515" tvg-id="TVB-Plus" tvg-name="TVB-Plus" group-title="香港",TVB-Plus
 https://s1.m16tv.cfd/aktv/tvbplus/AKTV.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5c/TVB_News_Channel.jpg/revision/latest/scale-to-width-down/200?cb=20210722080518" tvg-id="無綫新聞台" tvg-name="無綫新聞台" group-title="香港",無綫新聞台
 https://s1.m16tv.cfd/aktv/CH-1/AKTV.m3u8
