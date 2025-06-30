@@ -1,9 +1,17 @@
-#EXTINF:0 tvg-logo="https://logos-world.net/wp-content/uploads/2022/03/AMC-Theatres-Logo-700x394.png" tvg-id="AMC" tvg-name="AMC" group-title="電影", AMC
+#EXTINF:0 tvg-logo="https://logos-world.net/wp-content/uploads/2022/03/AMC-Theatres-Logo-700x394.png" tvg-id="AMC" tvg-name="AMC" group-title="電影",AMC
 http://50.7.137.106:8080/AMC/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:0 tvg-logo="https://logos-world.net/wp-content/uploads/2022/03/AMC-Theatres-Logo-700x394.png" tvg-id="AMC4" tvg-name="AMC4" group-title="電影",AMC4
+http://50.7.137.106:8080/AMC/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logos/images/e/e4/CHC%E5%8A%A8%E4%BD%9C%E7%94%B5%E5%BD%B1_2006.png/revision/latest?cb=20240623033540&path-prefix=vi" tvg-id="CHC動作電影" tvg-name="CHC動作電影" group-title="電影",CHC動作電影
+http://42.238.167.137:8830/live1199.m3u8?token=7375646f892554b9dec124baa5a966103b167978&z=22c3
+#EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logos/images/c/cf/CHC%E5%BD%B1%E8%BF%B7%E7%94%B5%E5%BD%B1.png/revision/latest/scale-to-width-down/340?cb=20240623031754&path-prefix=vi" tvg-id="CHC影迷電影" tvg-name="CHC影迷電影" group-title="電影",CHC影迷電影
+http://42.238.167.137:8887/live1807.m3u8?token=7375646f78cd171c8253c341f7964e93bdf22d18&z=22c3
 #EXTINF:0 tvg-logo="https://www.citypng.com/public/uploads/preview/hd-hbo-white-logo-transparent-background-701751694708059eqwbw0wzhn.png" tvg-id="HBO" tvg-name="HBO" group-title="電影",HBO
 https://s1.m16tv.cfd/aktv2/hbo/AKTV.m3u8
 #EXTINF:0 tvg-logo="https://media.licdn.com/dms/image/v2/C560BAQHqFlh7JhrRBg/company-logo_200_200/company-logo_200_200/0/1675697536521?e=2147483647&v=beta&t=XTU2d3MLse3_HeeKpCRyZB1A5RDz4d6ycy7RrqlEjnk" tvg-id="MCE" tvg-name="MCE" group-title="電影",MCE
 https://s1.m16tv.cfd/taiwan/CH-3/AKTV.m3u8
+#EXTINF:0 tvg-logo="https://ew.com/thmb/mmcB3If_wztz2KnQBLjdyFd0f4w=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/syfy-67b52e1eacd84cf780267163cde7e72a.jpg" tvg-id="SYFY" tvg-name="SYFY" group-title="電影",SYFY
+http://50.7.137.106:8080/SYFY/tracks-v1a1/mono.m3u8?token=test
 #EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logos/images/7/72/Celestial_Movies_logo_screenbug_2015.png/revision/latest?cb=20230327101136&path-prefix=vi" tvg-id="天映頻道" tvg-name="天映頻道" group-title="電影", 天映頻道
 https://s1.m16tv.cfd/aktv2/CH-3/AKTV.m3u8
 #EXTINF:0 tvg-logo="https://p3-sdbk2-media.byteimg.com/tos-cn-i-xv4ileqgde/e4ecfda054f449aa93dea10368104812~tplv-xv4ileqgde-resize-w:750.image" tvg-id="美亞電影台" tvg-name="美亞電影台" group-title="電影", 美亞電影台
