@@ -1,14 +1,16 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Animax_logo.svg/600px-Animax_logo.svg.png" tvg-id="ANIMAX" tvg-name="ANIMAX" group-title="台灣",ANIMAX
-https://s1.m16tv.cfd/aktv/animaxhk/AKTV.m3u8
-#EXTINF:-1 tvg-logo="https://i0.wp.com/img.isuper.tv/live-tv/hollywood-movie-live.jpg" tvg-id="好萊塢電影台" tvg-name="好萊塢電影台" group-title="台灣",好萊塢電影台
-https://s1.m16tv.cfd/aktv2/CH-4/AKTV.m3u8
+#EXTINF:-1 tvg-logo="https://archive.org/download/20230204_20230204_1751/EYETV%E6%97%85%E6%B8%B8%E5%8F%B0.png" tvg-id="EYETV旅遊" tvg-name="EYETV旅遊" group-title="台灣",EYETV旅遊
+http://198.16.100.186:8278/eyetvtravel_twn/playlist.m3u8?tid=MFDF5066608450666084&ct=19254&tsum=0bb4cbfc0d32bff89ab5b3a5352fcf94
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a8/EYE_TV%E6%88%B2%E5%8A%87%E5%8F%B0%E6%A8%99%E8%AA%8C.jpg" tvg-id="EYETV戲劇" tvg-name="EYETV戲劇" group-title="台灣",EYETV戲劇
+http://198.16.100.186:8278/eyetvxiju_twn/playlist.m3u8?tid=ME3E6686724066867240&ct=19254&tsum=728fc49fcd53cd770381ffd87883b1d1
 #EXTINF:-1 tvg-logo="https://c0.klipartz.com/pngpicture/195/929/gratis-png-logotipo-de-taiwan-tvbs-wikipedia-logos.png" tvg-id="TVBS" tvg-name="TVBS" group-title="台灣",TVBS
 https://s1.m16tv.cfd/taiwan/tvbs/AKTV.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS新闻.png" tvg-id="TVBS 新聞台" tvg-name="TVBS 新聞台" group-title="台灣",TVBS 新聞台
 https://s1.m16tv.cfd/tvbs/tvbs/AKTV.m3u8
 #EXTINF:-1 tvg-logo="https://zh.wikipedia-on-ipfs.org/I/TVBS_Asia_logo_2017.png.webp" tvg-id="TVBS亞洲台" tvg-name="TVBS亞洲台" group-title="台灣",TVBS亞洲台
 http://38.64.72.148/hls/modn/list/4005/chunklist0.m3u8
+#EXTINF:-1 tvg-logo="https://epg.pw/media/images/epg/2024/06/12/20240612111044399081_91.png" tvg-id="TVBS歡樂台" tvg-name="TVBS歡樂台" group-title="台灣",TVBS歡樂台
+http://198.16.100.186:8278/tvbshuanle_twn/playlist.m3u8?ct=19193&tid=MC8C2318787923187879&tsum=394d2b9af3df7846e2cdc60d69dd4219
 #EXTINF:-1 tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv066_mobile.png" tvg-id="台視HD" tvg-name="台視HD" group-title="台灣",台視HD
 https://s1.m16tv.cfd/taiwan/CH-4/AKTV.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/台视新闻.png" tvg-id="台視新聞台" tvg-name="台視新聞台" group-title="台灣",台視新聞台
@@ -39,6 +41,8 @@ http://50.7.234.10:8278/niandainews_twn/playlist.m3u8?tid=MA6A4647720946477209&c
 http://50.7.234.10:8278/feifannews_twn/playlist.m3u8?tid=MFDF6578546865785468&ct=19249&tsum=bbb5f2ee12e8ae89846875a83db08997
 #EXTINF:-1 tvg-logo="https://cd.nccu.edu.tw/uploads/company/46662b500642efa1c2da53f5fdd9d883.jpg" tvg-id="三立戲劇台" tvg-name="三立戲劇台" group-title="台灣",三立戲劇台
 http://198.16.100.186:8278/sanlixiju_twn/playlist.m3u8?tid=MC3C7351075373510753&ct=19249&tsum=f70fc544635e38b2fd7b4bb39899df0e
+#EXTINF:-1 tvg-logo="https://epg.pw/media/images/epg/2024/06/12/20240612110224289252_19.png" tvg-id="三立綜合台" tvg-name="三立綜合台" group-title="台灣",三立綜合台
+http://198.16.100.186:8278/sanlizhonghe/playlist.m3u8?tid=MF4F9472920894729208&ct=19249&tsum=874aaa2015440b417746e5c11fa40220
 #EXTINF:-1 tvg-logo="https://epg.pw/media/images/epg/2024/06/12/20240612111024170973_85.png" tvg-id="靖天國際台" tvg-name="靖天國際台" group-title="台灣",靖天國際台
 http://198.16.100.186:8278/jingtianintl_twn/playlist.m3u8?tid=MC7C4153806141538061&ct=19254&tsum=79854f3ccdc23693ea39da52af54d35b
 #EXTINF:-1 tvg-logo="https://i0.wp.com/img.isuper.tv/live-tv/goldentv-animation-live.jpg" tvg-id="靖天卡通台" tvg-name="靖天卡通台" group-title="台灣",靖天卡通台
@@ -83,3 +87,9 @@ http://198.16.100.186:8278/bositennis_twn/playlist.m3u8?tid=MDCD2148551721485517
 https://s1.m16tv.cfd/taiwan/CH-5/AKTV.m3u8
 #EXTINF:-1 tvg-logo="https://www.ltv.com.tw/wp-content/uploads/ltv-uploads/%E9%BE%8D%E8%8F%AF%E6%88%B2%E5%8A%87-300x161.jpg" tvg-id="龍華戲劇台" tvg-name="龍華戲劇台" group-title="台灣",龍華戲劇台
 http://198.16.100.186:8278/lunghuaxiju_twn/playlist.m3u8?tid=MBAB4709384347093843&ct=19226&tsum=a2a7258f8565588e10b8da2f26ba8039
+#EXTINF:-1 tvg-logo="https://www.ltv.com.tw/wp-content/uploads/ltv-uploads/%E9%BE%8D%E8%8F%AF%E5%81%B6%E5%83%8F-300x160.jpg" tvg-id="龍華偶像" tvg-name="龍華偶像" group-title="台灣",龍華偶像
+http://198.16.100.186:8278/lunghuaidol_twn/playlist.m3u8?tid=MD6D6087277960872779&ct=19249&tsum=83e30fd8200429793355d21bf37719ff
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Animax_logo.svg/600px-Animax_logo.svg.png" tvg-id="ANIMAX" tvg-name="ANIMAX" group-title="台灣",ANIMAX
+https://s1.m16tv.cfd/aktv/animaxhk/AKTV.m3u8
+#EXTINF:-1 tvg-logo="https://i0.wp.com/img.isuper.tv/live-tv/hollywood-movie-live.jpg" tvg-id="好萊塢電影台" tvg-name="好萊塢電影台" group-title="台灣",好萊塢電影台
+https://s1.m16tv.cfd/aktv2/CH-4/AKTV.m3u8
