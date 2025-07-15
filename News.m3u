@@ -1,6 +1,6 @@
 EXTM3U
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5c/TVB_News_Channel.jpg/revision/latest/scale-to-width-down/200?cb=20210722080518" tvg-id="無綫新聞台" tvg-name="無綫新聞台" group-title="News",無綫新聞台
-https://s1.tvm4a1.cfd/aktv/CH-1/AKTV.m3u8
+http://s1.an94tv.cfd/aktv/CH-1/AKTV.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/ABC_News_logo_2021.svg/768px-ABC_News_logo_2021.svg.png" tvg-id="ABC News" tvg-name="ABC News" group-title="News",ABC News
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/abcaus.png" tvg-id="ABC Australia" tvg-name="ABC Australia" group-title="News",ABC Australia
@@ -42,7 +42,7 @@ https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/News24.svg/300px-News24.svg.png" tvg-id="日テレNEWS24" tvg-name="日テレNEWS24" group-title="News",日テレNEWS24 Live
 https://stream01.willfonk.com/live_playlist.m3u8?cid=CS349&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS新闻.png" tvg-id="TVBS 新聞台.tw" tvg-name="TVBS 新聞台.tw" group-title="News",TVBS 新聞台.tw
-https://s1.tvm4a1.cfd/tvbs/tvbs/AKTV.m3u8
+http://s1.an94tv.cfd/tvbs/tvbs/AKTV.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/台视新闻.png" tvg-id="台視新聞台.tw" tvg-name="台視新聞台.tw" group-title="News",台視新聞台.tw
 http://38.64.72.148/hls/modn/list/4013/chunklist0.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FTVNews.png" tvg-id="民視新聞台.tw" tvg-name="民視新聞台.tw" group-title="News",民視新聞台.tw
@@ -50,13 +50,13 @@ http://38.64.72.148/hls/modn/list/4012/chunklist1.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/中视新闻.png" tvg-id="中視新聞台.tw" tvg-name="中視新聞台.tw" group-title="News",中視新聞台.tw
 http://50.7.234.10:8278/zhongshinews_twn/playlist.m3u8?tid=MD0D3377711133777111&ct=19249&tsum=ffaee3fe7040c96643b3c7f12bf2de8d
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/4/48/CTI_News_Logo.jpg" tvg-id="中天新聞.tw" tvg-name="中天新聞.tw" group-title="News",中天新聞.tw
-https://s1.tvm4a1.cfd/zhongtian/CH-0/AKTV.m3u8
+http://s1.an94tv.cfd/zhongtian/CH-0/AKTV.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/年代ERANewsHD.png" tvg-id="era news 年代新聞.tw" tvg-name="era news 年代新聞.tw" group-title="News",era news 年代新聞.tw
 http://50.7.234.10:8278/niandainews_twn/playlist.m3u8?tid=MA6A4647720946477209&ct=19226&tsum=48a66838dbcf633b2fb41307b29ef50a
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/UniqueNews.png" tvg-id="非凡新聞台.tw" tvg-name="非凡新聞台.tw" group-title="News",非凡新聞台.tw
 http://50.7.234.10:8278/feifannews_twn/playlist.m3u8?tid=MFDF6578546865785468&ct=19249&tsum=bbb5f2ee12e8ae89846875a83db08997
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCNews.png" tvg-id="東森新聞台.tw" tvg-name="東森新聞台.tw" group-title="News",東森新聞台.tw
-https://s1.tvm4a1.cfd/zhongtian/CH-1/AKTV.m3u8
+http://s1.an94tv.cfd/zhongtian/CH-1/AKTV.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCFinancialNews.png" tvg-id="東森財經新聞台.tw" tvg-name="東森財經新聞台.tw" group-title="News",東森財經新聞台.tw
 http://50.7.234.10:8278/ettvcaijing_twn/playlist.m3u8?tid=MB8B2069463920694639&ct=19249&tsum=05ff51a1b274ce7d31d05bbf11df18ad
 
