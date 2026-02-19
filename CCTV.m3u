@@ -1,26 +1,26 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" tvg-id="CCTV-1综合" tvg-name="CCTV-1综合" group-title="央视",CCTV-1综合
-http://sh.lnott.top:880/dx01.m3u8
+http://69.30.245.50/live/cctv1.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" tvg-id="CCTV-2财经" tvg-name="CCTV-2财经" group-title="央视",CCTV-2财经
-http://sh.lnott.top:880/dx02.m3u8
+http://69.30.245.50/live/cctv2.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" tvg-id="CCTV-3综艺" tvg-name="CCTV-3综艺" group-title="央视",CCTV-3综艺
-http://sh.lnott.top:880/dx03.m3u8
+http://69.30.245.50/live/cctv3.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" tvg-id="CCTV-4中文国际(亚)" tvg-name="CCTV-4中文国际(亚)" group-title="央视",CCTV-4中文国际(亚)
-http://sh.lnott.top:880/dx04.m3u8
+http://69.30.245.50/live/cctv4.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" tvg-id="CCTV-5体育" tvg-name="CCTV-5体育" group-title="央视",CCTV-5体育
-http://sh.lnott.top:880/dx05.m3u8
+http://69.30.245.50/live/cctv5.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" tvg-id="CCTV5+体育赛事" tvg-name="CCTV5+体育赛事" group-title="央视",CCTV-5+体育赛事
 http://sh.lnott.top:880/dx16.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" tvg-id="CCTV-6电影" tvg-name="CCTV-6电影" group-title="央视",CCTV-6电影
-http://sh.lnott.top:880/dx06.m3u8
+http://69.30.245.50/live/cctv6.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png" tvg-id="CCTV-7国防军事" tvg-name="CCTV-7国防军事" group-title="央视",CCTV-7国防军事
-http://sh.lnott.top:880/dx07.m3u8
+http://69.30.245.50/live/cctv7.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" tvg-id="CCTV-8电视剧" tvg-name="CCTV-8电视剧" group-title="央视",CCTV-8电视剧
-http://sh.lnott.top:880/dx08.m3u8
+http://69.30.245.50/live/cctv8.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png" tvg-id="CCTV-9纪录" tvg-name="CCTV-9纪录" group-title="央视",CCTV-9纪录
-http://sh.lnott.top:880/dx09.m3u8
+http://69.30.245.50/live/cctv9.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png" tvg-id="CCTV-10科教" tvg-name="CCTV-10科教" group-title="央视",CCTV-10科教
-http://sh.lnott.top:880/dx10.m3u8
+http://69.30.245.50/live/cctv10.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV11.png" tvg-id="CCTV-11戏曲" tvg-name="CCTV-11戏曲" group-title="央视",CCTV-11戏曲
 http://sh.lnott.top:880/dx11.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png" tvg-id="CCTV-12社会与法" tvg-name="CCTV-12社会与法" group-title="央视",CCTV-12社会与法
