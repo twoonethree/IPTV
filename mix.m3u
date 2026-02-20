@@ -6,7 +6,7 @@ http://74.91.26.218:82/live/jade.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9f/TVBPlus.jpg/revision/latest?cb=20240429164515" tvg-id="TVB-Plus" tvg-name="TVB-Plus" group-title="香港",TVB-Plus
 http://74.91.26.218:82/live/j2.m3u8
 #EXTINF:-1 tvg-logo="https://corporate.tvb.com/_fck_/image/Pearl.jpg" tvg-id="明珠台" tvg-name="明珠台" group-title="香港",明珠台
-https://o11.163189.xyz/stream/tvb/mzt/stream_0.php?u=admin&p=69fe3eb1f0b037bc2479cb4fbd56551848343f071f939422ef250f04f68b4cee&uid=1413506801
+http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=pearl_twn
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5c/TVB_News_Channel.jpg/revision/latest/scale-to-width-down/200?cb=20210722080518" tvg-id="無綫新聞台" tvg-name="無綫新聞台" group-title="新聞",無綫新聞台
 http://74.91.26.218:82/live/inews.m3u8
 #EXTINF:-1 tvg-logo="https://p4.img.cctvpic.com/photoAlbum/page/performance/img/2022/3/21/1647846841376_750.png" tvg-id="CCTV5+" tvg-name="CCTV5+" group-title="體育",CCTV5+
@@ -14,4 +14,4 @@ http://74.91.26.218:82/live/cctv5p.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/viutv.png" tvg-id="ViuTV" tvg-name="ViuTV" group-title="香港",ViuTV
 http://cdn.veryfast.filegear-sg.me/live/viu/stream.m3u8
 #EXTINF:0 tvg-logo="https://www.rthk.hk/img/tv_logo_31_s.svg" tvg-id="TV31" group-title="香港",RTHKTV31.hk 
-https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
+https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/stream4/streamPlaylist.m3u8
