@@ -15,3 +15,11 @@ http://74.91.26.218:82/live/cctv5p.m3u8
 http://cdn.veryfast.filegear-sg.me/live/viu/stream.m3u8
 #EXTINF:0 tvg-logo="https://www.rthk.hk/img/tv_logo_31_s.svg" tvg-id="TV31" group-title="香港",RTHKTV31.hk 
 https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/stream4/streamPlaylist.m3u8
+#EXTINF:0 tvg-logo="https://www.rthk.hk/img/tv_logo_32_s.svg" tvg-id="TV32" group-title="香港",RTHKTV32.hk
+http://cdn.veryfast.filegear-sg.me/live/rthk32/stream.m3u8
+#EXTINF:0 tvg-logo="https://www.rthk.hk/img/tv_logo_33_s.svg" tvg-id="TV33" group-title="香港",RTHKTV33.hk
+https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream01/streamPlaylist.m3u8
+#EXTINF:0 tvg-logo="https://www.rthk.hk/img/tv_logo_34_s.svg" tvg-id="TV34" group-title="香港",RTHKTV34.hk
+https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream01/streamPlaylist.m3u8
+#EXTINF:0 tvg-logo="https://www.rthk.hk/img/tv_logo_35_s.svg" tvg-id="TV35" group-title="香港",RTHKTV35.hk
+https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream05/streamPlaylist.m3u8
