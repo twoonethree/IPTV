@@ -17,9 +17,9 @@ http://cdn.veryfast.filegear-sg.me/live/viu/stream.m3u8
 https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/stream4/streamPlaylist.m3u8
 #EXTINF:0 tvg-logo="https://www.rthk.hk/img/tv_logo_32_s.svg" tvg-id="TV32" group-title="香港",RTHKTV32.hk
 http://cdn.veryfast.filegear-sg.me/live/rthk32/stream.m3u8
-#EXTINF:0 tvg-logo="https://www.rthk.hk/img/tv_logo_33_s.svg" tvg-id="TV33" group-title="香港",RTHKTV33.hk
-https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream02/streamPlaylist.m3u8
-#EXTINF:0 tvg-logo="https://www.rthk.hk/img/tv_logo_34_s.svg" tvg-id="TV34" group-title="香港",RTHKTV34.hk
-https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream02/streamPlaylist.m3u8
-#EXTINF:0 tvg-logo="https://www.rthk.hk/img/tv_logo_35_s.svg" tvg-id="TV35" group-title="香港",RTHKTV35.hk
-https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream02/streamPlaylist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/f/f3/HOY_TV_Logo.svg/1200px-HOY_TV_Logo.svg.png" tvg-id="Hoy76 " tvg-name="Hoy76" group-title="香港",HOY76
+https://hoytv-live-stream.hoy.tv/ch76/index-fhd.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/f/f3/HOY_TV_Logo.svg/1200px-HOY_TV_Logo.svg.png" tvg-id="Hoy77" tvg-name="Hoy77" group-title="香港",HOY77
+https://hoytv-live-stream.hoy.tv/ch77/index-fhd.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/f/f3/HOY_TV_Logo.svg/1200px-HOY_TV_Logo.svg.png" tvg-id="Hoy78" tvg-name="Hoy78" group-title="香港",HOY78
+https://hoytv-live-stream.hoy.tv/ch78/index-fhd.m3u8
