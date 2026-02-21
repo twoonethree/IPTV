@@ -2,13 +2,13 @@
 #EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/now-news5207.logowik.com.webp" tvg-id="Now新聞" tvg-name="Now新聞" group-title="新聞",Now新聞台
 http://cdn.veryfast.filegear-sg.me/live/now/stream.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logos/images/8/8b/TVB_Jade_Malaysia.png/revision/latest?cb=20230811100915&path-prefix=vi" tvg-id="翡翠台" tvg-name="翡翠台" group-title="香港",翡翠台
-http://74.91.26.218:82/live/jade.m3u8
+http://cdn9.163189.xyz/smt1.1.php?id=Tvbjade
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9f/TVBPlus.jpg/revision/latest?cb=20240429164515" tvg-id="TVB-Plus" tvg-name="TVB-Plus" group-title="香港",TVB-Plus
 http://74.91.26.218:82/live/j2.m3u8
 #EXTINF:-1 tvg-logo="https://corporate.tvb.com/_fck_/image/Pearl.jpg" tvg-id="明珠台" tvg-name="明珠台" group-title="香港",明珠台
 http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=pearl_twn
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5c/TVB_News_Channel.jpg/revision/latest/scale-to-width-down/200?cb=20210722080518" tvg-id="無綫新聞台" tvg-name="無綫新聞台" group-title="新聞",無綫新聞台
-http://74.91.26.218:82/live/inews.m3u8
+http://cdn9.163189.xyz/smt1.1.php?id=inews_twn
 #EXTINF:-1 tvg-logo="https://zuiai.tv/zb_users/upload/2021/2/2021020436580397.jpg" tvg-id="CCTV5+" tvg-name="CCTV5+" group-title="體育",CCTV5+
 http://74.91.26.218:82/live/cctv5p.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/viutv.png" tvg-id="ViuTV" tvg-name="ViuTV" group-title="香港",ViuTV
@@ -26,8 +26,8 @@ https://cdn9.163189.xyz/smt3.1.1.php?id=phoenixtv_hd
 #EXTINF:0 tvg-logo="https://offcial-web.fengshows.com/upload/extend/20230824/ff6e9cac9841f49a4154390244c9d23a.png" tvg-id="Phoenix InfoNews Channel" tvg-name="Phoenix InfoNews Channel" group-title="香港", 鳳凰衛視
 https://cdn9.163189.xyz/smt3.1.1.php?id=phoenixinfo_hd
 #EXTINF:0 tvg-logo="https://bkimg.cdn.bcebos.com/pic/dcc451da81cb39db753843e4d6160924aa183083?x-bce-process=image/format,f_auto/resize,m_lfit,limit_1,w_367" tvg-id="天映頻道" tvg-name="天映頻道" group-title="電影", 天映頻道
-http://o11.163189.xyz/stream/live/typd/
+http://php.jdshipin.com/smt.php?id=Celestial
 #EXTINF:0 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhSjq1zB72-FZckviz1e0mngQ-x21fr9wgTMLbII9rMQkRHxWvQC6E9nwuoYFFRS6453KkqB6PLRl6hR37Lyg5-qS0uAhtZ33FxWDXSVl08g6KHMMxVEfNXEwfykLiZn9PWelf3yz0Ns04/w586/celestial+classic+movies.jpeg" tvg-id="天映經典" tvg-name="天映經典" group-title="電影", 天映經典
-https://o11.163189.xyz/stream/live/ccm/
+http://208.87.242.55/livehttpplay?channel_id=20063
 #EXTINF:0 tvg-logo="https://p3-sdbk2-media.byteimg.com/tos-cn-i-xv4ileqgde/e4ecfda054f449aa93dea10368104812~tplv-xv4ileqgde-resize-w:750.image" tvg-id="美亞電影台" tvg-name="美亞電影台" group-title="電影", 美亞電影台
 http://php.jdshipin.com/TVOD/iptv.php?id=meiya
