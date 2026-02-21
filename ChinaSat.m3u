@@ -28,7 +28,7 @@ http://43.152.31.17:843/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024061103_dlna.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongnan.png" tvg-id="东南卫视" tvg-name="东南卫视" group-title="卫视",东南卫视
 http://43.152.31.17:843/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024061503_dlna.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/gansu.png" tvg-id="甘肃卫视" tvg-name="甘肃卫视" group-title="卫视",甘肃卫视
-http://ygbh.site/php/bfgd.php?id=121
+http://118.81.245.128:9999/rtp/226.0.2.55:8352
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangxi.png" tvg-id="广西卫视" tvg-name="广西卫视" group-title="卫视",广西卫视
 http://43.152.31.17:843/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024060703_dlna.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guizhou.png" tvg-id="贵州卫视" tvg-name="贵州卫视" group-title="卫视",贵州卫视
@@ -69,7 +69,7 @@ http://sh.lnott.top:880/dx48.m3u8
 http://sh.lnott.top:880/dx57.m3u8
 ##EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sansha.png" tvg-id="三沙卫视" tvg-name="三沙卫视" group-title="卫视",三沙卫视
 ##http://175.22.226.131:888/hls/66/index.m3u8
-##EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/b/b6/GRT_GBA_TV.jpg/330px-GRT_GBA_TV.jpg" tvg-id="大湾区卫视" tvg-name="大湾区卫视" group-title="卫视",大湾区卫视
-##http://38.64.72.148/hls/modn/list/4011/chunklist0.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/b/b6/GRT_GBA_TV.jpg/330px-GRT_GBA_TV.jpg" tvg-id="大湾区卫视" tvg-name="大湾区卫视" group-title="卫视",大湾区卫视
+http://74.91.26.218:82/live/nfws.m3u8
 #EXTINF:-1 tvg-logo="http://pro.statics.logoqs.techuangyi.com/2019/09/19/d090a998da390764ca42e80ccafa889d.png?x-oss-process=image/resize,m_fill,w_312,h_175" tvg-id="农林卫视" tvg-name="农林卫视" group-title="卫视",农林卫视
 http://sh.lnott.top:880/dx60.m3u8
