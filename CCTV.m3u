@@ -10,7 +10,7 @@ http://69.30.245.50/live/cctv4.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" tvg-id="CCTV-5体育" tvg-name="CCTV-5体育" group-title="央视",CCTV-5体育
 http://69.30.245.50/live/cctv5.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" tvg-id="CCTV5+体育赛事" tvg-name="CCTV5+体育赛事" group-title="央视",CCTV-5+体育赛事
-http://sh.lnott.top:880/dx16.m3u8
+http://74.91.26.218:82/live/cctv5p.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" tvg-id="CCTV-6电影" tvg-name="CCTV-6电影" group-title="央视",CCTV-6电影
 http://69.30.245.50/live/cctv6.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png" tvg-id="CCTV-7国防军事" tvg-name="CCTV-7国防军事" group-title="央视",CCTV-7国防军事
@@ -22,32 +22,32 @@ http://69.30.245.50/live/cctv9.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png" tvg-id="CCTV-10科教" tvg-name="CCTV-10科教" group-title="央视",CCTV-10科教
 http://69.30.245.50/live/cctv10.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV11.png" tvg-id="CCTV-11戏曲" tvg-name="CCTV-11戏曲" group-title="央视",CCTV-11戏曲
-http://sh.lnott.top:880/dx11.m3u8
+http://74.91.26.218:82/live/cctv11hd.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png" tvg-id="CCTV-12社会与法" tvg-name="CCTV-12社会与法" group-title="央视",CCTV-12社会与法
-http://sh.lnott.top:880/dx12.m3u8
+http://74.91.26.218:82/live/cctv12hd.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" tvg-id="CCTV-13新闻" tvg-name="CCTV-13新闻" group-title="央视",CCTV-13新闻
-http://sh.lnott.top:880/dx13.m3u8
+http://74.91.26.218:82/live/cctv13hd.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png" tvg-id="CCTV-14少儿" tvg-name="CCTV-14少儿" group-title="央视",CCTV-14少儿
-http://sh.lnott.top:880/dx14.m3u8
+http://74.91.26.218:82/live/cctv14hd.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" tvg-id="CCTV-15音乐" tvg-name="CCTV-15音乐" group-title="央视",CCTV-15音乐
-http://sh.lnott.top:880/dx15.m3u8
+http://74.91.26.218:82/live/cctv15hd.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" tvg-id="CCTV-16" tvg-name="CCTV-16奧林匹克" group-title="央视",CCTV-16奧林匹克
-http://sh.lnott.top:880/dx201.m3u8
+http://74.91.26.218:82/live/cctv16hd.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" tvg-id="CCTV-17农业农村高清频道" tvg-name="CCTV-17农业农村高清频道" group-title="央视",CCTV-17农业农村高清频道
-http://sh.lnott.top:880/dx17.m3u8
+http://74.91.26.218:82/live/cctv17hd.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logos/images/8/83/CCTV-%E5%A4%AE%E8%A7%86%E7%B2%BE%E5%93%81_logo_2005.png/revision/latest/scale-to-width-down/1000?cb=20230916084932&path-prefix=vi" tvg-id="央視文化精品" tvg-name="央視文化精品" group-title="央视",央視文化精品
-http://sh.lnott.top:880/dx104.m3u8
+http://43.152.31.17:843/hlslive-tx-cdn.ysp.cctv.cn/ysp/2026874903_dlna.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logos/images/0/09/CCTV-%E9%A3%8E%E4%BA%91%E8%B6%B3%E7%90%83_logo_2004.png/revision/latest/scale-to-width-down/1000?cb=20230916082302&path-prefix=vi" tvg-id="央視風雲足球" tvg-name="央視風雲足球" group-title="央视",央視風雲足球
-http://sh.lnott.top:880/dx71.m3u8
+http://43.152.31.17:843/hlslive-tx-cdn.ysp.cctv.cn/ysp/2026966203_dlna.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logos/images/0/08/CCTV-%E5%A4%AE%E8%A7%86%E5%8F%B0%E7%90%83_logo_2011.png/revision/latest/scale-to-width-down/1000?cb=20220705123943&path-prefix=vi" tvg-id="央視台球" tvg-name="央視台球" group-title="央视",央視台球
-http://sh.lnott.top:880/dx82.m3u8
+http://43.152.31.17:843/hlslive-tx-cdn.ysp.cctv.cn/ysp/2026875003_dlna.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logos/images/6/63/CCTV-%E9%A3%8E%E4%BA%91%E5%89%A7%E5%9C%BA_logo_2004.png/revision/latest/scale-to-width-down/1000?cb=20230916075938&path-prefix=vi" tvg-id="央視風雲劇場" tvg-name="央視風雲劇場" group-title="央视",央視風雲劇場
-http://sh.lnott.top:880/dx94.m3u8
+http://43.152.31.17:843/hlslive-tx-cdn.ysp.cctv.cn/ysp/2026874203_dlna.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logos/images/8/87/CCTV-%E9%A3%8E%E4%BA%91%E9%9F%B3%E4%B9%90_logo_2004.png/revision/latest/scale-to-width-down/1000?cb=20230916080803&path-prefix=vi" tvg-id="央視風雲音樂" tvg-name="央視風雲音樂" group-title="央视",央視風雲音樂
-http://sh.lnott.top:880/dx73.m3u8
+http://43.152.31.17:843/hlslive-tx-cdn.ysp.cctv.cn/ysp/2026874503_dlna.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logos/images/1/18/CCTV-%E5%A5%B3%E6%80%A7%E6%97%B6%E5%B0%9A_logo_2004.png/revision/latest/scale-to-width-down/1000?cb=20230916081702&path-prefix=vi" tvg-id="央視女性時尚" tvg-name="央視女性時尚" group-title="央视",央視女性時尚
-http://sh.lnott.top:880/dx105.m3u8
+http://43.152.31.17:843/hlslive-tx-cdn.ysp.cctv.cn/ysp/2026874803_dlna.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logos/images/2/2a/CCTV-%E6%80%80%E6%97%A7%E5%89%A7%E5%9C%BA_logo_2004.png/revision/latest/scale-to-width-down/1000?cb=20230916080448&path-prefix=vi" tvg-id="央視懷舊劇場" tvg-name="央視懷舊劇場" group-title="央视",央視懷舊劇場
-http://sh.lnott.top:880/dx95.m3u8
+http://43.152.31.17:843/hlslive-tx-cdn.ysp.cctv.cn/ysp/2026874303_dlna.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logos/images/d/d9/CCTV-%E5%85%B5%E5%99%A8%E7%A7%91%E6%8A%80_logo.png/revision/latest/scale-to-width-down/1000?cb=20220705123648&path-prefix=vi" tvg-id="央視兵器科技" tvg-name="央視兵器科技" group-title="央视",央視兵器科技
-http://sh.lnott.top:880/dx81.m3u8
+http://43.152.31.17:843/hlslive-tx-cdn.ysp.cctv.cn/ysp/2026874603_dlna.m3u8
