@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/now-news5207.logowik.com.webp" tvg-id="Now新聞" tvg-name="Now新聞" group-title="新聞",Now新聞台
 http://cdn.veryfast.filegear-sg.me/live/now/stream.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logos/images/8/8b/TVB_Jade_Malaysia.png/revision/latest?cb=20230811100915&path-prefix=vi" tvg-id="翡翠台" tvg-name="翡翠台" group-title="香港",翡翠台
-http://php.jdshipin.com/TVOD/iptv.php?id=huali2
+http://74.91.26.218:82/live/jade.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9f/TVBPlus.jpg/revision/latest?cb=20240429164515" tvg-id="TVB-Plus" tvg-name="TVB-Plus" group-title="香港",TVB-Plus
 http://74.91.26.218:82/live/j2.m3u8
 #EXTINF:-1 tvg-logo="https://corporate.tvb.com/_fck_/image/Pearl.jpg" tvg-id="明珠台" tvg-name="明珠台" group-title="香港",明珠台
