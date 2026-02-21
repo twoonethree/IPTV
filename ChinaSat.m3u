@@ -56,20 +56,20 @@ http://43.152.31.17:843/hlslive-tx-cdn.ysp.cctv.cn/ysp/2029795103_dlna.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sichuan.png" tvg-id="四川卫视" tvg-name="四川卫视" group-title="卫视",四川卫视
 http://43.152.31.17:843/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024061403_dlna.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xinjiang.png" tvg-id="新疆卫视" tvg-name="新疆卫视" group-title="卫视",新疆卫视
-http://sh.lnott.top:880/dx55.m3u8
+http://123.190.202.14:9008/rtp/232.0.0.18:1234
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/yunnan.png" tvg-id="云南卫视" tvg-name="云南卫视" group-title="卫视",云南卫视
 http://43.152.31.17:843/hlslive-tx-cdn.ysp.cctv.cn/ysp/2025561303_dlna.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/qinghai.png" tvg-id="青海卫视" tvg-name="青海卫视" group-title="卫视",青海卫视
 http://43.152.31.17:843/hlslive-tx-cdn.ysp.cctv.cn/ysp/2025559103_dlna.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/bingtuan.png" tvg-id="兵团卫视" tvg-name="兵团卫视" group-title="卫视",兵团卫视
-http://sh.lnott.top:880/dx59.m3u8
+http://120.33.46.164:8000/rtp/239.61.2.228:9356
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xiamen.png" tvg-id="厦门卫视" tvg-name="厦门卫视" group-title="卫视",厦门卫视
-http://sh.lnott.top:880/dx48.m3u8
+http://123.190.202.14:9008/rtp/232.0.0.160:1234
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xizang.png" tvg-id="西藏卫视" tvg-name="西藏卫视" group-title="卫视",西藏卫视
-http://sh.lnott.top:880/dx57.m3u8
-##EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sansha.png" tvg-id="三沙卫视" tvg-name="三沙卫视" group-title="卫视",三沙卫视
-##http://175.22.226.131:888/hls/66/index.m3u8
+http://118.81.245.128:9999/rtp/226.0.2.66:8440
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sansha.png" tvg-id="三沙卫视" tvg-name="三沙卫视" group-title="卫视",三沙卫视
+http://113.12.63.85:10001/udp/239.81.0.242:4056
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/b/b6/GRT_GBA_TV.jpg/330px-GRT_GBA_TV.jpg" tvg-id="大湾区卫视" tvg-name="大湾区卫视" group-title="卫视",大湾区卫视
 http://74.91.26.218:82/live/nfws.m3u8
 #EXTINF:-1 tvg-logo="http://pro.statics.logoqs.techuangyi.com/2019/09/19/d090a998da390764ca42e80ccafa889d.png?x-oss-process=image/resize,m_fill,w_312,h_175" tvg-id="农林卫视" tvg-name="农林卫视" group-title="卫视",农林卫视
-http://sh.lnott.top:880/dx60.m3u8
+http://111.122.66.227:4000/rtp/238.255.2.120:5999
