@@ -13,8 +13,8 @@ http://74.91.26.218:82/live/inews.m3u8
 http://74.91.26.218:82/live/cctv5p.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/viutv.png" tvg-id="ViuTV" tvg-name="ViuTV" group-title="香港",ViuTV
 http://cdn.veryfast.filegear-sg.me/live/viu/stream.m3u8
-#EXTINF:0 tvg-logo="https://www.rthk.hk/img/tv_logo_31_s.svg" tvg-id="TV31" group-title="香港",RTHKTV31.hk 
-https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/stream4/streamPlaylist.m3u8
+#EXTINF:0 tvg-logo="https://www.repairfairyhk.com/logo/RTHK31.jpg" tvg-id="TV31" group-title="香港",RTHKTV31.hk 
+http://cdn.veryfast.filegear-sg.me/live/rthk31/stream.m3u8
 #EXTINF:0 tvg-logo="https://www.rthk.hk/img/tv_logo_32_s.svg" tvg-id="TV32" group-title="香港",RTHKTV32.hk
 http://cdn.veryfast.filegear-sg.me/live/rthk32/stream.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/f/f3/HOY_TV_Logo.svg/1200px-HOY_TV_Logo.svg.png" tvg-id="Hoy77" tvg-name="Hoy77" group-title="香港",HOY77
