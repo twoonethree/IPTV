@@ -61,15 +61,15 @@ http://74.91.26.218:82/live/cctv13hd.m3u8
 http://74.91.26.218:82/live/cctv14hd.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" tvg-id="CCTV-15音乐" tvg-name="CCTV-15音乐" group-title="央视",CCTV-15音乐
 http://74.91.26.218:82/live/cctv15hd.m3u8
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" tvg-id="CCTV-16" tvg-name="CCTV-16奧林匹克" group-title="央视",CCTV-16奧林匹克
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" tvg-id="CCTV-16" tvg-name="CCTV-16奧林匹克" group-title="體育",CCTV-16奧林匹克
 http://74.91.26.218:82/live/cctv16hd.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" tvg-id="CCTV-17农业农村高清频道" tvg-name="CCTV-17农业农村高清频道" group-title="央视",CCTV-17农业农村高清频道
 http://74.91.26.218:82/live/cctv17hd.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logos/images/8/83/CCTV-%E5%A4%AE%E8%A7%86%E7%B2%BE%E5%93%81_logo_2005.png/revision/latest/scale-to-width-down/1000?cb=20230916084932&path-prefix=vi" tvg-id="央視文化精品" tvg-name="央視文化精品" group-title="央视",央視文化精品
 http://43.152.31.17:843/hlslive-tx-cdn.ysp.cctv.cn/ysp/2026874903_dlna.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logos/images/0/09/CCTV-%E9%A3%8E%E4%BA%91%E8%B6%B3%E7%90%83_logo_2004.png/revision/latest/scale-to-width-down/1000?cb=20230916082302&path-prefix=vi" tvg-id="央視風雲足球" tvg-name="央視風雲足球" group-title="央视",央視風雲足球
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logos/images/0/09/CCTV-%E9%A3%8E%E4%BA%91%E8%B6%B3%E7%90%83_logo_2004.png/revision/latest/scale-to-width-down/1000?cb=20230916082302&path-prefix=vi" tvg-id="央視風雲足球" tvg-name="央視風雲足球" group-title="體育",央視風雲足球
 http://43.152.31.17:843/hlslive-tx-cdn.ysp.cctv.cn/ysp/2026966203_dlna.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logos/images/0/08/CCTV-%E5%A4%AE%E8%A7%86%E5%8F%B0%E7%90%83_logo_2011.png/revision/latest/scale-to-width-down/1000?cb=20220705123943&path-prefix=vi" tvg-id="央視台球" tvg-name="央視台球" group-title="央视",央視台球
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logos/images/0/08/CCTV-%E5%A4%AE%E8%A7%86%E5%8F%B0%E7%90%83_logo_2011.png/revision/latest/scale-to-width-down/1000?cb=20220705123943&path-prefix=vi" tvg-id="央視台球" tvg-name="央視台球" group-title="體育",央視台球
 http://43.152.31.17:843/hlslive-tx-cdn.ysp.cctv.cn/ysp/2026875003_dlna.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logos/images/6/63/CCTV-%E9%A3%8E%E4%BA%91%E5%89%A7%E5%9C%BA_logo_2004.png/revision/latest/scale-to-width-down/1000?cb=20230916075938&path-prefix=vi" tvg-id="央視風雲劇場" tvg-name="央視風雲劇場" group-title="央视",央視風雲劇場
 http://43.152.31.17:843/hlslive-tx-cdn.ysp.cctv.cn/ysp/2026874203_dlna.m3u8
@@ -81,7 +81,8 @@ http://43.152.31.17:843/hlslive-tx-cdn.ysp.cctv.cn/ysp/2026874803_dlna.m3u8
 http://43.152.31.17:843/hlslive-tx-cdn.ysp.cctv.cn/ysp/2026874303_dlna.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logos/images/d/d9/CCTV-%E5%85%B5%E5%99%A8%E7%A7%91%E6%8A%80_logo.png/revision/latest/scale-to-width-down/1000?cb=20220705123648&path-prefix=vi" tvg-id="央視兵器科技" tvg-name="央視兵器科技" group-title="央视",央視兵器科技
 http://43.152.31.17:843/hlslive-tx-cdn.ysp.cctv.cn/ysp/2026874603_dlna.m3u8
-#EXTM3U 
+#EXTINF:-1 tvg-logo="http://p5.itc.cn/q_70/images03/20201030/c8f9c8cbd8694a41bd854c913cfc75e6.png" tvg-id="央視高尔夫·网球频道" tvg-name="央視高尔夫·网球频道" group-title="體育",央視高尔夫·网球频道
+http://43.175.97.11/hlslive-tx-cdn.ysp.cctv.cn/ysp/2026874703_dlna.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" tvg-id="湖南卫视" tvg-name="湖南卫视" group-title="卫视",湖南卫视
 http://43.152.31.17:843/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024054803_dlna.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" tvg-id="浙江卫视" tvg-name="浙江卫视" group-title="卫视",浙江卫视
