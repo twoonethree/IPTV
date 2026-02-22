@@ -51,3 +51,5 @@ http://43.152.31.17:843/hlslive-tx-cdn.ysp.cctv.cn/ysp/2026874803_dlna.m3u8
 http://43.152.31.17:843/hlslive-tx-cdn.ysp.cctv.cn/ysp/2026874303_dlna.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logos/images/d/d9/CCTV-%E5%85%B5%E5%99%A8%E7%A7%91%E6%8A%80_logo.png/revision/latest/scale-to-width-down/1000?cb=20220705123648&path-prefix=vi" tvg-id="央視兵器科技" tvg-name="央視兵器科技" group-title="央视",央視兵器科技
 http://43.152.31.17:843/hlslive-tx-cdn.ysp.cctv.cn/ysp/2026874603_dlna.m3u8
+#EXTINF:-1 tvg-logo="http://p5.itc.cn/q_70/images03/20201030/c8f9c8cbd8694a41bd854c913cfc75e6.png" tvg-id="央視高尔夫·网球频道" tvg-name="央視高尔夫·网球频道" group-title="央视",央視高尔夫·网球频道
+http://43.175.97.11/hlslive-tx-cdn.ysp.cctv.cn/ysp/2026874703_dlna.m3u8
