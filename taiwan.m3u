@@ -2,24 +2,10 @@
 http://61.221.215.25:8800/hls/9/index.m3u8
 #EXTINF:-1 tvg-logo="https://zh.wikipedia-on-ipfs.org/I/TVBS_Asia_logo_2017.png.webp" tvg-id="TVBS亞洲台" tvg-name="TVBS亞洲台" group-title="台灣",TVBS亞洲台
 http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8
-#EXTINF:-1 tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv066_mobile.png" tvg-id="台視HD" tvg-name="台視HD" group-title="台灣",台視HD
-http://s1.an94tv.cfd/taiwan/CH-4/AKTV.m3u8
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/台视新闻.png" tvg-id="台視新聞台" tvg-name="台視新聞台" group-title="台灣",台視新聞台
-http://38.64.72.148/hls/modn/list/4013/chunklist0.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/4/4e/FTV_Logo.svg/120px-FTV_Logo.svg.png?20221211092326" tvg-id="民視" tvg-name="民視" group-title="台灣",民視
-http://s1.an94tv.cfd/taiwan/CH-1/AKTV.m3u8
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FTVNews.png" tvg-id="民視新聞台" tvg-name="民視新聞台" group-title="台灣",民視新聞台
+#EXTINF:-1 tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv051_mobile.png" tvg-id="台視新聞HD" tvg-name="台視新聞HD" group-title="新聞",台視新聞HD
+http://38.64.72.148/hls/modn/list/4013/chunklist1.m3u8
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FTVNews.png" tvg-id="民視新聞台" tvg-name="民視新聞台" group-title="新聞",民視新聞台
 http://38.64.72.148/hls/modn/list/4012/chunklist1.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/FTV_One.png?20210819003255" tvg-id="民視第一台" tvg-name="民視第一台" group-title="台灣",民視第一台
-http://s1.an94tv.cfd/taiwan/CH-0/AKTV.m3u8
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/中视新闻.png" tvg-id="中視新聞台" tvg-name="中視新聞台" group-title="台灣",中視新聞台
-http://50.7.234.10:8278/zhongshinews_twn/playlist.m3u8?tid=MD0D3377711133777111&ct=19249&tsum=ffaee3fe7040c96643b3c7f12bf2de8d
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/4/48/CTI_News_Logo.jpg" tvg-id="中天新聞" tvg-name="中天新聞" group-title="台灣",中天新聞
-http://s1.an94tv.cfd/zhongtian/CH-0/AKTV.m3u8
-#EXTINF:-1 tvg-logo="https://archive.org/download/20230102_20230102_1627/%E4%B8%AD%E5%A4%A9%E7%B6%9C%E5%90%88%E5%8F%B0.png" tvg-id="中天綜合" tvg-name="中天綜合" group-title="台灣",中天綜合
-http://198.16.100.186:8278/ctizhonghe/playlist.m3u8?tid=MB6B3888954738889547&ct=19254&tsum=d0cb922e44e8a16bea598530697c581e
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logos/images/c/c4/CTi_%E4%B8%AD%E5%A4%A9%E4%BA%9E%E6%B4%B2%E5%8F%B0.png/revision/latest?cb=20221203134351&path-prefix=vi" tvg-id="中天亞洲" tvg-name="中天亞洲" group-title="台灣",中天亞洲
-http://198.16.100.186:8278/ctiasia_twn/playlist.m3u8?tid=MBAB5565131955651319&ct=19249&tsum=6c292a6f51658779ced6a108f779ed35
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/GTV_One_logo_2018_01.png/960px-GTV_One_logo_2018_01.png" tvg-id="八大第一台" tvg-name="八大第一台" group-title="台灣",八大第一台
 http://198.16.100.186:8278/badafirst/playlist.m3u8?tid=MD2D8073200480732004&ct=19254&tsum=5cb051b366ad3740cebcc06a987d749e
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/GTV_Variety_logo_2018.png/960px-GTV_Variety_logo_2018.png" tvg-id="八大綜合台" tvg-name="八大綜合台" group-title="台灣",八大綜合台
