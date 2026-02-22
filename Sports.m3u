@@ -111,8 +111,6 @@ http://198.16.100.186:8278/bositennis_twn/playlist.m3u8?tid=MDCD2148551721485517
 https://v4-f19c39863acf2b2ee2e9fcab372e578c.livehwc4.com/hls.yjjcfw.com/live/vl.m3u8?edge_slice=true&user_session_id=8cf260358e2d3beed8940502cd3c2969&sub_m3u8=true&hwSecret=940a917b8f60caae9acdbc48931b7d95234c80c73c329bbcf587ec66b5a6e027&hwTime=699B6EB3
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logos/images/e/eb/TDM_Sport.png/revision/latest?cb=20230603110057&path-prefix=vi" tvg-id="澳門體育" tvg-name="澳門體育" group-title="體育",澳門體育
 http://cdn6.veryfast.filegear-sg.me/live/amty/stream.m3u8
-#EXTINF:-1 tvg-logo="https://image.16pic.com/00/01/41/16pic_141455_s.jpg" tvg-id="五星体育" tvg-name="五星体育" group-title="體育",五星体育
-http://180.165.132.50:5003/custom7.m3u8?token=7375646ff91c4f198c6f258e32fccc13c43da934&z=1f48
 #EXTINF:-1 tvg-logo="https://photocdn.sohu.com/20120529/Img344336334.jpg" tvg-id="勁爆體育" tvg-name="勁爆體育" group-title="體育",勁爆體育
 http://hlsbkmgsplive.miguvideo.com/migu/kailu/jinbaotyhd/57/20230411/01.m3u8?msisdn=&Channel_ID=&ContentId=&HlsSubType=&HlsProfileId=&encrypt=
 #EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/tjtv5.jpg" tvg-id="天津體育" tvg-name="天津體育" group-title="體育",天津體育
