@@ -406,4 +406,338 @@ https://tv.iill.top/FainTV/22768
 https://tv.iill.top/FainTV/18254
 #EXTINF:-1 tvg-id="大愛電視" tvg-name="大愛電視" tvg-logo="https://epg.iill.top/logo/大愛電視.png" http-user-agent="okhttp/1.9.89" group-title="•台湾「限制」",大愛電視「4gTV」
 https://tv.iill.top/4gtv/4gtv-live007
+#EXTINF:-1 tvg-id="大愛二台" tvg-name="大愛二台" tvg-logo="https://epg.iill.top/logo/大愛電視.png" http-user-agent="okhttp/1.9.89" group-title="•台湾「限制」",大愛電視 2「4gTV」
+https://tv.iill.top/4gtv/4gtv-live106
+#EXTINF:-1 tvg-id="好消息" tvg-name="好消息" tvg-logo="https://epg.iill.top/logo/好消息.png" http-user-agent="okhttp/1.9.89" group-title="•台湾「限制」",好消息 1「4gTV」
+https://tv.iill.top/4gtv/litv-ftv16
+#EXTINF:-1 tvg-id="好消息2台" tvg-name="好消息2台" tvg-logo="https://epg.iill.top/logo/好消息2台.png" http-user-agent="okhttp/1.9.89" group-title="•台湾「限制」",好消息 2「4gTV」
+https://tv.iill.top/4gtv/litv-ftv17
+#EXTINF:-1 tvg-id="國會頻道1" tvg-name="國會頻道1" tvg-logo="https://epg.iill.top/logo/國會頻道1.png" http-user-agent="okhttp/1.9.89" group-title="•台湾「限制」",國會頻道 1「4gTV」
+https://tv.iill.top/4gtv/4gtv-4gtv084
+#EXTINF:-1 tvg-id="國會頻道2" tvg-name="國會頻道2" tvg-logo="https://epg.iill.top/logo/國會頻道2.png" http-user-agent="okhttp/1.9.89" group-title="•台湾「限制」",國會頻道 2「4gTV」
+https://tv.iill.top/4gtv/4gtv-4gtv085
+#EXTINF:-1 tvg-id="東森購物一台" tvg-name="東森購物一台" tvg-logo="https://epg.iill.top/logo/東森購物.png" http-user-agent="okhttp/1.9.89" group-title="•台湾「限制」",東森購物 一「4gTV」
+https://tv.iill.top/4gtv/4gtv-live047
+#EXTINF:-1 tvg-id="東森購物二台" tvg-name="東森購物二台" tvg-logo="https://epg.iill.top/logo/東森購物.png" http-user-agent="okhttp/1.9.89" group-title="•台湾「限制」",東森購物 二「4gTV」
+https://tv.iill.top/4gtv/4gtv-live046
+#EXTINF:-1 tvg-id="東森購物三台" tvg-name="東森購物三台" tvg-logo="https://epg.iill.top/logo/東森購物.png" http-user-agent="okhttp/1.9.89" group-title="•台湾「限制」",東森購物 三「4gTV」
+https://tv.iill.top/4gtv/4gtv-live048
+#EXTINF:-1 tvg-id="東森購物四台" tvg-name="東森購物四台" tvg-logo="https://epg.iill.top/logo/東森購物.png" http-user-agent="okhttp/1.9.89" group-title="•台湾「限制」",東森購物 四「4gTV」
+https://tv.iill.top/4gtv/4gtv-live0499
+#EXTINF:-1 tvg-id="新唐人亞太台" tvg-name="新唐人亞太台" tvg-logo="https://epg.iill.top/logo/新唐人亚太台.png" http-user-agent="okhttp/1.9.89" group-title="•台湾「限制」",新唐人亞太「4gTV」
+https://tv.iill.top/4gtv/4gtv-live050
 
+#EXTINF:-1 tvg-id="Eurosport 1" tvg-name="Eurosport 1" tvg-logo="https://epg-1.iill.top/logo/Eurosport-1.png"  group-title="•體育「Relay」", Eurosport 1
+https://hls.iill.top/api/Eurosport-1/index.m3u8
+#EXTINF:-1 tvg-id="Eurosport 2" tvg-name="Eurosport 2" tvg-logo="https://epg-1.iill.top/logo/Eurosport-2.png"  group-title="•體育「Relay」", Eurosport 2
+https://hls.iill.top/api/Eurosport-2/index.m3u8
+#EXTINF:-1 tvg-id="TNT Sports 1 HD" tvg-name="TNT Sports 1 HD" tvg-logo="https://epg-1.iill.top/logo/TNT-Sports-1.png"  group-title="•體育「Relay」", TNT Sport 1
+https://hls.iill.top/api/TNT-Sports-1/index.m3u8
+#EXTINF:-1 tvg-id="TNT Sports 2 HD" tvg-name="TNT Sports 2 HD" tvg-logo="https://epg-1.iill.top/logo/TNT-Sports-2.png"  group-title="•體育「Relay」", TNT Sport 2
+https://hls.iill.top/api/TNT-Sports-2/index.m3u8
+#EXTINF:-1 tvg-id="TNT Sports 3 HD" tvg-name="TNT Sports 3 HD" tvg-logo="https://epg-1.iill.top/logo/TNT-Sports-3.png" group-title="•體育「Relay」", TNT Sport 3
+https://hls.iill.top/api/TNT-Sports-3/index.m3u8
+#EXTINF:-1 tvg-id="TNT Sports 4 HD" tvg-name="TNT Sports 4 HD" tvg-logo="https://epg-1.iill.top/logo/TNT-Sports-4.png" group-title="•體育「Relay」", TNT Sport 4
+https://hls.iill.top/api/TNT-Sports-4/index.m3u8
+#EXTINF:-1 tvg-id="beIN Sports HD" tvg-name="beIN Sports HD" tvg-logo="https://epg-1.iill.top/logo/beIN-Sports-1.png" group-title="•體育「Relay」",beIN Sports 1
+https://hls.iill.top/api/beIN-Sports-1/index.m3u8
+#EXTINF:-1 tvg-id="beIN Sports 2 HD" tvg-name="beIN Sports 2 HD" tvg-logo="https://epg-1.iill.top/logo/beIN-Sports-2.png" group-title="•體育「Relay」",beIN Sports 2
+https://hls.iill.top/api/beIN-Sports-2/index.m3u8
+#EXTINF:-1 tvg-id="beIN Sports 3" tvg-name="beIN Sports 3" tvg-logo="https://epg-1.iill.top/logo/beIN-Sports-3.png" group-title="•體育「Relay」",beIN Sports 3
+https://hls.iill.top/api/beIN-Sports-3/index.m3u8
+#EXTINF:-1 tvg-id="beIN Sports 4" tvg-name="beIN Sports 4" tvg-logo="https://epg-1.iill.top/logo/beIN-Sports-4.png" group-title="•體育「Relay」",beIN Sports 4
+https://hls.iill.top/api/beIN-Sports-4/index.m3u8
+#EXTINF:-1 tvg-id="beIN Sports 5" tvg-name="beIN Sports 5" tvg-logo="https://epg-1.iill.top/logo/beIN-Sports-5.png" group-title="•體育「Relay」",beIN Sports 5
+https://hls.iill.top/api/beIN-Sports-5/index.m3u8
+#EXTINF:-1 tvg-id="Hub Premier 1" tvg-name="Hub Premier 1" tvg-logo="https://epg-1.iill.top/logo/Hub-Premier-1.png" group-title="•體育「Relay」",Hub Premier 1
+https://hls.iill.top/api/Hub-Premier-1/index.m3u8
+#EXTINF:-1 tvg-id="Hub Premier 2 (HD)" tvg-name="Hub Premier 2 (HD)" tvg-logo="https://epg-1.iill.top/logo/Hub-Premier-2.png" group-title="•體育「Relay」",Hub Premier 2
+https://hls.iill.top/api/Hub-Premier-2/index.m3u8
+#EXTINF:-1 tvg-id="Hub Premier 3" tvg-name="Hub Premier 3" tvg-logo="https://epg-1.iill.top/logo/Hub-Premier-3.png" group-title="•體育「Relay」",Hub Premier 3
+https://hls.iill.top/api/Hub-Premier-3/index.m3u8
+#EXTINF:-1 tvg-id="Hub Premier 4" tvg-name="Hub Premier 4" tvg-logo="https://epg-1.iill.top/logo/Hub-Premier-4.png" group-title="•體育「Relay」",Hub Premier 4
+https://hls.iill.top/api/Hub-Premier-4/index.m3u8
+#EXTINF:-1 tvg-id="Hub Premier 5" tvg-name="Hub Premier 5" tvg-logo="https://epg-1.iill.top/logo/Hub-Premier-5.png" group-title="•體育「Relay」",Hub Premier 5
+https://hls.iill.top/api/Hub-Premier-5/index.m3u8
+#EXTINF:-1 tvg-id="Hub Premier 6" tvg-name="Hub Premier 6" tvg-logo="https://epg-1.iill.top/logo/Hub-Premier-6.png" group-title="•體育「Relay」",Hub Premier 6
+https://hls.iill.top/api/Hub-Premier-6/index.m3u8
+#EXTINF:-1 tvg-id="Hub Premier 7" tvg-name="Hub Premier 7" tvg-logo="https://epg-1.iill.top/logo/Hub-Premier-7.png" group-title="•體育「Relay」",Hub Premier 7
+https://hls.iill.top/api/Hub-Premier-7/index.m3u8
+#EXTINF:-1 tvg-id="Hub Premier 8" tvg-name="Hub Premier 8" tvg-logo="https://epg-1.iill.top/logo/Hub-Premier-8.png" group-title="•體育「Relay」",Hub Premier 8
+https://hls.iill.top/api/Hub-Premier-8/index.m3u8
+#EXTINF:-1 tvg-id="Hub Sports 1 HD" tvg-name="Hub Sports 1 HD" tvg-logo="https://epg-1.iill.top/logo/Hub-Sports-1.png" group-title="•體育「Relay」",Hub Sports 1
+https://hls.iill.top/api/Hub-Sports-1/index.m3u8
+#EXTINF:-1 tvg-id="Hub Sports 2 HD" tvg-name="Hub Sports 2 HD" tvg-logo="https://epg-1.iill.top/logo/Hub-Sports-2.png" group-title="•體育「Relay」",Hub Sports 2
+https://hls.iill.top/api/Hub-Sports-2/index.m3u8
+#EXTINF:-1 tvg-id="Hub Sports 3 HD" tvg-name="Hub Sports 3 HD" tvg-logo="https://epg-1.iill.top/logo/Hub-Sports-3.png" group-title="•體育「Relay」",Hub Sports 3
+https://hls.iill.top/api/Hub-Sports-3/index.m3u8
+#EXTINF:-1 tvg-id="Hub Sports 4 HD" tvg-name="Hub Sports 4 HD" tvg-logo="https://epg-1.iill.top/logo/Hub-Sports-4.png" group-title="•體育「Relay」",Hub Sports 4
+https://hls.iill.top/api/Hub-Sports-4/index.m3u8
+#EXTINF:-1 tvg-id="Hub Sports 5 HD" tvg-name="Hub Sports 5 HD" tvg-logo="https://epg-1.iill.top/logo/Hub-Sports-5.png" group-title="•體育「Relay」",Hub Sports 5
+https://hls.iill.top/api/Hub-Sports-5/index.m3u8
+#EXTINF:-1 tvg-id="Hub Sports 6" tvg-name="Hub Sports 6" tvg-logo="https://epg-1.iill.top/logo/Hub-Sports-6.png" group-title="•體育「Relay」",Hub Sports 6
+https://hls.iill.top/api/Hub-Sports-6/index.m3u8
+#EXTINF:-1 tvg-id="Hub Sports 7" tvg-name="Hub Sports 7" tvg-logo="https://epg-1.iill.top/logo/Hub-Sports-7.png" group-title="•體育「Relay」",Hub Sports 7
+https://hls.iill.top/api/Hub-Sports-7/index.m3u8
+#EXTINF:-1 tvg-id="Hub Sports 8" tvg-name="Hub Sports 8" tvg-logo="https://epg-1.iill.top/logo/Hub-Sports-8.png" group-title="•體育「Relay」",Hub Sports 8
+https://hls.iill.top/api/Hub-Sports-8/index.m3u8
+#EXTINF:-1 tvg-id="SPOTV" tvg-name="SPOTV" tvg-logo="https://epg-1.iill.top/logo/Spotv-1.png" group-title="•體育「Relay」",Spotv 1
+https://hls.iill.top/api/Spotv-1/index.m3u8
+#EXTINF:-1 tvg-id="SPOTV2" tvg-name="SPOTV2" tvg-logo="https://epg-1.iill.top/logo/Spotv-2.png" group-title="•體育「Relay」",Spotv 2
+https://hls.iill.top/api/Spotv-2/index.m3u8
+#EXTINF:-1 tvg-id="SkySp Cricket" tvg-name="SkySp Cricket" tvg-logo="https://epg-1.iill.top/logo/Sky-Sports-Cricket.png" group-title="•體育「Relay」",Sky Sports Cricket
+https://hls.iill.top/api/Sky-Sports-Cricket/index.m3u8
+#EXTINF:-1 tvg-id="SkySp PL HD" tvg-name="SkySp PL HD" tvg-logo="https://epg-1.iill.top/logo/Sky-Sports-Premier-League.png" group-title="•體育「Relay」",Sky Sports Premier League
+https://hls.iill.top/api/Sky-Sports-EPL/index.m3u8
+#EXTINF:-1 tvg-id="SkySp F1" tvg-name="SkySp F1" tvg-logo="https://epg-1.iill.top/logo/Sky-Sports-F1.png" group-title="•體育「Relay」",Sky Sports F1
+https://hls.iill.top/api/Sky-Sports-F1/index.m3u8
+#EXTINF:-1 tvg-id="SkySp Mix HD" tvg-name="SkySp Mix HD" tvg-logo="https://epg-1.iill.top/logo/Sky-Sports-Mix.png" group-title="•體育「Relay」",Sky Sports Mix
+https://hls.iill.top/api/Sky-Sports-Mix/index.m3u8
+#EXTINF:-1 tvg-id="SkySp Racing HD" tvg-name="SkySp Racing HD" tvg-logo="https://epg-1.iill.top/logo/Sky-Sports-Racing.png" group-title="•體育「Relay」",Sky Sports Racing
+https://hls.iill.top/api/Sky-Sports-Racing/index.m3u8
+#EXTINF:-1 tvg-id="FIGHT SPORTS HD" tvg-name="FIGHT SPORTS HD" tvg-logo="https://epg-1.iill.top/logo/Fight-Sports.png" group-title="•體育「Relay」",Fight Sports
+https://hls.iill.top/api/Fight-Sports/index.m3u8
+
+#EXTINF:-1 tvg-id="Red Bull TV" tvg-name="Red Bull TV" tvg-logo="https://epg.iill.top/logo/RedBull.png" group-title="•綜合「Relay」",Red Bull TV
+http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
+#EXTINF:-1 tvg-id="BBC Earth" tvg-name="BBC Earth" tvg-logo="https://epg.iill.top/logo/BBC-Earth.png" group-title="•綜合「Relay」",BBC Earth
+https://hls.iill.top/api/BBC-Earth/index.m3u8
+#EXTINF:-1 tvg-id="BBC Lifestyle" tvg-name="BBC Lifestyle" tvg-logo="https://epg.iill.top/logo/BBC-Lifestyle.png" group-title="•綜合「Relay」",BBC Lifestyle
+https://hls.iill.top/api/BBC-Lifestyle/index.m3u8
+#EXTINF:-1 tvg-id="Discovery HD" tvg-name="Discovery HD" tvg-logo="https://epg.iill.top/logo/Discovery-Channel.png" group-title="•綜合「Relay」",Discovery
+https://hls.iill.top/api/Discovery/index.m3u8
+#EXTINF:-1 tvg-id="HBO HD" tvg-name="HBO HD" tvg-logo="https://epg.iill.top/logo/HBO.png" group-title="•綜合「Relay」",HBO
+https://hls.iill.top/api/HBO/index.m3u8
+#EXTINF:-1 tvg-id="HBO Hits HD" tvg-name="HBO Hits HD" tvg-logo="https://epg.iill.top/logo/HBO-Hits.png" group-title="•綜合「Relay」",HBO Hits
+https://hls.iill.top/api/HBO-Hits/index.m3u8
+#EXTINF:-1 tvg-id="HBO Family HD" tvg-name="HBO Family HD" tvg-logo="https://epg.iill.top/logo/HBO-Family.png" group-title="•綜合「Relay」",HBO Family
+https://hls.iill.top/api/HBO-Family/index.m3u8
+#EXTINF:-1 tvg-id="HBO Signature HD" tvg-name="HBO Signature HD" tvg-logo="https://epg.iill.top/logo/HBO-Signature.png" group-title="•綜合「Relay」",HBO Signature
+https://hls.iill.top/api/HBO-Signature/index.m3u8
+
+#EXTINF:-1 tvg-id="鳳凰衛視中文台" tvg-name="鳳凰衛視中文台" tvg-logo="https://epg.iill.top/logo/凤凰中文.png" group-title="• Juli 「精選」",鳳凰衛視·中文
+https://cdn6.163189.xyz/163189/fhzw
+#EXTINF:-1 tvg-id="鳳凰衛視資訊台" tvg-name="鳳凰衛視資訊台" tvg-logo="https://epg.iill.top/logo/凤凰资讯.png" group-title="• Juli 「精選」",鳳凰衛視·資訊
+https://cdn6.163189.xyz/163189/fhzx
+#EXTINF:-1 tvg-id="鳳凰衛視香港台" tvg-name="鳳凰衛視香港台" tvg-logo="https://epg.iill.top/logo/凤凰香港.png" group-title="• Juli 「精選」",鳳凰衛視·香港
+https://cdn6.163189.xyz/163189/fhhk
+#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://epg.iill.top/logo/翡翠台.png" group-title="• Juli 「精選」", 翡翠台 4K「多音轨字幕」
+https://o11.163189.xyz/stream/tvb/fct4k/
+#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://epg.iill.top/logo/翡翠台.png" group-title="• Juli 「精選」", 翡翠台「多音轨字幕」
+https://o11.163189.xyz/stream/tvb/fct/
+#EXTINF:-1 tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://epg.iill.top/logo/明珠台.png" group-title="• Juli 「精選」", 明珠台「多音轨字幕」
+https://o11.163189.xyz/stream/tvb/mzt/
+#EXTINF:-1 tvg-id="TVB Plus" tvg-name="TVB Plus" tvg-logo="https://epg.iill.top/logo/TVBPlus.png" group-title="• Juli 「精選」",TVB Plus「多音轨字幕」
+https://o11.163189.xyz/stream/tvb/tvbp/
+#EXTINF:-1 tvg-id="無綫新聞台" tvg-name="無綫新聞台" tvg-logo="https://epg.iill.top/logo/無綫新聞台.png" group-title="• Juli 「精選」",無綫新聞台
+https://cdn6.163189.xyz/163189/wxxw
+#EXTINF:-1 tvg-id="Now新聞台" tvg-name="Now新聞台" tvg-logo="https://epg.iill.top/logo/Now新聞台.png" group-title="• Juli 「精選」",Now新聞台
+https://cdn.163189.xyz/163189/now
+#EXTINF:-1 tvg-id="娛樂新聞台" tvg-name="娛樂新聞台" tvg-logo="https://epg.iill.top/logo/娛樂新聞.png" group-title="• Juli 「精選」",娛樂新聞台
+https://cdn6.163189.xyz/163189/ylxw
+#EXTINF:-1 tvg-id="千禧經典台" tvg-name="千禧經典台" tvg-logo="https://epg.iill.top/logo/千禧經典台.png" group-title="• Juli 「精選」",千禧經典台
+https://o11.163189.xyz/stream/live/tvbc/
+#EXTINF:-1 tvg-id="天映马来西亚" tvg-name="天映马来西亚" tvg-logo="https://epg.iill.top/logo/天映频道.png" group-title="• Juli 「精選」",天映频道
+https://o11.163189.xyz/stream/live/typd/
+#EXTINF:-1 tvg-id="天映經典頻道" tvg-name="天映經典頻道" tvg-logo="https://epg.iill.top/logo/天映经典.png" group-title="• Juli 「精選」",天映經典
+https://o11.163189.xyz/stream/live/ccm/
+#EXTINF:-1 tvg-id="功夫台" tvg-name="功夫台" tvg-logo="https://epg.iill.top/logo/亞洲武俠.png" group-title="• Juli 「精選」",亞洲武俠
+https://cdn6.163189.xyz/163189/yzwx
+#EXTINF:-1 tvg-id="TVB XING HE" tvg-name="TVB XING HE" tvg-logo="https://epg.iill.top/logo/星河台.png" group-title="• Juli 「精選」",TVB 星河「多音轨字幕」
+https://o11.163189.xyz/stream/live/tvbxh/
+#EXTINF:-1 tvg-id="AOD" tvg-name="AOD" tvg-logo="https://epg.iill.top/logo/AOD.png" group-title="• Juli 「精選」",Astro AOD「多音轨字幕」
+https://o11.163189.xyz/stream/live/aod/
+#EXTINF:-1 tvg-id="AEC" tvg-name="AEC" tvg-logo="https://epg.iill.top/logo/AEC.png" group-title="• Juli 「精選」",Astro AEC「多音轨字幕」
+https://o11.163189.xyz/stream/live/aec/
+#EXTINF:-1 tvg-id="QJ" tvg-name="QJ" tvg-logo="https://epg.iill.top/logo/全佳.png" group-title="• Juli 「精選」",Astro QJ
+https://smt.1678520.xyz/smt3.2.3.php?id=Quanjia
+#EXTINF:-1 tvg-id="HUA HEE DAI" tvg-name="HUA HEE DAI" tvg-logo="https://epg.iill.top/logo/欢喜台.png" group-title="• Juli 「精選」",Astro 欢喜台
+https://o11.163189.xyz/stream/live/hxt/
+#EXTINF:-1 tvg-id="iQIYI" tvg-name="iQIYI" tvg-logo="https://epg.iill.top/logo/爱奇艺.png" group-title="• Juli 「精選」",iQIYI
+https://o11.163189.xyz/stream/live/iqiyi/
+#EXTINF:-1 tvg-id="8tv" tvg-name="8TV" tvg-logo="https://epg.iill.top/logo/八度空間.png" group-title="• Juli 「精選」",八度空間
+http://cdn6.163189.xyz/163189/8tv
+#EXTINF:-1 tvg-id="Channel 5" tvg-name="Channel 5" tvg-logo="https://epg.iill.top/logo/Channel5.png" group-title="• Juli 「精選」",Channel 5
+http://cdn6.163189.xyz/163189/ch5
+#EXTINF:-1 tvg-id="Channel 8" tvg-name="Channel 8" tvg-logo="https://epg.iill.top/logo/Channel8.png" group-title="• Juli 「精選」",Channel 8
+http://cdn6.163189.xyz/163189/ch8
+#EXTINF:-1 tvg-id="Channel U" tvg-name="Channel U" tvg-logo="https://epg.iill.top/logo/ChannelU.png" group-title="• Juli 「精選」",Channel U
+http://cdn6.163189.xyz/163189/ch
+
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/哔哩哔哩.png" group-title="•游戏「赛事」",「B站」热门赛事
+https://live.iill.top/bilibili/10
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/哔哩哔哩.png" group-title="•游戏「赛事」",「B站」CS 2
+https://live.iill.top/bilibili/21622811
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="•游戏「赛事」",「虎牙」CS 2
+https://live.iill.top/huya/483917
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/哔哩哔哩.png" group-title="•游戏「赛事」",「B站」英雄联盟
+https://live.iill.top/bilibili/6
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="•游戏「赛事」",「虎牙」英雄联盟 𝟙
+https://live.iill.top/huya/660000
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="•游戏「赛事」",「虎牙」英雄联盟 𝟚
+https://live.iill.top/huya/660001
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/斗鱼.png" group-title="•游戏「赛事」",「斗鱼」英雄联盟 𝟙
+https://live.iill.top/douyu/288016
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/斗鱼.png" group-title="•游戏「赛事」",「斗鱼」英雄联盟 𝟚
+https://live.iill.top/douyu/424559
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/哔哩哔哩.png" group-title="•游戏「赛事」",「B站」英雄联盟•手游
+https://live.iill.top/bilibili/23138275
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/哔哩哔哩.png" group-title="•游戏「赛事」",「B站」王者荣耀 𝟙
+https://live.iill.top/bilibili/55
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/哔哩哔哩.png" group-title="•游戏「赛事」",「B站」王者荣耀 𝟚
+https://live.iill.top/bilibili/21654762
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="•游戏「赛事」",「虎牙」王者荣耀 𝟙
+https://live.iill.top/huya/660002
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="•游戏「赛事」",「虎牙」王者荣耀 𝟚
+https://live.iill.top/huya/660164
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/斗鱼.png" group-title="•游戏「赛事」",「斗鱼」王者荣耀 𝟙
+https://live.iill.top/douyu/1863767
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/斗鱼.png" group-title="•游戏「赛事」",「斗鱼」王者荣耀 𝟚
+https://live.iill.top/douyu/1984839
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/哔哩哔哩.png" group-title="•游戏「赛事」",「B站」绝地求生
+https://live.iill.top/bilibili/98
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="•游戏「赛事」",「虎牙」绝地求生 𝟙
+https://live.iill.top/huya/660004
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="•游戏「赛事」",「虎牙」绝地求生 𝟚
+https://live.iill.top/huya/660005
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/斗鱼.png" group-title="•游戏「赛事」",「斗鱼」绝地求生
+https://live.iill.top/douyu/100
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/斗鱼.png" group-title="•游戏「赛事」",「斗鱼」绝地地图
+https://live.iill.top/douyu/5818871
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="•游戏「赛事」",「虎牙」和平精英
+https://live.iill.top/huya/660006
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/斗鱼.png" group-title="•游戏「赛事」",「斗鱼」和平精英
+https://live.iill.top/douyu/999
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="•游戏「赛事」",「虎牙」金铲铲之战
+https://live.iill.top/huya/660579
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/斗鱼.png" group-title="•游戏「赛事」",「斗鱼」金铲铲之战
+https://live.iill.top/douyu/9715241
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="•游戏「赛事」",「虎牙」DOTA2
+https://live.iill.top/huya/660118
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/斗鱼.png" group-title="•游戏「赛事」",「斗鱼」DOTA2
+https://live.iill.top/douyu/3811559
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/斗鱼.png" group-title="•游戏「赛事」",「斗鱼」云顶之弈
+https://live.iill.top/douyu/522423
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="•游戏「赛事」",「虎牙」永劫无间
+https://live.iill.top/huya/660115
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/斗鱼.png" group-title="•游戏「赛事」",「斗鱼」永劫无间
+https://live.iill.top/huya/9662891
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/哔哩哔哩.png" group-title="•游戏「赛事」",「B站」使命召唤•手游
+https://live.iill.top/bilibili/22741849
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="•游戏「赛事」",「虎牙」使命召唤•手游
+https://live.iill.top/huya/11718629
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/斗鱼.png" group-title="•游戏「赛事」",「斗鱼」使命召唤•手游
+https://live.iill.top/douyu/9223245
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="•游戏「赛事」",「虎牙」穿越火线
+https://live.iill.top/huya/660101
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/斗鱼.png" group-title="•游戏「赛事」",「斗鱼」穿越火线 𝟙
+https://live.iill.top/douyu/605964
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/斗鱼.png" group-title="•游戏「赛事」",「斗鱼」穿越火线 𝟚
+https://live.iill.top/douyu/5388537
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="•游戏「赛事」",「虎牙」穿越火线•手游
+https://live.iill.top/huya/660102
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/哔哩哔哩.png" group-title="•游戏「赛事」",「B站」第五人格
+https://live.iill.top/bilibili/5555
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="•游戏「赛事」",「虎牙」第五人格
+https://live.iill.top/huya/idvesports
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/斗鱼.png" group-title="•游戏「赛事」",「斗鱼」第五人格
+https://live.iill.top/douyu/3226194
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="•游戏「赛事」",「虎牙」逆战
+https://live.iill.top/huya/nsl2021
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/哔哩哔哩.png" group-title="•游戏「赛事」",「B站」无畏契约
+https://live.iill.top/bilibili/22908869
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="•游戏「赛事」",「虎牙」无畏契约
+https://live.iill.top/huya/660679
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/斗鱼.png" group-title="•游戏「赛事」",「斗鱼」无畏契约
+https://live.iill.top/douyu/4585645
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/斗鱼.png" group-title="•游戏「赛事」",「斗鱼」原神
+https://live.iill.top/douyu/10853239
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/哔哩哔哩.png" group-title="•游戏「赛事」",「B站」QQ飞车•手游
+https://live.iill.top/bilibili/21743919
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/斗鱼.png" group-title="•游戏「赛事」",「斗鱼」QQ飞车•手游
+https://live.iill.top/douyu/5040227
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/斗鱼.png" group-title="•游戏「赛事」",「斗鱼」梦幻西游·手游
+https://live.iill.top/huya/9163712
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/斗鱼.png" group-title="•游戏「赛事」",「斗鱼」街霸
+https://live.iill.top/huya/11437
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/哔哩哔哩.png" group-title="•游戏「赛事」",「B站」JJ斗地主
+https://live.iill.top/bilibili/22021983
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/斗鱼.png" group-title="•游戏「赛事」",「斗鱼」JJ斗地主
+https://live.iill.top/douyu/488743
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/斗鱼.png" group-title="•游戏「赛事」",「斗鱼」我的世界
+https://live.iill.top/douyu/738878
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/斗鱼.png" group-title="•游戏「赛事」",「斗鱼」FIFA
+https://live.iill.top/douyu/7692166
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/斗鱼.png" group-title="•游戏「赛事」",「斗鱼」火影忍者
+https://live.iill.top/douyu/1997723
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/斗鱼.png" group-title="•游戏「赛事」",「斗鱼」跑跑卡丁车
+https://live.iill.top/douyu/7722576
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/斗鱼.png" group-title="•游戏「赛事」",「斗鱼」跑跑卡丁车•手游
+https://live.iill.top/douyu/6672862
+
+#EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://epg.iill.top/logo/湖南卫视.png" group-title="•广播「贰」",「电视伴音」湖南卫视
+http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
+#EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://epg.iill.top/logo/东方卫视.png" group-title="•广播「贰」",「电视伴音」东方卫视
+http://satellitepull.cnr.cn/live/wx32dfws/playlist.m3u8
+#EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://epg.iill.top/logo/浙江卫视.png" group-title="•广播「贰」",「电视伴音」浙江卫视
+http://satellitepull.cnr.cn/live/wxzjws/playlist.m3u8
+#EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://epg.iill.top/logo/江苏卫视.png" group-title="•广播「贰」",「电视伴音」江苏卫视
+http://satellitepull.cnr.cn/live/wx32jsws/playlist.m3u8
+#EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://epg.iill.top/logo/北京卫视.png" group-title="•广播「贰」",「电视伴音」北京卫视
+http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
+#EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://epg.iill.top/logo/深圳卫视.png" group-title="•广播「贰」",「电视伴音」深圳卫视
+http://satellitepull.cnr.cn/live/wxszws/playlist.m3u8
+#EXTINF:-1 tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="https://epg.iill.top/logo/安徽卫视.png" group-title="•广播「贰」",「电视伴音」安徽卫视
+http://satellitepull.cnr.cn/live/wxahws/playlist.m3u8
+#EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://epg.iill.top/logo/山东卫视.png" group-title="•广播「贰」",「电视伴音」山东卫视
+http://satellitepull.cnr.cn/live/wxsdws/playlist.m3u8
+#EXTINF:-1 tvg-id="东南卫视" tvg-name="东南卫视" tvg-logo="https://epg.iill.top/logo/东南卫视.png" group-title="•广播「贰」",「电视伴音」东南卫视
+http://satellitepull.cnr.cn/live/wx32fjws/playlist.m3u8
+#EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://epg.iill.top/logo/广东卫视.png" group-title="•广播「贰」",「电视伴音」广东卫视
+http://satellitepull.cnr.cn/live/wxgdws/playlist.m3u8
+#EXTINF:-1 tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="https://epg.iill.top/logo/四川卫视.png" group-title="•广播「贰」",「电视伴音」四川卫视
+http://satellitepull.cnr.cn/live/wxscws/playlist.m3u8
+#EXTINF:-1 tvg-id="天津卫视" tvg-name="天津卫视" tvg-logo="https://epg.iill.top/logo/天津卫视.png" group-title="•广播「贰」",「电视伴音」天津卫视
+http://satellitepull.cnr.cn/live/wxtjws/playlist.m3u8
+#EXTINF:-1 tvg-id="重庆卫视" tvg-name="重庆卫视" tvg-logo="https://epg.iill.top/logo/重庆卫视.png" group-title="•广播「贰」",「电视伴音」重庆卫视
+http://satellitepull.cnr.cn/live/wxcqws/playlist.m3u8
+#EXTINF:-1 tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="https://epg.iill.top/logo/湖北卫视.png" group-title="•广播「贰」",「电视伴音」湖北卫视
+http://satellitepull.cnr.cn/live/wx32hubws/playlist.m3u8
+#EXTINF:-1 tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="https://epg.iill.top/logo/辽宁卫视.png" group-title="•广播「贰」",「电视伴音」辽宁卫视
+http://satellitepull.cnr.cn/live/wxlnws/playlist.m3u8
+#EXTINF:-1 tvg-id="吉林卫视" tvg-name="吉林卫视" tvg-logo="https://epg.iill.top/logo/吉林卫视.png" group-title="•广播「贰」",「电视伴音」吉林卫视
+http://satellitepull.cnr.cn/live/wxjlws/playlist.m3u8
+#EXTINF:-1 tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" tvg-logo="https://epg.iill.top/logo/黑龙江卫视.png" group-title="•广播「贰」",「电视伴音」黑龙江卫视
+http://satellitepull.cnr.cn/live/wx32hljws/playlist.m3u8
+#EXTINF:-1 tvg-id="河北卫视" tvg-name="河北卫视" tvg-logo="https://epg.iill.top/logo/河北卫视.png" group-title="•广播「贰」",「电视伴音」河北卫视
+http://satellitepull.cnr.cn/live/wxhebws/playlist.m3u8
+#EXTINF:-1 tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="https://epg.iill.top/logo/河南卫视.png" group-title="•广播「贰」",「电视伴音」河南卫视
+http://satellitepull.cnr.cn/live/wxhnws/playlist.m3u8
+#EXTINF:-1 tvg-id="云南卫视" tvg-name="云南卫视" tvg-logo="https://epg.iill.top/logo/云南卫视.png" group-title="•广播「贰」",「电视伴音」云南卫视
+http://satellitepull.cnr.cn/live/wxynws/playlist.m3u8
+#EXTINF:-1 tvg-id="贵州卫视" tvg-name="贵州卫视" tvg-logo="https://epg.iill.top/logo/贵州卫视.png" group-title="•广播「贰」",「电视伴音」贵州卫视
+https://piccpndali.v.myalicdn.com/audio/guizhou_2.m3u8
+#EXTINF:-1 tvg-id="甘肃卫视" tvg-name="甘肃卫视" tvg-logo="https://epg.iill.top/logo/甘肃卫视.png" group-title="•广播「贰」",「电视伴音」甘肃卫视
+http://satellitepull.cnr.cn/live/wxgsws/playlist.m3u8
+#EXTINF:-1 tvg-id="陕西卫视" tvg-name="陕西卫视" tvg-logo="https://epg.iill.top/logo/陕西卫视.png" group-title="•广播「贰」",「电视伴音」陕西卫视
+http://satellitepull.cnr.cn/live/wxsxxws/playlist.m3u8
+#EXTINF:-1 tvg-id="延边卫视" tvg-name="延边卫视" tvg-logo="https://epg.iill.top/logo/延边卫视.png" group-title="•广播「贰」",「电视伴音」延边卫视
+http://satellitepull.cnr.cn/live/wxybws/playlist.m3u8
+#EXTINF:-1 tvg-id="西藏卫视" tvg-name="西藏卫视" tvg-logo="https://epg.iill.top/logo/西藏卫视.png" group-title="•广播「贰」",「电视伴音」西藏卫视
+http://satellitepull.cnr.cn/live/wxxzws/playlist.m3u8
+#EXTINF:-1 tvg-id="海南卫视" tvg-name="海南卫视" tvg-logo="https://epg.iill.top/logo/海南卫视.png" group-title="•广播「贰」",「电视伴音」海南卫视
+http://satellitepull.cnr.cn/live/wxhainlyws/playlist.m3u8
+#EXTINF:-1 tvg-id="江西卫视" tvg-name="江西卫视" tvg-logo="https://epg.iill.top/logo/江西卫视.png" group-title="•广播「贰」",「电视伴音」江西卫视
+http://satellitepull.cnr.cn/live/wx32jiangxws/playlist.m3u8
+#EXTINF:-1 tvg-id="宁夏卫视" tvg-name="宁夏卫视" tvg-logo="https://epg.iill.top/logo/宁夏卫视.png" group-title="•广播「贰」",「电视伴音」宁夏卫视
+http://satellitepull.cnr.cn/live/wxnxws/playlist.m3u8
+#EXTINF:-1 tvg-id="山西卫视" tvg-name="山西卫视" tvg-logo="https://epg.iill.top/logo/山西卫视.png" group-title="•广播「贰」",「电视伴音」山西卫视
+http://satellitepull.cnr.cn/live/wxssxws/playlist.m3u8
+#EXTINF:-1 tvg-id="香港卫视" tvg-name="香港卫视" tvg-logo="https://epg.iill.top/logo/香港卫视.png" group-title="•广播「贰」",「电视伴音」香港卫视
+https://piccpndali.v.myalicdn.com/audio/xianggangweishi_2.m3u8
+#EXTINF:-1 tvg-id="青海卫视" tvg-name="青海卫视" tvg-logo="https://epg.iill.top/logo/青海卫视.png" group-title="•广播「贰」",「电视伴音」青海卫视
+https://piccpndali.v.myalicdn.com/audio/qinghai_2.m3u8
+#EXTINF:-1 tvg-id="内蒙古卫视" tvg-name="内蒙古卫视" tvg-logo="https://epg.iill.top/logo/内蒙古卫视.png" group-title="•广播「贰」",「电视伴音」内蒙古卫视
+http://satellitepull.cnr.cn/live/wx32nmgws/playlist.m3u8
+#EXTINF:-1 tvg-id="新疆卫视" tvg-name="新疆卫视" tvg-logo="https://epg.iill.top/logo/新疆卫视.png" group-title="•广播「贰」",「电视伴音」新疆卫视
+http://satellitepull.cnr.cn/live/wxxjws/playlist.m3u8
