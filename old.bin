@@ -2,7 +2,7 @@
 
 #EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://epg.iill.top/logo/翡翠台.png" group-title="香港", 翡翠台
 https://hls.iill.top/api/TVB-Jade/index.m3u8
-#EXTINF:-1 tvg-id="TVB Plus" tvg-name="TVB Plus" tvg-logo="https://epg.iill.top/logo/TVBPlus.png" group-title="•香港",TVB Plus
+#EXTINF:-1 tvg-id="TVB Plus" tvg-name="TVB Plus" tvg-logo="https://epg.iill.top/logo/TVBPlus.png" group-title="香港",TVB Plus
 https://hls.iill.top/api/TVB-Plus/index.m3u8
 #EXTINF:-1 tvg-id="無綫新聞台" tvg-name="無綫新聞台" tvg-logo="https://epg.iill.top/logo/無綫新聞台.png" group-title="香港",無綫新聞台
 https://hls.iill.top/api/TVB-News/index.m3u8
@@ -284,7 +284,7 @@ https://tv.iill.top/4gtv/4gtv-live130
 https://tv.iill.top/4gtv/4gtv-live060
 #EXTINF:-1 tvg-id="Bloomberg TV" tvg-name="Bloomberg TV" tvg-logo="https://epg.iill.top/logo/Bloomberg-TV.png" http-user-agent="okhttp/1.9.89" group-title="台灣",Bloomberg TV「4gTV」
 https://tv.iill.top/4gtv/4gtv-live059
-#EXTINF:-1 tvg-id="DayStar" tvg-name="DayStar" tvg-logo="https://epg.iill.top/logo/DayStar.png" http-user-agent="okhttp/1.9.89" group-title="台灣" ,DayStar「ofiii」
+#EXTINF:-1 tvg-id="DayStar" tvg-name="DayStar" tvg-logo="https://epg.iill.top/logo/DayStar.png" http-user-agent="okhttp/1.9.89" group-title="台灣",DayStar「ofiii」
 https://tv.iill.top/ofiii/daystar
 #EXTINF:-1 tvg-id="亞洲旅遊台" tvg-name="亞洲旅遊台" tvg-logo="https://epg.iill.top/logo/亞洲旅遊台.png" http-user-agent="okhttp/1.9.89" group-title="台灣",亞洲旅遊「4gTV」
 https://tv.iill.top/4gtv/4gtv-4gtv076
@@ -316,7 +316,7 @@ https://tv.iill.top/4gtv/4gtv-4gtv013
 https://tv.iill.top/4gtv/4gtv-live027
 #EXTINF:-1 tvg-id="History 歷史頻道" tvg-name="History 歷史頻道" tvg-logo="https://epg.iill.top/logo/History-歷史頻道.png" http-user-agent="okhttp/1.9.89" group-title="台灣",History 歷史頻道「4gTV」
 https://tv.iill.top/4gtv/4gtv-live026
-#EXTINF:-1 tvg-id="MagellanTV頻道 (麥哲倫頻道)" tvg-name="MagellanTV頻道 (麥哲倫頻道)" tvg-logo="https://epg.iill.top/logo/MagellanTV.png" http-user-agent="okhttp/1.9.89" group-title=台灣",MagellanTV (麥哲倫頻道)「4gTV」
+#EXTINF:-1 tvg-id="MagellanTV頻道 (麥哲倫頻道)" tvg-name="MagellanTV頻道 (麥哲倫頻道)" tvg-logo="https://epg.iill.top/logo/MagellanTV.png" http-user-agent="okhttp/1.9.89" group-title="台灣",MagellanTV (麥哲倫頻道)「4gTV」
 https://tv.iill.top/4gtv/4gtv-live123
 #EXTINF:-1 tvg-id="ROCK Action" tvg-name="ROCK Action" tvg-logo="https://epg.iill.top/logo/ROCK-Action.png" http-user-agent="okhttp/1.9.89" group-title="台灣",ROCK Action「4gTV」
 https://tv.iill.top/4gtv/4gtv-live138
@@ -326,7 +326,7 @@ https://tv.iill.top/4gtv/4gtv-live080
 https://tv.iill.top/4gtv/4gtv-live124
 #EXTINF:-1 tvg-id="ARIRANG阿里郎頻道" tvg-name="ARIRANG阿里郎頻道" tvg-logo="https://epg.iill.top/logo/Arirang-TV.png" http-user-agent="okhttp/1.9.89" group-title="台灣",Arirang TV「4gTV」
 https://tv.iill.top/4gtv/4gtv-4gtv079
-#EXTINF:-1 tvg-id="韓國娛樂台 KMTV" tvg-name="韓國娛樂台 KMTV" tvg-logo="https://epg.iill.top/logo/韓國娛樂台-KMTV.png" http-user-agent="okhttp/1.9.89" group-title="台灣,韓國娛樂台 KMTV「4gTV」
+#EXTINF:-1 tvg-id="韓國娛樂台 KMTV" tvg-name="韓國娛樂台 KMTV" tvg-logo="https://epg.iill.top/logo/韓國娛樂台-KMTV.png" http-user-agent="okhttp/1.9.89" group-title="台灣",韓國娛樂台 KMTV「4gTV」
 https://tv.iill.top/4gtv/4gtv-4gtv016
 #EXTINF:-1 tvg-id="Lifetime 娛樂頻道" tvg-name="Lifetime 娛樂頻道" tvg-logo="https://epg.iill.top/logo/Lifetime-娛樂頻道.png" http-user-agent="okhttp/1.9.89" group-title="台灣",Lifetime 娛樂頻道「4gTV」
 https://tv.iill.top/4gtv/4gtv-live029
@@ -340,7 +340,7 @@ https://tv.iill.top/4gtv/4gtv-4gtv006
 https://tv.iill.top/4gtv/4gtv-4gtv049
 #EXTINF:-1 tvg-id="CLASSICA 古典樂" tvg-name="CLASSICA 古典樂" tvg-logo="https://epg.iill.top/logo/CLASSICA-古典樂.png" http-user-agent="okhttp/1.9.89" group-title="台灣",CLASSICA 古典樂「4gTV」
 https://tv.iill.top/4gtv/4gtv-4gtv059
-#EXTINF:-1 tvg-id="Mezzo Live HD" tvg-name="Mezzo Live HD" tvg-logo="https://epg.iill.top/logo/Mezzo-Live.png" http-user-agent="okhttp/1.9.89" group-title="台灣,Mezzo Live「4gTV」
+#EXTINF:-1 tvg-id="Mezzo Live HD" tvg-name="Mezzo Live HD" tvg-logo="https://epg.iill.top/logo/Mezzo-Live.png" http-user-agent="okhttp/1.9.89" group-title="台灣",Mezzo Live「4gTV」
 https://tv.iill.top/4gtv/4gtv-4gtv083
 #EXTINF:-1 tvg-id="電影原聲台CMusic" tvg-name="電影原聲台CMusic" tvg-logo="https://epg.iill.top/logo/電影原聲台CMusic.png" http-user-agent="okhttp/1.9.89" group-title="台灣",電影原聲 CMusic「4gTV」
 https://tv.iill.top/4gtv/4gtv-live031
@@ -596,7 +596,7 @@ https://live.iill.top/douyu/1863767
 https://live.iill.top/douyu/1984839
 #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/哔哩哔哩.png" group-title="遊戲「赛事」",「B站」绝地求生
 https://live.iill.top/bilibili/98
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="遊戲「赛事」,「虎牙」绝地求生 𝟙
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="遊戲「赛事」",「虎牙」绝地求生 𝟙
 https://live.iill.top/huya/660004
 #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="遊戲「赛事」",「虎牙」绝地求生 𝟚
 https://live.iill.top/huya/660005
@@ -660,7 +660,7 @@ https://live.iill.top/douyu/5040227
 https://live.iill.top/huya/9163712
 #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/斗鱼.png" group-title="遊戲「赛事」",「斗鱼」街霸
 https://live.iill.top/huya/11437
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/哔哩哔哩.png" group-title=遊戲「赛事」",「B站」JJ斗地主
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/哔哩哔哩.png" group-title="遊戲「赛事」",「B站」JJ斗地主
 https://live.iill.top/bilibili/22021983
 #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/斗鱼.png" group-title="遊戲「赛事」",「斗鱼」JJ斗地主
 https://live.iill.top/douyu/488743
@@ -683,7 +683,7 @@ http://satellitepull.cnr.cn/live/wx32dfws/playlist.m3u8
 http://satellitepull.cnr.cn/live/wxzjws/playlist.m3u8
 #EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://epg.iill.top/logo/江苏卫视.png" group-title="卫视",江苏卫视
 http://satellitepull.cnr.cn/live/wx32jsws/playlist.m3u8
-#EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://epg.iill.top/logo/北京卫视.png" group-title=卫视",北京卫视
+#EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://epg.iill.top/logo/北京卫视.png" group-title="卫视",北京卫视
 http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
 #EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://epg.iill.top/logo/深圳卫视.png" group-title="卫视",深圳卫视
 http://satellitepull.cnr.cn/live/wxszws/playlist.m3u8
@@ -739,5 +739,5 @@ https://piccpndali.v.myalicdn.com/audio/xianggangweishi_2.m3u8
 https://piccpndali.v.myalicdn.com/audio/qinghai_2.m3u8
 #EXTINF:-1 tvg-id="内蒙古卫视" tvg-name="内蒙古卫视" tvg-logo="https://epg.iill.top/logo/内蒙古卫视.png" group-title="卫视",内蒙古卫视
 http://satellitepull.cnr.cn/live/wx32nmgws/playlist.m3u8
-#EXTINF:-1 tvg-id="新疆卫视" tvg-name="新疆卫视" tvg-logo="https://epg.iill.top/logo/新疆卫视.png" group-title=卫视",新疆卫视
+#EXTINF:-1 tvg-id="新疆卫视" tvg-name="新疆卫视" tvg-logo="https://epg.iill.top/logo/新疆卫视.png" group-title="卫视",新疆卫视
 http://satellitepull.cnr.cn/live/wxxjws/playlist.m3u8
