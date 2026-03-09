@@ -69,150 +69,148 @@ https://live5.tdm.com.mo/ch6/hd_ch6.live/playlist.m3u8
 https://hls.iill.top/api/CCTV1/index.m3u8
 #EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://epg.iill.top/logo/CCTV2.png" group-title="央視",CCTV 2 財經「Relay」
 https://hls.iill.top/api/CCTV2/index.m3u8
-#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://epg.iill.top/logo/CCTV3.png" group-title="•央視「Relay」",CCTV 3 綜藝「Relay」
+#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://epg.iill.top/logo/CCTV3.png" group-title="央視",CCTV 3 綜藝「Relay」
 https://hls.iill.top/api/CCTV3/index.m3u8
-#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://epg.iill.top/logo/CCTV4.png" group-title="•央視「Relay」",CCTV 4 中文國際「Relay」
+#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://epg.iill.top/logo/CCTV4.png" group-title="央視",CCTV 4 中文國際「Relay」
 https://snap.iill.top/youtube/@LiveNow24H/index.m3u8
-#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://epg.iill.top/logo/CCTV5.png" group-title="•央視「Relay」",CCTV 5 體育「Relay」
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://epg.iill.top/logo/CCTV5.png" group-title="央視",CCTV 5 體育「Relay」
 https://hls.iill.top/api/CCTV5/index.m3u8
-#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://epg.iill.top/logo/CCTV5+.png" group-title="•央視「Relay」",CCTV 5+ 體育賽事「Relay」
+#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://epg.iill.top/logo/CCTV5+.png" group-title="央視",CCTV 5+ 體育賽事「Relay」
 https://hls.iill.top/api/CCTV5+/index.m3u8
-#EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://epg.iill.top/logo/CCTV6.png" group-title="•央視「Relay」",CCTV 6 電影「Relay」
+#EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://epg.iill.top/logo/CCTV6.png" group-title="央視",CCTV 6 電影「Relay」
 https://hls.iill.top/api/CCTV6/index.m3u8
-#EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://epg.iill.top/logo/CCTV7.png" group-title="•央視「Relay」",CCTV 7 國防軍事「Relay」
+#EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://epg.iill.top/logo/CCTV7.png" group-title="央視",CCTV 7 國防軍事「Relay」
 https://hls.iill.top/api/CCTV7/index.m3u8
-#EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://epg.iill.top/logo/CCTV8.png" group-title="•央視「Relay」",CCTV 8 電視劇「Relay」
+#EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://epg.iill.top/logo/CCTV8.png" group-title="央視",CCTV 8 電視劇「Relay」
 https://hls.iill.top/api/CCTV8/index.m3u8
-#EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://epg.iill.top/logo/CCTV9.png" group-title="•央視「Relay」",CCTV 9 記錄「Relay」
+#EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://epg.iill.top/logo/CCTV9.png" group-title="央視",CCTV 9 記錄「Relay」
 https://hls.iill.top/api/CCTV9/index.m3u8
-#EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://epg.iill.top/logo/CCTV10.png" group-title="•央視「Relay」",CCTV 10 科教「Relay」
+#EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://epg.iill.top/logo/CCTV10.png" group-title="央視",CCTV 10 科教「Relay」
 https://hls.iill.top/api/CCTV10/index.m3u8
-#EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://epg.iill.top/logo/CCTV11.png" group-title="•央視「Relay」",CCTV 11 戲曲「Relay」
+#EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://epg.iill.top/logo/CCTV11.png" group-title="央視",CCTV 11 戲曲「Relay」
 https://hls.iill.top/api/CCTV11/index.m3u8
-#EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://epg.iill.top/logo/CCTV12.png" group-title="•央視「Relay」",CCTV 12 社會與法「Relay」
+#EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://epg.iill.top/logo/CCTV12.png" group-title="央視",CCTV 12 社會與法「Relay」
 https://hls.iill.top/api/CCTV12/index.m3u8
-#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://epg.iill.top/logo/CCTV13.png" group-title="•央視「Relay」",CCTV 13 新聞「Relay」
+#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://epg.iill.top/logo/CCTV13.png" group-title="央視",CCTV 13 新聞「Relay」
 https://hls.iill.top/api/CCTV13/index.m3u8
-#EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://epg.iill.top/logo/CCTV14.png" group-title="•央視「Relay」",CCTV 14 少兒「Relay」
+#EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://epg.iill.top/logo/CCTV14.png" group-title="央視",CCTV 14 少兒「Relay」
 https://hls.iill.top/api/CCTV14/index.m3u8
-#EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://epg.iill.top/logo/CCTV15.png" group-title="•央視「Relay」",CCTV 15 音樂「Relay」
+#EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://epg.iill.top/logo/CCTV15.png" group-title="央視",CCTV 15 音樂「Relay」
 https://hls.iill.top/api/CCTV15/index.m3u8
-#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://epg.iill.top/logo/CCTV16.png" group-title="•央視「Relay」",CCTV 16 奧林匹克「Relay」
+#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://epg.iill.top/logo/CCTV16.png" group-title="央視",CCTV 16 奧林匹克「Relay」
 https://hls.iill.top/api/CCTV16/index.m3u8
-#EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://epg.iill.top/logo/CCTV17.png" group-title="•央視「Relay」",CCTV 17 農業農村「Relay」
+#EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://epg.iill.top/logo/CCTV17.png" group-title="央視",CCTV 17 農業農村「Relay」
 https://hls.iill.top/api/CCTV17/index.m3u8
-#EXTINF:-1 tvg-id="CGTN"  tvg-name="CGTN" tvg-logo="https://epg.iill.top/logo/CGTN.png" group-title="•央視「Relay」",CGTN「回看」
+#EXTINF:-1 tvg-id="CGTN"  tvg-name="CGTN" tvg-logo="https://epg.iill.top/logo/CGTN.png" group-title="央視",CGTN「回看」
 https://tv.iill.top/CGTN/cgtn
-#EXTINF:-1 tvg-id="CGTN外语纪录" tvg-name="CGTN外语纪录" tvg-logo="https://epg.iill.top/logo/CGTN纪录.png" group-title="•央視「Relay」",CGTN Documentary「回看」
+#EXTINF:-1 tvg-id="CGTN外语纪录" tvg-name="CGTN外语纪录" tvg-logo="https://epg.iill.top/logo/CGTN纪录.png" group-title="央視",CGTN Documentary「回看」
 https://tv.iill.top/CGTN/cgtn_doc
-#EXTINF:-1 tvg-id="CGTN俄语" tvg-id="CGTN俄语" tvg-logo="https://epg.iill.top/logo/CGTN俄语.png" group-title="•央視「Relay」",CGTN Русский「回看」
+#EXTINF:-1 tvg-id="CGTN俄语" tvg-id="CGTN俄语" tvg-logo="https://epg.iill.top/logo/CGTN俄语.png" group-title="央視",CGTN Русский「回看」
 https://tv.iill.top/CGTN/cgtn_russian
-#EXTINF:-1 tvg-id="CGTN法语" tvg-name="CGTN法语" tvg-logo="https://epg.iill.top/logo/CGTN法语.png" group-title="•央視「Relay」",CGTN Français「回看」
+#EXTINF:-1 tvg-id="CGTN法语" tvg-name="CGTN法语" tvg-logo="https://epg.iill.top/logo/CGTN法语.png" group-title="央視",CGTN Français「回看」
 https://tv.iill.top/CGTN/cgtn_francais
-#EXTINF:-1 tvg-id="CGTN西班牙语" tvg-name="CGTN西班牙语" tvg-logo="https://epg.iill.top/logo/CGTN西班牙语.png" group-title="•央視「Relay」",CGTN Español「回看」
+#EXTINF:-1 tvg-id="CGTN西班牙语" tvg-name="CGTN西班牙语" tvg-logo="https://epg.iill.top/logo/CGTN西班牙语.png" group-title="央視",CGTN Español「回看」
 https://tv.iill.top/CGTN/cgtn_espanol
-#EXTINF:-1 tvg-id="CGTN阿拉伯语" tvg-name="CGTN阿拉伯语" tvg-logo="https://epg.iill.top/logo/CGTN阿拉伯语.png" group-title="•央視「Relay」",CGTN العربية「回看」
+#EXTINF:-1 tvg-id="CGTN阿拉伯语" tvg-name="CGTN阿拉伯语" tvg-logo="https://epg.iill.top/logo/CGTN阿拉伯语.png" group-title="央視",CGTN العربية「回看」
 https://tv.iill.top/CGTN/cgtn_arabic
 
-
-
-#EXTINF:-1 tvg-id="博斯運動一台" tvg-name="博斯運動一台" tvg-logo="https://epg-1.iill.top/logo/博斯運動一台.png" http-user-agent="okhttp/1.9.89" group-title="•台湾「限制」", 博斯運動 一「CatchPlay」
+#EXTINF:-1 tvg-id="博斯運動一台" tvg-name="博斯運動一台" tvg-logo="https://epg-1.iill.top/logo/博斯運動一台.png" http-user-agent="okhttp/1.9.89" group-title="台灣", 博斯運動 一「CatchPlay」
 https://hls.iill.top/api/Sports-Network/index.m3u8
-#EXTINF:-1 tvg-id="博斯運動二台" tvg-name="博斯運動二台" tvg-logo="https://epg-1.iill.top/logo/博斯運動二台.png" http-user-agent="okhttp/1.9.89" group-title="•台湾「限制」", 博斯運動 二「CatchPlay」
+#EXTINF:-1 tvg-id="博斯運動二台" tvg-name="博斯運動二台" tvg-logo="https://epg-1.iill.top/logo/博斯運動二台.png" http-user-agent="okhttp/1.9.89" group-title="台灣", 博斯運動 二「CatchPlay」
 https://hls.iill.top/api/Football-Channel/index.m3u8
-#EXTINF:-1 tvg-id="博斯無限台" tvg-name="博斯無限台" tvg-logo="https://epg-1.iill.top/logo/博斯無限台.png" http-user-agent="okhttp/1.9.89" group-title="•台湾「限制」", 博斯無限 一「FainTV」
+#EXTINF:-1 tvg-id="博斯無限台" tvg-name="博斯無限台" tvg-logo="https://epg-1.iill.top/logo/博斯無限台.png" http-user-agent="okhttp/1.9.89" group-title="台灣", 博斯無限 一「FainTV」
 https://tv.iill.top/FainTV/129
-#EXTINF:-1 tvg-id="博斯無限二台" tvg-name="博斯無限二台" tvg-logo="https://epg-1.iill.top/logo/博斯無限二台.png" http-user-agent="okhttp/1.9.89" group-title="•台湾「限制」", 博斯無限 二「FainTV」
+#EXTINF:-1 tvg-id="博斯無限二台" tvg-name="博斯無限二台" tvg-logo="https://epg-1.iill.top/logo/博斯無限二台.png" http-user-agent="okhttp/1.9.89" group-title="台灣", 博斯無限 二「FainTV」
 https://tv.iill.top/FainTV/418
-#EXTINF:-1 tvg-id="博斯高球台" tvg-name="博斯高球台" tvg-logo="https://epg-1.iill.top/logo/博斯高球台.png" http-user-agent="okhttp/1.9.89" group-title="•台湾「限制」", 博斯高球 一「FainTV」
+#EXTINF:-1 tvg-id="博斯高球台" tvg-name="博斯高球台" tvg-logo="https://epg-1.iill.top/logo/博斯高球台.png" http-user-agent="okhttp/1.9.89" group-title="台灣", 博斯高球 一「FainTV」
 https://tv.iill.top/FainTV/108
-#EXTINF:-1 tvg-id="博斯高球二台" tvg-name="博斯高球二台" tvg-logo="https://epg-1.iill.top/logo/博斯高球二台.png" http-user-agent="okhttp/1.9.89" group-title="•台湾「限制」", 博斯高球 二「FainTV」
+#EXTINF:-1 tvg-id="博斯高球二台" tvg-name="博斯高球二台" tvg-logo="https://epg-1.iill.top/logo/博斯高球二台.png" http-user-agent="okhttp/1.9.89" group-title="台灣", 博斯高球 二「FainTV」
 https://tv.iill.top/FainTV/125
-#EXTINF:-1 tvg-id="博斯網球台" tvg-name="博斯網球台" tvg-logo="https://epg-1.iill.top/logo/博斯網球台.png" http-user-agent="okhttp/1.9.89" group-title="•台湾「限制」", 博斯網球「FainTV」
+#EXTINF:-1 tvg-id="博斯網球台" tvg-name="博斯網球台" tvg-logo="https://epg-1.iill.top/logo/博斯網球台.png" http-user-agent="okhttp/1.9.89" group-title="台灣", 博斯網球「FainTV」
 https://tv.iill.top/FainTV/53
-#EXTINF:-1 tvg-id="博斯魅力台" tvg-name="博斯魅力台" tvg-logo="https://epg-1.iill.top/logo/博斯魅力台.png" http-user-agent="okhttp/1.9.89" group-title="•台湾「限制」", 博斯魅力「FainTV」
+#EXTINF:-1 tvg-id="博斯魅力台" tvg-name="博斯魅力台" tvg-logo="https://epg-1.iill.top/logo/博斯魅力台.png" http-user-agent="okhttp/1.9.89" group-title="台灣", 博斯魅力「FainTV」
 https://tv.iill.top/FainTV/135
-#EXTINF:-1 tvg-id="緯來日本台" tvg-name=緯來日本台" tvg-logo="https://epg.iill.top/logo/緯來日本.png" http-user-agent="okhttp/1.9.89" group-title="•台湾「限制」",緯來日本「Relay」
+#EXTINF:-1 tvg-id="緯來日本台" tvg-name=緯來日本台" tvg-logo="https://epg.iill.top/logo/緯來日本.png" http-user-agent="okhttp/1.9.89" group-title="台灣",緯來日本「Relay」
 https://hls.iill.top/api/VL-Japan/index.m3u8
-#EXTINF:-1 tvg-id="緯來體育台" tvg-name="緯來體育台" tvg-logo="https://epg.iill.top/logo/緯來體育.png" http-user-agent="okhttp/1.9.89" group-title="•台湾「限制」",緯來體育「Relay」
+#EXTINF:-1 tvg-id="緯來體育台" tvg-name="緯來體育台" tvg-logo="https://epg.iill.top/logo/緯來體育.png" http-user-agent="okhttp/1.9.89" group-title="台灣",緯來體育「Relay」
 https://hls.iill.top/api/VL-Sports/index.m3u8
-#EXTINF:-1 tvg-id="緯來電影台" tvg-name="緯來電影台" tvg-logo="https://epg.iill.top/logo/緯來電影.png" http-user-agent="okhttp/1.9.89" group-title="•台湾「限制」",緯來電影「Relay」
+#EXTINF:-1 tvg-id="緯來電影台" tvg-name="緯來電影台" tvg-logo="https://epg.iill.top/logo/緯來電影.png" http-user-agent="okhttp/1.9.89" group-title="台灣",緯來電影「Relay」
 https://hls.iill.top/api/VL-Movies/index.m3u8
-#EXTINF:-1 tvg-id="緯來綜合台" tvg-name="緯來綜合台" tvg-logo="https://epg.iill.top/logo/緯來綜合.png" http-user-agent="okhttp/1.9.89" group-title="•台湾「限制」",緯來綜合「Relay」
+#EXTINF:-1 tvg-id="緯來綜合台" tvg-name="緯來綜合台" tvg-logo="https://epg.iill.top/logo/緯來綜合.png" http-user-agent="okhttp/1.9.89" group-title="台灣",緯來綜合「Relay」
 https://hls.iill.top/api/VL-ONTV/index.m3u8
-#EXTINF:-1 tvg-id="緯來戲劇台" tvg-name="緯來戲劇台" tvg-logo="https://epg.iill.top/logo/緯來戲劇.png" http-user-agent="okhttp/1.9.89" group-title="•台湾「限制」",緯來戲劇「Relay」
+#EXTINF:-1 tvg-id="緯來戲劇台" tvg-name="緯來戲劇台" tvg-logo="https://epg.iill.top/logo/緯來戲劇.png" http-user-agent="okhttp/1.9.89" group-title="台灣",緯來戲劇「Relay」
 https://hls.iill.top/api/VL-Drama/index.m3u8
-#EXTINF:-1 tvg-id="緯來育樂台" tvg-name="緯來育樂台" tvg-logo="https://epg.iill.top/logo/緯來育樂.png" http-user-agent="okhttp/1.9.89" group-title="•台湾「限制」",緯來育樂「Relay」
+#EXTINF:-1 tvg-id="緯來育樂台" tvg-name="緯來育樂台" tvg-logo="https://epg.iill.top/logo/緯來育樂.png" http-user-agent="okhttp/1.9.89" group-title="台灣",緯來育樂「Relay」
 https://hls.iill.top/api/VL-E/index.m3u8
-#EXTINF:-1 tvg-id="中天亞洲台" tvg-name="中天亞洲台" tvg-logo="https://epg-1.iill.top/logo/中天亞洲台.png" http-user-agent="okhttp/1.9.89" group-title="•台湾「限制」", 中天亞洲「FainTV」
+#EXTINF:-1 tvg-id="中天亞洲台" tvg-name="中天亞洲台" tvg-logo="https://epg-1.iill.top/logo/中天亞洲台.png" http-user-agent="okhttp/1.9.89" group-title="台灣", 中天亞洲「FainTV」
 https://tv.iill.top/FainTV/121
-#EXTINF:-1 tvg-id="中天綜合台" tvg-name="中天綜合台" tvg-logo="https://epg.iill.top/logo/中天綜合台.png" http-user-agent="okhttp/1.9.89" group-title="•台湾「限制」",中天綜合「Relay」
+#EXTINF:-1 tvg-id="中天綜合台" tvg-name="中天綜合台" tvg-logo="https://epg.iill.top/logo/中天綜合台.png" http-user-agent="okhttp/1.9.89" group-title="台灣",中天綜合「Relay」
 https://hls.iill.top/api/Cti-K/index.m3u8
-#EXTINF:-1 tvg-id="中天娛樂台" tvg-name="中天娛樂台" tvg-logo="https://epg.iill.top/logo/中天娛樂台.png" http-user-agent="okhttp/1.9.89" group-title="•台湾「限制」",中天娛樂「Relay」
+#EXTINF:-1 tvg-id="中天娛樂台" tvg-name="中天娛樂台" tvg-logo="https://epg.iill.top/logo/中天娛樂台.png" http-user-agent="okhttp/1.9.89" group-title="台灣",中天娛樂「Relay」
 https://hls.iill.top/api/Cti-E/index.m3u8
-#EXTINF:-1 tvg-id="中天新聞台" tvg-name="中天新聞台" tvg-logo="https://epg.iill.top/logo/中天新聞台.png" http-user-agent="okhttp/1.9.89" group-title="•台湾「限制」",中天新聞「4gTV」
+#EXTINF:-1 tvg-id="中天新聞台" tvg-name="中天新聞台" tvg-logo="https://epg.iill.top/logo/中天新聞台.png" http-user-agent="okhttp/1.9.89" group-title="台灣",中天新聞「4gTV」
 https://tv.iill.top/4gtv/4gtv-4gtv009
-#EXTINF:-1 tvg-id="中視" tvg-name="中視" tvg-logo="https://epg.iill.top/logo/中視.png" http-user-agent="okhttp/1.9.89" group-title="•台湾「限制」",中視「4gTV」
+#EXTINF:-1 tvg-id="中視" tvg-name="中視" tvg-logo="https://epg.iill.top/logo/中視.png" http-user-agent="okhttp/1.9.89" group-title="台灣",中視「4gTV」
 https://tv.iill.top/4gtv/4gtv-4gtv040
-#EXTINF:-1 tvg-id="中視新聞" tvg-name="中視新聞" tvg-logo="https://epg.iill.top/logo/中視新聞.png" http-user-agent="okhttp/1.9.89" group-title="•台湾「限制」",中視新聞「4gTV」
+#EXTINF:-1 tvg-id="中視新聞" tvg-name="中視新聞" tvg-logo="https://epg.iill.top/logo/中視新聞.png" http-user-agent="okhttp/1.9.89" group-title="台灣",中視新聞「4gTV」
 https://tv.iill.top/4gtv/4gtv-4gtv074
-#EXTINF:-1 tvg-id="東森新聞台" tvg-name="東森新聞台" tvg-logo="https://epg.iill.top/logo/東森新聞台.png" http-user-agent="okhttp/1.9.89" group-title="•台湾「限制」",東森新聞「4gTV」
+#EXTINF:-1 tvg-id="東森新聞台" tvg-name="東森新聞台" tvg-logo="https://epg.iill.top/logo/東森新聞台.png" http-user-agent="okhttp/1.9.89" group-title="台灣",東森新聞「4gTV」
 https://tv.iill.top/4gtv/4gtv-4gtv152
-#EXTINF:-1 tvg-id="東森財經新聞台" tvg-name="東森財經新聞台" tvg-logo="https://epg.iill.top/logo/東森財經新聞台.png" http-user-agent="okhttp/1.9.89" group-title="•台湾「限制」",東森財經「4gTV」
+#EXTINF:-1 tvg-id="東森財經新聞台" tvg-name="東森財經新聞台" tvg-logo="https://epg.iill.top/logo/東森財經新聞台.png" http-user-agent="okhttp/1.9.89" group-title="台灣",東森財經「4gTV」
 https://tv.iill.top/4gtv/4gtv-4gtv153
-#EXTINF:-1 tvg-id="東森電影台" tvg-name="東森電影台" tvg-logo="https://epg.iill.top/logo/東森電影台.png" http-user-agent="okhttp/1.9.89" group-title="•台湾「限制」",東森電影「Relay」
+#EXTINF:-1 tvg-id="東森電影台" tvg-name="東森電影台" tvg-logo="https://epg.iill.top/logo/東森電影台.png" http-user-agent="okhttp/1.9.89" group-title="台灣",東森電影「Relay」
 https://hls.iill.top/api/ET-Movie/index.m3u8
-#EXTINF:-1 tvg-id="東森洋片台" tvg-name="東森洋片台" tvg-logo="https://epg.iill.top/logo/東森洋片台.png" http-user-agent="okhttp/1.9.89" group-title="•台湾「限制」",東森洋片「Relay」
+#EXTINF:-1 tvg-id="東森洋片台" tvg-name="東森洋片台" tvg-logo="https://epg.iill.top/logo/東森洋片台.png" http-user-agent="okhttp/1.9.89" group-title="台灣",東森洋片「Relay」
 https://hls.iill.top/api/ET-Foreign-Movie-Channel/index.m3u8
-#EXTINF:-1 tvg-id="東森綜合台" tvg-name="東森綜合台" tvg-logo="https://epg.iill.top/logo/東森綜合台.png" http-user-agent="okhttp/1.9.89" group-title="•台湾「限制」",東森綜合「Relay」
+#EXTINF:-1 tvg-id="東森綜合台" tvg-name="東森綜合台" tvg-logo="https://epg.iill.top/logo/東森綜合台.png" http-user-agent="okhttp/1.9.89" group-title="台灣",東森綜合「Relay」
 https://hls.iill.top/api/ET-Variety-Channel/index.m3u8
-#EXTINF:-1 tvg-id="東森戲劇台" tvg-name="東森戲劇台" tvg-logo="https://epg.iill.top/logo/東森戲劇台.png" http-user-agent="okhttp/1.9.89" group-title="•台湾「限制」",東森戲劇「Relay」
+#EXTINF:-1 tvg-id="東森戲劇台" tvg-name="東森戲劇台" tvg-logo="https://epg.iill.top/logo/東森戲劇台.png" http-user-agent="okhttp/1.9.89" group-title="台灣",東森戲劇「Relay」
 https://hls.iill.top/api/ET-Drama-Channel/index.m3u8
-#EXTINF:-1 tvg-id="東森幼幼台" tvg-name="東森幼幼台" tvg-logo="https://epg.iill.top/logo/東森幼幼台.png" http-user-agent="okhttp/1.9.89" group-title="•台湾「限制」",東森幼幼「Relay」
+#EXTINF:-1 tvg-id="東森幼幼台" tvg-name="東森幼幼台" tvg-logo="https://epg.iill.top/logo/東森幼幼台.png" http-user-agent="okhttp/1.9.89" group-title="台灣",東森幼幼「Relay」
 https://hls.iill.top/api/YoYo-TV/index.m3u8
-#EXTINF:-1 tvg-id="TVBS" tvg-name="TVBS" tvg-logo="https://epg.iill.top/logo/TVBS.png" http-user-agent="okhttp/1.9.89" group-title="•台湾「限制」",TVBS「4gTV」
+#EXTINF:-1 tvg-id="TVBS" tvg-name="TVBS" tvg-logo="https://epg.iill.top/logo/TVBS.png" http-user-agent="okhttp/1.9.89" group-title="台灣",TVBS「4gTV」
 https://tv.iill.top/4gtv/media-live073
-#EXTINF:-1 tvg-id="TVBS新聞" tvg-name="TVBS新聞" tvg-logo="https://epg.iill.top/logo/TVBS新聞.png" http-user-agent="okhttp/1.9.89" group-title="•台湾「限制」",TVBS 新聞「4gTV」
+#EXTINF:-1 tvg-id="TVBS新聞" tvg-name="TVBS新聞" tvg-logo="https://epg.iill.top/logo/TVBS新聞.png" http-user-agent="okhttp/1.9.89" group-title="台灣",TVBS 新聞「4gTV」
 https://tv.iill.top/4gtv/media-live072
-#EXTINF:-1 tvg-id="TVBS歡樂台" tvg-name="TVBS歡樂台" tvg-logo="https://epg.iill.top/logo/TVBS歡樂台.png" http-user-agent="okhttp/1.9.89" group-title="•台湾「限制」",TVBS 歡樂「4gTV」
+#EXTINF:-1 tvg-id="TVBS歡樂台" tvg-name="TVBS歡樂台" tvg-logo="https://epg.iill.top/logo/TVBS歡樂台.png" http-user-agent="okhttp/1.9.89" group-title="台灣",TVBS 歡樂「4gTV」
 https://tv.iill.top/4gtv/4gtv-4gtv068
-#EXTINF:-1 tvg-id="TVBS精采台" tvg-name="TVBS精采台" tvg-logo="https://epg.iill.top/logo/TVBS精采台.png" http-user-agent="okhttp/1.9.89" group-title="•台湾「限制」",TVBS 精采「4gTV」
+#EXTINF:-1 tvg-id="TVBS精采台" tvg-name="TVBS精采台" tvg-logo="https://epg.iill.top/logo/TVBS精采台.png" http-user-agent="okhttp/1.9.89" group-title="台灣",TVBS 精采「4gTV」
 https://tv.iill.top/4gtv/4gtv-4gtv067
-#EXTINF:-1 tvg-id="KLT-靖天國際台" tvg-name="KLT-靖天國際台" tvg-logo="https://epg.iill.top/logo/KLT-靖天國際台.png" http-user-agent="okhttp/1.9.89" group-title="•台湾「限制」",靖天國際「4gTV」
+#EXTINF:-1 tvg-id="KLT-靖天國際台" tvg-name="KLT-靖天國際台" tvg-logo="https://epg.iill.top/logo/KLT-靖天國際台.png" http-user-agent="okhttp/1.9.89" group-title="台灣",靖天國際「4gTV」
 https://tv.iill.top/4gtv/4gtv-4gtv063
-#EXTINF:-1 tvg-id="Nice TV靖天歡樂台" tvg-name="Nice TV靖天歡樂台" tvg-logo="https://epg.iill.top/logo/Nice-TV靖天歡樂台.png" http-user-agent="okhttp/1.9.89" group-title="•台湾「限制」",靖天歡樂「4gTV」
+#EXTINF:-1 tvg-id="Nice TV靖天歡樂台" tvg-name="Nice TV靖天歡樂台" tvg-logo="https://epg.iill.top/logo/Nice-TV靖天歡樂台.png" http-user-agent="okhttp/1.9.89" group-title="台灣",靖天歡樂「4gTV」
 https://tv.iill.top/4gtv/4gtv-4gtv054
-#EXTINF:-1 tvg-id="靖天映畫" tvg-name="靖天映畫" tvg-logo="https://epg.iill.top/logo/靖天映畫.png" http-user-agent="okhttp/1.9.89" group-title="•台湾「限制」",靖天映畫「4gTV」
+#EXTINF:-1 tvg-id="靖天映畫" tvg-name="靖天映畫" tvg-logo="https://epg.iill.top/logo/靖天映畫.png" http-user-agent="okhttp/1.9.89" group-title="台灣",靖天映畫「4gTV」
 https://tv.iill.top/4gtv/4gtv-4gtv055
-#EXTINF:-1 tvg-id="靖天戲劇台" tvg-name="靖天戲劇台" tvg-logo="https://epg.iill.top/logo/靖天戲劇台.png" http-user-agent="okhttp/1.9.89" group-title="•台湾「限制」",靖天戲劇「4gTV」
+#EXTINF:-1 tvg-id="靖天戲劇台" tvg-name="靖天戲劇台" tvg-logo="https://epg.iill.top/logo/靖天戲劇台.png" http-user-agent="okhttp/1.9.89" group-title="台灣",靖天戲劇「4gTV」
 https://tv.iill.top/4gtv/4gtv-4gtv058
-#EXTINF:-1 tvg-id="靖天日本台" tvg-name="靖天日本台" tvg-logo="https://epg.iill.top/logo/靖天日本台.png" http-user-agent="okhttp/1.9.89" group-title="•台湾「限制」",靖天日本「4gTV」
+#EXTINF:-1 tvg-id="靖天日本台" tvg-name="靖天日本台" tvg-logo="https://epg.iill.top/logo/靖天日本台.png" http-user-agent="okhttp/1.9.89" group-title="台灣",靖天日本「4gTV」
 https://tv.iill.top/4gtv/4gtv-4gtv047
-#EXTINF:-1 tvg-id="靖天綜合台" tvg-name="靖天綜合台" tvg-logo="https://epg.iill.top/logo/靖天綜合台.png" http-user-agent="okhttp/1.9.89" group-title="•台湾「限制」",靖天綜合「4gTV」
+#EXTINF:-1 tvg-id="靖天綜合台" tvg-name="靖天綜合台" tvg-logo="https://epg.iill.top/logo/靖天綜合台.png" http-user-agent="okhttp/1.9.89" group-title="台灣",靖天綜合「4gTV」
 https://tv.iill.top/4gtv/4gtv-4gtv046
-#EXTINF:-1 tvg-id="靖天育樂台" tvg-name="靖天育樂台" tvg-logo="https://epg.iill.top/logo/靖天育樂台.png" http-user-agent="okhttp/1.9.89" group-title="•台湾「限制」",靖天育樂「4gTV」
+#EXTINF:-1 tvg-id="靖天育樂台" tvg-name="靖天育樂台" tvg-logo="https://epg.iill.top/logo/靖天育樂台.png" http-user-agent="okhttp/1.9.89" group-title="台灣",靖天育樂「4gTV」
 https://tv.iill.top/4gtv/4gtv-4gtv062
-#EXTINF:-1 tvg-id="靖天資訊台" tvg-name="靖天資訊台" tvg-logo="https://epg.iill.top/logo/靖天資訊台.png" http-user-agent="okhttp/1.9.89" group-title="•台湾「限制」",靖天資訊「4gTV」
+#EXTINF:-1 tvg-id="靖天資訊台" tvg-name="靖天資訊台" tvg-logo="https://epg.iill.top/logo/靖天資訊台.png" http-user-agent="okhttp/1.9.89" group-title="台灣",靖天資訊「4gTV」
 https://tv.iill.top/4gtv/4gtv-4gtv065
-#EXTINF:-1 tvg-id="靖天電影台" tvg-name="靖天電影台" tvg-logo="https://epg.iill.top/logo/靖天電影台.png" http-user-agent="okhttp/1.9.89" group-title="•台湾「限制」",靖天電影「4gTV」
+#EXTINF:-1 tvg-id="靖天電影台" tvg-name="靖天電影台" tvg-logo="https://epg.iill.top/logo/靖天電影台.png" http-user-agent="okhttp/1.9.89" group-title="台灣",靖天電影「4gTV」
 https://tv.iill.top/4gtv/4gtv-4gtv061
-#EXTINF:-1 tvg-id="靖天卡通台" tvg-name="靖天卡通台" tvg-logo="https://epg.iill.top/logo/靖天卡通台.png" http-user-agent="okhttp/1.9.89" group-title="•台湾「限制」",靖天卡通「4gTV」
+#EXTINF:-1 tvg-id="靖天卡通台" tvg-name="靖天卡通台" tvg-logo="https://epg.iill.top/logo/靖天卡通台.png" http-user-agent="okhttp/1.9.89" group-title="台灣",靖天卡通「4gTV」
 https://tv.iill.top/4gtv/4gtv-4gtv044
-#EXTINF:-1 tvg-id="靖洋卡通台Nice Bingo" tvg-name="靖洋卡通台Nice Bingo" tvg-logo="https://epg.iill.top/logo/靖洋卡通Nice-Bingo.png" http-user-agent="okhttp/1.9.89" group-title="•台湾「限制」",靖洋卡通「4gTV」
+#EXTINF:-1 tvg-id="靖洋卡通台Nice Bingo" tvg-name="靖洋卡通台Nice Bingo" tvg-logo="https://epg.iill.top/logo/靖洋卡通Nice-Bingo.png" http-user-agent="okhttp/1.9.89" group-title="台灣",靖洋卡通「4gTV」
 https://tv.iill.top/4gtv/4gtv-4gtv057
-#EXTINF:-1 tvg-id="靖洋戲劇台" tvg-name="靖洋戲劇台" tvg-logo="https://epg.iill.top/logo/靖洋戲劇台.png" http-user-agent="okhttp/1.9.89" group-title="•台湾「限制」",靖洋戲劇「4gTV」
+#EXTINF:-1 tvg-id="靖洋戲劇台" tvg-name="靖洋戲劇台" tvg-logo="https://epg.iill.top/logo/靖洋戲劇台.png" http-user-agent="okhttp/1.9.89" group-title="台灣",靖洋戲劇「4gTV」
 https://tv.iill.top/4gtv/4gtv-4gtv045
-#EXTINF:-1 tvg-id="龍華偶像台" tvg-name="龍華偶像台" tvg-logo="https://epg.iill.top/logo/龍華偶像台.png" http-user-agent="okhttp/1.9.89" group-title="•台湾「限制」",龍華偶像「ofiii」
+#EXTINF:-1 tvg-id="龍華偶像台" tvg-name="龍華偶像台" tvg-logo="https://epg.iill.top/logo/龍華偶像台.png" http-user-agent="okhttp/1.9.89" group-title="台灣",龍華偶像「ofiii」
 https://tv.iill.top/ofiii/litv-xinchuang12
-#EXTINF:-1 tvg-id="龍華卡通台" tvg-name="龍華卡通台" tvg-logo="https://epg.iill.top/logo/龍華卡通台.png" http-user-agent="okhttp/1.9.89" group-title="•台湾「限制」",龍華卡通「ofiii」
+#EXTINF:-1 tvg-id="龍華卡通台" tvg-name="龍華卡通台" tvg-logo="https://epg.iill.top/logo/龍華卡通台.png" http-user-agent="okhttp/1.9.89" group-title="台灣",龍華卡通「ofiii」
 https://tv.iill.top/ofiii/litv-xinchuang01
-#EXTINF:-1 tvg-id="龍華戲劇台" tvg-name="龍華戲劇台" tvg-logo="https://epg.iill.top/logo/龍華戲劇台.png" http-user-agent="okhttp/1.9.89" group-title="•台湾「限制」",龍華戲劇「ofiii」
+#EXTINF:-1 tvg-id="龍華戲劇台" tvg-name="龍華戲劇台" tvg-logo="https://epg.iill.top/logo/龍華戲劇台.png" http-user-agent="okhttp/1.9.89" group-title="台灣",龍華戲劇「ofiii」
 https://tv.iill.top/ofiii/litv-xinchuang18
-#EXTINF:-1 tvg-id="龍華日韓台" tvg-name="龍華日韓台" tvg-logo="https://epg.iill.top/logo/龍華日韓台.png" http-user-agent="okhttp/1.9.89" group-title="•台湾「限制」",龍華日韓「ofiii」
+#EXTINF:-1 tvg-id="龍華日韓台" tvg-name="龍華日韓台" tvg-logo="https://epg.iill.top/logo/龍華日韓台.png" http-user-agent="okhttp/1.9.89" group-title="台灣",龍華日韓「ofiii」
 https://tv.iill.top/ofiii/litv-xinchuang11
-#EXTINF:-1 tvg-id="龍華洋片台" tvg-name="龍華洋片台" tvg-logo="https://epg.iill.top/logo/龍華洋片台.png" http-user-agent="okhttp/1.9.89" group-title="•台湾「限制」",龍華洋片「ofiii」
+#EXTINF:-1 tvg-id="龍華洋片台" tvg-name="龍華洋片台" tvg-logo="https://epg.iill.top/logo/龍華洋片台.png" http-user-agent="okhttp/1.9.89" group-title="台灣",龍華洋片「ofiii」
 https://tv.iill.top/ofiii/litv-xinchuang02
-#EXTINF:-1 tvg-id="龍華經典台" tvg-name="龍華經典台" tvg-logo="https://epg.iill.top/logo/龍華經典台.png" http-user-agent="okhttp/1.9.89" group-title="•台湾「限制」",龍華經典「ofiii」
+#EXTINF:-1 tvg-id="龍華經典台" tvg-name="龍華經典台" tvg-logo="https://epg.iill.top/logo/龍華經典台.png" http-user-agent="okhttp/1.9.89" group-title="台灣",龍華經典「ofiii」
 https://tv.iill.top/ofiii/litv-xinchuang21
-#EXTINF:-1 tvg-id="龍華電影台" tvg-name="龍華電影台" tvg-logo="https://epg.iill.top/logo/龍華電影台.png" http-user-agent="okhttp/1.9.89" group-title="•台湾「限制」",龍華電影「ofiii」
-htt
+#EXTINF:-1 tvg-id="龍華電影台" tvg-name="龍華電影台" tvg-logo="https://epg.iill.top/logo/龍華電影台.png" http-user-agent="okhttp/1.9.89" group-title="台灣",龍華電影「ofiii」
+
