@@ -196,7 +196,7 @@ http://43.152.31.17:843/hlslive-tx-cdn.ysp.cctv.cn/ysp/2025560803_dlna.m3u8
 https://piccpndali.v.myalicdn.com/audio/xianggangweishi_2.m3u8
 #EXTINF:-1 tvg-id="青海卫视" tvg-name="青海卫视" tvg-logo="https://epg.iill.top/logo/青海卫视.png" group-title="卫视",青海卫视
 http://43.152.31.17:843/hlslive-tx-cdn.ysp.cctv.cn/ysp/2025559103_dlna.m3u8
-#EXTINF:-1 tvg-id="内蒙古卫视" tvg-name="内蒙古卫视" tvg-logo="https://epg.iill.top/logo/内蒙古卫视.png" group-title="卫视",内蒙古卫视
+#EXTINF:-1 tvg-id="内蒙古卫视" tvg-name="内蒙古卫视" tvg-logo="http://www.tvyan.com/uploads/dianshi/neimenggutv.jpg" group-title="卫视",内蒙古卫视
 http://43.152.31.17:843/hlslive-tx-cdn.ysp.cctv.cn/ysp/2025561203_dlna.m3u8
 #EXTINF:-1 tvg-id="新疆卫视" tvg-name="新疆卫视" tvg-logo="https://epg.iill.top/logo/新疆卫视.png" group-title="卫视",新疆卫视
 http://123.190.202.14:9008/rtp/232.0.0.18:1234
@@ -584,6 +584,8 @@ https://hls.iill.top/api/Sky-Sports-Mix/index.m3u8
 https://hls.iill.top/api/Sky-Sports-Racing/index.m3u8
 #EXTINF:-1 tvg-id="FIGHT SPORTS HD" tvg-name="FIGHT SPORTS HD" tvg-logo="https://epg-1.iill.top/logo/Fight-Sports.png" group-title="體育",Fight Sports
 https://hls.iill.top/api/Fight-Sports/index.m3u8
+#EXTINF:-1 tvg-id="UFC Channel" tvg-name="UFC Channel" tvg-logo="https://ntvb.tmsimg.com/assets/p14097159_b_h10_aa.jpg" group-title="體育",UFC Channel
+https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/61769.ts
 
 #EXTINF:-1 tvg-id="Red Bull TV" tvg-name="Red Bull TV" tvg-logo="https://epg.iill.top/logo/RedBull.png" group-title="綜合",Red Bull TV
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
