@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://epg.iill.top/epg.xml.gz" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
+7#EXTM3U x-tvg-url="https://epg.iill.top/epg.xml.gz" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
 
 #EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://epg.iill.top/logo/翡翠台.png" group-title="香港", 翡翠台
 http://74.91.26.218:82/live/jade.m3u8
@@ -590,6 +590,8 @@ https://hls.iill.top/api/Fight-Sports/index.m3u8
 https://fighthls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="UFC Channel" tvg-name="UFC Channel" tvg-logo="https://ntvb.tmsimg.com/assets/p14097159_b_h10_aa.jpg" group-title="體育",UFC Channel
 https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/61769.ts
+#EXTINF:-1 tvg-id="Fight Network" tvg-name=Fight Network" tvg-logo="https://cdn.mos.cms.futurecdn.net/TuW7G3DP35wkq5LQWAGchG-533-80.jpg.webp" group-title="體育",Fight Network
+https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/81589.ts
 #EXTINF:-1 tvg-id="Premier League TV" tvg-name="Premier League TV" tvg-logo="https://logodownload.org/wp-content/uploads/2016/03/premier-league.png" group-title="體育",Premier League TV
 https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/660938.ts
 
