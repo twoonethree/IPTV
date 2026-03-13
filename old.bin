@@ -586,6 +586,8 @@ https://hls.iill.top/api/Sky-Sports-Racing/index.m3u8
 https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/2184.ts
 #EXTINF:-1 tvg-id="FIGHT SPORTS HD" tvg-name="FIGHT SPORTS HD" tvg-logo="https://epg-1.iill.top/logo/Fight-Sports.png" group-title="體育",Fight Sports
 https://hls.iill.top/api/Fight-Sports/index.m3u8
+#EXTINF:-1 tvg-id="Persiana Fight" tvg-name="Persiana Fight" tvg-logo="https://www.parsatv.com/index_files/channels/persianafighttv.png" group-title="體育",Persiana Fight
+https://fighthls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="UFC Channel" tvg-name="UFC Channel" tvg-logo="https://ntvb.tmsimg.com/assets/p14097159_b_h10_aa.jpg" group-title="體育",UFC Channel
 https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/61769.ts
 #EXTINF:-1 tvg-id="Premier League TV" tvg-name="Premier League TV" tvg-logo="https://logodownload.org/wp-content/uploads/2016/03/premier-league.png" group-title="體育",Premier League TV
