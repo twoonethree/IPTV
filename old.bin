@@ -582,6 +582,8 @@ https://hls.iill.top/api/Sky-Sports-F1/index.m3u8
 https://hls.iill.top/api/Sky-Sports-Mix/index.m3u8
 #EXTINF:-1 tvg-id="SkySp Racing HD" tvg-name="SkySp Racing HD" tvg-logo="https://epg-1.iill.top/logo/Sky-Sports-Racing.png" group-title="體育",Sky Sports Racing
 https://hls.iill.top/api/Sky-Sports-Racing/index.m3u8
+#EXTINF:-1 tvg-id="SkySp Main Event" tvg-name="SkySp Main Event" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b8/Sky_Sports_Main_Event_HD.png/revision/latest?cb=202006081422159" group-title="體育",Sky Sports Main Event
+https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/2184.ts
 #EXTINF:-1 tvg-id="FIGHT SPORTS HD" tvg-name="FIGHT SPORTS HD" tvg-logo="https://epg-1.iill.top/logo/Fight-Sports.png" group-title="體育",Fight Sports
 https://hls.iill.top/api/Fight-Sports/index.m3u8
 #EXTINF:-1 tvg-id="UFC Channel" tvg-name="UFC Channel" tvg-logo="https://ntvb.tmsimg.com/assets/p14097159_b_h10_aa.jpg" group-title="體育",UFC Channel
