@@ -588,6 +588,8 @@ https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/2184.ts
 https://hls.iill.top/api/Fight-Sports/index.m3u8
 #EXTINF:-1 tvg-id="UFC Channel" tvg-name="UFC Channel" tvg-logo="https://ntvb.tmsimg.com/assets/p14097159_b_h10_aa.jpg" group-title="體育",UFC Channel
 https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/61769.ts
+#EXTINF:-1 tvg-id="Premier League TV" tvg-name="Premier League TV" tvg-logo="https://www.logo.wine/a/logo/Premier_League/Premier_League-Logo.wine.svg" group-title="體育",Premier League TV
+https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/660938.ts
 
 #EXTINF:-1 tvg-id="Red Bull TV" tvg-name="Red Bull TV" tvg-logo="https://epg.iill.top/logo/RedBull.png" group-title="綜合",Red Bull TV
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
