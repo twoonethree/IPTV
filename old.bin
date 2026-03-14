@@ -18,6 +18,14 @@ https://tv.iill.top/phenix/fhhk
 https://881.touch-u.fun/playlist.m3u8
 #EXTINF:-1 tvg-id="商業電台 叱咤903" tvg-name="商業電台 叱咤903" tvg-logo="https://epg.iill.top/logo/叱咤903.png" group-title="電台",叱咤903「电台」
 https://903.touch-u.fun/playlist.m3u8
+#EXTINF:-1 tvg-id="rthk1" tvg-name="rthk1" tvg-logo="https://static.wikia.nocookie.net/hkradio/images/3/39/RTHK1_LOGO.jpg/revision/latest?cb=20250828094022&path-prefix=zh" group-title="電台",rthk1「电台」
+http://rthkaudio1-lh.akamaihd.net/i/radio1_1@355864/master.m3u8
+#EXTINF:-1 tvg-id="rthk2" tvg-name="rthk2" tvg-logo="https://static.wikia.nocookie.net/hkradio/images/6/65/RTHK2_LOGO.jpg/revision/latest?cb=20250828090547&path-prefix=zh" group-title="電台",rthk2「电台」
+http://rthkaudio2-lh.akamaihd.net/i/radio2_1@355865/master.m3u8
+#EXTINF:-1 tvg-id="rthk3" tvg-name="rthk3" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/a0/bd/24/a0bd24ce-d8aa-8d44-a36f-d0e88f26d9bc/WorldDetails14242088052225050761.jpeg/600x600bb.webp" group-title="電台",rthk3「电台」
+http://rthk.hk/live3.m3u
+#EXTINF:-1 tvg-id="rthk4" tvg-name="rthk4" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/24/1e/45/241e4553-d26f-a8fe-8174-449e7b260eaf/WorldDetails17066185227665613410.jpeg/600x600bb.webp" group-title="電台",rthk4「电台」
+http://rthk.hk/live4.m3u
 #EXTINF:-1 tvg-id="Now新聞台" tvg-name="Now新聞台" tvg-logo="https://epg.iill.top/logo/Now新聞台.png" group-title="新聞",Now新聞台
 http://cdn.veryfast.filegear-sg.me/live/now/stream.m3u8
 #EXTINF:-1 tvg-id="Now財經台" tvg-name="Now財經台" tvg-logo="https://epg.iill.top/logo/Now財經台.png" group-title="財經",Now財經台
