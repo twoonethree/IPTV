@@ -30,7 +30,7 @@ http://rthkaudio4-lh.akamaihd.net/i/radio4_1@355867/master.m3u8
 http://rthkaudio5-lh.akamaihd.net/i/radio5_1@355868/master.m3u8
 #EXTINF:-1 tvg-id="rthk普通話台" tvg-name="rthk普通話台" tvg-logo="https://www.hiendy.com/hififorum/data/attachment/forum/202406/29/204745r3quzsn7tr7cstsx.png.thumb.jpg" group-title="電台",rthk普通話台「电台」
 http://rthkaudio6-lh.akamaihd.net/i/radiopth_1@355869/master.m3u8
-#EXTINF:-1 tvg-id="d100" tvg-name="d100" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/d/dc/D100_Logo1.png/250px-D100_Logo1.png" group-title="電台",d100
+#EXTINF:-1 tvg-id="d100" tvg-name="d100" tvg-logo="https://dvw7f7sqjk3ag.cloudfront.net/images/radio/56212353.jpg" group-title="電台",d100
 https://uk.d100.net:8001/Channel1-128MP3
 #EXTINF:-1 tvg-id="Now新聞台" tvg-name="Now新聞台" tvg-logo="https://epg.iill.top/logo/Now新聞台.png" group-title="新聞",Now新聞台
 http://cdn.veryfast.filegear-sg.me/live/now/stream.m3u8
