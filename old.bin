@@ -34,6 +34,8 @@ http://rthkaudio6-lh.akamaihd.net/i/radiopth_1@355869/master.m3u8
 https://1716664847.rsc.cdn77.org/1716664847/index.m3u8
 #EXTINF:-1 tvg-id="新城知訊台" tvg-name="新城知訊台" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEqBCA15rDeahDxtmJqYRCGEW09h8NDRk-kXiQnAG7fg&s=10" group-title="電台",新城知訊台
 https://1603884249.rsc.cdn77.org/1603884249/index.m3u8
+#EXTINF:-1 tvg-id="AM1044" tvg-name="AM1044" tvg-logo="https://liveonlineradio.net/wp-content/uploads/2018/03/Metro-Plus-100x47.jpg" group-title="電台",AM1044
+https://1946218710.rsc.cdn77.org/1946218710/index.m3u8
 #EXTINF:-1 tvg-id="d100" tvg-name="d100" tvg-logo="https://dvw7f7sqjk3ag.cloudfront.net/images/radio/56212353.jpg" group-title="電台",d100
 https://uk.d100.net:8001/Channel1-128MP3
 #EXTINF:-1 tvg-id="Now新聞台" tvg-name="Now新聞台" tvg-logo="https://epg.iill.top/logo/Now新聞台.png" group-title="新聞",Now新聞台
