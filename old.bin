@@ -26,6 +26,10 @@ http://rthkaudio2-lh.akamaihd.net/i/radio2_1@355865/master.m3u8
 http://rthk.hk/live3.m3u
 #EXTINF:-1 tvg-id="rthk4" tvg-name="rthk4" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/24/1e/45/241e4553-d26f-a8fe-8174-449e7b260eaf/WorldDetails17066185227665613410.jpeg/600x600bb.webp" group-title="電台",rthk4「电台」
 http://rthk.hk/live4.m3u
+#EXTINF:-1 tvg-id="rthk5" tvg-name="rthk5" tvg-logo="https://www.radio.net/175/rthk5.png?version=c0d41af39c62fe2257053d77f3c7e18d35146bcb" group-title="電台",rthk5「电台」
+http://rthk.hk/live5.m3u
+#EXTINF:-1 tvg-id="rthk普通話台" tvg-name="rthk普通話台" tvg-logo="https://www.hiendy.com/hififorum/data/attachment/forum/202406/29/204745r3quzsn7tr7cstsx.png.thumb.jpg" group-title="電台",rthk普通話台「电台」
+http://rthk.hk/livepth.m3u
 #EXTINF:-1 tvg-id="Now新聞台" tvg-name="Now新聞台" tvg-logo="https://epg.iill.top/logo/Now新聞台.png" group-title="新聞",Now新聞台
 http://cdn.veryfast.filegear-sg.me/live/now/stream.m3u8
 #EXTINF:-1 tvg-id="Now財經台" tvg-name="Now財經台" tvg-logo="https://epg.iill.top/logo/Now財經台.png" group-title="財經",Now財經台
