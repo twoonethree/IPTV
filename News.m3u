@@ -10,7 +10,7 @@ https://live-hls-web-aje.getaj.net/AJE/03.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BBCWORLDNEWSASIA.png" tvg-id="BBC News" tvg-name="BBC News" group-title="News",BBC News
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/mobile_wifi_main_sd_abr_v2.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/CBS_News.svg/960px-CBS_News.svg.png?20200627011847" tvg-id="CBS News" tvg-name="CBS News" group-title="News",CBS News
-http://198.16.100.186:8278/cbsn_glo/playlist.m3u8?tid=ME2E7003518970035189&ct=19225&tsum=c1cc67ff59df6d6f608a400760be0bda
+https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3620.ts
 #EXTINF:-1 tvg-logo="https://searchvectorlogo.com/wp-content/uploads/2020/11/channel-news-asia-cna-logo-vector.png" tvg-id="CNA Asia News" tvg-name="CNA Asia News" group-title="News",CNA Asia News
 http://198.16.100.186:8278/cna/playlist.m3u8?tid=MFAF1272681512726815&ct=19225&tsum=4d6a781648283b1bb018bc5c098432d0
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CNNNews.png" tvg-id="CNN International" tvg-name="CNN International" group-title="News",CNN International
