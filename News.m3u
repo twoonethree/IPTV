@@ -2,7 +2,7 @@ EXTM3U
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5c/TVB_News_Channel.jpg/revision/latest/scale-to-width-down/200?cb=20210722080518" tvg-id="無綫新聞台" tvg-name="無綫新聞台" group-title="News",無綫新聞台
 http://s1.an94tv.cfd/aktv/CH-1/AKTV.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/ABC_News_logo_2021.svg/768px-ABC_News_logo_2021.svg.png" tvg-id="ABC News" tvg-name="ABC News" group-title="News",ABC News
-https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
+http://41.205.93.154/ABC/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/abcaus.png" tvg-id="ABC Australia" tvg-name="ABC Australia" group-title="News",ABC Australia
 https://c.mjh.nz/abc-news.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Aljazeera_eng.svg/400px-Aljazeera_eng.svg.png" tvg-id="Al Jazeera English" tvg-name="Al Jazeera English" group-title="News",Al Jazeera English
