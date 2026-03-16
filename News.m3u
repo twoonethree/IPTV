@@ -14,7 +14,7 @@ https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3620.ts
 #EXTINF:-1 tvg-logo="https://searchvectorlogo.com/wp-content/uploads/2020/11/channel-news-asia-cna-logo-vector.png" tvg-id="CNA Asia News" tvg-name="CNA Asia News" group-title="News",CNA Asia News
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_2.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CNNNews.png" tvg-id="CNN International" tvg-name="CNN International" group-title="News",CNN International
-http://110.44.117.64:5003/custom58.m3u8?token=7375646ff1e5643555267249230cf435ba2389b1
+http://110.44.117.64:5003/custom58.m3u8?token=7375646f07c3c7189ec5d0651dd5fd86c5be514a&z=1151
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/DW_%28TV%29_Logo_2012.png?20120320155128" tvg-id="DW" tvg-name="DW" group-title="News",DW
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/Euronews._2016_logo.png" tvg-id="euronews" tvg-name="euronews" group-title="News",euronews
