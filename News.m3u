@@ -14,7 +14,7 @@ https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3620.ts
 #EXTINF:-1 tvg-logo="https://searchvectorlogo.com/wp-content/uploads/2020/11/channel-news-asia-cna-logo-vector.png" tvg-id="CNA Asia News" tvg-name="CNA Asia News" group-title="News",CNA Asia News
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_2.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CNNNews.png" tvg-id="CNN International" tvg-name="CNN International" group-title="News",CNN International
-https://ny2.rocketdns.info:25463/live/ALEX/sg5ng25ikf/2608.m3u8?token=HkNcWEBYFAkUVgVXV1VRUlBQVVEDW1FQBldXCFYHAwddA1JYUgMCUFUSH0ZAFRFRUwtoXlQaXgFUUQsdERBBVhc+XV0RChQABAgAVgJDTxZGD1pSEgJUH0ARWlURXxAHVVMGDAEJFB8UVUsQVhMNVV45U1JGUQdWQFtdRF8JHhEKD2tdVl1XXVISCUYDQ08WWxVHFQpWEV8OTRFTWhFAUhEEFgMRAwMFDxIfRlAOFlpGFE4VChoseEBNEVRLEVddFghbVxEKFF4FRQtGH0MKR20UUkRESgFSDwRBEwlHAhFJQ1lYS29VXFheVgdHCAxaQUQNFQMIVBFOQ15eXQxGXBc+RFBXEgwRBQILUwZRUhZP
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_4_1064000.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/DW_%28TV%29_Logo_2012.png?20120320155128" tvg-id="DW" tvg-name="DW" group-title="News",DW
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/Euronews._2016_logo.png" tvg-id="euronews" tvg-name="euronews" group-title="News",euronews
