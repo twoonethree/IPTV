@@ -383,7 +383,7 @@ http://41.205.93.154/ABC/tracks-v1a1/mono.m3u8
 https://c.mjh.nz/abc-news.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BBCWORLDNEWSASIA.png" tvg-id="BBC News" tvg-name="BBC News" group-title="新聞",BBC News
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/mobile_wifi_main_sd_abr_v2.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/CBS_News.svg/960px-CBS_News.svg.png?20200627011847" tvg-id="CBS News" tvg-name="CBS News" group-title="新聞",CBS News
+#EXTINF:-1 tvg-logo="https://static-www.adweek.com/wp-content/uploads/sites/3/2024/04/cbs-news.jpeg" tvg-id="CBS News" tvg-name="CBS News" group-title="新聞",CBS News
 https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3620.ts
 #EXTINF:-1 tvg-logo="https://searchvectorlogo.com/wp-content/uploads/2020/11/channel-news-asia-cna-logo-vector.png" tvg-id="CNA Asia News" tvg-name="CNA Asia News" group-title="新聞",CNA Asia News
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_2.m3u8
@@ -403,7 +403,7 @@ http://247preview.foxnews.com/hls/live/2020027/fncv3preview/primary.m3u8
 https://tv.iill.top/4gtv/4gtv-live146
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/35/GB_News_Logo.svg/330px-GB_News_Logo.svg.png" tvg-id="GBNEWS" tvg-name="GBNEWS" group-title="新聞",GBNEWS
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-gbnewsnz-samsungnz/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Global_News.svg/308px-Global_News.svg.png" tvg-id="Globle News" tvg-name="Globle News" group-title="新聞",Globle News
+#EXTINF:-1 tvg-logo="https://assets.corusent.com/wp-content/uploads/2021/08/global-news-blue-logo.png" tvg-id="Globle News" tvg-name="Globle News" group-title="新聞",Globle News
 https://live.corusdigitaldev.com/groupd/live/8970c668-40cd-4ca9-8c4d-25fd04f619b5/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://www.newsmaxtv.com/CMSScripts/NewsmaxTV/images/logos/Newsmax-TV-White.png" tvg-id="NEWSMAX" tvg-name="NEWSMAX" group-title="新聞",NEWSMAX
 https://nmx1ota.akamaized.net/hls/live/2107010/Live_1/index.m3u8
