@@ -7,7 +7,7 @@ http://74.91.26.218:82/live/j2.m3u8
 #EXTINF:-1 tvg-id="無綫新聞台" tvg-name="無綫新聞台" tvg-logo="https://epg.iill.top/logo/無綫新聞台.png" group-title="新聞",無綫新聞台
 http://cdn9.163189.xyz/smt1.1.php?id=inews_twn
 #EXTINF:-1 tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://epg.iill.top/logo/明珠台.png" group-title="香港",明珠台
-http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=pearl_twn
+https://o11.163189.xyz/stream/tvb/mzt/
 #EXTINF:-1 tvg-id="鳳凰衛視中文台" tvg-name="鳳凰衛視中文台" tvg-logo="https://epg.iill.top/logo/凤凰中文.png" http-user-agent="FengWatch/5.4.14" group-title="香港",鳳凰衛視·中文
 https://tv.iill.top/phenix/fhzw
 #EXTINF:-1 tvg-id="鳳凰衛視資訊台" tvg-name="鳳凰衛視資訊台" tvg-logo="https://epg.iill.top/logo/凤凰资讯.png" http-user-agent="FengWatch/5.4.14" group-title="香港",鳳凰衛視·資訊
@@ -47,7 +47,7 @@ https://t.ttvb.eu.org/tvb/now-630/index.m3u8
 #EXTINF:-1 tvg-id="ViuTV" tvg-name="ViuTV" tvg-logo="https://epg.iill.top/logo/ViuTV.png" group-title="香港",ViuTV
 https://cdn.163189.xyz/163189/viu
 #EXTINF:-1 tvg-id="ViuTVsix" tvg-name="ViuTVsix" tvg-logo="https://epg.iill.top/logo/ViuTVsix.png" group-title="香港",ViuTVsix
-https://t.ttvb.eu.org/tvb/ViuTVsix/index.m3u8
+https://cdn9.163189.xyz/smt3.1.1.php?id=viusix_twn
 #EXTINF:-1 tvg-id="HOY 國際財經台" tvg-name="HOY 國際財經台" tvg-logo="https://epg.iill.top/logo/HOY.png" group-title="財經",HOY 國際財經台
 https://hoytv-live-stream.hoy.tv/ch76/index-fhd.m3u8
 #EXTINF:-1 tvg-id="HOY TV" tvg-name="HOY TV" tvg-logo="https://epg.iill.top/logo/HOY.png" group-title="香港",HOY TV
@@ -390,9 +390,9 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_2.m
 #EXTINF:-1 tvg-id="CNBC Asia 財經台" tvg-name="CNBC Asia 財經台" tvg-logo="https://epg.iill.top/logo/CNBC-Asia-財經台.png" http-user-agent="okhttp/1.9.89" group-title="財經",CNBC Asia 財經「4gTV」
 https://tv.iill.top/4gtv/4gtv-live130
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CNNNews.png" tvg-id="CNN International" tvg-name="CNN International" group-title="新聞",CNN International
-https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_4_1064000.m3u8
+http://110.44.117.64:5003/custom58.m3u8?token=7375646ff1e5643555267249230cf435ba2389b1&z=1151
 #EXTINF:-1 tvg-id="半島國際新聞台" tvg-name="半島國際新聞台" tvg-logo="https://epg.iill.top/logo/半島國際新聞台.png" http-user-agent="okhttp/1.9.89" group-title="新聞",半島國際新聞「4gTV」
-https://tv.iill.top/4gtv/4gtv-live157
+http://live-hls-web-aja.getaj.net/AJA/index.m3u8
 #EXTINF:-1 tvg-id="DW德國之聲" tvg-name="DW德國之聲" tvg-logo="https://epg.iill.top/logo/DW德國之聲.png" http-user-agent="okhttp/1.9.89" group-title="新聞",DW德國之聲「4gTV」
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/Euronews._2016_logo.png" tvg-id="euronews" tvg-name="euronews" group-title="新聞",euronews
