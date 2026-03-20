@@ -399,8 +399,8 @@ https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 https://a-cdn.klowdtv.com/live3/euronews_720p/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FOXHD.png" tvg-id="FOXNEWS" tvg-name="FOXNEWS" group-title="新聞",FOXNEWS
 http://247preview.foxnews.com/hls/live/2020027/fncv3preview/primary.m3u8
-#EXTINF:-1 tvg-id="FRANCE24 英文台" tvg-name="FRANCE24 英文台" tvg-logo="https://epg.iill.top/logo/FRANCE24.png" http-user-agent="okhttp/1.9.89" group-title="新聞",FRANCE24「4gTV」
-https://tv.iill.top/4gtv/4gtv-live146
+#EXTINF:-1 tvg-id="FRANCE24 英文台" tvg-name="FRANCE24 英文台" tvg-logo="https://epg.iill.top/logo/FRANCE24.png" http-user-agent="okhttp/1.9.89" group-title="新聞",FRANCE24
+https://viamotionhsi.netplus.ch/live/eds/france24/browser-HLS8/france24.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/35/GB_News_Logo.svg/330px-GB_News_Logo.svg.png" tvg-id="GBNEWS" tvg-name="GBNEWS" group-title="新聞",GBNEWS
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-gbnewsnz-samsungnz/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://assets.corusent.com/wp-content/uploads/2021/08/global-news-blue-logo.png" tvg-id="Globle News" tvg-name="Globle News" group-title="新聞",Globle News
