@@ -390,7 +390,7 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_2.m
 #EXTINF:-1 tvg-id="CNBC Asia 財經台" tvg-name="CNBC Asia 財經台" tvg-logo="https://epg.iill.top/logo/CNBC-Asia-財經台.png" http-user-agent="okhttp/1.9.89" group-title="財經",CNBC Asia 財經「4gTV」
 https://tv.iill.top/4gtv/4gtv-live130
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CNNNews.png" tvg-id="CNN International" tvg-name="CNN International" group-title="新聞",CNN International
-https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_3_1464000.m3u8
+https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3625.ts
 #EXTINF:-1 tvg-id="半島國際新聞台" tvg-name="半島國際新聞台" tvg-logo="https://epg.iill.top/logo/半島國際新聞台.png" http-user-agent="okhttp/1.9.89" group-title="新聞",半島國際新聞「4gTV」
 http://live-hls-web-aja.getaj.net/AJA/index.m3u8
 #EXTINF:-1 tvg-id="DW德國之聲" tvg-name="DW德國之聲" tvg-logo="https://epg.iill.top/logo/DW德國之聲.png" http-user-agent="okhttp/1.9.89" group-title="新聞",DW德國之聲「4gTV」
