@@ -415,6 +415,8 @@ https://cdn4.skygo.mn/live/disk1/NHK_World/HLSv3-FTA/NHK_World-avc1_2089200=5-mp
 https://tv.iill.top/4gtv/4gtv-live060
 #EXTINF:-1 tvg-id="Bloomberg TV" tvg-name="Bloomberg TV" tvg-logo="https://epg.iill.top/logo/Bloomberg-TV.png" http-user-agent="okhttp/1.9.89" group-title="財經",Bloomberg TV「4gTV」
 https://tv.iill.top/4gtv/4gtv-live059
+#EXTINF:-1 tvg-id="Yahoo! Finance" tvg-name="Yahoo! Finance" tvg-logo="https://datatrekresearch.com/wp-content/uploads/2018/11/yahoo.png" group-title="財經",Yahoo! Finance 
+https://yahoo-samsung.amagi.tv/360p-vtt/index.m3u8
 #EXTINF:-1 tvg-id="DayStar" tvg-name="DayStar" tvg-logo="https://epg.iill.top/logo/DayStar.png" http-user-agent="okhttp/1.9.89" group-title="綜合",DayStar「ofiii」
 https://tv.iill.top/ofiii/daystar
 #EXTINF:-1 tvg-id="亞洲旅遊台" tvg-name="亞洲旅遊台" tvg-logo="https://epg.iill.top/logo/亞洲旅遊台.png" http-user-agent="okhttp/1.9.89" group-title="台灣",亞洲旅遊「4gTV」
