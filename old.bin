@@ -88,41 +88,41 @@ https://live5.tdm.com.mo/ch6/hd_ch6.live/playlist.m3u8
 https://v3.mediacast.hk/webcast/bshdlive-pc/chunklist_w1870816002.m3u8
 
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.iill.top/logo/CCTV1.png" group-title="央視",CCTV1
-http://182.240.214.165:5003/cctv1.m3u8?token=7375646fe049662174562a7c10529991c9f90aa6&z=1f4e
+http://43.156.8.127:5050/ysp?id=2024078201&pid=600001859&q=fhd
 #EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://epg.iill.top/logo/CCTV2.png" group-title="央視",CCTV2
-https://hls.iill.top/api/CCTV2/index.m3u8
+http://43.156.8.127:5050/ysp?id=2024075401&pid=600001800&q=fhd
 #EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://epg.iill.top/logo/CCTV3.png" group-title="央視",CCTV3
-https://hls.iill.top/api/CCTV3/index.m3u8
+http://43.156.8.127:5050/ysp?id=2024068501&pid=600001801&q=fhd
 #EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://epg.iill.top/logo/CCTV4.png" group-title="央視",CCTV4
-https://snap.iill.top/youtube/@LiveNow24H/index.m3u8
+http://43.156.8.127:5050/ysp?id=2029797103&pid=600001814&q=fhd
 #EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://epg.iill.top/logo/CCTV5.png" group-title="體育",CCTV5
-https://hls.iill.top/api/CCTV5/index.m3u8
+http://43.156.8.127:5050/ysp?id=2024078401&pid=600001818&q=fhd
 #EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://epg.iill.top/logo/CCTV5+.png" group-title="體育",CCTV5+
-https://hls.iill.top/api/CCTV5+/index.m3u8
+http://43.156.8.127:5050/ysp?id=2024078001&pid=600001817&q=fhd
 #EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://epg.iill.top/logo/CCTV6.png" group-title="央視",CCTV6
-https://hls.iill.top/api/CCTV6/index.m3u8
+http://43.156.8.127:5050/ysp?id=2013693901&pid=600108442&q=fhd
 #EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://epg.iill.top/logo/CCTV7.png" group-title="央視",CCTV7
-https://hls.iill.top/api/CCTV7/index.m3u8
+http://43.156.8.127:5050/ysp?id=2024072001&pid=600004092&q=fhd
 #EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://epg.iill.top/logo/CCTV8.png" group-title="央視",CCTV8
-https://hls.iill.top/api/CCTV8/index.m3u8
+http://43.156.8.127:5050/ysp?id=2029793001&pid=600001803&q=fhd
 #EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://epg.iill.top/logo/CCTV9.png" group-title="央視",CCTV9
-https://hls.iill.top/api/CCTV9/index.m3u8
+http://43.156.8.127:5050/ysp?id=2024078601&pid=600004078&q=fhd
 #EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://epg.iill.top/logo/CCTV10.png" group-title="央視",CCTV10
-https://hls.iill.top/api/CCTV10/index.m3u8
+http://43.156.8.127:5050/ysp?id=2024078701&pid=600001805&q=fhd
 #EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://epg.iill.top/logo/CCTV11.png" group-title="央視",CCTV11
-https://hls.iill.top/api/CCTV11/index.m3u8
+http://43.156.8.127:5050/ysp?id=2027248701&pid=600001806&q=fhd
 #EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://epg.iill.top/logo/CCTV12.png" group-title="央視",CCTV12
-https://hls.iill.top/api/CCTV12/index.m3u8
+http://43.156.8.127:5050/ysp?id=2027248801&pid=600001807&q=fhd
 #EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://epg.iill.top/logo/CCTV13.png" group-title="央視",CCTV13
-https://hls.iill.top/api/CCTV13/index.m3u8
+http://43.156.8.127:5050/ysp?id=2029797203&pid=600001811&q=fhd
 #EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://epg.iill.top/logo/CCTV14.png" group-title="央視",CCTV14
-https://hls.iill.top/api/CCTV14/index.m3u8
+http://43.156.8.127:5050/ysp?id=2027248901&pid=600001809&q=fhd
 #EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://epg.iill.top/logo/CCTV15.png" group-title="央視",CCTV15
-https://hls.iill.top/api/CCTV15/index.m3u8
+http://43.156.8.127:5050/ysp?id=2027249001&pid=600001815&q=fhd
 #EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://epg.iill.top/logo/CCTV16.png" group-title="央視",CCTV16
-https://hls.iill.top/api/CCTV16/index.m3u8
+http://43.156.8.127:5050/ysp?id=2027249101&pid=600098637&q=fhd
 #EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://epg.iill.top/logo/CCTV17.png" group-title="央視",CCTV17
-https://hls.iill.top/api/CCTV17/index.m3u8
+http://43.156.8.127:5050/ysp?id=2027249401&pid=600001810&q=fhd
 #EXTINF:-1 tvg-id="CGTN"  tvg-name="CGTN" tvg-logo="https://epg.iill.top/logo/CGTN.png" group-title="央視",CGTN
 https://tv.iill.top/CGTN/cgtn
 #EXTINF:-1 tvg-id="CGTN外语纪录" tvg-name="CGTN外语纪录" tvg-logo="https://epg.iill.top/logo/CGTN纪录.png" group-title="央視",CGTN Documentary
