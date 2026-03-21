@@ -1,4 +1,4 @@
-7#EXTM3U x-tvg-url="https://epg.iill.top/epg.xml.gz" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
+#EXTM3U x-tvg-url="https://epg.iill.top/epg.xml.gz" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
 
 #EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://epg.iill.top/logo/翡翠台.png" group-title="香港", 翡翠台
 http://74.91.26.218:82/live/jade.m3u8
@@ -88,7 +88,7 @@ https://live5.tdm.com.mo/ch6/hd_ch6.live/playlist.m3u8
 https://v3.mediacast.hk/webcast/bshdlive-pc/chunklist_w1870816002.m3u8
 
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.iill.top/logo/CCTV1.png" group-title="央視",CCTV1
-https://hls.iill.top/api/CCTV1/index.m3u8
+http://182.240.214.165:5003/cctv1.m3u8?token=7375646fe049662174562a7c10529991c9f90aa6&z=1f4e
 #EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://epg.iill.top/logo/CCTV2.png" group-title="央視",CCTV2
 https://hls.iill.top/api/CCTV2/index.m3u8
 #EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://epg.iill.top/logo/CCTV3.png" group-title="央視",CCTV3
