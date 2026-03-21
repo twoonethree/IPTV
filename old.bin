@@ -221,6 +221,13 @@ http://43.152.31.17:843/hlslive-tx-cdn.ysp.cctv.cn/ysp/2025561203_dlna.m3u8
 #EXTINF:-1 tvg-id="新疆卫视" tvg-name="新疆卫视" tvg-logo="https://epg.iill.top/logo/新疆卫视.png" group-title="卫视",新疆卫视
 http://123.190.202.14:9008/rtp/232.0.0.18:1234
 
+#EXTINF:-1 tvg-id="天津體育" tvg-name="天津體育" tvg-logo="https://static.wikia.nocookie.net/logos/images/e/e2/TJTV5_%E4%BD%93%E8%82%B2_2011.png/revision/latest?cb=20240401061304&path-prefix=vi" group-title="體育",天津體育
+http://38.75.136.137:98/gslb/dsdqpub/tjtv5.m3u8?auth=testpub
+#EXTINF:-1 tvg-id="五星體育" tvg-name="五星體育" tvg-logo="https://photo.16pic.com/00/01/41/16pic_141455_b.jpg" group-title="體育",五星體育
+https://tv.iill.top/kdf/1605
+#EXTINF:-1 tvg-id="智林體育" tvg-name="智林體育" tvg-logo="https://oursport.tv/images/tsl_logo.png" group-title="體育",智林體育
+https://tv.iill.top/4gtv/4gtv-4gtv101
+
 #EXTINF:-1 tvg-id="博斯運動一台" tvg-name="博斯運動一台" tvg-logo="https://epg-1.iill.top/logo/博斯運動一台.png" http-user-agent="okhttp/1.9.89" group-title="台灣", 博斯運動 一「CatchPlay」
 https://hls.iill.top/api/Sports-Network/index.m3u8
 #EXTINF:-1 tvg-id="博斯運動二台" tvg-name="博斯運動二台" tvg-logo="https://epg-1.iill.top/logo/博斯運動二台.png" http-user-agent="okhttp/1.9.89" group-title="台灣", 博斯運動 二「CatchPlay」
@@ -240,7 +247,7 @@ https://tv.iill.top/FainTV/135
 #EXTINF:-1 tvg-id="緯來日本台" tvg-name=緯來日本台" tvg-logo="https://epg.iill.top/logo/緯來日本.png" http-user-agent="okhttp/1.9.89" group-title="台灣",緯來日本「Relay」
 https://hls.iill.top/api/VL-Japan/index.m3u8
 #EXTINF:-1 tvg-id="緯來體育台" tvg-name="緯來體育台" tvg-logo="https://epg.iill.top/logo/緯來體育.png" http-user-agent="okhttp/1.9.89" group-title="體育",緯來體育「Relay」
-https://hls.iill.top/api/VL-Sports/index.m3u8
+https://v4-3604b7607d86d2c16004620fc18c4fe2.livehwc4.com/hls.yjjcfw.com/live/vl.m3u8?hwSecret=af84d0dc99e7956b04f04ae836d4ba20c166253f1f11615f587149672cbac608&edge_slice=true&hwTime=69BF15D7&user_session_id=b65b60f0b317e4324cfd746194bb61af&sub_m3u8=true
 #EXTINF:-1 tvg-id="緯來電影台" tvg-name="緯來電影台" tvg-logo="https://epg.iill.top/logo/緯來電影.png" http-user-agent="okhttp/1.9.89" group-title="電影",緯來電影「Relay」
 https://hls.iill.top/api/VL-Movies/index.m3u8
 #EXTINF:-1 tvg-id="緯來綜合台" tvg-name="緯來綜合台" tvg-logo="https://epg.iill.top/logo/緯來綜合.png" http-user-agent="okhttp/1.9.89" group-title="台灣",緯來綜合「Relay」
