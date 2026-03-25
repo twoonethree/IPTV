@@ -626,7 +626,7 @@ https://hls.iill.top/api/Spotv-1/index.m3u8
 #EXTINF:-1 tvg-id="SPOTV2" tvg-name="SPOTV2" tvg-logo="https://epg-1.iill.top/logo/Spotv-2.png" group-title="體育",Spotv 2
 https://hls.iill.top/api/Spotv-2/index.m3u8
 #EXTINF:-1 tvg-id="SkySp Cricket" tvg-name="SkySp Cricket" tvg-logo="https://epg-1.iill.top/logo/Sky-Sports-Cricket.png" group-title="體育",Sky Sports Cricket
-hhttps://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/2192.ts
+https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/2191.ts
 #EXTINF:-1 tvg-id="SkySp PL HD" tvg-name="SkySp PL HD" tvg-logo="https://epg-1.iill.top/logo/Sky-Sports-Premier-League.png" group-title="體育",Sky Sports Premier League
 https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/2182.ts
 #EXTINF:-1 tvg-id="SkySp F1" tvg-name="SkySp F1" tvg-logo="https://epg-1.iill.top/logo/Sky-Sports-F1.png" group-title="體育",Sky Sports F1
