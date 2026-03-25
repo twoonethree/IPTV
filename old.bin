@@ -626,14 +626,14 @@ https://hls.iill.top/api/Spotv-1/index.m3u8
 #EXTINF:-1 tvg-id="SPOTV2" tvg-name="SPOTV2" tvg-logo="https://epg-1.iill.top/logo/Spotv-2.png" group-title="體育",Spotv 2
 https://hls.iill.top/api/Spotv-2/index.m3u8
 #EXTINF:-1 tvg-id="SkySp Cricket" tvg-name="SkySp Cricket" tvg-logo="https://epg-1.iill.top/logo/Sky-Sports-Cricket.png" group-title="體育",Sky Sports Cricket
-https://hls.iill.top/api/Sky-Sports-Cricket/index.m3u8
+hhttps://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/2192.ts
 #EXTINF:-1 tvg-id="SkySp PL HD" tvg-name="SkySp PL HD" tvg-logo="https://epg-1.iill.top/logo/Sky-Sports-Premier-League.png" group-title="體育",Sky Sports Premier League
 https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/2182.ts
 #EXTINF:-1 tvg-id="SkySp F1" tvg-name="SkySp F1" tvg-logo="https://epg-1.iill.top/logo/Sky-Sports-F1.png" group-title="體育",Sky Sports F1
 https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/2189.ts
 #EXTINF:-1 tvg-id="SkySp Mix HD" tvg-name="SkySp Mix HD" tvg-logo="https://epg-1.iill.top/logo/Sky-Sports-Mix.png" group-title="體育",Sky Sports Mix
 https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/2180.ts
-#EXTINF:-1 tvg-id="SkySp Racing HD" tvg-name="SkySp Racing HD" tvg-logo="https://epg-1.iill.top/logo/Sky-Sports-Racing.png" group-title="體育",Sky Sports Racing
+#EXTINF:-1 tvg-id="SkySp Golf" tvg-name="SkySp Golf" tvg-logo="https://epg.pw/media/images/epg/2024/12/23/20241223021819376355_30.png" group-title="體育",Sky Sports Golf
 https://hls.iill.top/api/Sky-Sports-Racing/index.m3u8
 #EXTINF:-1 tvg-id="SkySp Main Event" tvg-name="SkySp Main Event" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b8/Sky_Sports_Main_Event_HD.png/revision/latest?cb=202006081422159" group-title="體育",Sky Sports Main Event
 https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/2184.ts
