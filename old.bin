@@ -1,23 +1,37 @@
 #EXTM3U x-tvg-url="https://epg.iill.top/epg.xml.gz" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
 
 #EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://epg.iill.top/logo/翡翠台.png" group-title="香港", 翡翠台
-http://o11.163189.xyz/stream/tvb/fct/
+https://cdn3.indevs.in/stream/tvb/fct/
 #EXTINF:-1 tvg-id="TVB Plus" tvg-name="TVB Plus" tvg-logo="https://epg.iill.top/logo/TVBPlus.png" group-title="香港",TVB Plus
-http://php.jdshipin.com/TVOD/iptv.php?id=j2
+https://cdn3.indevs.in/stream/tvb/tvbp/
 #EXTINF:-1 tvg-id="無綫新聞台" tvg-name="無綫新聞台" tvg-logo="https://epg.iill.top/logo/無綫新聞台.png" group-title="新聞",無綫新聞台
-http://cdn9.163189.xyz/smt1.1.php?id=inews_twn
+http://rihou.cc:555/tv/[Pd]%E6%97%A0%E7%BA%BF%E6%96%B0%E9%97%BB
 #EXTINF:-1 tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://epg.iill.top/logo/明珠台.png" group-title="香港",明珠台
-https://o11.163189.xyz/stream/tvb/mzt/
+https://cdn3.indevs.in/stream/tvb/mzt/
 #EXTINF:-1 tvg-id="鳳凰衛視中文台" tvg-name="鳳凰衛視中文台" tvg-logo="https://epg.iill.top/logo/凤凰中文.png" http-user-agent="FengWatch/5.4.14" group-title="香港",鳳凰衛視·中文
-https://tv.iill.top/phenix/fhzw
+http://rihou.cc:555/tv/[Pd]%E5%87%A4%E5%87%B0%E4%B8%AD%E6%96%87
 #EXTINF:-1 tvg-id="鳳凰衛視資訊台" tvg-name="鳳凰衛視資訊台" tvg-logo="https://epg.iill.top/logo/凤凰资讯.png" http-user-agent="FengWatch/5.4.14" group-title="香港",鳳凰衛視·資訊
-https://tv.iill.top/phenix/fhzx
+http://221.7.175.154:85/tsfile/live/1021_1.m3u8?key=txiptv
 #EXTINF:-1 tvg-id="鳳凰衛視香港台" tvg-name="鳳凰衛視香港台" tvg-logo="https://epg.iill.top/logo/凤凰香港.png" http-user-agent="FengWatch/5.4.14" group-title="香港",鳳凰衛視·香港
-https://tv.iill.top/phenix/fhhk
+http://rihou.cc:555/tv/[Pd]%E5%87%A4%E5%87%B0%E9%A6%99%E6%B8%AF
 #EXTINF:-1 tvg-id="商業電台 雷霆881" tvg-name="商業電台 雷霆881" tvg-logo="https://epg.iill.top/logo/雷霆881.png" group-title="電台",雷霆881
 https://881.touch-u.fun/playlist.m3u8
-#EXTINF:-1 tvg-id="商業電台 叱咤903" tvg-name="商業電台 叱咤903" tvg-logo="https://epg.iill.top/logo/叱咤903.png" group-title="電台",叱咤903
+#EXTINF:-1 tvg-id="Commercial Radio 叱咤903" tvg-name="Commercial Radio 叱咤903" tvg-logo="https://epg.iill.top/logo/叱咤903.png" group-title="Radio", 叱咤903
+https://881.touch-u.fun/playlist.m3u8
+#EXTINF:-1 tvg-id="Commercial Radio 叱咤903" tvg-name="Commercial Radio 叱咤903" tvg-logo="https://epg.iill.top/logo/叱咤903.png" group-title="Radio", 叱咤903
+https://903.touch-https://881.touch-https://881.touch-u.fun/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Commercial Radio 叱咤903" tvg-name="Commercial Radio 叱咤903" tvg-logo="https://epg.iill.top/logo/叱咤903.png" group-title="Radio", 叱咤903
+
+https://903.touch-https://881.touch-u.fun/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Commercial Radio 叱咤903" tvg-name="Commercial Radio 叱咤903" tvg-logo="https://epg.iill.top/logo/叱咤903.png" group-title="Radio", 叱咤903
+
 https://903.touch-u.fun/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Commercial Radio 叱咤903" tvg-name="Commercial Radio 叱咤903" tvg-logo="https://epg.iill.top/logo/叱咤903.png" group-title="Radio", 叱咤903
+
+https://903.touch-https://903.touch-u.fun/playlist.m3u8
 #EXTINF:-1 tvg-id="rthk1" tvg-name="rthk1" tvg-logo="https://static.wikia.nocookie.net/hkradio/images/3/39/RTHK1_LOGO.jpg/revision/latest?cb=20250828094022&path-prefix=zh" group-title="電台",rthk1「电台」
 http://rthkaudio1-lh.akamaihd.net/i/radio1_1@355864/master.m3u8
 #EXTINF:-1 tvg-id="rthk2" tvg-name="rthk2" tvg-logo="https://static.wikia.nocookie.net/hkradio/images/6/65/RTHK2_LOGO.jpg/revision/latest?cb=20250828090547&path-prefix=zh" group-title="電台",rthk2「电台」
