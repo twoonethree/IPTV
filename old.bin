@@ -14,38 +14,6 @@ http://rihou.cc:555/tv/[Pd]%E5%87%A4%E5%87%B0%E4%B8%AD%E6%96%87
 http://221.7.175.154:85/tsfile/live/1021_1.m3u8?key=txiptv
 #EXTINF:-1 tvg-id="鳳凰衛視香港台" tvg-name="鳳凰衛視香港台" tvg-logo="https://epg.iill.top/logo/凤凰香港.png" http-user-agent="FengWatch/5.4.14" group-title="香港",鳳凰衛視·香港
 http://rihou.cc:555/tv/[Pd]%E5%87%A4%E5%87%B0%E9%A6%99%E6%B8%AF
-#EXTINF:-1 tvg-id="商業電台 雷霆881" tvg-name="商業電台 雷霆881" tvg-logo="https://epg.iill.top/logo/雷霆881.png" group-title="電台",雷霆881
-https://881.touch-u.fun/playlist.m3u8
-#EXTINF:-1 tvg-id="Commercial Radio 叱咤903" tvg-name="Commercial Radio 叱咤903" tvg-logo="https://epg.iill.top/logo/叱咤903.png" group-title="Radio", 叱咤903
-https://881.touch-u.fun/playlist.m3u8
-#EXTINF:-1 tvg-id="Commercial Radio 叱咤903" tvg-name="Commercial Radio 叱咤903" tvg-logo="https://epg.iill.top/logo/叱咤903.png" group-title="Radio", 叱咤903
-https://903.touch-https://881.touch-https://881.touch-u.fun/playlist.m3u8
-#EXTINF:-1 tvg-id="Commercial Radio 叱咤903" tvg-name="Commercial Radio 叱咤903" tvg-logo="https://epg.iill.top/logo/叱咤903.png" group-title="Radio", 叱咤903
-https://903.touch-https://881.touch-u.fun/playlist.m3u8
-#EXTINF:-1 tvg-id="Commercial Radio 叱咤903" tvg-name="Commercial Radio 叱咤903" tvg-logo="https://epg.iill.top/logo/叱咤903.png" group-title="Radio", 叱咤903
-https://903.touch-u.fun/playlist.m3u8
-#EXTINF:-1 tvg-id="Commercial Radio 叱咤903" tvg-name="Commercial Radio 叱咤903" tvg-logo="https://epg.iill.top/logo/叱咤903.png" group-title="Radio", 叱咤903
-https://903.touch-https://903.touch-u.fun/playlist.m3u8
-#EXTINF:-1 tvg-id="rthk1" tvg-name="rthk1" tvg-logo="https://static.wikia.nocookie.net/hkradio/images/3/39/RTHK1_LOGO.jpg/revision/latest?cb=20250828094022&path-prefix=zh" group-title="電台",rthk1「电台」
-http://rthkaudio1-lh.akamaihd.net/i/radio1_1@355864/master.m3u8
-#EXTINF:-1 tvg-id="rthk2" tvg-name="rthk2" tvg-logo="https://static.wikia.nocookie.net/hkradio/images/6/65/RTHK2_LOGO.jpg/revision/latest?cb=20250828090547&path-prefix=zh" group-title="電台",rthk2「电台」
-http://rthkaudio2-lh.akamaihd.net/i/radio2_1@355865/master.m3u8
-#EXTINF:-1 tvg-id="rthk3" tvg-name="rthk3" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/a0/bd/24/a0bd24ce-d8aa-8d44-a36f-d0e88f26d9bc/WorldDetails14242088052225050761.jpeg/600x600bb.webp" group-title="電台",rthk3「电台」
-http://rthkaudio3-lh.akamaihd.net/i/radio3_1@355866/master.m3u8
-#EXTINF:-1 tvg-id="rthk4" tvg-name="rthk4" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/24/1e/45/241e4553-d26f-a8fe-8174-449e7b260eaf/WorldDetails17066185227665613410.jpeg/600x600bb.webp" group-title="電台",rthk4「电台」
-http://rthkaudio4-lh.akamaihd.net/i/radio4_1@355867/master.m3u8
-#EXTINF:-1 tvg-id="rthk5" tvg-name="rthk5" tvg-logo="https://www.radio.net/175/rthk5.png?version=c0d41af39c62fe2257053d77f3c7e18d35146bcb" group-title="電台",rthk5「电台」
-http://rthkaudio5-lh.akamaihd.net/i/radio5_1@355868/master.m3u8
-#EXTINF:-1 tvg-id="rthk普通話台" tvg-name="rthk普通話台" tvg-logo="https://www.hiendy.com/hififorum/data/attachment/forum/202406/29/204745r3quzsn7tr7cstsx.png.thumb.jpg" group-title="電台",rthk普通話台「电台」
-http://rthkaudio6-lh.akamaihd.net/i/radiopth_1@355869/master.m3u8
-#EXTINF:-1 tvg-id="新城財經台" tvg-name="新城財經台" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTouJknSjAvObyWU3NpesUdAwXr5q4FmDeZpKWlSl1PdA&s" group-title="電台",新城財經台
-https://1716664847.rsc.cdn77.org/1716664847/index.m3u8
-#EXTINF:-1 tvg-id="新城知訊台" tvg-name="新城知訊台" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEqBCA15rDeahDxtmJqYRCGEW09h8NDRk-kXiQnAG7fg&s=10" group-title="電台",新城知訊台
-https://1603884249.rsc.cdn77.org/1603884249/index.m3u8
-#EXTINF:-1 tvg-id="AM1044" tvg-name="AM1044" tvg-logo="https://liveonlineradio.net/wp-content/uploads/2018/03/Metro-Plus-100x47.jpg" group-title="電台",AM1044
-https://1946218710.rsc.cdn77.org/1946218710/index.m3u8
-#EXTINF:-1 tvg-id="d100" tvg-name="d100" tvg-logo="https://dvw7f7sqjk3ag.cloudfront.net/images/radio/56212353.jpg" group-title="電台",d100
-https://uk.d100.net:8001/Channel1-128MP3
 #EXTINF:-1 tvg-id="Now新聞台" tvg-name="Now新聞台" tvg-logo="https://epg.iill.top/logo/Now新聞台.png" group-title="新聞",Now新聞台
 http://cdn.veryfast.filegear-sg.me/live/now/stream.m3u8
 #EXTINF:-1 tvg-id="Now財經台" tvg-name="Now財經台" tvg-logo="https://epg.iill.top/logo/Now財經台.png" group-title="財經",Now財經台
