@@ -1,52 +1,52 @@
 #EXTM3U x-tvg-url="https://epg.iill.top/epg.xml.gz" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
 
-#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://epg.iill.top/logo/翡翠台.png" group-title="香港", 翡翠台
+#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://raw.githubusercontent.com/lqky/iptv/main/logo/TVB1.png" group-title="香港", 翡翠台
 https://cdn3.indevs.in/stream/tvb/fct/
-#EXTINF:-1 tvg-id="TVB Plus" tvg-name="TVB Plus" tvg-logo="https://epg.iill.top/logo/TVBPlus.png" group-title="香港",TVB Plus
+#EXTINF:-1 tvg-id="TVB Plus" tvg-name="TVB Plus" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e1/TVB_Plus_2024_logo.webp" group-title="香港",TVB Plus
 https://cdn3.indevs.in/stream/tvb/tvbp/
-#EXTINF:-1 tvg-id="無綫新聞台" tvg-name="無綫新聞台" tvg-logo="https://epg.iill.top/logo/無綫新聞台.png" group-title="新聞",無綫新聞台
-http://rihou.cc:555/tv/[Pd]%E6%97%A0%E7%BA%BF%E6%96%B0%E9%97%BB
-#EXTINF:-1 tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://epg.iill.top/logo/明珠台.png" group-title="香港",明珠台
+#EXTINF:-1 tvg-id="無綫新聞台" tvg-name="無綫新聞台" tvg-logo="https://tw.fltaradio.com/upload/2018/12/TVB-News-Channel.jpg" group-title="新聞",無綫新聞台
+https://cdn.qd.je/163189.php?id=wxxw
+#EXTINF:-1 tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJrNwvyTRE3u32iTWah4KcCIAF8SNrN7KVl0IcKNKvkQ&s" group-title="香港",明珠台
 https://cdn3.indevs.in/stream/tvb/mzt/
-#EXTINF:-1 tvg-id="鳳凰衛視中文台" tvg-name="鳳凰衛視中文台" tvg-logo="https://epg.iill.top/logo/凤凰中文.png" http-user-agent="FengWatch/5.4.14" group-title="香港",鳳凰衛視·中文
-http://rihou.cc:555/tv/[Pd]%E5%87%A4%E5%87%B0%E4%B8%AD%E6%96%87
-#EXTINF:-1 tvg-id="鳳凰衛視資訊台" tvg-name="鳳凰衛視資訊台" tvg-logo="https://epg.iill.top/logo/凤凰资讯.png" http-user-agent="FengWatch/5.4.14" group-title="香港",鳳凰衛視·資訊
-http://221.7.175.154:85/tsfile/live/1021_1.m3u8?key=txiptv
-#EXTINF:-1 tvg-id="鳳凰衛視香港台" tvg-name="鳳凰衛視香港台" tvg-logo="https://epg.iill.top/logo/凤凰香港.png" http-user-agent="FengWatch/5.4.14" group-title="香港",鳳凰衛視·香港
-http://rihou.cc:555/tv/[Pd]%E5%87%A4%E5%87%B0%E9%A6%99%E6%B8%AF
-#EXTINF:-1 tvg-id="Now新聞台" tvg-name="Now新聞台" tvg-logo="https://epg.iill.top/logo/Now新聞台.png" group-title="新聞",Now新聞台
+#EXTINF:-1 tvg-id="鳳凰衛視中文台" tvg-name="鳳凰衛視" tvg-logo="https://s.rfi.fr/media/display/767a2ea2-a06f-11eb-a61c-005056a9b1a7/w:1280/p:4x3/PhoenixTV.jpg" http-user-agent="FengWatch/5.4.14" group-title="香港",鳳凰衛視·中文
+https://cdn.qd.je/163189.php?id=fhzw
+#EXTINF:-1 tvg-id="鳳凰衛視資訊台" tvg-name="鳳凰資訊" tvg-logo="https://sao.fm/wp-content/uploads/20221109215533474.jpg" http-user-agent="FengWatch/5.4.14" group-title="香港",鳳凰資訊
+https://cdn.qd.je/163189/fhzx
+#EXTINF:-1 tvg-id="鳳凰衛視香港台" tvg-name="鳳凰衛視香港台" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/4/4d/Phoenix_hongkong.png" http-user-agent="FengWatch/5.4.14" group-title="香港",鳳凰香港
+https://cdn.qd.je/163189/fhhk
+#EXTINF:-1 tvg-id="Now新聞台" tvg-name="Now新聞台" tvg-logo="https://news.now.com/revamp2014/images/news_logo_400.png" group-title="新聞",Now新聞台
 https://fast.hidns.vip/163189/now
-#EXTINF:-1 tvg-id="ViuTV" tvg-name="ViuTV" tvg-logo="https://epg.iill.top/logo/ViuTV.png" group-title="香港",ViuTV
+#EXTINF:-1 tvg-id="ViuTV" tvg-name="ViuTV" tvg-logo="https://www.magictv.com/hk/zh-b5/online-menu/html-zho/img/app-viutv.jpg" group-title="香港",ViuTV
 https://10.fast.hidns.vip/163189/viu/
-#EXTINF:-1 tvg-id="ViuTVsix" tvg-name="ViuTVsix" tvg-logo="https://epg.iill.top/logo/ViuTVsix.png" group-title="香港",ViuTVsix
+#EXTINF:-1 tvg-id="ViuTVsix" tvg-name="ViuTVsix" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/ViuTVsix-logo.svg/960px-ViuTVsix-logo.svg.png" group-title="香港",ViuTVsix
 https://10.fast.hidns.vip/163189/viu6/
-#EXTINF:-1 tvg-id="HOY 國際財經台" tvg-name="HOY 國際財經台" tvg-logo="https://epg.iill.top/logo/HOY.png" group-title="財經",HOY 國際財經台
+#EXTINF:-1 tvg-id="HOY 國際財經台" tvg-name="HOY 國際財經台" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/2/2b/HoYIBC_logo.png" group-title="財經",HOY 國際財經台
 https://hoytv-live-stream.hoy.tv/ch76/index-fhd.m3u8
-#EXTINF:-1 tvg-id="HOY TV" tvg-name="HOY TV" tvg-logo="https://epg.iill.top/logo/HOY.png" group-title="香港",HOY TV
+#EXTINF:-1 tvg-id="HOY TV" tvg-name="HOY TV" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/92/HOY_77_Logo.png" group-title="香港",HOY TV
 https://hoytv-live-stream.hoy.tv/ch77/index-fhd.m3u8
-#EXTINF:-1 tvg-id="HOY 資訊台" tvg-name="HOY 資訊台" tvg-logo="https://epg.iill.top/logo/HOY.png" group-title="新聞",HOY 資訊台
+#EXTINF:-1 tvg-id="HOY 資訊台" tvg-name="HOY 資訊台" tvg-logo="https://thumb.wikimedia.org/wikipedia/zh/thumb/d/d4/HOY_78_Logo.png/250px-HOY_78_Logo.png" group-title="新聞",HOY 資訊台
 https://hoytv-live-stream.hoy.tv/ch78/index-fhd.m3u8
-#EXTINF:-1 tvg-id="RTHK31" tvg-name="RTHK31" tvg-logo="https://epg.iill.top/logo/RTHK31.png" group-title="香港",RTHK 31
+#EXTINF:-1 tvg-id="RTHK31" tvg-name="RTHK31" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/8/8a/RTHK_TV_31.svg" group-title="香港",RTHK 31
 https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/stream5/streamPlaylist.m3u8
-#EXTINF:-1 tvg-id="RTHK32" tvg-name="RTHK32" tvg-logo="https://epg.iill.top/logo/RTHK32.png" group-title="香港",RTHK 32
+#EXTINF:-1 tvg-id="RTHK32" tvg-name="RTHK32" tvg-logo="https://thumb.wikimedia.org/wikipedia/zh/thumb/7/78/RTHK_TV_32.svg/1280px-RTHK_TV_32.svg.png" group-title="香港",RTHK 32
 https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream5/streamPlaylist.m3u8
-#EXTINF:-1 tvg-id="RTHK33" tvg-name="RTHK33" tvg-logo="https://epg.iill.top/logo/RTHK33.png" group-title="香港",RTHK 33
+#EXTINF:-1 tvg-id="RTHK33" tvg-name="RTHK33" tvg-logo="https://thumb.wikimedia.org/wikipedia/zh/thumb/a/a7/RTHK_TV_33.svg/1280px-RTHK_TV_33.svg.png" group-title="香港",RTHK 33
 https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream05/streamPlaylist.m3u8
-#EXTINF:-1 tvg-id="RTHK34" tvg-name="RTHK34" tvg-logo="https://epg.iill.top/logo/RTHK34.png" group-title="香港",RTHK 34
+#EXTINF:-1 tvg-id="RTHK34" tvg-name="RTHK34" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/f/f9/RTHK_TV_34.svg" group-title="香港",RTHK 34
 https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream05/streamPlaylist.m3u8
-#EXTINF:-1 tvg-id="RTHK35" tvg-name="RTHK35" tvg-logo="https://epg.iill.top/logo/RTHK35.png" group-title="香港",RTHK 35
+#EXTINF:-1 tvg-id="RTHK35" tvg-name="RTHK35" tvg-logo="https://ecinfohk.com/wp-content/uploads/2024/02/RTHK_TV_35.svg.png" group-title="香港",RTHK 35
 https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream05/streamPlaylist.m3u8
-#EXTINF:-1 tvg-id="澳門衛星" tvg-name="澳門衛星" tvg-logo="https://epg.iill.top/logo/澳门Macau.png" group-title="澳門",澳門Macau
+#EXTINF:-1 tvg-id="澳門Macau" tvg-name="澳門Macau" tvg-logo="https://gbaike-image.cdn.bcebos.com/9f510fb30f2442a7d9337a9fcc16ba4bd11373f0a4f6/9f510fb30f2442a7d9337a9fcc16ba4bd11373f0a4f6_url?x-bce-process=image/format,f_auto/resize,m_lfit,w_400,limit_1" group-title="澳門",澳門Macau
 https://live5.tdm.com.mo/ch3/ch3.live/playlist.m3u8
-#EXTINF:-1 tvg-id="澳門葡萄牙" tvg-name="澳門葡萄牙" tvg-logo="https://epg.iill.top/logo/澳视葡文.png" group-title="澳門",澳門葡文
+#EXTINF:-1 tvg-id="澳門葡萄牙" tvg-name="澳門葡萄牙" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/4/4e/Canal_Macau.png" group-title="澳門",澳門葡文
 https://live5.tdm.com.mo/ch2/ch2.live/playlist.m3u8
-#EXTINF:-1 tvg-id="澳視澳門" tvg-name="澳視澳門" tvg-logo="https://epg.iill.top/logo/澳视澳门.png" group-title="澳門",澳視澳門
-https://live5.tdm.com.mo/ch1/ch1.live/playlist.m3u8
-#EXTINF:-1 tvg-id="澳門資訊" tvg-name="澳門資訊" tvg-logo="https://epg.iill.top/logo/澳门资讯.png" group-title="澳門",澳門資訊
+#EXTINF:-1 tvg-id="澳視澳門" tvg-name="澳視澳門" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT74xnR5BMurDPUfHKPB2HdbTFTX59y27USdbXV9uxZuQ&s=10" group-title="澳門",澳視澳門
+https://cdn.qd.je/163189/asam
+#EXTINF:-1 tvg-id="澳門資訊" tvg-name="澳門資訊" tvg-logo="https://cdn2.tdm.com.mo/uploads/attachment/2021-03/5bde9db9db093ab310ceef6976cd0ee2.png?x-image-process=style/origin" group-title="澳門",澳門資訊
 https://live5.tdm.com.mo/ch5/info_ch5.live/playlist.m3u8
-#EXTINF:-1 tvg-id="澳門體育" tvg-name="澳門體育" tvg-logo="https://epg.iill.top/logo/澳门体育.png" group-title="體育",澳門體育
+#EXTINF:-1 tvg-id="澳門體育" tvg-name="澳門體育" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/TDMSport.png" group-title="體育",澳門體育
 https://live5.tdm.com.mo/ch4/sport_ch4.live/playlist.m3u8
-#EXTINF:-1 tvg-id="澳門綜藝" tvg-name="澳門綜藝" tvg-logo="https://epg.iill.top/logo/澳门综艺.png" group-title="澳門",澳門綜藝
+#EXTINF:-1 tvg-id="澳門綜藝" tvg-name="澳門綜藝" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/TDM_Entertainment.png" group-title="澳門",澳門綜藝
 https://live5.tdm.com.mo/ch6/hd_ch6.live/playlist.m3u8
 #EXTINF:0 tvg-logo="https://d55-invdn-com.investing.com/company_logo/1fbe28a616fc6f3cb56f30d014eeb625.jpg" group-title="財經",耀才財經台
 https://v3.mediacast.hk/webcast/bshdlive-pc/chunklist_w1870816002.m3u8
